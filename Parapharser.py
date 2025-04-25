@@ -20,15 +20,13 @@ df = df.dropna(subset=["Prompt", "Response"])
 
 # Storage for paraphrased dataset
 paraphrased_data = []
-
 def generate_paraphrases(prompt, n_variations=10):
-    """Generates n paraphrases for a given prompt locally."""
     paraphrases = []
 
     input_text = f"paraphrase: {prompt} </s>"
 
     encoding = tokenizer(
-        [input_text] * n_variations,
+        [input_text],
         padding=True,
         truncation=True,
         return_tensors="pt",
@@ -39,36 +37,20 @@ def generate_paraphrases(prompt, n_variations=10):
         outputs = model.generate(
             **encoding,
             max_length=256,
-            num_beams=10,
             num_return_sequences=n_variations,
-            temperature=1.5,
-            top_k=120,
-            top_p=0.95,
-            early_stopping=True
+            do_sample=True,
+            temperature=1.2,
+            top_k=50,
+            top_p=0.92
         )
 
     paraphrases = [tokenizer.decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=True)
                    for output in outputs]
 
-    return paraphrases
+    # Deduplicate locally just in case
+    paraphrases = list(dict.fromkeys(paraphrases))
 
-# Go through each prompt
-for idx, row in tqdm(df.iterrows(), total=len(df)):
-    original_prompt = row["Prompt"]
-    response = row["Response"]
-
-    try:
-        paraphrases = generate_paraphrases(original_prompt, n_variations=10)
-    except Exception as e:
-        print(f"Error paraphrasing prompt '{original_prompt}': {e}")
-        paraphrases = []
-
-    for paraphrased_prompt in paraphrases:
-        paraphrased_data.append({
-            "paraphrased_prompt": paraphrased_prompt,
-            "original_prompt": original_prompt,
-            "response": response
-        })
+    return paraphrases[:n_variations]
 
 # Create and save the new test dataset
 test_df = pd.DataFrame(paraphrased_data)
