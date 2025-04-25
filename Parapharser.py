@@ -3,10 +3,13 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from tqdm import tqdm
 
-# Load the local paraphrasing model
-model_name = "Vamsi/T5-paraphraser"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+from transformers import T5Tokenizer, AutoModelForSeq2SeqLM
+
+model_name = "ramsrigouthamg/t5_paraphraser"
+
+tokenizer = T5Tokenizer.from_pretrained(model_name, use_fast=False)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = model.to(device)
