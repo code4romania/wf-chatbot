@@ -27,6 +27,8 @@ model = AutoModelForCausalLM.from_pretrained(
     torch_dtype=torch.float16
 ).eval()
 
+model.config.use_cache = False  # ✅ DISABLE caching to prevent OOM
+
 # ====== Helper functions ======
 
 def format_instruction(prompt, n_variations):
