@@ -142,7 +142,10 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
             early_stopping=True
         )
 
-    decoded_outputs = tokenizer.batch_decode(outputs, skip_special_tokens=True)
+    # Only decode new generated tokens (skip input prompt)
+    gen_tokens = outputs[:, inputs['input_ids'].shape[-1]:]
+    decoded_outputs = tokenizer.batch_decode(gen_tokens, skip_special_tokens=True)
+
 
     good_rows = []
     bad_rows = []
