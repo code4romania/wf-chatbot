@@ -5,18 +5,18 @@ from tqdm import tqdm
 import re
 
 # ====== SETTINGS ======
-csv_input_path = "data.csv"         # ← Your input file
-csv_output_path = "test.csv"
+csv_input_path = "data.csv"         # ← Your input CSV file
+csv_output_path = "test_deepseek.csv"
 n_questions_per_prompt = 5                # ← Number of human-like questions per original prompt
-batch_size = 8                             # ← Number of prompts to process together
+batch_size = 8                             # ← Adjust based on your GPU memory
 max_new_tokens = 512
 
-# ====== Load Mistral Model ======
-model_name = "mistralai/Mistral-7B-Instruct-v0.2"
+# ====== Load DeepSeek Model ======
+model_name = "deepseek-ai/deepseek-llm-7b-chat"
 
 print(f"Loading model '{model_name}'...")
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-tokenizer.pad_token = tokenizer.eos_token  # Important for padding during batching
+tokenizer.pad_token = tokenizer.eos_token  # Required for batching
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -24,26 +24,29 @@ model = AutoModelForCausalLM.from_pretrained(
     torch_dtype=torch.float16
 ).eval()
 
-# No model.to(device) needed with device_map="auto"
+# No need to move manually with device_map="auto"
 
 # ====== Helper functions ======
 
 def format_instruction(prompt, n_variations):
-    """Format a strict instruction to force model to output only numbered questions."""
+    """Format strict instruction to force clean output."""
     return (
-        f"You are a question generation bot.\n\n"
+        f"<|system|>\n"
+        f"You are a helpful assistant.\n"
         f"Your task:\n"
-        f"- Given a topic, generate exactly {n_variations} casual, natural questions, as if a person is asking. chnage the wording, SOMETIMES try not to use the exact keywords in the prompt .\n"
+        f"- Given a topic, generate exactly {n_variations} casual, natural questions.\n"
         f"- Stay in the SAME LANGUAGE as the topic.\n"
         f"- Output ONLY the {n_variations} questions as a numbered list.\n"
-        f"- DO NOT repeat the topic, do not explain anything, do not add any extra text.\n\n"
+        f"- DO NOT repeat the topic, do not explain anything, do not add any extra text.\n"
+        f"- Each line must start with a number and a dot (e.g., '1.').\n\n"
+        f"<|user|>\n"
         f"Topic: {prompt}\n\n"
-        f"Output:\n"
+        f"<|assistant|>\n"
         f"1. "
     )
 
 def parse_generated_output(output_text):
-    """Extract clean numbered questions only."""
+    """Extract clean numbered questions."""
     questions = []
     lines = output_text.strip().split("\n")
     for line in lines:
@@ -61,13 +64,13 @@ df = df.dropna(subset=["Prompt", "Response"])
 
 generated_data = []
 
-# ====== Prepare all instructions ======
+# ====== Prepare instructions ======
 instructions = [format_instruction(prompt, n_questions_per_prompt) for prompt in df["Prompt"].tolist()]
 responses = df["Response"].tolist()
 original_prompts = df["Prompt"].tolist()
 
 # ====== Batch Processing ======
-print("Generating human-like questions with Mistral in batches...")
+print("Generating human-like questions with DeepSeek in batches...")
 
 for batch_start in tqdm(range(0, len(instructions), batch_size)):
     batch_end = batch_start + batch_size
@@ -75,7 +78,7 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
     batch_original_prompts = original_prompts[batch_start:batch_end]
     batch_responses = responses[batch_start:batch_end]
 
-    # Tokenize the batch
+    # Tokenize batch
     inputs = tokenizer(
         batch_instructions,
         return_tensors="pt",
@@ -101,10 +104,10 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
     # Decode all outputs
     decoded_outputs = tokenizer.batch_decode(outputs, skip_special_tokens=True)
 
-    # Parse and save each set of questions
+    # Parse and save questions
     for decoded_output, original_prompt, response in zip(decoded_outputs, batch_original_prompts, batch_responses):
         questions = parse_generated_output(decoded_output)
-        questions = list(dict.fromkeys(questions))  # Deduplicate if needed
+        questions = list(dict.fromkeys(questions))  # Deduplicate
 
         if not questions:
             print(f"⚠️ No valid questions generated for: {original_prompt}")
