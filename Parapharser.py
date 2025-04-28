@@ -1,20 +1,21 @@
 import pandas as pd
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-from tqdm import tqdm
-import re
+import random
 import csv
 import os
+import re
+from tqdm import tqdm
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 
 # ====== SETTINGS ======
-csv_input_path = "data.csv"                   # Your input CSV
-good_output_path = "good_questions.csv"             # Output for good generations
-bad_output_path = "bad_questions.csv"               # Output for faulty generations
-n_questions_per_prompt = 5
-batch_size = 4                                       # Safe now with quantized model
-max_new_tokens = 256                                # Generation length
+csv_input_path = "data.csv"             # Input CSV
+good_output_path = "good_questions.csv"       # Save good generations here
+bad_output_path = "bad_questions.csv"         # Save bad generations here
+n_questions_per_prompt = 5                    # Fixed 5
+batch_size = 4
+max_new_tokens = 256
 
-# ====== Load DeepSeek Model (4-bit Quantized) ======
+# ====== LOAD DEEPSEEK MODEL (4-BIT) ======
 model_name = "deepseek-ai/deepseek-llm-7b-chat"
 
 print(f"Loading model '{model_name}' (4bit quantized)...")
@@ -24,7 +25,7 @@ tokenizer.pad_token = tokenizer.eos_token
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16,
-    bnb_4bit_quant_type="nf4",           # Best near-lossless quantization
+    bnb_4bit_quant_type="nf4",
     bnb_4bit_use_double_quant=True
 )
 
@@ -35,37 +36,53 @@ model = AutoModelForCausalLM.from_pretrained(
     trust_remote_code=True
 ).eval()
 
-model.config.use_cache = False  # Important: reduce VRAM use
+model.config.use_cache = False  # Save VRAM during generation
 
-# ====== Helper Functions ======
+# ====== HELPER FUNCTIONS ======
 
-def format_instruction(prompt, n_variations):
-    """Format system/user/assistant instruction for DeepSeek."""
-    return (
+def format_instruction(prompt):
+    """Create a dynamic instruction with occasional keyword avoidance."""
+    avoid_keywords = random.random() < 0.5  # 30% chance to encourage not copying
+    instruction = (
         f"<|system|>\n"
         f"You are a helpful assistant.\n"
         f"Your task:\n"
-        f"- Given a topic, generate exactly {n_variations} casual, natural questions.\n"
+        f"- Given a topic, generate exactly {n_questions_per_prompt} casual, CONCISE, natural questions.\n"
         f"- Stay in the SAME LANGUAGE as the topic.\n"
-        f"- Output ONLY the {n_variations} questions as a numbered list.\n"
-        f"- DO NOT repeat the topic, do not explain anything, do not add extra text.\n"
-        f"- Each line must start with a number and a dot (e.g., '1.')\n\n"
-        f"<|user|>\n"
-        f"Topic: {prompt}\n\n"
-        f"<|assistant|>\n"
+        f"- Output ONLY the {n_questions_per_prompt} questions as a numbered list.\n"
+        f"- Each question must be short and natural.\n"
+        f"- Each line must start with a number and a dot (e.g., '1.')\n"
+    )
+    if avoid_keywords:
+        instruction += (
+            "- Try to vary wording creatively and avoid copying exact words from the topic if possible.\n"
+        )
+
+    instruction += (
+        f"\n<|user|>\n"
+        f"Topic: {prompt}\n"
+        f"\n<|assistant|>\n"
         f"1. "
     )
+    return instruction
 
 def parse_generated_output(output_text):
-    """Extract clean numbered questions."""
+    """Smarter parsing to recover questions even if numbering is broken."""
     questions = []
     lines = output_text.strip().split("\n")
     for line in lines:
-        match = re.match(r"^\d+\.\s*(.+)", line.strip())
+        line = line.strip()
+        if not line:
+            continue
+        match = re.match(r"^\d+\.\s*(.+)", line)
         if match:
             question = match.group(1).strip()
-            if question and any(c.isalpha() for c in question):
-                questions.append(question)
+        else:
+            question = line
+
+        if question and any(c.isalpha() for c in question):
+            questions.append(question)
+
     return questions
 
 def save_rows_to_csv(file_path, rows, header):
@@ -78,29 +95,30 @@ def save_rows_to_csv(file_path, rows, header):
         for row in rows:
             writer.writerow(row)
 
-# ====== Load Prompts ======
+# ====== LOAD DATA ======
 print(f"Loading prompts from {csv_input_path}...")
 df = pd.read_csv(csv_input_path)
 df = df.dropna(subset=["Prompt", "Response"])
 
-instructions = [format_instruction(prompt, n_questions_per_prompt) for prompt in df["Prompt"].tolist()]
+prompts = df["Prompt"].tolist()
 responses = df["Response"].tolist()
-original_prompts = df["Prompt"].tolist()
 
-# ====== Prepare Output Files ======
+instructions = [format_instruction(prompt) for prompt in prompts]
+
+# ====== PREPARE OUTPUT ======
 good_header = ["generated_question", "original_prompt", "response"]
 bad_header = ["original_prompt", "model_raw_output"]
 
 open(good_output_path, 'w').close()
 open(bad_output_path, 'w').close()
 
-print("Generating human-like questions with DeepSeek 4bit...")
+print("Generating questions with DeepSeek...")
 
-# ====== Main Loop ======
+# ====== MAIN GENERATION LOOP ======
 for batch_start in tqdm(range(0, len(instructions), batch_size)):
     batch_end = batch_start + batch_size
     batch_instructions = instructions[batch_start:batch_end]
-    batch_original_prompts = original_prompts[batch_start:batch_end]
+    batch_prompts = prompts[batch_start:batch_end]
     batch_responses = responses[batch_start:batch_end]
 
     inputs = tokenizer(
@@ -129,12 +147,12 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
     good_rows = []
     bad_rows = []
 
-    for decoded_output, original_prompt, response in zip(decoded_outputs, batch_original_prompts, batch_responses):
+    for decoded_output, original_prompt, response in zip(decoded_outputs, batch_prompts, batch_responses):
         questions = parse_generated_output(decoded_output)
-        questions = list(dict.fromkeys(questions))  # Deduplicate
+        questions = list(dict.fromkeys(questions))  # Remove duplicates
 
-        if not questions:
-            print(f"⚠️ No valid questions generated for: {original_prompt}")
+        if not questions or len(questions) < 3:
+            print(f"⚠️ Few or no questions for: {original_prompt}")
             bad_rows.append({
                 "original_prompt": original_prompt,
                 "model_raw_output": decoded_output
@@ -153,6 +171,7 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
     if bad_rows:
         save_rows_to_csv(bad_output_path, bad_rows, bad_header)
 
-print("\n✅ Generation complete. Outputs saved to:")
-print(f" - {good_output_path} (good generations)")
-print(f" - {bad_output_path} (faulty generations)")
+print("\n✅ All done! Good generations saved to:")
+print(f" - {good_output_path}")
+print(f"Bad generations saved to:")
+print(f" - {bad_output_path}")
