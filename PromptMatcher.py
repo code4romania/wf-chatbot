@@ -1,58 +1,89 @@
 import pandas as pd
-import numpy as np
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
+from chatterbot import ChatBot
+from chatterbot.trainers import ListTrainer
+from PromptMatcher import PromptMatcher  # <-- ADJUST if needed
 
-class PromptMatcher:
-    def __init__(self, csv_path, model_name="all-MiniLM-L6-v2"):
-        self.csv_path = csv_path
-        self.model = SentenceTransformer(model_name)
-        self.df = None
-        self.prompts = []
-        self.responses = []
-        self.prompt_embeddings = None
-        self.process_data()
+# ====== Load datasets ======
 
-    def process_data(self):
-        """Load the CSV, preprocess, and compute prompt embeddings."""
-        self.df = pd.read_csv(self.csv_path)
-        self.df = self.df.dropna(subset=["Prompt", "Response"])
-        self.prompts = self.df["Prompt"].tolist()
-        self.responses = self.df["Response"].tolist()
-        self.prompt_embeddings = self.model.encode(self.prompts, normalize_embeddings=True)
+test_data = pd.read_csv('your_paraphrased_test_dataset.csv')  # generated_question, original_prompt
+original_data = pd.read_csv('your_original_dataset.csv')      # Prompt, Response
 
-    def query(self, user_prompt, metric="cosine"):
-        """Find the best matching response for a given prompt."""
-        if self.prompt_embeddings is None:
-            raise ValueError("Data has not been processed. Call process_data() first.")
+# ====== Setup PromptMatcher ======
 
-        user_embedding = self.model.encode([user_prompt], normalize_embeddings=True)
+matcher = PromptMatcher('your_original_dataset.csv', model_name="all-MiniLM-L6-v2")
 
-        if metric == "cosine":
-            similarities = cosine_similarity(user_embedding, self.prompt_embeddings)[0]
-            best_index = np.argmax(similarities)
-            score = similarities[best_index]
-        elif metric == "euclidean":
-            distances = euclidean_distances(user_embedding, self.prompt_embeddings)[0]
-            best_index = np.argmin(distances)
-            score = distances[best_index]
-        else:
-            raise ValueError("Unsupported metric. Choose 'cosine' or 'euclidean'.")
+# ====== Setup ChatterBot ======
 
-        return {
-            "matched_prompt": self.prompts[best_index],
-            "response": self.responses[best_index],
-            "score": score,
-            "metric": metric
+chatbot = ChatBot(
+    'ComparisonBot',
+    read_only=True,
+    logic_adapters=[
+        {
+            'import_path': 'chatterbot.logic.BestMatch',
+            'default_response': 'No good match found',
+            'maximum_similarity_threshold': 0.90
         }
+    ]
+)
 
-# Example usage
-if __name__ == "__main__":
-    matcher = PromptMatcher("data.csv")
+trainer = ListTrainer(chatbot)
+trainer.train(list(original_data[['Prompt', 'Response']].dropna().to_numpy().flatten()))
 
-    while True:
-        query = input("\nAsk something (or type 'quit'): ")
-        if query.lower() == "quit":
+# ====== Evaluation ======
+
+promptmatcher_correct = 0
+chatterbot_correct = 0
+total = 0
+
+detailed_results = []
+
+for idx, row in test_data.iterrows():
+    paraphrased_prompt = row['generated_question']
+    true_original_prompt = row['original_prompt']
+
+    if pd.isna(paraphrased_prompt) or pd.isna(true_original_prompt):
+        continue
+
+    # ----- PromptMatcher prediction -----
+    match_result = matcher.query(paraphrased_prompt, metric="cosine")
+    matched_prompt_pm = match_result['matched_prompt']
+
+    is_pm_correct = matched_prompt_pm.strip().lower() == true_original_prompt.strip().lower()
+    if is_pm_correct:
+        promptmatcher_correct += 1
+
+    # ----- ChatterBot prediction -----
+    bot_response = chatbot.get_response(paraphrased_prompt)
+    matched_prompt_cb = None
+
+    for i, (prompt, response) in enumerate(zip(original_data['Prompt'], original_data['Response'])):
+        if str(bot_response) == str(response):
+            matched_prompt_cb = prompt
             break
-        result = matcher.query(query, metric="cosine")
-        print(f"\nMatched Prompt: {result['matched_prompt']}\nScore: {result['score']:.4f}\nResponse: {result['response']}")
+
+    is_cb_correct = matched_prompt_cb and (matched_prompt_cb.strip().lower() == true_original_prompt.strip().lower())
+    if is_cb_correct:
+        chatterbot_correct += 1
+
+    total += 1
+
+    detailed_results.append({
+        'paraphrased_prompt': paraphrased_prompt,
+        'true_original_prompt': true_original_prompt,
+        'promptmatcher_matched_prompt': matched_prompt_pm,
+        'promptmatcher_correct': is_pm_correct,
+        'chatterbot_matched_prompt': matched_prompt_cb,
+        'chatterbot_correct': is_cb_correct,
+    })
+
+# ====== Print Results ======
+
+print(f"\n=== Evaluation Results ===")
+print(f"Total samples tested: {total}")
+print(f"PromptMatcher Accuracy: {promptmatcher_correct / total:.2%}")
+print(f"ChatterBot Accuracy: {chatterbot_correct / total:.2%}")
+
+# ====== Save detailed results ======
+
+pd.DataFrame(detailed_results).to_csv('matching_detailed_results.csv', index=False)
+print("\nDetailed results saved to matching_detailed_results.csv ✅")
