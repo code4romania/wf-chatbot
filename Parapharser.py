@@ -7,7 +7,7 @@ import csv
 import os
 
 # ====== SETTINGS ======
-csv_input_path = "your_file.csv"                   # Your input CSV
+csv_input_path = "data.csv"                   # Your input CSV
 good_output_path = "good_questions.csv"             # Output for good generations
 bad_output_path = "bad_questions.csv"               # Output for faulty generations
 n_questions_per_prompt = 5
