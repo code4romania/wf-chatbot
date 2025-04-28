@@ -5,9 +5,9 @@ from tqdm import tqdm
 import re
 
 # ====== SETTINGS ======
-csv_input_path = "your_file.csv"         # ← Your input file
-csv_output_path = "human_like_questions_mistral_clean.csv"
-n_questions_per_prompt = 10                # ← Number of human-like questions per original prompt
+csv_input_path = "data.csv"         # ← Your input file
+csv_output_path = "test.csv"
+n_questions_per_prompt = 5                # ← Number of human-like questions per original prompt
 batch_size = 8                             # ← Number of prompts to process together
 max_new_tokens = 512
 
