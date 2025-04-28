@@ -8,8 +8,8 @@ import re
 csv_input_path = "data.csv"         # ← Your input CSV file
 csv_output_path = "test_deepseek.csv"
 n_questions_per_prompt = 5                # ← Number of human-like questions per original prompt
-batch_size = 8                             # ← Adjust based on your GPU memory
-max_new_tokens = 512
+batch_size = 4                             # ← Adjust based on your GPU memory
+max_new_tokens = 256
 
 # ====== Load DeepSeek Model ======
 model_name = "deepseek-ai/deepseek-llm-7b-chat"
