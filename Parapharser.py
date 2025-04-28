@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from tqdm import tqdm
 
 # ====== SETTINGS ======
-csv_input_path = "your_file.csv"         # ← Your input file
+csv_input_path = "data.csv"         # ← Your input file
 csv_output_path = "human_like_questions_mistral_batched.csv"
 n_questions_per_prompt = 5                # ← Number of human-like questions per original prompt
 batch_size = 8                             # ← Number of prompts to process together
@@ -15,6 +15,7 @@ model_name = "mistralai/Mistral-7B-Instruct-v0.2"
 
 print(f"Loading model '{model_name}'...")
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
+tokenizer.pad_token = tokenizer.eos_token
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
@@ -22,7 +23,7 @@ model = AutoModelForCausalLM.from_pretrained(
 ).eval()
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = model.to(device)
+
 
 # ====== Helper function ======
 def format_instruction(prompt, n_variations):
