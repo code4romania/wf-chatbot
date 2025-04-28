@@ -1,38 +1,46 @@
 import pandas as pd
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from tqdm import tqdm
 import re
 import csv
 import os
 
 # ====== SETTINGS ======
-csv_input_path = "data.csv"                  # Your input CSV
-good_output_path = "good_questions.csv"            # Good generations
-bad_output_path = "bad_questions.csv"              # Bad generations
+csv_input_path = "your_file.csv"                   # Your input CSV
+good_output_path = "good_questions.csv"             # Output for good generations
+bad_output_path = "bad_questions.csv"               # Output for faulty generations
 n_questions_per_prompt = 5
-batch_size = 2                                     # Lower to avoid OOM
-max_new_tokens = 256                               # To save VRAM
+batch_size = 4                                       # Safe now with quantized model
+max_new_tokens = 256                                # Generation length
 
-# ====== Load DeepSeek Model ======
+# ====== Load DeepSeek Model (4-bit Quantized) ======
 model_name = "deepseek-ai/deepseek-llm-7b-chat"
 
-print(f"Loading model '{model_name}'...")
+print(f"Loading model '{model_name}' (4bit quantized)...")
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 tokenizer.pad_token = tokenizer.eos_token
+
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.float16,
+    bnb_4bit_quant_type="nf4",           # Best near-lossless quantization
+    bnb_4bit_use_double_quant=True
+)
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.float16
+    quantization_config=bnb_config,
+    trust_remote_code=True
 ).eval()
 
-model.config.use_cache = False  # ✅ DISABLE caching to prevent OOM
+model.config.use_cache = False  # Important: reduce VRAM use
 
-# ====== Helper functions ======
+# ====== Helper Functions ======
 
 def format_instruction(prompt, n_variations):
-    """Format strict instruction to force clean output."""
+    """Format system/user/assistant instruction for DeepSeek."""
     return (
         f"<|system|>\n"
         f"You are a helpful assistant.\n"
@@ -40,8 +48,8 @@ def format_instruction(prompt, n_variations):
         f"- Given a topic, generate exactly {n_variations} casual, natural questions.\n"
         f"- Stay in the SAME LANGUAGE as the topic.\n"
         f"- Output ONLY the {n_variations} questions as a numbered list.\n"
-        f"- DO NOT repeat the topic, do not explain anything, do not add any extra text.\n"
-        f"- Each line must start with a number and a dot (e.g., '1.').\n\n"
+        f"- DO NOT repeat the topic, do not explain anything, do not add extra text.\n"
+        f"- Each line must start with a number and a dot (e.g., '1.')\n\n"
         f"<|user|>\n"
         f"Topic: {prompt}\n\n"
         f"<|assistant|>\n"
@@ -70,34 +78,31 @@ def save_rows_to_csv(file_path, rows, header):
         for row in rows:
             writer.writerow(row)
 
-# ====== Load CSV ======
+# ====== Load Prompts ======
 print(f"Loading prompts from {csv_input_path}...")
 df = pd.read_csv(csv_input_path)
 df = df.dropna(subset=["Prompt", "Response"])
 
-# Prepare all instructions
 instructions = [format_instruction(prompt, n_questions_per_prompt) for prompt in df["Prompt"].tolist()]
 responses = df["Response"].tolist()
 original_prompts = df["Prompt"].tolist()
 
-# ====== Prepare output files ======
+# ====== Prepare Output Files ======
 good_header = ["generated_question", "original_prompt", "response"]
 bad_header = ["original_prompt", "model_raw_output"]
 
-# Create empty output files (fresh)
 open(good_output_path, 'w').close()
 open(bad_output_path, 'w').close()
 
-print("Generating human-like questions with DeepSeek in batches...")
+print("Generating human-like questions with DeepSeek 4bit...")
 
-# ====== Main loop ======
+# ====== Main Loop ======
 for batch_start in tqdm(range(0, len(instructions), batch_size)):
     batch_end = batch_start + batch_size
     batch_instructions = instructions[batch_start:batch_end]
     batch_original_prompts = original_prompts[batch_start:batch_end]
     batch_responses = responses[batch_start:batch_end]
 
-    # Tokenize
     inputs = tokenizer(
         batch_instructions,
         return_tensors="pt",
@@ -106,7 +111,6 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
         max_length=1024
     ).to(model.device)
 
-    # Generate
     with torch.no_grad():
         outputs = model.generate(
             **inputs,
@@ -120,10 +124,8 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
             early_stopping=True
         )
 
-    # Decode
     decoded_outputs = tokenizer.batch_decode(outputs, skip_special_tokens=True)
 
-    # Prepare saving
     good_rows = []
     bad_rows = []
 
@@ -132,7 +134,6 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
         questions = list(dict.fromkeys(questions))  # Deduplicate
 
         if not questions:
-            # Save faulty output
             print(f"⚠️ No valid questions generated for: {original_prompt}")
             bad_rows.append({
                 "original_prompt": original_prompt,
@@ -147,7 +148,6 @@ for batch_start in tqdm(range(0, len(instructions), batch_size)):
                 "response": response
             })
 
-    # Stream save this batch
     if good_rows:
         save_rows_to_csv(good_output_path, good_rows, good_header)
     if bad_rows:
