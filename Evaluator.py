@@ -1,25 +1,18 @@
 import pandas as pd
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from PromptMatcher import PromptMatcher  # <-- ADJUST if needed
 
-# ==== Load your datasets ====
+# ====== Load datasets ======
 
-# Test set of paraphrased prompts
-test_data = pd.read_csv('your_paraphrased_test_dataset.csv')  # <-- adjust filename if needed
-# Your "ground truth" dataset
-original_data = pd.read_csv('your_original_dataset.csv')  # <-- adjust filename if needed
+test_data = pd.read_csv('your_paraphrased_test_dataset.csv')  # generated_question, original_prompt
+original_data = pd.read_csv('your_original_dataset.csv')      # Prompt, Response
 
-# ==== Setup your Prompt Matcher (cosine-based) ====
+# ====== Setup PromptMatcher ======
 
-vectorizer = TfidfVectorizer()
+matcher = PromptMatcher('your_original_dataset.csv', model_name="all-MiniLM-L6-v2")
 
-# Vectorize the original prompts
-original_prompts = original_data['Prompt'].fillna('').tolist()
-X_original = vectorizer.fit_transform(original_prompts)
-
-# ==== Setup ChatterBot ====
+# ====== Setup ChatterBot ======
 
 chatbot = ChatBot(
     'ComparisonBot',
@@ -33,48 +26,64 @@ chatbot = ChatBot(
     ]
 )
 
-# Train it with your original prompt-response pairs
 trainer = ListTrainer(chatbot)
 trainer.train(list(original_data[['Prompt', 'Response']].dropna().to_numpy().flatten()))
 
-# ==== Compare accuracies ====
+# ====== Evaluation ======
 
 promptmatcher_correct = 0
 chatterbot_correct = 0
 total = 0
 
+detailed_results = []
+
 for idx, row in test_data.iterrows():
     paraphrased_prompt = row['generated_question']
-    original_prompt = row['original_prompt']
+    true_original_prompt = row['original_prompt']
 
-    if pd.isna(paraphrased_prompt) or pd.isna(original_prompt):
-        continue  # skip invalid rows
+    if pd.isna(paraphrased_prompt) or pd.isna(true_original_prompt):
+        continue
 
-    # ---- Prompt Matcher (Cosine) prediction ----
-    X_test = vectorizer.transform([paraphrased_prompt])
-    cosine_scores = cosine_similarity(X_test, X_original)
-    best_idx = cosine_scores.argmax()
-    predicted_prompt = original_prompts[best_idx]
+    # ----- PromptMatcher prediction -----
+    match_result = matcher.query(paraphrased_prompt, metric="cosine")
+    matched_prompt_pm = match_result['matched_prompt']
 
-    if predicted_prompt.strip().lower() == original_prompt.strip().lower():
+    is_pm_correct = matched_prompt_pm.strip().lower() == true_original_prompt.strip().lower()
+    if is_pm_correct:
         promptmatcher_correct += 1
 
-    # ---- ChatterBot prediction ----
+    # ----- ChatterBot prediction -----
     bot_response = chatbot.get_response(paraphrased_prompt)
-    # Find the closest matching original prompt that led to that answer
-    matched_prompt = None
+    matched_prompt_cb = None
+
     for i, (prompt, response) in enumerate(zip(original_data['Prompt'], original_data['Response'])):
         if str(bot_response) == str(response):
-            matched_prompt = prompt
+            matched_prompt_cb = prompt
             break
 
-    if matched_prompt and matched_prompt.strip().lower() == original_prompt.strip().lower():
+    is_cb_correct = matched_prompt_cb and (matched_prompt_cb.strip().lower() == true_original_prompt.strip().lower())
+    if is_cb_correct:
         chatterbot_correct += 1
 
     total += 1
 
-# ==== Results ====
+    detailed_results.append({
+        'paraphrased_prompt': paraphrased_prompt,
+        'true_original_prompt': true_original_prompt,
+        'promptmatcher_matched_prompt': matched_prompt_pm,
+        'promptmatcher_correct': is_pm_correct,
+        'chatterbot_matched_prompt': matched_prompt_cb,
+        'chatterbot_correct': is_cb_correct,
+    })
 
-print(f"Total test samples: {total}")
+# ====== Print Results ======
+
+print(f"\n=== Evaluation Results ===")
+print(f"Total samples tested: {total}")
 print(f"PromptMatcher Accuracy: {promptmatcher_correct / total:.2%}")
 print(f"ChatterBot Accuracy: {chatterbot_correct / total:.2%}")
+
+# ====== Save detailed results ======
+
+pd.DataFrame(detailed_results).to_csv('matching_detailed_results.csv', index=False)
+print("\nDetailed results saved to matching_detailed_results.csv ✅")
