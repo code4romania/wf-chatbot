@@ -1,0 +1,5 @@
+ === Evaluation Results ===
+Total test cases:        1537
+PromptMatcher accuracy:  49.97%
+ChatterBot accuracy:     16.46%
+
