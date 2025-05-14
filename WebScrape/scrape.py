@@ -44,32 +44,45 @@ def extract_h1_and_paragraphs(url):
 
 
 def build_training_data_from_scraped(scraped: list[dict], language: str) -> list[dict]:
+    """
+    For each scraped entry, generate user questions and concise answers.
+    Retries question generation once if parsing fails.
+    """
     training = []
     for entry in scraped:
-        # Generate questions prompt
+        # Generate questions prompt with example
         q_prompt = (
             f"Generate 5 short, distinct questions a user might ask under the heading: '{entry['heading']}'. "
-            "Return only a Python list."
+            "Return only a Python list literal and nothing else. "
+            "Example response: ['What is X?', 'How does Y work?', ...]"
         )
-        try:
-            questions_text, error = chat.send(q_prompt)
-            # Use regex to extract Python list literal
-            match = re.search(r"\[.*\]", questions_text, re.S)
-            if match:
-                questions = eval(match.group(0))
-            else:
-                print(f"Could not parse questions list. Raw response: {questions_text}")
-                questions = []
-        except Exception as e:
-            print(f"Error generating questions: {e}")
+        questions = []
+        for attempt in range(4):
+            try:
+                questions_text = chat.send(q_prompt)
+                match = re.search(r"\[.*\]", questions_text, re.S)
+                if match:
+                    questions = eval(match.group(0))
+                    break
+                else:
+                    print(f"Attempt {attempt+1}: Could not parse questions list. Raw response: {questions_text}")
+            except Exception as e:
+                print(f"Error generating questions (attempt {attempt+1}): {e}")
+        if not questions:
+            print(f"Skipping entry '{entry['heading']}' due to parsing issues.")
             continue
 
         for question in questions:
-            a_prompt = f"Answer the question '{question}' using the information here: '{entry['summary']}'"
+            # Answer prompt: clear, concise, based only on provided info
+            a_prompt = (
+                f"Question: {question}\n"
+                f"Use only the following information to answer briefly and concisely: '{entry['summary']}'. "
+                "Return only the answer text."
+            )
             try:
-                answer_text, error = chat.send(a_prompt)
+                answer_text = chat.send(a_prompt)
             except Exception as e:
-                print(f"Error generating answer: {e}")
+                print(f"Error generating answer for '{question}': {e}")
                 answer_text = ""
 
             full_answer = answer_text + f" For more details, visit {entry['url']}"
@@ -82,7 +95,6 @@ def build_training_data_from_scraped(scraped: list[dict], language: str) -> list
                 "fStatus": "Scraped"
             })
     return training
-
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Scrape for training and generate Q&A")

@@ -1,10 +1,6 @@
 # File: chat_session.py
 from abc import ABC, abstractmethod
 
-
-
-
-
 class ChatSession(ABC):
     """
     Abstraction for a chat-based LLM session.  
@@ -15,4 +11,3 @@ class ChatSession(ABC):
     @abstractmethod
     def send(self, prompt: str) -> tuple[str, str | None]:
         pass
-
