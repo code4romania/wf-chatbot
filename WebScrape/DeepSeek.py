@@ -92,4 +92,4 @@ class DeepSeek(ChatSession):
         # Decode newly generated tokens
         gen_tokens = outputs[0, inputs['input_ids'].shape[-1]:]
         response = self.tokenizer.decode(gen_tokens, skip_special_tokens=True).strip()
-        return response
+        return response, "No Error"
