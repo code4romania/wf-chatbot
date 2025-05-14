@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 import json
 import os
 from dotenv import load_dotenv
-
+import re
 from DeepSeek import DeepSeek
 
 load_dotenv()
@@ -43,39 +43,45 @@ def extract_h1_and_paragraphs(url):
     return entries
 
 
-def build_training_data_from_scraped(scraped_data, language):
-    chatbot_entries = []
-    for entry in scraped_data:
-        # generate questions
-        q_prompt = f"Generate 5 short, distinct questions a user might ask under the heading: '{entry['heading']}'. Return only a Python list."
-        questions_text, err = chat.send(q_prompt)
-        if err:
-            print(f"Error generating questions: {err}")
-            continue
+def build_training_data_from_scraped(scraped: list[dict], language: str) -> list[dict]:
+    training = []
+    for entry in scraped:
+        # Generate questions prompt
+        q_prompt = (
+            f"Generate 5 short, distinct questions a user might ask under the heading: '{entry['heading']}'. "
+            "Return only a Python list."
+        )
         try:
-            questions = eval(questions_text)
-        except:
-            questions = []
+            questions_text = chat.send(q_prompt)
+            # Use regex to extract Python list literal
+            match = re.search(r"\[.*\]", questions_text, re.S)
+            if match:
+                questions = eval(match.group(0))
+            else:
+                print(f"Could not parse questions list. Raw response: {questions_text}")
+                questions = []
+        except Exception as e:
+            print(f"Error generating questions: {e}")
+            continue
 
         for question in questions:
-            # generate answer
             a_prompt = f"Answer the question '{question}' using the information here: '{entry['summary']}'"
-            answer_text, err = chat.send(a_prompt)
-            if err:
-                print(f"Error generating answer: {err}")
-                answer = ""
-            else:
-                answer = answer_text + f" For more details, visit {entry['url']}"
+            try:
+                answer_text = chat.send(a_prompt)
+            except Exception as e:
+                print(f"Error generating answer: {e}")
+                answer_text = ""
 
-            chatbot_entries.append({
+            full_answer = answer_text + f" For more details, visit {entry['url']}"
+            training.append({
                 "aPrompt": question,
-                "bResponse": answer,
-                "cSubject": '',
+                "bResponse": full_answer,
+                "cSubject": "",
                 "dLanguage": language,
-                "eVerified Translation": 'No',
-                "fStatus": 'Scraped'
+                "eVerified Translation": "No",
+                "fStatus": "Scraped"
             })
-    return chatbot_entries
+    return training
 
 if __name__ == "__main__":
     import argparse
