@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Scrape Dopomoha Education (JSON)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/WebScrape/scrape.py",
+      "console": "integratedTerminal",
+      "args": [
+        "https://dopomoha.ro/en/education",
+        "JSON"
+      ],
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+    }
+  ]
+}

@@ -38,8 +38,6 @@ ground_truth = dict(zip(training_data["Prompt"], training_data["Response"]))
 # === 4. Evaluate both systems ===
 matcher = PromptMatcher("data.csv")
 
-
-
 cb_correct = 0
 pm_correct = 0
 total = 0
