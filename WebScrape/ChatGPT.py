@@ -1,6 +1,7 @@
 import openai
 from openai import RateLimitError, APIError
 from LLM import ChatSession
+import time
 
 
 class OpenAIChatSession(ChatSession):
