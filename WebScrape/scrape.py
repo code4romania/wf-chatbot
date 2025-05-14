@@ -52,7 +52,7 @@ def build_training_data_from_scraped(scraped: list[dict], language: str) -> list
             "Return only a Python list."
         )
         try:
-            questions_text = chat.send(q_prompt)
+            questions_text, error = chat.send(q_prompt)
             # Use regex to extract Python list literal
             match = re.search(r"\[.*\]", questions_text, re.S)
             if match:
