@@ -5,13 +5,13 @@ import json
 import os
 from dotenv import load_dotenv
 
-from LLM import OpenAIChatSession
+from DeepSeek import DeepSeek
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+#api_key = os.getenv("OPENAI_API_KEY")
 
 # instantiate chat session
-chat = OpenAIChatSession(api_key=api_key)
+chat = DeepSeek()
 
 
 def save_extracted_to_json(entries, output_path):
