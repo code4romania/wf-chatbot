@@ -59,7 +59,7 @@ def build_training_data_from_scraped(scraped: list[dict], language: str) -> list
         questions = []
         for attempt in range(4):
             try:
-                questions_text = chat.send(q_prompt)
+                questions_text, err = chat.send(q_prompt)
                 match = re.search(r"\[.*\]", questions_text, re.S)
                 if match:
                     questions = eval(match.group(0))
@@ -80,7 +80,7 @@ def build_training_data_from_scraped(scraped: list[dict], language: str) -> list
                 "Return only the answer text."
             )
             try:
-                answer_text = chat.send(a_prompt)
+                answer_text,err = chat.send(a_prompt)
             except Exception as e:
                 print(f"Error generating answer for '{question}': {e}")
                 answer_text = ""
