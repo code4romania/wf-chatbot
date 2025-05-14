@@ -67,7 +67,7 @@ def build_training_data_from_scraped(scraped: list[dict], language: str) -> list
         for question in questions:
             a_prompt = f"Answer the question '{question}' using the information here: '{entry['summary']}'"
             try:
-                answer_text = chat.send(a_prompt)
+                answer_text, error = chat.send(a_prompt)
             except Exception as e:
                 print(f"Error generating answer: {e}")
                 answer_text = ""
