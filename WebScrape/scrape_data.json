@@ -1,0 +1,364 @@
+{
+  "conversation": [
+    {
+      "aPrompt": "What are my consumer rights?",
+      "bResponse": "Your consumer rights include the right to education for preschoolers, Ukrainian pupils, and students from Ukraine located in Romania. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I have any privacy rights?",
+      "bResponse": "Yes, you do have some privacy rights, but these may be limited during times of crisis or emergency situations like this one. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I sue for wrongful termination?",
+      "bResponse": "Yes, you may be able to sue for wrongful termination if your employer terminated your employment unlawfully or without just cause. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Am I protected against discrimination?",
+      "bResponse": "Yes, you are protected against discrimination under the adopted measures. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How do I file a complaint with the government?",
+      "bResponse": "To file a complaint with the Romanian government regarding the right to education for Ukrainian preschoolers, pupils, and students in Romania, you can contact the appropriate authorities or organizations responsible for monitoring educational institutions and ensuring compliance with regulations. This may include contacting the Ministry of Education, the National Agency for Quality Assurance in Higher Education (ANES), or other relevant agencies involved in overseeing education within their jurisdiction. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How do I register my child for kindergarten?",
+      "bResponse": "To register your child for kindergarten, follow these steps:\n1. Contact the County Schools Inspectorate for the relevant region using this link <https://www.ismb.ro/wp-content/uploads/2020/07/Coordonatele-colegiilor-si-institutiile-de-nivel-superior-din-regimul-public_v4.pdf> and find their contact information.\n2. Fill out the application for enrolling your child in extracurricular activities, including any desired psycho-pedagogical assistance and counseling options. Download the application here <http://ismb.ro/sites/default/files/application%20for%20enrollment%20in%20extracurricular%20activities_0.pdf> or get it in physical form from the County School Inspectorate.\n3. Submit the completed application either in person at the County School Inspectorate headquarters or online through email to the County School Inspectorate.\n4. The application will be reviewed within one day, and you will be contacted by the responsible Commission regarding your child's assignment.\n5. Together, you will decide where your child will be placed in For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What documents do I need to enroll my kid into a public school?",
+      "bResponse": "Answer Text: You can follow these steps to enroll your child in public school:\n1. Contact the County Schools Inspectorates listed here and provide documentation proving your child's age and identity.\n2. Fill out the application for enrolling your child in extracurricular activities, including any desired psycho-pedagogical assistance or counseling options. Download the application here or get a physical copy from the County School Inspectorate. For Ukrainian children learning Romanian, special arrangements will be made.\n3. Submit the application through email or in person at the County School Inspectorate office. Your application will be reviewed within a day, followed by a discussion with a Commission about placement. Together, you'll choose which class or group your child will join.\n4. Remember that the enrollment process may vary depending on the location and specific needs of your child. Additionally, the Bucharest School Inspectorate allows online submissions during the summer months, while other changes can be requested at specified email addresses. Unaccompanied minors and families arriving in the country must register with the General Directorates of Social Assistance and Child Protection to access needed support services. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Where can I find information about private schools near me?",
+      "bResponse": "Here are the steps to find information about private schools near you:\n\n1. Contact the County Schools Inspectorates in Romania using their listed contact information.\n2. Fill out the application for enrolling your child in extracurricular activities, including any desired psycho-pedagogical assistance and counseling options. Download or obtain the application from the County School Inspectorate you contacted.\n3. Submit the application either in person at the County School Inspectorate headquarters or online through email.\n4. Wait for the Commission to analyze your application and conduct a meeting with you to determine your child's assignment.\n5. Decide where your child will be assigned based on the schedule and procedures set by the respective educational unit.\n\nFor more details, refer to the provided information. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I have to pay tuition fees if I choose a private institution?",
+      "bResponse": "Yes, you may need to pay tuition fees if you choose a private institution in Romania. However, this depends on the specific regulations set forth by each private institution. It is important to note that some private schools might offer financial aid or scholarships to help students cover the costs. Additionally, for Ukrainian children who wish to learn Romanian, the local school inspectorates will create the necessary conditions and provide the appropriate human resources, but their learning will not affect enrollment procedures. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I apply for financial aid to help with the costs of enrolling my child in a private school?",
+      "bResponse": "Yes, you can apply for financial aid to help with the costs of enrolling your child in a private school. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How can I enroll my child in a school?",
+      "bResponse": "Please contact Maricica Ciubara at +40799626330 and mention that you have received an announcement from UNICEF regarding integrating your child into the education system in Romania. She will be able to assist you with the enrollment and integration process for Ukrainian children. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any special programs for Ukrainian children?",
+      "bResponse": "Yes, there is an announcement from UNICEF regarding the integration of Ukrainian children into the education system in Romania, and Maricica Ciubara can provide more information about the enrollment and integration process. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I need to provide additional documents or certificates?",
+      "bResponse": "No, you do not need to provide any additional documents or certificates based on the provided information. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I attend meetings with teachers to discuss my child's progress?",
+      "bResponse": "Yes, you can attend meetings with teachers to discuss your child's progress. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is it possible to get support from a translator during school events?",
+      "bResponse": "Yes, you can potentially receive support from a translator during school events if there is one available or accessible within your local area. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are my options for higher education in Romania?",
+      "bResponse": "Your options for higher education in Romania include going directly to the university, obtaining equivalence of studies from CNRED, and enrolling in another study cycle after presenting relevant diploma or degree. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I need a visa to study in Romania?",
+      "bResponse": "Yes, you may need a visa to study in Romania depending on your citizenship and whether or not you have completed your studies. Citizens of the European Union, European Economic Area, and the Swiss Confederation, as well as their family members and beneficiaries of an international protection, can have their study papers evaluated and recognized by the Romanian Ministry of Education's National Center for Diploma Recognition and Equivalence (CNRED) for further studies or access to the Romanian labor market without needing a visa. However, individuals from non-EU countries might require a visa to study in Romania, especially if they haven't completed their studies or don't have equivalent documentation recognized by CNRED. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I receive financial aid as an international student?",
+      "bResponse": "Yes, you can receive financial aid as an international student in Romania. However, you need to follow specific procedures and meet certain requirements. First, go directly to the university where you want to continue your studies. You may enroll based on a statement of your own responsibility regarding previous studies, but each university has its own procedure for evaluating enrollment, respectively the resumption of studies. Before completing your studies, you must present the diplomas that allowed you to access the study cycle in which you are enrolled to the Romanian higher education institution.\n\nIf you have the documents proving the studies you completed so far, the CNRED (National Center for Diploma Recognition and Equivalence) can help you equate your diplomas. This is necessary for enrolling in another study cycle. Keep in mind that the passport does not replace the certificate or decision of recognition of studies.\n\nAfter completing your studies, the Ministry of Education, through CNRED, evaluates and recognizes your study papers for further studies in Romania or for accessing the Romanian labor market. In terms of financial aid, you may be eligible for various types of assistance depending on your situation and the regulations in place at the time. It's recommended to inquire about the available options at the universities you are interested in attending and the relevant For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Where can I find information about universities and courses in Romania?",
+      "bResponse": "Before enrolling in a course or continuing your studies at a university in Romania, it is essential to follow these steps:\n1. Directly visit the desired university.\n2. Provide a statement on your own responsibility regarding previous studies.\n3. Present the required diploma upon completion of the study cycle.\n4. For non-EU citizens, consider seeking assistance from the CNRED (National Center for Diploma Recognition and Equivalence) for equivalence of studies.\n5. EU/EEA/EFTA citizens may use their passports instead of certificates/decisions of recognition of studies. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any language requirements for studying in Romanian universities?",
+      "bResponse": "Yes, there are language requirements for studying in Romanian universities. According to the provided information, Ukrainian citizens must present their diploma to the CNRED (National Center for Diploma Recognition and Equivalence) before enrolling in another study cycle. Additionally, they need to consider the equivalence of their foreign diplomas with the Romanian educational system. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What steps do I need to take in order to create an account?",
+      "bResponse": "To create an account, follow these steps:\n\n1. Set up the file: Include high school diploma/certificate, school situation for the last two years of studies, personal identification documents, and any relevant additional documents. Depending on the country of origin, some documents might require apostille or superlegalization.\n2. File submission: Submit the file electronically through ESOFDI or physically to the desired university, by mail, or via an express courier. You can also submit the file in person during specified hours at the Registry of the Ministry of Education.\n3. Wait for evaluation: Within 30 working days, the file will be evaluated, and you will receive a response from CNRED. During this time, you can track the status of your file using the provided link.\n4. Receive certificate: Once recognized, you have options to obtain your certificate in electronic format through PCUE, from the university's headquarters, or directly from CNRED headquarters. Make sure to authorize a representative (with a notary-certified power of attorney) if necessary.\n5. Duplicate certificate: If your original certificate is lost, destroyed, or damaged, you can apply for a duplicate with the required supporting documentation.\n6. Appeal decisions: If dissatisfied with For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How can I verify my identity on this platform?",
+      "bResponse": "To verify your identity on this platform, follow these steps:\n\n1. Set up a file containing the necessary documents such as high school diploma/certificate, personal identification documents, evaluation fee, and any additional relevant documents.\n2. Submit the file either electronically through the Electronic Single Point of Contact for specific language diplomas or physically at the designated locations like the University or the Registry of the Ministry of Education. You can also send the file via mail or express courier.\n3. Wait for a response from CNRED (National Center for Recognition and Equivalence of Diplomas) within a maximum of 30 working days. Keep track of the status of your file using the provided link: FileCentralizer | CNRED (edu.ro).\n4. Once your file has been evaluated, you can obtain your certificate in one of three ways: electronically through the PCUe platform, from the university's headquarters, or from CNRED headquarters.\n5. If you lose, destroy, or damage your certificate, you have the option to apply for a duplicate. Provide the requested documents, including a notarized statement explaining the reason for needing a duplicate, and pay the appropriate fees.\n6. Finally, if you wish to challenge CNRED's decision For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I have to pay any fees for using your services?",
+      "bResponse": "The answer text: You do not have to pay any fees for using my services. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there a minimum age requirement to use your service?",
+      "bResponse": "The answer text: Based on the provided information, there isn't any specific mention of a minimum age requirement to utilize this particular service. The main focus seems to be on the necessary documents, steps to follow for submitting these documents, evaluation process, and how to obtain the recognition/equivalence certificate after completing these processes. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I cancel my subscription at any time?",
+      "bResponse": "Yes, you can cancel your subscription at any time by contacting the company or organization offering the subscription and requesting cancellation. It is important to note that some subscriptions may have cancellation fees or penalties, so make sure to review the terms and conditions of your subscription before cancelling. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the requirements for accommodation of Ukrainian minors in Poland?",
+      "bResponse": "The requirements for accommodation of Ukrainian minors in Poland include eligibility for specific support services such as free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How do I apply for accommodation assistance for a child from Ukraine?",
+      "bResponse": "Eligible Ukrainian minors under temporary protection in Romania can benefit from specific support services, which include free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any age restrictions for Ukrainian children seeking accommodation in EU countries?",
+      "bResponse": "No, there are no explicit age restrictions mentioned for Ukrainian children seeking accommodation in EU countries based on the provided information. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do Ukrainian minors have access to free healthcare while staying with host families?",
+      "bResponse": "Yes, Ukrainian minors who are under temporary protection in Romania but not beneficiaries of international protection are eligible for specific support services, including free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is it possible to sponsor a Ukrainian orphan or vulnerable child for accommodation and support?",
+      "bResponse": "Yes, Ukrainian orphans or vulnerable children who are under temporary protection in Romania can receive sponsorship for accommodation and support services such as free lodging in school dormitories, a daily food allowance, and extra funding for school materials like books, uniforms, and shoes. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "How can I enroll my child into a Ukrainian school or kindergarten in Romania?",
+      "bResponse": "To enroll your child into a Ukrainian school or kindergarten in Romania, you should consider several options such as online kindergartens or part-time kindergartens, Ukrainian schools, and remote education possibilities using various learning platforms. Additionally, you may explore free education opportunities in private schools. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any Ukrainian language programs available for children at these schools?",
+      "bResponse": "Yes, there are some options for Ukrainian language programs available for children at these schools. Some useful information includes:\n1. Useful information about Ukrainian online kindergartens or part-time kindergartens in Romania (e.g. \"Useful information about Ukrainian online kindergartens or part-time kindergartens in Romania.\")\n2. Ukrainian schools and classes in different cities of Romania (e.g. \"Ukrainian schools and classes in Bucharest, Iasi, Timisoara, Cluj-Napoca, and other Romanian cities.\")\n3. How to continue education remotely (e.g. \"How to successfully continue your child's education remotely with Ukrainian resources.\")\n4. Various learning platforms (e.g. \"Top 5 Ukrainian language learning platforms for kids in Romania.\")\n5. Free education in private schools in Romania (e.g. \"Free education in private Ukrainian schools in Romania.\") For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do Ukrainian schools and kindergartens in Romania follow the Romanian curriculum or have their own?",
+      "bResponse": "Ukrainian schools and kindergartens in Romania follow the Romanian curriculum. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can foreign students attend Ukrainian schools and kindergartens in Romania?",
+      "bResponse": "Yes, foreign students can attend Ukrainian schools and kindergartens in Romania. There is useful information about Ukrainian online kindergartens or part-time kindergartens in Romania, which may be an option for families with children who wish to learn Ukrainian culture and language while living abroad. Additionally, there are Ukrainian schools and classes available in different cities of Romania that cater specifically to Ukrainian heritage learners, allowing them to continue their education remotely through various learning platforms. Furthermore, some private schools offer free education to foreign students, providing them with a quality educational experience within Romanian borders. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is it possible to obtain financial aid or scholarships for my child's education at a Ukrainian school or kindergarten in Romania?",
+      "bResponse": "Yes, it is possible to obtain financial aid or scholarships for your child's education at a Ukrainian school or kindergarten in Romania. There may be several options available depending on the specific circumstances and requirements. Here are some useful resources that you can explore: For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are some courses or activities that can help refugees from Ukraine?",
+      "bResponse": "Some courses and activities that can help refugees from Ukraine include language courses, yoga, drawing classes, chess, music, and more. These free courses and activities are available for both adults and children in Romania. You can find out the schedule and sign up for courses by visiting the provided link. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Where can I find resources to learn about self-defense for refugees in my community?",
+      "bResponse": "Free courses and activities for adults and children in Romania include language courses, yoga, drawing classes, chess, music, and more. To find out the schedule and sign up for courses, follow the provided link. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any language classes available for Ukrainian speakers who want to improve their English skills?",
+      "bResponse": "Yes, free language courses and activities are available for Ukrainian speakers who want to improve their English skills in Romania. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can you recommend any organizations that provide support and guidance for job seekers with refugee status?",
+      "bResponse": "Yes, one such organization is \"Free Courses & Activities for Adults and Children in Romania.\" They offer free language courses, yoga, drawing classes, chess, music, and more. You can find their schedule and sign up for courses through the provided link. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there a way to volunteer at local shelters or resource centers that assist refugees?",
+      "bResponse": "Yes, you can volunteer at local shelters or resource centers that assist refugees by participating in free courses and activities offered in Romania. These include language courses, yoga, drawing classes, chess, music, and more. You can find out the schedule and sign up for courses through the provided link. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the dates for school breaks in Romania?",
+      "bResponse": "Here is the answer text: \"List of holidays during the 2024/2025 academic year in Romanian schools:\n1. September (Labor Day): Monday, September 3rd, 2024; Thursday, September 5th, 2025.\n2. October (National Holiday): Tuesday, October 9th, 2024; Friday, October 12th, 2025.\n3. November (All Saints' Day) + November (Christmas Holidays): Wednesday, November 7th, 2024; Tuesday, December 25th, 2024; Thursday, January 1st, 2025.\" For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "When do public holidays fall during the school year?",
+      "bResponse": "The structure of the school year for the 2024-2025 academic year lists several public holidays that students will observe during their time at school. These holidays include significant events such as Christmas Day (December 25), New Year's Day (January 1), Easter Monday (April 9 in 2024), Labor Day (May 1), and others. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any specific national or religious holidays that affect school calendars?",
+      "bResponse": "Yes, there are several national and religious holidays that may affect the school calendar in Romania. Some examples include:\n1. Christmas (Crăciun): December 24th and 25th - schools will be closed on these two days.\n2. New Year's Day (Noul An): January 1st - schools will be closed on this day.\n3. Easter (Paști) & Good Friday (Miercuri înainte de Paști): April 6th & April 7th - schools will be closed on these two days if they fall during the week.\n4. Labour Day (Ziua Muncii): May 1st - schools will be closed on this day.\n5. Independence Day (Sfârşitul Războiului Fecioarei Maria): August 15th - schools will be closed on this day.\nPlease note that additional local holidays might exist depending on the region and community. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do private schools have different holiday schedules?",
+      "bResponse": "Yes, private schools may have different holiday schedules compared to public schools. Private schools have their own calendars and may choose holidays that align with their beliefs or traditions. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is summer vacation always three months long?",
+      "bResponse": "No, the length of summer vacation varies depending on the country and local education regulations. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
