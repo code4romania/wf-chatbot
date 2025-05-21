@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question_id": 121,
+      "content_block_id": 28,
+      "question": "What does the guide cover?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 28,
+      "question": "Who is the intended audience for this guide?"
+    },
+    {
+      "question_id": 123,
+      "content_block_id": 28,
+      "question": "Where was the guide created?"
+    },
+    {
+      "question_id": 124,
+      "content_block_id": 28,
+      "question": "What topics are included in the guide?"
+    },
+    {
+      "question_id": 125,
+      "content_block_id": 28,
+      "question": "Can you download the guide?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 29,
+      "question": "What types of language courses are offered for refugees?"
+    },
+    {
+      "question_id": 127,
+      "content_block_id": 29,
+      "question": "Are there any cultural events specifically designed for Ukrainian refugees?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 29,
+      "question": "Can refugees access free resources for learning and personal development?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 29,
+      "question": "Do organizations provide support in finding accommodation for Ukrainian refugees?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 29,
+      "question": "Are there opportunities for employment or vocational training for Ukrainian refugees?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 30,
+      "question": "Which types of jobs are available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 30,
+      "question": "Do employers in Romania have special preferences for hiring Ukrainian refugees?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 30,
+      "question": "Can Ukrainian refugees find job opportunities through online platforms in Romania?"
+    },
+    {
+      "question_id": 134,
+      "content_block_id": 30,
+      "question": "Are there any government initiatives supporting employment for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 135,
+      "content_block_id": 30,
+      "question": "What skills or qualifications do Romanian employers typically look for when hiring Ukrainian refugees?"
+    },
+    {
+      "question_id": 136,
+      "content_block_id": 31,
+      "question": "When did the Hungarian Theater of Cluj first start operating?"
+    },
+    {
+      "question_id": 137,
+      "content_block_id": 31,
+      "question": "Which languages are used in performances at the Hungarian Theater in Cluj?"
+    },
+    {
+      "question_id": 138,
+      "content_block_id": 31,
+      "question": "Can visitors purchase subscriptions to watch movies on the Animest website?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 31,
+      "question": "What type of artifacts does the National Museum of Romanian Literature in Bucharest preserve?"
+    },
+    {
+      "question_id": 140,
+      "content_block_id": 31,
+      "question": "Who founded the Alexandru Sahia documentary film studio in socialist Romania?"
+    }
+  ]
+}

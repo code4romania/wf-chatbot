@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "content_block_id": 10,
+      "question": "Which countries are covered by the hotlines provided?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 10,
+      "question": "Do Ukrainians speakers have special hotlines available?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 10,
+      "question": "Where can I find more information about temporary protection?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 10,
+      "question": "Are there any age restrictions for those seeking support?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 10,
+      "question": "Can international organizations provide assistance through these hotlines?"
+    }
+  ]
+}
