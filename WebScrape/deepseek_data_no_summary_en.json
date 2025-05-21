@@ -1,0 +1,284 @@
+{
+  "conversation": [
+    {
+      "aPrompt": "What are the rights of preschoolers, Ukrainian pupils, and students from Ukraine?",
+      "bResponse": "The summary states that the authorities have approved measures aimed at ensuring the right to education for these groups. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "My rights",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What measures were taken to ensure their right to education while residing in Romania?",
+      "bResponse": "The authorities have approved the adoption of rapid crisis management measures, which include ensuring the right to education for preschoolers, Ukrainian pupils, and students from Ukraine who reside on the territory of Romania. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "My rights",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can these individuals access public educational services?",
+      "bResponse": "Yes, they can access public educational services as per the mentioned measures taken by the authorities. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "My rights",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any specific programs aimed at supporting them during their studies?",
+      "bResponse": "Yes, the Romanian authorities have implemented various support programs aimed at ensuring the well-being of Ukrainian students during their studies. These include financial assistance, scholarships, educational resources, psychological counseling, and cultural integration initiatives. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "My rights",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do adopted children retain their right to an education after being adopted?",
+      "bResponse": "Yes, adopted children typically retain their right to an education after being adopted. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "My rights",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the steps to enroll a child in extracurricular activities?",
+      "bResponse": "Step 1: Contact the County Schools Inspectorate and check their list of contact information.\nStep 2: Fill out the application for enrolling your child in extracurricular activities, including psycho-pedagogical assistance and counseling options if needed. Download the application or get it in physical form from the County School Inspectorate.\nStep 3: Submit the application either at the headquarters of the County School Inspectorate or online through email. Once submitted, the application will be analyzed within one day. A Commission will then contact you about the assignment of the child into a specific group or class. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "How to enroll a child in school, kindergarten or extracurricular activities",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Where can I find the application for enrolling my child in school?",
+      "bResponse": "You can download the application here <URL_ID:4> or obtain it in physical form from the County School Inspectorate that you have contacted. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "How to enroll a child in school, kindergarten or extracurricular activities",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do Ukrainian children have access to special resources for learning Romanian?",
+      "bResponse": "Yes, Ukrainian children have access to special resources for learning Romanian. According to the provided summary, the Romanian schools inspectorates will create the necessary conditions and provide the appropriate human resources for the request of Ukrainian children who wish to learn Romanian. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "How to enroll a child in school, kindergarten or extracurricular activities",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there a specific deadline for submitting applications to the Bucharest School Inspectorate?",
+      "bResponse": "Yes, upon entering the country, both unaccompanied minors and mothers/adults with children are registered with the General Directorates of Social Assistance and Child Protection. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "How to enroll a child in school, kindergarten or extracurricular activities",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I send updates to my child's enrollment status through email?",
+      "bResponse": "Yes, upon entering the country, both unaccompanied minors and mothers/adults with children are registered with the General Directorates of Social Assistance and Child Protection. They assist in ensuring that both caregivers and children receive the necessary support. To update your child's enrollment status, you may contact the General Directorate of Social Assistance and Child Protection in the county where you reside, and they will help facilitate any changes needed. Additionally, during the summer months, applications for the Bucharest School Inspectorate can be submitted online at office@ismb.ro and felix.goldbach@ismb.ro. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "How to enroll a child in school, kindergarten or extracurricular activities",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the eligibility criteria for Ukrainian children to enroll in schools?",
+      "bResponse": "The announcement from UNICEF states that inquiries regarding the enrollment and integration process of children into educational institutions in Romania can be directed towards Maricica Ciubara, the advisor for Ukrainian students at the Bucharest School Inspectorate (ISMB). The working hours provided are 9:00 AM - 5:00 PM. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Assistance in the integration of Ukrainian children into the Romanian education system",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can parents apply on behalf of their child for enrollment?",
+      "bResponse": "Yes, parents can apply on behalf of their child for enrollment by contacting Maricica Ciubara, the advisor for Ukrainian students at the Bucharest School Inspectorate (ISMB). For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Assistance in the integration of Ukrainian children into the Romanian education system",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any special support services available for Ukrainian children struggling with the curriculum?",
+      "bResponse": "Yes, there are support services available for Ukrainian children who may be struggling with the curriculum. The Romanian Ministry of Education has designated an advisor for Ukrainian students at the Bucharest School Inspectorate (ISMB) named Maricica Ciubara, whose contact information can be found in the provided announcement from UNICEF. She can provide guidance on enrolling and integrating these children into local educational institutions, as well as offer assistance if needed. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Assistance in the integration of Ukrainian children into the Romanian education system",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there an age limit for Ukrainian children to join schools in Romania?",
+      "bResponse": "There is no specific age limit mentioned in the given summary. However, it states that inquiries regarding the enrollment and integration process should be directed to Maricica Ciubara, who can provide more information on this matter. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Assistance in the integration of Ukrainian children into the Romanian education system",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do Ukrainian children have access to extracurricular activities such as sports clubs or music classes?",
+      "bResponse": "The summary does not provide specific information on whether Ukrainian children have access to extracurricular activities such as sports clubs or music classes. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Assistance in the integration of Ukrainian children into the Romanian education system",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What type of support services are offered to Ukrainian minors under temporary protection in Romania?",
+      "bResponse": "Ukrainian minors who are under temporary protection in Romania, but not beneficiaries of international protection, are eligible for specific support services such as free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Accommodation and Allowances for Ukrainian Minors",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do these minors get access to free lodging in school dormitories?",
+      "bResponse": "Yes, they do have access to free lodging in school dormitories as part of their specific support services. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Accommodation and Allowances for Ukrainian Minors",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are Ukrainians minors granted a daily meal allowance while residing in Romania?",
+      "bResponse": "Yes, Ukrainian minors who are under temporary protection in Romania but not beneficiaries of international protection are eligible for specific support services which include a free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Accommodation and Allowances for Ukrainian Minors",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Does the aid extend beyond basic necessities like textbooks, uniforms, and shoes?",
+      "bResponse": "Yes, the aid extends beyond basic necessities like textbooks, uniforms, and shoes. Ukrainian minors who are under temporary protection in Romania, but not beneficiaries of international protection, are eligible for specific support services which include free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Accommodation and Allowances for Ukrainian Minors",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is the provision of support dependent upon whether these minors are recipients of international protection or not?",
+      "bResponse": "Yes, Ukrainian minors who are under temporary protection in Romania, but not beneficiaries of international protection, are still eligible for specific support services such as free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Accommodation and Allowances for Ukrainian Minors",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the requirements for enrolling children in Ukrainian schools in Romania?",
+      "bResponse": "To enroll your child in a Ukrainian school in Romania, you must meet certain requirements such as having valid residency documents (such as an NII), obtaining Romanian citizenship if necessary, being fluent in both Ukrainian and Romanian languages, and ensuring that the school has available seats before applying. Additionally, some schools may require specific academic records or proficiency tests depending on their admission policies. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Ukrainian schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any specific guidelines for remote learning at Ukrainian kindergartens in Romania?",
+      "bResponse": "Yes, there are many useful resources available for continuing education remotely, including various learning platforms, free education options in private schools, and even options for part-time or online kindergarten programs. Additionally, you can find Ukrainian schools and classes in different cities throughout Romania. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Ukrainian schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can you provide more information on the different types of learning platforms used by Ukrainian schools in Romania?",
+      "bResponse": "Certainly! Here's some useful information for your query:\n\n1. Online Kindergartens or Part-Time Kindergartens: Many Ukrainian schools in Romania offer online options for their students, including online kindergartens or part-time programs. These programs allow children to learn at their own pace, with flexible schedules and interactive lessons. Additionally, many of these schools also have physical locations where parents can enroll their children for full-time attendance if needed.\n2. Romanian Schools: Some Ukrainian schools in Romania may be located within other cities besides Bucharest. For example, there might be Ukrainian schools in Timisoara, Cluj-Napoca, Iasi, Craiova, and other major cities throughout the country. If you need to find a specific school near your location, it would be best to contact local authorities or search online directories for recommendations.\n3. Remote Education: Due to the current global situation, many schools in Ukraine and abroad are offering remote educational services to their students. This means that even those who live far away from Romania can still access quality education through various learning platforms such as Zoom, Skype, Google Classroom, and Moodle.\n4. Learning Platforms: There are numerous learning platforms available to support virtual classrooms For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Ukrainian schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there a possibility of obtaining free education from private Ukrainian schools in Romania?",
+      "bResponse": "Yes, it is possible to obtain free education from private Ukrainian schools in Romania by enrolling in some private schools offering free education programs for eligible students who meet certain criteria such as financial need or other factors set forth by the school administration. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Ukrainian schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do Ukrainian schools offer language courses alongside their curriculum in Romania?",
+      "bResponse": "Yes, many Ukrainian schools do offer language courses alongside their curriculum in Romania. These language courses typically include both Romanian and Russian languages, as well as other subjects based on individual school policies. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Ukrainian schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What kind of language courses can I find?",
+      "bResponse": "You can find free language courses including Romanian language courses as well as other languages such as English, French, German, Spanish, Italian, Russian, Chinese, Japanese, Korean, Arabic, Turkish, Persian, Hindi, Bengali, Tamil, Telugu, Malayalam, Kannada, Marathi, Gujarati, Punjabi, Bhojpuri, Oriya, Assamese, Manipuri, Urdu, Pashto, Sindhi, Nepali, Lahu, Hmong-Mien, Yao, Twi, Swahili, Yoruba, Igbo, Ewe, Somali, Tigrinya, Tigrari, Aymara, Quechua, Pijin, Tok Pisin, Amharic, Oromo, Sango, Zulu, Xhosa, Sesotho, Shona, Ndebele, Lingala, Fula, Jola, Malagasy, Kazakh, Uzbek, Mongolian, Georgian, Azerbaijani, Armenian, Albanian, Bulgarian, Czech, Danish, Dutch, Finnish, Flemish, French, Galician, Georgian, Greek, Guarani, Haitian Creole, Icelandic, Indonesian, Irish, Italian, Javanese, K For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Courses and activities for refugees from Ukraine",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any age restrictions for participating in these activities?",
+      "bResponse": "No specific age restrictions were mentioned in the provided summary. However, it can be assumed that some courses may have minimum age requirements based on their nature and content. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Courses and activities for refugees from Ukraine",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can I try multiple activities at once?",
+      "bResponse": "Yes, you can try multiple activities at once. The provided information mentions various courses and activities available for both adults and children such as language courses, yoga, drawing classes, chess, music, etc. You can find their schedules on the given link and sign up for them if they suit your interests. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Courses and activities for refugees from Ukraine",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Do I need to pay anything for these courses and activities?",
+      "bResponse": "No, you do not need to pay anything for these courses and activities as they are free. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Courses and activities for refugees from Ukraine",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is there a specific time when the courses take place?",
+      "bResponse": "Yes, the courses have specific times when they take place. The schedule can be found in the provided link and signing up will help you determine which course fits your availability. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Courses and activities for refugees from Ukraine",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "What are the specific dates for public holidays in Romanian schools and kindergartens during the 2024-2025 academic year?",
+      "bResponse": "During the 2024-2025 academic year, there will be several public holidays in Romanian schools and kindergartens. The structure of the school year includes breaks such as winter break (from December 26th to January 1st), Easter break (from March 30th to April 8th), and summer vacation (from June 27th to July 9th). Additionally, there are national holidays like Romania's National Day on December 1st, New Year's Day on January 1st, International Workers' Day on May 1st, and Corpus Christi on the second Thursday after Pentecost. Please note that this information may change based on updates provided by the Romanian Ministry of Education. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Calendar of holidays in schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Can schools and kindergartens adjust their calendar according to local traditions or religious celebrations?",
+      "bResponse": "Yes, schools and kindergartens have the flexibility to adjust their calendars according to local traditions or religious celebrations. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Calendar of holidays in schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Are there any regulations regarding the minimum number of vacation days that Romanian schools and kindergartens have to provide students with?",
+      "bResponse": "Yes, Romanian schools and kindergartens must provide their students with at least one day of vacation per week, which means they need to offer a total of at least five vacation days each month. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Calendar of holidays in schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Is it possible to change the order of school breaks based on student needs or preferences?",
+      "bResponse": "Yes, it is possible to change the order of school breaks based on student needs or preferences. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Calendar of holidays in schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "aPrompt": "Who is responsible for informing parents and guardians about upcoming holidays and vacations in Romanian schools and kindergartens?",
+      "bResponse": "The responsibility for informing parents and guardians about upcoming holidays and vacations in Romanian schools and kindergartens may vary depending on the specific context and circumstances. However, it is generally recommended for educational institutions to communicate with parents and guardians through various channels such as newsletters, emails, or announcements during parent-teacher conferences or meetings. Additionally, some organizations or government agencies might be involved in disseminating this information to ensure its accuracy and consistency across different regions and levels of education. For more details, visit https://dopomoha.ro/en/education",
+      "cSubject": "Calendar of holidays in schools and kindergartens in Romania",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

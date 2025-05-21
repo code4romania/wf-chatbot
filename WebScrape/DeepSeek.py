@@ -64,8 +64,9 @@ class DeepSeek(ChatSession):
         """
         # Build conversation prompt
         full_prompt = (
-            f"<|system|>\nYou are a helpful assistant.\n<|user|>\n{prompt}\n<|assistant|>\n"
+            f"<|system|>\nYou are a helpful Q&A generator assistant.\n<|user|>\n{prompt}\n<|assistant|>\n"
         )
+        
 
         # Tokenize input
         inputs = self.tokenizer(

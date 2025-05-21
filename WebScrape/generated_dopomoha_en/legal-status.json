@@ -1,0 +1,49 @@
+{
+  "conversation": [
+    {
+      "aPrompt": "Which countries does this hotline support?",
+      "bResponse": "Poland, Moldova, and Hungary provide support through their respective hotlines for individuals fleeing Ukraine due to the current crisis. Additionally, the Slovak Republic has set up a hotline specifically for Ukrainian speakers. For more details, visit https://dopomoha.ro/en/legal-status",
+      "cSubject": "For support in other European countries:",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 10
+    },
+    {
+      "aPrompt": "What services are offered through the Polish hotline?",
+      "bResponse": "The Polish hotline offers information on various assistance and support for those affected by the conflict in Ukraine, including access to temporary protection schemes, financial aid, medical care, education, and employment opportunities. Additionally, it provides links to relevant websites where individuals can find more detailed information about these services. For more details, visit https://dopomoha.ro/en/legal-status",
+      "cSubject": "For support in other European countries:",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 10
+    },
+    {
+      "aPrompt": "Where can I find information about temporary protection in Hungary?",
+      "bResponse": "The answer to your question is available at this link: <http://www.bmbah.hu/index.php?option=com_k2&view=item&id=1736:2022-03-04-12-25-49&lang=hu>. For more details, visit https://dopomoha.ro/en/legal-status",
+      "cSubject": "For support in other European countries:",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 10
+    },
+    {
+      "aPrompt": "Are there specific hotlines available for speakers of different languages in Slovakia?",
+      "bResponse": "Yes, there is a hotline available for Ukrainian-speakers in Slovakia. It is the Hotline of the Slovak Interior Ministry for Ukrainian-speakers: +421 513 816 111 and +421 259 765 111. They can be reached at [Slovak Interior Ministry](http://www.mic.iom.sk/sk/novinky/760-informatsiya-ukrayina.html) For more details, visit https://dopomoha.ro/en/legal-status",
+      "cSubject": "For support in other European countries:",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 10
+    },
+    {
+      "aPrompt": "Can I contact the support team for reporting errors or inconsistencies in the provided information?",
+      "bResponse": "Yes, you can contact the support team for reporting errors or inconsistencies in the provided information. Please write an email to dopomoha@code4.ro with your feedback and suggestions. They will make their best effort to address them accordingly. For more details, visit https://dopomoha.ro/en/legal-status",
+      "cSubject": "For support in other European countries:",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 10
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "conversation": [
+    {
+      "aPrompt": "What is the goal of the With the help of initiative?",
+      "bResponse": "The goal of the With The Help Of Initiative is to provide assistance and support for individuals and communities facing challenges and obstacles. By offering resources, guidance, and expertise, this initiative aims to empower people to overcome difficulties and achieve their goals. For more details, visit https://dopomoha.ro/en/about",
+      "cSubject": "With the help of",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 19
+    },
+    {
+      "aPrompt": "Who can participate in the community gardening program described in the With the help of initiative?",
+      "bResponse": "Anyone who would like to contribute and support the community gardening program can participate in the initiative. To get involved, individuals should reach out to their local organizations and join forces with others interested in promoting sustainable agriculture practices and preserving green spaces within their communities. For more details, visit https://dopomoha.ro/en/about",
+      "cSubject": "With the help of",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 19
+    },
+    {
+      "aPrompt": "How can individuals contribute to improving the With the help of initiative?",
+      "bResponse": "Individuals can contribute to improving the With the help of initiative by reporting any mistakes, inconsistencies, or omissions through an email addressed to dopomohar@code4.ro. The team behind the initiative will consider and incorporate valuable feedback to enhance the platform for everyone's benefit. For more details, visit https://dopomoha.ro/en/about",
+      "cSubject": "With the help of",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 19
+    },
+    {
+      "aPrompt": "When will the next community gardening event take place under the With the help of banner?",
+      "bResponse": "The next community gardening event under the \"With the help of\" banner is not mentioned in the given summary. Therefore, it cannot be determined when the event will take place based on this information. For more details, visit https://dopomoha.ro/en/about",
+      "cSubject": "With the help of",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 19
+    },
+    {
+      "aPrompt": "Where can people find more information about the With the help of initiative and its community gardening programs?",
+      "bResponse": "The email address for reporting any mistakes, inconsistencies, or omissions related to this topic is \"todopomoha@code4.ro\". They may be able to provide further information on the With the Help of Initiative and their community gardening programs. The initiative was created with the goal of creating positive social change through volunteering, community development, education, and support services. For more details, visit https://dopomoha.ro/en/about",
+      "cSubject": "With the help of",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped",
+      "gContentBlockId": 19
+    }
+  ]
+}

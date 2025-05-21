@@ -1,0 +1,31 @@
+about no content
+sanatate
+legal status??
+
+Logs:
+
+Processing https://dopomoha.ro/en/education
+Saved 9 entries to dopomoha/education.json
+Processing https://dopomoha.ro/en/legal-status
+Saved 1 entries to dopomoha/legal-status.json
+Processing https://dopomoha.ro/en/human-trafficking
+Saved 7 entries to dopomoha/human-trafficking.json
+Processing https://dopomoha.ro/en/sanatate
+Saved 1 entries to dopomoha/sanatate.json
+Processing https://dopomoha.ro/en/transportationcall-center
+Error fetching https://dopomoha.ro/en/transportationcall-center: 404 Client Error: Not Found for url: https://dopomoha.ro/en/transportationcall-center
+No entries found for transportationcall-center, skipping.
+Processing https://dopomoha.ro/en/about
+Saved 1 entries to dopomoha/about.json
+Processing https://dopomoha.ro/en/romanian-eng
+Saved 1 entries to dopomoha/romanian-eng.json
+Processing https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania
+Saved 6 entries to dopomoha/job-for-refugees-from-ukraine-in-romania.json
+Processing https://dopomoha.ro/en/legal-help
+No entries found for legal-help, skipping.
+Processing https://dopomoha.ro/en/support-for-drug-users
+No entries found for support-for-drug-users, skipping.
+Processing https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees
+No entries found for psychological-support-for-ukrainian-refugees, skipping.
+Processing https://dopomoha.ro/en/integration
+Saved 5 entries to dopomoha/integration.json

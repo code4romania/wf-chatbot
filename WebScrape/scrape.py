@@ -1,23 +1,13 @@
+# scrape.py
+"""
+Script: scrape.py
+Extracts h1 headings and paragraphs from a URL and saves them to JSON.
+Usage: python scrape.py <url> [output_json]
+"""
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
 import json
-import os
-from dotenv import load_dotenv
-import re
-from DeepSeek import DeepSeek
-
-load_dotenv()
-#api_key = os.getenv("OPENAI_API_KEY")
-
-# instantiate chat session
-chat = DeepSeek()
-
-
-def save_extracted_to_json(entries, output_path):
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(entries, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(entries)} entries to {output_path}")
+import sys
 
 
 def extract_h1_and_paragraphs(url):
@@ -37,90 +27,26 @@ def extract_h1_and_paragraphs(url):
                 i += 1
             if summary_parts:
                 summary = ' '.join(summary_parts)
-                entries.append({"heading": heading_text, "summary": summary, "url": url})
+                entries.append({
+                    "heading": heading_text,
+                    "summary": summary
+                })
         else:
             i += 1
     return entries
 
 
-def build_training_data_from_scraped(scraped: list[dict], language: str) -> list[dict]:
-    """
-    For each scraped entry, generate user questions and concise answers.
-    Retries question generation once if parsing fails.
-    """
-    training = []
-    for entry in scraped:
-        # Generate questions prompt with example
-        q_prompt = (
-            f"Generate 5 short, distinct questions a user might ask under the heading: '{entry['heading']}'. "
-            "Return only a Python list literal and nothing else. "
-            "Example response: ['What is X?', 'How does Y work?', ...]"
-        )
-        questions = []
-        for attempt in range(4):
-            try:
-                questions_text, err = chat.send(q_prompt)
-                match = re.search(r"\[.*\]", questions_text, re.S)
-                if match:
-                    questions = eval(match.group(0))
-                    break
-                else:
-                    print(f"Attempt {attempt+1}: Could not parse questions list. Raw response: {questions_text}")
-            except Exception as e:
-                print(f"Error generating questions (attempt {attempt+1}): {e}")
-        if not questions:
-            print(f"Skipping entry '{entry['heading']}' due to parsing issues.")
-            continue
+def save_to_json(entries, path):
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(entries, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(entries)} entries to {path}")
 
-        for question in questions:
-            # Answer prompt: clear, concise, based only on provided info
-            a_prompt = (
-                f"Question: {question}\n"
-                f"Use only the following information to answer briefly and concisely: '{entry['summary']}'. "
-                "Return only the answer text."
-            )
-            try:
-                answer_text,err = chat.send(a_prompt)
-            except Exception as e:
-                print(f"Error generating answer for '{question}': {e}")
-                answer_text = ""
 
-            full_answer = answer_text + f" For more details, visit {entry['url']}"
-            training.append({
-                "aPrompt": question,
-                "bResponse": full_answer,
-                "cSubject": "",
-                "dLanguage": language,
-                "eVerified Translation": "No",
-                "fStatus": "Scraped"
-            })
-    return training
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser(description="Scrape for training and generate Q&A")
-    parser.add_argument("url", help="URL to scrape")
-    parser.add_argument("format", help="Output format (unused)")
-    args = parser.parse_args()
-
-    # Step 1: Scrape and save raw JSON
-    scraped = extract_h1_and_paragraphs(args.url)
-    save_extracted_to_json(scraped, "scrape_education.json")
-
-    # Determine language from URL path
-    parsed = urlparse(args.url)
-    lang_code = parsed.path.strip('/').split('/')[0]
-    language_map = {'ro': 'Romanian', 'ru': 'Russian', 'uk': 'Ukrainian', 'en': 'English'}
-    language = language_map.get(lang_code, 'Unrecognized')
-
-    # Step 2: Load scraped data back for LLM processing
-    with open("scrape_education.json", 'r', encoding='utf-8') as f:
-        scraped_data = json.load(f)
-
-    # Generate training entries
-    training_entries = build_training_data_from_scraped(scraped_data, language)
-
-    # Save final conversation JSON
-    with open("scrape_data.json", "w", encoding='utf-8') as f:
-        json.dump({"conversation": training_entries}, f, ensure_ascii=False, indent=2)
-
-    print("Done writing scrape_data.json.")
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("Usage: python scrape.py <url> [output_json]")
+        sys.exit(1)
+    url = sys.argv[1]
+    output = sys.argv[2] if len(sys.argv) > 2 else 'scrape_education.json'
+    data = extract_h1_and_paragraphs(url)
+    save_to_json(data, output)
