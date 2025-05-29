@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question_id": 1175,
+      "content_block_id": 408,
+      "question": "What is the process for joining the community gardening program?"
+    },
+    {
+      "question_id": 1176,
+      "content_block_id": 408,
+      "question": "Are there any events or activities related to the program happening soon?"
+    },
+    {
+      "question_id": 1177,
+      "content_block_id": 408,
+      "question": "Where can I find more information about the program?"
+    },
+    {
+      "question_id": 1178,
+      "content_block_id": 409,
+      "question": "What services do they provide for accommodation, meals, and integration?"
+    },
+    {
+      "question_id": 1179,
+      "content_block_id": 409,
+      "question": "Who can access the psychological support offered by the International Organization for Migration?"
+    },
+    {
+      "question_id": 1180,
+      "content_block_id": 409,
+      "question": "Which organization offers support for refugees in Romania?"
+    },
+    {
+      "question_id": 1181,
+      "content_block_id": 410,
+      "question": "Can locals use the public transport system for free?"
+    },
+    {
+      "question_id": 1182,
+      "content_block_id": 410,
+      "question": "Do visitors need to pay for using the city's public transport?"
+    },
+    {
+      "question_id": 1183,
+      "content_block_id": 410,
+      "question": "Are there any age restrictions when it comes to using the public transport for free?"
+    },
+    {
+      "question_id": 1184,
+      "content_block_id": 411,
+      "question": "What are the eligibility requirements for affordable housing?"
+    },
+    {
+      "question_id": 1185,
+      "content_block_id": 411,
+      "question": "Can I find job opportunities related to environmental conservation?"
+    },
+    {
+      "question_id": 1186,
+      "content_block_id": 411,
+      "question": "Where can I seek support for mental health issues?"
+    },
+    {
+      "question_id": 1187,
+      "content_block_id": 412,
+      "question": "What services does the Women's Center offer?"
+    },
+    {
+      "question_id": 1188,
+      "content_block_id": 412,
+      "question": "Can the Women's Center provide assistance with finding safe housing after experiencing domestic violence?"
+    },
+    {
+      "question_id": 1189,
+      "content_block_id": 412,
+      "question": "Does the Women's Center have programs specifically designed to promote reproductive health?"
+    },
+    {
+      "question_id": 1190,
+      "content_block_id": 413,
+      "question": "What kind of services do they provide?"
+    },
+    {
+      "question_id": 1191,
+      "content_block_id": 413,
+      "question": "Where can I find this assistance?"
+    },
+    {
+      "question_id": 1192,
+      "content_block_id": 413,
+      "question": "Do I have to disclose my status to access these services?"
+    }
+  ]
+}

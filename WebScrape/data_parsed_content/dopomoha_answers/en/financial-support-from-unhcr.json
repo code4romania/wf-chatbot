@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 239,
+      "question_id": 239,
+      "content_block_id": 87,
+      "answer": "Refugees who meet the eligibility criteria can fill out a form and, after review, an appointment can be made for an interview for cash assistance.",
+      "bResponse": "Refugees who meet the eligibility criteria can fill out a form and, after review, an appointment can be made for an interview for cash assistance. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 240,
+      "question_id": 240,
+      "content_block_id": 87,
+      "answer": "Refugees can find information about applying for cash assistance by filling out a form and scheduling an appointment for an interview after meeting the eligibility criteria.",
+      "bResponse": "Refugees can find information about applying for cash assistance by filling out a form and scheduling an appointment for an interview after meeting the eligibility criteria. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 241,
+      "question_id": 241,
+      "content_block_id": 87,
+      "answer": "Yes",
+      "bResponse": "Yes For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 242,
+      "question_id": 242,
+      "content_block_id": 88,
+      "answer": "It entails making an appointment and attending the enrolment session at the designated location as specified during the appointment process.",
+      "bResponse": "It entails making an appointment and attending the enrolment session at the designated location as specified during the appointment process. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 243,
+      "question_id": 243,
+      "content_block_id": 88,
+      "answer": "Eligible participants include individuals and families who meet specific income guidelines and reside within the designated service area.",
+      "bResponse": "Eligible participants include individuals and families who meet specific income guidelines and reside within the designated service area. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 244,
+      "question_id": 244,
+      "content_block_id": 88,
+      "answer": "More information about the enrolment process and the cash assistance program can be found at the appointment.",
+      "bResponse": "More information about the enrolment process and the cash assistance program can be found at the appointment. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 245,
+      "question_id": 245,
+      "content_block_id": 89,
+      "answer": "You will receive a text message to your mobile phone within a maximum of 15 days indicating the date, time, and location of your appointment. Please show the received appointment through text message at the reception of the enrollment center.",
+      "bResponse": "You will receive a text message to your mobile phone within a maximum of 15 days indicating the date, time, and location of your appointment. Please show the received appointment through text message at the reception of the enrollment center. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 246,
+      "question_id": 246,
+      "content_block_id": 89,
+      "answer": "The text message containing the date, time, and location of your appointment will be sent to you via your mobile phone within a maximum of 15 days. To find out where to go for your appointment, please show the received appointment through a text message at the reception of the enrollment center.",
+      "bResponse": "The text message containing the date, time, and location of your appointment will be sent to you via your mobile phone within a maximum of 15 days. To find out where to go for your appointment, please show the received appointment through a text message at the reception of the enrollment center. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 247,
+      "question_id": 247,
+      "content_block_id": 89,
+      "answer": "Yes, you must present the appointment confirmation received via SMS at the reception desk during your visit.",
+      "bResponse": "Yes, you must present the appointment confirmation received via SMS at the reception desk during your visit. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 248,
+      "question_id": 248,
+      "content_block_id": 90,
+      "answer": "Before scheduling an appointment, please ensure you have carefully reviewed the eligibility criteria as it helps determine your suitability for the service and ensures efficient use of resources by avoiding unnecessary appointments.",
+      "bResponse": "Before scheduling an appointment, please ensure you have carefully reviewed the eligibility criteria as it helps determine your suitability for the service and ensures efficient use of resources by avoiding unnecessary appointments. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 249,
+      "question_id": 249,
+      "content_block_id": 90,
+      "answer": "\"Before scheduling your appointment, please review the eligibility requirements and information about the form.\"",
+      "bResponse": "\"Before scheduling your appointment, please review the eligibility requirements and information about the form.\" For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 250,
+      "question_id": 250,
+      "content_block_id": 90,
+      "answer": "Before participating in this initiative, please review the eligibility criteria mentioned on the application form.",
+      "bResponse": "Before participating in this initiative, please review the eligibility criteria mentioned on the application form. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 251,
+      "question_id": 251,
+      "content_block_id": 91,
+      "answer": "\"I'm sorry, there is no financial assistance program at this time. Please come back to this page later.\"",
+      "bResponse": "\"I'm sorry, there is no financial assistance program at this time. Please come back to this page later.\" For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 252,
+      "question_id": 252,
+      "content_block_id": 91,
+      "answer": "I'm sorry, there is no financial assistance program at this time. Please come back to this page later for updates.",
+      "bResponse": "I'm sorry, there is no financial assistance program at this time. Please come back to this page later for updates. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 253,
+      "question_id": 253,
+      "content_block_id": 91,
+      "answer": "No, there is no financial assistance program at this time for individuals participating in the community gardening initiative. Please come back to this page later for updates on available programs and initiatives.",
+      "bResponse": "No, there is no financial assistance program at this time for individuals participating in the community gardening initiative. Please come back to this page later for updates on available programs and initiatives. For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 254,
+      "question_id": 254,
+      "content_block_id": 92,
+      "answer": "\"The new community gardening program aims to provide fresh produce and promote environmental sustainability by involving local residents.\"",
+      "bResponse": "\"The new community gardening program aims to provide fresh produce and promote environmental sustainability by involving local residents.\" For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 255,
+      "question_id": 255,
+      "content_block_id": 92,
+      "answer": "To join the new community gardening program, follow these steps: Visit our website at [website], fill out the online application form with your personal information and gardening experience, wait for confirmation via email, then attend the mandatory orientation session. If you encounter any problems in the process or if you don't receive an SMS code, please use one of the contacts listed below:",
+      "bResponse": "To join the new community gardening program, follow these steps: Visit our website at [website], fill out the online application form with your personal information and gardening experience, wait for confirmation via email, then attend the mandatory orientation session. If you encounter any problems in the process or if you don't receive an SMS code, please use one of the contacts listed below: For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 256,
+      "question_id": 256,
+      "content_block_id": 92,
+      "answer": "\"The initiative is free for participation.\"",
+      "bResponse": "\"The initiative is free for participation.\" For more details, visit https://dopomoha.ro/en/financial-support-from-unhcr",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 131,
+      "content_block_id": 14,
+      "question": "What is the main purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 14,
+      "question": "What kinds of support services are offered?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 14,
+      "question": "Which Romanian cities are covered by the provided services?"
+    },
+    {
+      "question_id": 134,
+      "content_block_id": 14,
+      "question": "Is there assistance available for understanding legal rights?"
+    },
+    {
+      "question_id": 135,
+      "content_block_id": 14,
+      "question": "Does the platform offer help for mental health conditions like PTSD?"
+    },
+    {
+      "question_id": 136,
+      "content_block_id": 14,
+      "question": "What are the different options for entering Romania?"
+    },
+    {
+      "question_id": 137,
+      "content_block_id": 14,
+      "question": "Are contact details available for support in other European countries?"
+    },
+    {
+      "question_id": 138,
+      "content_block_id": 14,
+      "question": "How can one provide feedback or report issues with the platform?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 14,
+      "question": "Who developed or partnered on the Dopomoha solution?"
+    },
+    {
+      "question_id": 140,
+      "content_block_id": 14,
+      "question": "What is the duration of a short-stay right for Ukrainian nationals in Romania?"
+    }
+  ]
+}

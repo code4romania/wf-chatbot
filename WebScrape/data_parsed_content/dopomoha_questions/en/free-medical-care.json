@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 1013,
+      "content_block_id": 352,
+      "question": "What services does IOM Romania offer for Ukrainian refugees?"
+    },
+    {
+      "question_id": 1014,
+      "content_block_id": 352,
+      "question": "Can anyone access the free medical care provided by IOM Romania?"
+    },
+    {
+      "question_id": 1015,
+      "content_block_id": 352,
+      "question": "Where can Ukrainian refugees receive medical assistance in Romania?"
+    },
+    {
+      "question_id": 1016,
+      "content_block_id": 353,
+      "question": "What kind of medical services does MedZirka offer?"
+    },
+    {
+      "question_id": 1017,
+      "content_block_id": 353,
+      "question": "Can anyone access their free online medical consultations?"
+    },
+    {
+      "question_id": 1018,
+      "content_block_id": 353,
+      "question": "Do you need to be a resident of Ukraine to benefit from MedZirka's services?"
+    },
+    {
+      "question_id": 1019,
+      "content_block_id": 354,
+      "question": "What kind of medical services does the center offer?"
+    },
+    {
+      "question_id": 1020,
+      "content_block_id": 354,
+      "question": "Who supports the opening of this health promotion center?"
+    },
+    {
+      "question_id": 1021,
+      "content_block_id": 354,
+      "question": "Where is the location of the health promotion center located?"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 807,
+      "content_block_id": 281,
+      "question": "Can you provide information on the types of illnesses that can be treated in a one day hospitalization?"
+    },
+    {
+      "question_id": 808,
+      "content_block_id": 281,
+      "question": "What is the difference between day hospitalization and continuous hospitalization?"
+    },
+    {
+      "question_id": 809,
+      "content_block_id": 282,
+      "question": "Can patients receive free medical services at hospitals without a contract with health insurance companies?"
+    },
+    {
+      "question_id": 810,
+      "content_block_id": 282,
+      "question": "Are there any restrictions on who can participate in the community gardening program?"
+    },
+    {
+      "question_id": 811,
+      "content_block_id": 282,
+      "question": "Which types of medical treatments are now covered under the agreement between health insurance companies and public hospitals?"
+    },
+    {
+      "question_id": 812,
+      "content_block_id": 283,
+      "question": "What is the purpose of requiring private hospitals to charge personal contributions?"
+    },
+    {
+      "question_id": 813,
+      "content_block_id": 283,
+      "question": "How does the public display of pricing information benefit patients?"
+    },
+    {
+      "question_id": 814,
+      "content_block_id": 283,
+      "question": "Why is obtaining written consent required for changing hospitalization costs?"
+    },
+    {
+      "question_id": 815,
+      "content_block_id": 284,
+      "question": "Benefits of the new community gardening program?"
+    },
+    {
+      "question_id": 816,
+      "content_block_id": 284,
+      "question": "How do I sign up for the new community gardening program?"
+    },
+    {
+      "question_id": 817,
+      "content_block_id": 284,
+      "question": "Can anyone participate regardless of age?"
+    },
+    {
+      "question_id": 818,
+      "content_block_id": 285,
+      "question": "Do patients have to pay for medications prescribed by doctors?"
+    },
+    {
+      "question_id": 819,
+      "content_block_id": 285,
+      "question": "Can public hospitals reimburse medication costs for insured patients?"
+    },
+    {
+      "question_id": 820,
+      "content_block_id": 285,
+      "question": "Are there any limitations on who can receive reimbursement from public hospitals?"
+    },
+    {
+      "question_id": 821,
+      "content_block_id": 286,
+      "question": "Which benefits are included in the social health insurance?"
+    },
+    {
+      "question_id": 822,
+      "content_block_id": 286,
+      "question": "Who is eligible to participate in this program?"
+    },
+    {
+      "question_id": 823,
+      "content_block_id": 286,
+      "question": "Where can I find more information about the community gardening initiative?"
+    }
+  ]
+}

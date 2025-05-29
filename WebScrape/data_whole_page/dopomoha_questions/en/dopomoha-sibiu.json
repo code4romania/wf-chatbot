@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 651,
+      "content_block_id": 66,
+      "question": "What kind of support services does Dopomoha provide?"
+    },
+    {
+      "question_id": 652,
+      "content_block_id": 66,
+      "question": "In which cities are support services available?"
+    },
+    {
+      "question_id": 653,
+      "content_block_id": 66,
+      "question": "Is assistance offered for finding housing or accommodation?"
+    },
+    {
+      "question_id": 654,
+      "content_block_id": 66,
+      "question": "What medical services can be accessed?"
+    },
+    {
+      "question_id": 655,
+      "content_block_id": 66,
+      "question": "Does the platform offer psychological support for mental health?"
+    },
+    {
+      "question_id": 656,
+      "content_block_id": 66,
+      "question": "Are there resources for understanding legal rights and obligations?"
+    },
+    {
+      "question_id": 657,
+      "content_block_id": 66,
+      "question": "How can children be enrolled in educational programs?"
+    },
+    {
+      "question_id": 658,
+      "content_block_id": 66,
+      "question": "What information is provided about public transportation?"
+    },
+    {
+      "question_id": 659,
+      "content_block_id": 66,
+      "question": "Are emergency contact numbers or hotlines listed?"
+    },
+    {
+      "question_id": 660,
+      "content_block_id": 66,
+      "question": "Is there support available for managing Post Traumatic Stress Disorder?"
+    }
+  ]
+}

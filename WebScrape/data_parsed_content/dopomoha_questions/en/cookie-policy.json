@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "question_id": 1298,
+      "content_block_id": 450,
+      "question": "What are the advantages of using cookies?"
+    },
+    {
+      "question_id": 1299,
+      "content_block_id": 450,
+      "question": "Can you participate in this community gardening program without being involved before?"
+    },
+    {
+      "question_id": 1300,
+      "content_block_id": 450,
+      "question": "Do I need to sign up for the cookie usage on this site?"
+    },
+    {
+      "question_id": 1301,
+      "content_block_id": 452,
+      "question": "What are the uses of storing user information through cookies?"
+    },
+    {
+      "question_id": 1302,
+      "content_block_id": 452,
+      "question": "Do websites use cookies to track user activities?"
+    },
+    {
+      "question_id": 1303,
+      "content_block_id": 452,
+      "question": "Can cookies be deleted from browsers?"
+    },
+    {
+      "question_id": 1304,
+      "content_block_id": 453,
+      "question": "What are the advantages of using permanent cookies?"
+    },
+    {
+      "question_id": 1305,
+      "content_block_id": 453,
+      "question": "Can a user control when a cookie is deleted from their device?"
+    },
+    {
+      "question_id": 1306,
+      "content_block_id": 453,
+      "question": "Are all cookies designed to remain active until the end of a session?"
+    },
+    {
+      "question_id": 1307,
+      "content_block_id": 454,
+      "question": "What are the advantages of placing third-party cookies?"
+    },
+    {
+      "question_id": 1308,
+      "content_block_id": 454,
+      "question": "Are there any legal requirements for using third-party cookies?"
+    },
+    {
+      "question_id": 1309,
+      "content_block_id": 454,
+      "question": "Can websites control which third-party cookies are placed on their site?"
+    },
+    {
+      "question_id": 1310,
+      "content_block_id": 455,
+      "question": "What are the purposes of using cookies on this website?"
+    },
+    {
+      "question_id": 1311,
+      "content_block_id": 455,
+      "question": "Can visitors control which types of cookies are placed on their devices?"
+    },
+    {
+      "question_id": 1312,
+      "content_block_id": 455,
+      "question": "Are third-party cookies involved in the use of cookies on this website?"
+    },
+    {
+      "question_id": 1313,
+      "content_block_id": 456,
+      "question": "What is the purpose of using cookies for visitor analysis?"
+    },
+    {
+      "question_id": 1314,
+      "content_block_id": 456,
+      "question": "Can a cookie track an individual's browsing history?"
+    },
+    {
+      "question_id": 1315,
+      "content_block_id": 456,
+      "question": "Are the cookies used for any other purpose than visitor analysis?"
+    },
+    {
+      "question_id": 1316,
+      "content_block_id": 457,
+      "question": "What are the purposes of setting third-party cookies?"
+    },
+    {
+      "question_id": 1317,
+      "content_block_id": 457,
+      "question": "Can third-parties access my browsing history through these cookies?"
+    },
+    {
+      "question_id": 1318,
+      "content_block_id": 457,
+      "question": "Do I need to give permission before a social media platform sets a cookie on my device?"
+    },
+    {
+      "question_id": 1319,
+      "content_block_id": 458,
+      "question": "What kind of information does a cookie hold?"
+    },
+    {
+      "question_id": 1320,
+      "content_block_id": 458,
+      "question": "Can a user control which cookies they accept from a website?"
+    },
+    {
+      "question_id": 1321,
+      "content_block_id": 458,
+      "question": "Why would a website use cookies?"
+    },
+    {
+      "question_id": 1322,
+      "content_block_id": 459,
+      "question": "What role do cookies play in enhancing an individual's web browsing experience?"
+    },
+    {
+      "question_id": 1323,
+      "content_block_id": 459,
+      "question": "Can rejecting or disabling cookies impact my ability to access certain websites?"
+    },
+    {
+      "question_id": 1324,
+      "content_block_id": 459,
+      "question": "Do advertisers still use information from cookies even when they are disabled?"
+    },
+    {
+      "question_id": 1325,
+      "content_block_id": 460,
+      "question": "Why do websites use cookies?"
+    },
+    {
+      "question_id": 1326,
+      "content_block_id": 460,
+      "question": "Can cookies harm my computer?"
+    },
+    {
+      "question_id": 1327,
+      "content_block_id": 460,
+      "question": "How can I control which cookies I accept?"
+    },
+    {
+      "question_id": 1328,
+      "content_block_id": 461,
+      "question": "Why is it important to protect personal information using cookies?"
+    },
+    {
+      "question_id": 1329,
+      "content_block_id": 461,
+      "question": "Can hackers exploit vulnerabilities in cookie-based communication?"
+    },
+    {
+      "question_id": 1330,
+      "content_block_id": 461,
+      "question": "What precautions should users take when browsing on public networks?"
+    },
+    {
+      "question_id": 1331,
+      "content_block_id": 462,
+      "question": "How can I customize my cookie settings?"
+    },
+    {
+      "question_id": 1332,
+      "content_block_id": 462,
+      "question": "What steps can I take to protect myself while browsing with cookies enabled?"
+    },
+    {
+      "question_id": 1333,
+      "content_block_id": 462,
+      "question": "Why are cookies important for accessing popular websites?"
+    },
+    {
+      "question_id": 1334,
+      "content_block_id": 463,
+      "question": "Why do some websites need cookies?"
+    },
+    {
+      "question_id": 1335,
+      "content_block_id": 463,
+      "question": "Can I still see online advertisements even if I disable cookies?"
+    },
+    {
+      "question_id": 1336,
+      "content_block_id": 463,
+      "question": "How can I control which websites can place cookies on my device?"
+    }
+  ]
+}

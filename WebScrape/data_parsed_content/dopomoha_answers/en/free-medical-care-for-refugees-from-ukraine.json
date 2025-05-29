@@ -1,0 +1,70 @@
+{
+  "answers": [
+    {
+      "answer_id": 720,
+      "question_id": 720,
+      "content_block_id": 251,
+      "answer": "Yes, Ukrainians and refugees do receive free medical care provided by representatives of the International Organization for Migration in Romania - IOM Romania.",
+      "bResponse": "Yes, Ukrainians and refugees do receive free medical care provided by representatives of the International Organization for Migration in Romania - IOM Romania. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 721,
+      "question_id": 721,
+      "content_block_id": 251,
+      "answer": "Yes, they can join the community gardening initiative.",
+      "bResponse": "Yes, they can join the community gardening initiative. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 722,
+      "question_id": 722,
+      "content_block_id": 251,
+      "answer": "The representatives of the International Organization for Migration in Romania offer free medical assistance to Ukrainian citizens and individuals from various nations who have sought refuge there. You may contact IOM Romania directly by visiting their official website or calling them at +40 (31) 639-8300 for further information on their programs.",
+      "bResponse": "The representatives of the International Organization for Migration in Romania offer free medical assistance to Ukrainian citizens and individuals from various nations who have sought refuge there. You may contact IOM Romania directly by visiting their official website or calling them at +40 (31) 639-8300 for further information on their programs. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 723,
+      "question_id": 723,
+      "content_block_id": 252,
+      "answer": "The doctors speak English.",
+      "bResponse": "The doctors speak English. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 724,
+      "question_id": 724,
+      "content_block_id": 252,
+      "answer": "Yes, you need to make an appointment with the IOM representatives before seeing a doctor at RomExpo.",
+      "bResponse": "Yes, you need to make an appointment with the IOM representatives before seeing a doctor at RomExpo. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 725,
+      "question_id": 725,
+      "content_block_id": 252,
+      "answer": "The RomExpo location is on Meresti Boulevard 65-67, Bucharest 011465.",
+      "bResponse": "The RomExpo location is on Meresti Boulevard 65-67, Bucharest 011465. For more details, visit https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

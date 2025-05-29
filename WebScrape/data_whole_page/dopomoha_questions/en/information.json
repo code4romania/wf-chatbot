@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 201,
+      "content_block_id": 21,
+      "question": "What documents are required for Ukrainian citizens to enter Romania?"
+    },
+    {
+      "question_id": 202,
+      "content_block_id": 21,
+      "question": "Can unaccompanied minors cross the border into Romania?"
+    },
+    {
+      "question_id": 203,
+      "content_block_id": 21,
+      "question": "What is temporary protection status in Romania?"
+    },
+    {
+      "question_id": 204,
+      "content_block_id": 21,
+      "question": "How can one find free accommodation in Romania?"
+    },
+    {
+      "question_id": 205,
+      "content_block_id": 21,
+      "question": "Do foreign nationals have access to medical services in Romania?"
+    },
+    {
+      "question_id": 206,
+      "content_block_id": 21,
+      "question": "Can children from Ukraine attend school in Romania for free?"
+    },
+    {
+      "question_id": 207,
+      "content_block_id": 21,
+      "question": "What is the process for a foreign national to get a job in Romania?"
+    },
+    {
+      "question_id": 208,
+      "content_block_id": 21,
+      "question": "Where can Ukrainian Hryvnia (UAH) be exchanged for Romanian Lei (RON)?"
+    },
+    {
+      "question_id": 209,
+      "content_block_id": 21,
+      "question": "How does one apply for asylum in Romania?"
+    },
+    {
+      "question_id": 210,
+      "content_block_id": 21,
+      "question": "Are there organizations in Romania that specifically help the LGBTQIA+ community?"
+    }
+  ]
+}

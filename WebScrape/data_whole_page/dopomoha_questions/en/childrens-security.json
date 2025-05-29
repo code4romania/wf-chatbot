@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 291,
+      "content_block_id": 30,
+      "question": "What is the primary mission of the organization?"
+    },
+    {
+      "question_id": 292,
+      "content_block_id": 30,
+      "question": "Who are the main beneficiaries or target groups for the services?"
+    },
+    {
+      "question_id": 293,
+      "content_block_id": 30,
+      "question": "What categories of information or support are offered?"
+    },
+    {
+      "question_id": 294,
+      "content_block_id": 30,
+      "question": "In which cities or regions are the services available?"
+    },
+    {
+      "question_id": 295,
+      "content_block_id": 30,
+      "question": "How can individuals reach the support team or call center?"
+    },
+    {
+      "question_id": 296,
+      "content_block_id": 30,
+      "question": "Are there specific digital tools or programs provided to users?"
+    },
+    {
+      "question_id": 297,
+      "content_block_id": 30,
+      "question": "Is there a mechanism for users to submit feedback or suggestions?"
+    },
+    {
+      "question_id": 298,
+      "content_block_id": 30,
+      "question": "What kind of partnerships does the initiative maintain?"
+    },
+    {
+      "question_id": 299,
+      "content_block_id": 30,
+      "question": "Where can one find information regarding legal terms or privacy policies?"
+    },
+    {
+      "question_id": 300,
+      "content_block_id": 30,
+      "question": "Does the platform address topics related to children's safety and well-being?"
+    }
+  ]
+}

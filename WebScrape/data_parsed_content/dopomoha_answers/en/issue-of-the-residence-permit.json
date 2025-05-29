@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 119,
+      "question_id": 119,
+      "content_block_id": 45,
+      "answer": "The Immigration Directorate of the Bucharest Municipality is located at str. Nicolae Iorga, no. 23, in sector 10, Bucharest.",
+      "bResponse": "The Immigration Directorate of the Bucharest Municipality is located at str. Nicolae Iorga, no. 23, in sector 10, Bucharest. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 120,
+      "question_id": 120,
+      "content_block_id": 45,
+      "answer": "The Immigration Service Ilfov County provides assistance with accommodation and procedures for asylum seekers, as well as handling immigration matters within the county.",
+      "bResponse": "The Immigration Service Ilfov County provides assistance with accommodation and procedures for asylum seekers, as well as handling immigration matters within the county. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 121,
+      "question_id": 121,
+      "content_block_id": 45,
+      "answer": "Ilfov Regional Centre for Accommodation and Procedures for Asylum Seekers is responsible for accommodation and procedures for asylum seekers in Bucharest.",
+      "bResponse": "Ilfov Regional Centre for Accommodation and Procedures for Asylum Seekers is responsible for accommodation and procedures for asylum seekers in Bucharest. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 122,
+      "question_id": 122,
+      "content_block_id": 46,
+      "answer": "The Ministry of Internal Affairs is responsible for managing the Regional Centres for Accommodation and Procedures for Asylum Seekers.",
+      "bResponse": "The Ministry of Internal Affairs is responsible for managing the Regional Centres for Accommodation and Procedures for Asylum Seekers. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 123,
+      "question_id": 123,
+      "content_block_id": 46,
+      "answer": "These centers accommodate and process asylum seekers.",
+      "bResponse": "These centers accommodate and process asylum seekers. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 124,
+      "question_id": 124,
+      "content_block_id": 46,
+      "answer": "The headquarters of the Regional Centre for Accommodation and Procedures for Asylum Seekers are located in Rădăuți (C.Rădăuți, str. Perilor Nr. 2, jud. Suceava), Biroul pentru Imigrări al Județului Botoșani (Mihai Eminescu, nr. 57, jud. Botoșani), and Maramureș (Șomcuta Mare, str. Cetății, nr. 1A, jud. Maramureș).",
+      "bResponse": "The headquarters of the Regional Centre for Accommodation and Procedures for Asylum Seekers are located in Rădăuți (C.Rădăuți, str. Perilor Nr. 2, jud. Suceava), Biroul pentru Imigrări al Județului Botoșani (Mihai Eminescu, nr. 57, jud. Botoșani), and Maramureș (Șomcuta Mare, str. Cetății, nr. 1A, jud. Maramureș). For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 125,
+      "question_id": 125,
+      "content_block_id": 47,
+      "answer": "The Centrul Regional de Proceduri și Cazare is located at Mun. Galați, str. Săvinești nr. 2, jud. Galați.",
+      "bResponse": "The Centrul Regional de Proceduri și Cazare is located at Mun. Galați, str. Săvinești nr. 2, jud. Galați. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 126,
+      "question_id": 126,
+      "content_block_id": 47,
+      "answer": "Imigrantsile legate de judetul Bacau pot accesa serviciul pentru imigrari care se afla la municipiul Bacau pe strada Alexandra Tolstoy numarul 2.",
+      "bResponse": "Imigrantsile legate de judetul Bacau pot accesa serviciul pentru imigrari care se afla la municipiul Bacau pe strada Alexandra Tolstoy numarul 2. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 127,
+      "question_id": 127,
+      "content_block_id": 47,
+      "answer": "The Biroul pentru Imigrări al Județului Brăila is located in Brăila, on street Ana Aslan, number 39.",
+      "bResponse": "The Biroul pentru Imigrări al Județului Brăila is located in Brăila, on street Ana Aslan, number 39. For more details, visit https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

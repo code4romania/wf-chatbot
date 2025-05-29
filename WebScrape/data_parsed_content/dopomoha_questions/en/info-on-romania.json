@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "question_id": 28,
+      "content_block_id": 11,
+      "question": "What are the benefits of the new community gardening program?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 11,
+      "question": "How can one join the new community gardening program?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 12,
+      "question": "Why are public transport options inaccessible for people with disabilities?"
+    },
+    {
+      "question_id": 31,
+      "content_block_id": 12,
+      "question": "Can individuals with disabilities rent cars fitted with hand controls?"
+    },
+    {
+      "question_id": 32,
+      "content_block_id": 12,
+      "question": "Are there any laws or regulations governing accessibility requirements for public transport?"
+    },
+    {
+      "question_id": 33,
+      "content_block_id": 13,
+      "question": "Which holidays are included in 2023?"
+    },
+    {
+      "question_id": 34,
+      "content_block_id": 13,
+      "question": "When do most shops and businesses close each day?"
+    },
+    {
+      "question_id": 35,
+      "content_block_id": 13,
+      "question": "Are there any events planned around Romania's national day celebrations?"
+    },
+    {
+      "question_id": 36,
+      "content_block_id": 14,
+      "question": "What is the purpose of the national cancer treatment centers?"
+    },
+    {
+      "question_id": 37,
+      "content_block_id": 14,
+      "question": "Who can benefit from the HIV treatment provided by Sens Positive?"
+    },
+    {
+      "question_id": 38,
+      "content_block_id": 14,
+      "question": "How can one access the therapy offered by the NoRo center for children from Ukraine?"
+    },
+    {
+      "question_id": 39,
+      "content_block_id": 15,
+      "question": "What is the cost of buying a local SIM card?"
+    },
+    {
+      "question_id": 40,
+      "content_block_id": 15,
+      "question": "Do I need to dial a different number when calling a mobile from outside Romania?"
+    },
+    {
+      "question_id": 41,
+      "content_block_id": 15,
+      "question": "Can I find Wi-Fi almost everywhere in Romania?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 16,
+      "question": "Can I exchange UAH for RON at BCR?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 16,
+      "question": "Do I need a Ukrainian passport to exchange currency at BCR?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 16,
+      "question": "Are there any fees for using my Ukrainian-issued card at POS and ATMs?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 17,
+      "question": "What organizations offer assistance to Ukrainian refugees?"
+    },
+    {
+      "question_id": 46,
+      "content_block_id": 17,
+      "question": "Are there any specific guidelines or requirements for contacting 112?"
+    },
+    {
+      "question_id": 47,
+      "content_block_id": 17,
+      "question": "Can the Apel 112 app help users communicate their location during emergencies?"
+    },
+    {
+      "question_id": 48,
+      "content_block_id": 18,
+      "question": "What is the goal of the regional centers?"
+    },
+    {
+      "question_id": 49,
+      "content_block_id": 18,
+      "question": "How can individuals participate in the community programs?"
+    },
+    {
+      "question_id": 50,
+      "content_block_id": 18,
+      "question": "Which cities offer these services?"
+    },
+    {
+      "question_id": 51,
+      "content_block_id": 19,
+      "question": "What language is used?"
+    },
+    {
+      "question_id": 52,
+      "content_block_id": 19,
+      "question": "Where can I find the phrase book?"
+    },
+    {
+      "question_id": 53,
+      "content_block_id": 19,
+      "question": "Who can benefit from the community gardening program?"
+    },
+    {
+      "question_id": 54,
+      "content_block_id": 20,
+      "question": "What kind of resources are being requested?"
+    },
+    {
+      "question_id": 55,
+      "content_block_id": 20,
+      "question": "Are there any restrictions on who can request or provide resources?"
+    },
+    {
+      "question_id": 56,
+      "content_block_id": 20,
+      "question": "Can individuals donate their time or skills in addition to resources?"
+    },
+    {
+      "question_id": 57,
+      "content_block_id": 21,
+      "question": "How can I contribute to providing temporary accommodation?"
+    },
+    {
+      "question_id": 58,
+      "content_block_id": 21,
+      "question": "What is the process for joining the community gardening initiative?"
+    },
+    {
+      "question_id": 59,
+      "content_block_id": 21,
+      "question": "Where can I find more information about Un Acoperiș?"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question_id": 561,
+      "content_block_id": 198,
+      "question": "What are some potential consequences of widespread infectious disease?"
+    },
+    {
+      "question_id": 562,
+      "content_block_id": 198,
+      "question": "Why is it crucial for parents to get their children vaccinated?"
+    },
+    {
+      "question_id": 563,
+      "content_block_id": 198,
+      "question": "How can individuals protect themselves from contracting contagious illnesses?"
+    },
+    {
+      "question_id": 564,
+      "content_block_id": 199,
+      "question": "Why is vaccination important?"
+    },
+    {
+      "question_id": 565,
+      "content_block_id": 199,
+      "question": "Which diseases can vaccines protect against?"
+    },
+    {
+      "question_id": 566,
+      "content_block_id": 199,
+      "question": "Where can I find more information about vaccine safety?"
+    },
+    {
+      "question_id": 567,
+      "content_block_id": 200,
+      "question": "Can newborns receive vaccinations at outpatient clinics?"
+    },
+    {
+      "question_id": 568,
+      "content_block_id": 200,
+      "question": "Do BCG vaccinations protect against other diseases?"
+    },
+    {
+      "question_id": 569,
+      "content_block_id": 200,
+      "question": "Are there alternative sources for getting hepatitis B vaccinations?"
+    },
+    {
+      "question_id": 570,
+      "content_block_id": 201,
+      "question": "Which vaccines should I prioritize for my child?"
+    },
+    {
+      "question_id": 571,
+      "content_block_id": 201,
+      "question": "Can I give my child non-national vaccines instead?"
+    },
+    {
+      "question_id": 572,
+      "content_block_id": 201,
+      "question": "At what age should my child get vaccinated against rotavirus, pneumococcal infection, and flu?"
+    },
+    {
+      "question_id": 573,
+      "content_block_id": 202,
+      "question": "At what age should infants receive vaccinations according to the given information?"
+    },
+    {
+      "question_id": 574,
+      "content_block_id": 202,
+      "question": "Which diseases does the recommended vaccination series protect against?"
+    },
+    {
+      "question_id": 575,
+      "content_block_id": 202,
+      "question": "Do preemie babies have different vaccination schedules than term babies?"
+    },
+    {
+      "question_id": 576,
+      "content_block_id": 203,
+      "question": "Why is it important to get vaccinated?"
+    },
+    {
+      "question_id": 577,
+      "content_block_id": 203,
+      "question": "Can people experience side effects after receiving a COVID-19 vaccine?"
+    },
+    {
+      "question_id": 578,
+      "content_block_id": 203,
+      "question": "Do I need time off work or school after being vaccinated against COVID-19?"
+    },
+    {
+      "question_id": 579,
+      "content_block_id": 204,
+      "question": "Why are some children missing their scheduled vaccinations?"
+    },
+    {
+      "question_id": 580,
+      "content_block_id": 204,
+      "question": "Can chronic illnesses prevent a child from getting vaccinated?"
+    },
+    {
+      "question_id": 581,
+      "content_block_id": 204,
+      "question": "Are there risks associated with outbreaks of contagious diseases like polio and rubella?"
+    }
+  ]
+}

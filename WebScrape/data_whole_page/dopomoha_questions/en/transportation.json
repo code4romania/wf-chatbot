@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 111,
+      "content_block_id": 12,
+      "question": "What is the purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 112,
+      "content_block_id": 12,
+      "question": "What types of assistance are offered through the platform?"
+    },
+    {
+      "question_id": 113,
+      "content_block_id": 12,
+      "question": "What is 'Law made simple' designed to do?"
+    },
+    {
+      "question_id": 114,
+      "content_block_id": 12,
+      "question": "How does 'PTSD Help' support individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 115,
+      "content_block_id": 12,
+      "question": "What kind of resources can be requested or offered through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 12,
+      "question": "Are there organized evacuation routes from Ukraine to Romania?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 12,
+      "question": "What information is available regarding train travel in Romania?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 12,
+      "question": "Can users purchase tickets for bus or maxi-taxi services online in Romania?"
+    },
+    {
+      "question_id": 119,
+      "content_block_id": 12,
+      "question": "Are there recommended ride-sharing or taxi apps for use in Romania?"
+    },
+    {
+      "question_id": 120,
+      "content_block_id": 12,
+      "question": "How can one provide feedback or report issues related to the services?"
+    }
+  ]
+}

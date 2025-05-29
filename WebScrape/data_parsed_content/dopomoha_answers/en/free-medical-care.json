@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1013,
+      "question_id": 1013,
+      "content_block_id": 352,
+      "answer": "IOM Romania offers free medical care to Ukrainians and refugees from other countries.",
+      "bResponse": "IOM Romania offers free medical care to Ukrainians and refugees from other countries. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1014,
+      "question_id": 1014,
+      "content_block_id": 352,
+      "answer": "Yes, free medical care is offered to Ukrainians and refugees from other countries represented by the International Organization for Migration in Romania (IOM Romania).",
+      "bResponse": "Yes, free medical care is offered to Ukrainians and refugees from other countries represented by the International Organization for Migration in Romania (IOM Romania). For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1015,
+      "question_id": 1015,
+      "content_block_id": 352,
+      "answer": "IOM Romania offers medical assistance to Ukrainians and refugees in Romania.",
+      "bResponse": "IOM Romania offers medical assistance to Ukrainians and refugees in Romania. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1016,
+      "question_id": 1016,
+      "content_block_id": 353,
+      "answer": "MedZirka offers free medical services online and offline, including consultations with family doctors, therapists, and pediatricians.",
+      "bResponse": "MedZirka offers free medical services online and offline, including consultations with family doctors, therapists, and pediatricians. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1017,
+      "question_id": 1017,
+      "content_block_id": 353,
+      "answer": "Yes, after filling out the declaration, individuals can receive free consultations from various healthcare professionals at the Ukrainian clinic MedZirka.",
+      "bResponse": "Yes, after filling out the declaration, individuals can receive free consultations from various healthcare professionals at the Ukrainian clinic MedZirka. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1018,
+      "question_id": 1018,
+      "content_block_id": 353,
+      "answer": "No, you do not need to be a resident of Ukraine to benefit from MedZirka's services as they offer free medical consultations both online and offline for anyone who fills out the necessary declaration.<|system.|",
+      "bResponse": "No, you do not need to be a resident of Ukraine to benefit from MedZirka's services as they offer free medical consultations both online and offline for anyone who fills out the necessary declaration.<|system.| For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1019,
+      "question_id": 1019,
+      "content_block_id": 354,
+      "answer": "The Health Promotion Center offers free medical consultations and access to some medical services for refugees from Ukraine.",
+      "bResponse": "The Health Promotion Center offers free medical consultations and access to some medical services for refugees from Ukraine. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1020,
+      "question_id": 1020,
+      "content_block_id": 354,
+      "answer": "The French Red Cross supports the opening of this health promotion center along with the Romanian Red Cross.",
+      "bResponse": "The French Red Cross supports the opening of this health promotion center along with the Romanian Red Cross. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1021,
+      "question_id": 1021,
+      "content_block_id": 354,
+      "answer": "The Health Promotion Center is located in Bucharest.",
+      "bResponse": "The Health Promotion Center is located in Bucharest. For more details, visit https://dopomoha.ro/en/free-medical-care",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

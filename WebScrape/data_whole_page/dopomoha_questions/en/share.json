@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 91,
+      "content_block_id": 10,
+      "question": "What is the primary goal or mission of Dopomoha.ro?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 10,
+      "question": "What specific types of support, such as housing or health, does Dopomoha.ro provide?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 10,
+      "question": "In which geographical cities are Dopomoha.ro's services accessible?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 10,
+      "question": "How does the 'Law made simple' initiative help people understand their rights?"
+    },
+    {
+      "question_id": 95,
+      "content_block_id": 10,
+      "question": "What kind of assistance does 'PTSD Help' offer for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 96,
+      "content_block_id": 10,
+      "question": "How can individuals request or offer resources through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 10,
+      "question": "What is 'Un Acoperiș' and how does it assist with finding or providing temporary accommodation?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 10,
+      "question": "Is there a guide available with common Romanian expressions translated into other languages?"
+    },
+    {
+      "question_id": 99,
+      "content_block_id": 10,
+      "question": "How can someone report errors or provide feedback to Dopomoha.ro?"
+    },
+    {
+      "question_id": 100,
+      "content_block_id": 10,
+      "question": "Which organization is behind the Dopomoha.ro platform?"
+    }
+  ]
+}

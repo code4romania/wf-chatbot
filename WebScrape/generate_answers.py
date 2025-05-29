@@ -1,21 +1,20 @@
-
-# generate_answers.py
 import json
 import os
 import sys
 import re
-from DeepSeek import DeepSeek
+#from DeepSeek import DeepSeek
+from Gemini import GeminiChat
 
-chat = DeepSeek()
+chat = GeminiChat()
 
 # Languages to process
 language_map = {
     'en': 'English',
 }
 
-QUESTIONS_ROOT = "questions_dopomoha"
-SOURCE_FOLDER = "dopomoha"
-OUTPUT_ROOT = "answers_dopomoha"
+QUESTIONS_ROOT = "./data_whole_page/dopomoha_questions/"
+SOURCE_FOLDER = "./data_whole_page/dopomoha_parsed/"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_answers/"
 
 os.makedirs(OUTPUT_ROOT, exist_ok=True)
 
@@ -35,6 +34,17 @@ if __name__ == '__main__':
             if not fname.endswith('.json'):
                 continue
             page_name, _ = os.path.splitext(fname)
+            
+            # --- NEW ADDITION ---
+            # Construct the path for the output file
+            out_path = os.path.join(answers_folder, f"{page_name}.json")
+            
+            # Check if the output file already exists
+            if os.path.exists(out_path):
+                print(f"Skipping {page_name} as answers already exist in {out_path}")
+                continue # Skip to the next file
+            # --- END NEW ADDITION ---
+
             questions_data = load_json(os.path.join(questions_folder, fname))['questions']
             content_data = load_json(os.path.join(SOURCE_FOLDER, f"{page_name}.json"))
             answers_out = []
@@ -64,7 +74,6 @@ if __name__ == '__main__':
                     'fStatus': 'Scraped'
                 })
                 aid += 1
-            out_path = os.path.join(answers_folder, f"{page_name}.json")
             with open(out_path, 'w', encoding='utf-8') as f:
                 json.dump({'answers': answers_out}, f, ensure_ascii=False, indent=2)
             print(f"Wrote answers for {page_name} to {answers_folder}/{page_name}.json")

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 121,
+      "content_block_id": 13,
+      "question": "What is the mission of Dopomoha?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 13,
+      "question": "What kinds of support services are available?"
+    },
+    {
+      "question_id": 123,
+      "content_block_id": 13,
+      "question": "What types of physical locations or centers are available?"
+    },
+    {
+      "question_id": 124,
+      "content_block_id": 13,
+      "question": "How can someone contact the support organization?"
+    },
+    {
+      "question_id": 125,
+      "content_block_id": 13,
+      "question": "Is there a program called 'Law made simple' to help citizens understand their rights?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 13,
+      "question": "Does 'PTSD Help' offer assistance for Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 127,
+      "content_block_id": 13,
+      "question": "What general information is provided regarding legal status?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 13,
+      "question": "Are there specific regional centers for asylum seekers?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 13,
+      "question": "Does the organization provide services across different regions of Romania?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 13,
+      "question": "How can feedback or corrections be submitted?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 161,
+      "content_block_id": 17,
+      "question": "What is the overall purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 162,
+      "content_block_id": 17,
+      "question": "What kind of support services are available for refugees?"
+    },
+    {
+      "question_id": 163,
+      "content_block_id": 17,
+      "question": "What is the 'Law made simple' solution designed to do?"
+    },
+    {
+      "question_id": 164,
+      "content_block_id": 17,
+      "question": "What assistance does the 'PTSD Help' program provide?"
+    },
+    {
+      "question_id": 165,
+      "content_block_id": 17,
+      "question": "What is the process for enrolling a child in school or kindergarten in Romania?"
+    },
+    {
+      "question_id": 166,
+      "content_block_id": 17,
+      "question": "How can individuals continue their university studies in Romania?"
+    },
+    {
+      "question_id": 167,
+      "content_block_id": 17,
+      "question": "How are foreign academic qualifications recognized or equated in Romania?"
+    },
+    {
+      "question_id": 168,
+      "content_block_id": 17,
+      "question": "Are there accommodation or financial allowances available for Ukrainian minors in Romania?"
+    },
+    {
+      "question_id": 169,
+      "content_block_id": 17,
+      "question": "Are there specific Ukrainian schools or kindergartens operating in Romania?"
+    },
+    {
+      "question_id": 170,
+      "content_block_id": 17,
+      "question": "What free courses and activities are offered to refugees in Romania?"
+    }
+  ]
+}

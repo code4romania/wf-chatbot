@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 759,
+      "content_block_id": 264,
+      "question": "Who is eligible for the medical assistance provided by the Romanian social health insurance system?"
+    },
+    {
+      "question_id": 760,
+      "content_block_id": 264,
+      "question": "What services are included in the national curative health programs?"
+    },
+    {
+      "question_id": 761,
+      "content_block_id": 264,
+      "question": "Are there any restrictions on the medications available to those benefiting from the social health insurance system?"
+    },
+    {
+      "question_id": 762,
+      "content_block_id": 266,
+      "question": "Can anyone join the family doctor directory?"
+    },
+    {
+      "question_id": 763,
+      "content_block_id": 266,
+      "question": "Do the listed doctors accept patients without appointments?"
+    },
+    {
+      "question_id": 764,
+      "content_block_id": 266,
+      "question": "Are there any additional costs associated with using these services?"
+    },
+    {
+      "question_id": 765,
+      "content_block_id": 267,
+      "question": "What are the requirements to participate?"
+    },
+    {
+      "question_id": 766,
+      "content_block_id": 267,
+      "question": "When does the download start?"
+    },
+    {
+      "question_id": 767,
+      "content_block_id": 267,
+      "question": "Can members share their creations with others?"
+    },
+    {
+      "question_id": 768,
+      "content_block_id": 268,
+      "question": "What is covered under the social health insurance?"
+    },
+    {
+      "question_id": 769,
+      "content_block_id": 268,
+      "question": "Who is eligible for the rights of people from the armed conflict zone?"
+    },
+    {
+      "question_id": 770,
+      "content_block_id": 268,
+      "question": "How do I register for the guide?"
+    }
+  ]
+}

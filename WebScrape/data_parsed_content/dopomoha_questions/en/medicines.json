@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 860,
+      "content_block_id": 299,
+      "question": "Which medications are covered by the National Health and Welfare Fund?"
+    },
+    {
+      "question_id": 861,
+      "content_block_id": 299,
+      "question": "Who can prescribe and dispense these drugs?"
+    },
+    {
+      "question_id": 862,
+      "content_block_id": 299,
+      "question": "Are there any age restrictions for benefiting from this scheme?"
+    },
+    {
+      "question_id": 863,
+      "content_block_id": 300,
+      "question": "Can medications be prescribed and covered for conditions listed in the drug's approval documents?"
+    },
+    {
+      "question_id": 864,
+      "content_block_id": 300,
+      "question": "Are there restrictions on which doctors can prescribe certain medications?"
+    },
+    {
+      "question_id": 865,
+      "content_block_id": 300,
+      "question": "Do patients have to pay out-of-pocket for their medications?"
+    },
+    {
+      "question_id": 866,
+      "content_block_id": 301,
+      "question": "How long are electronic prescriptions valid?"
+    },
+    {
+      "question_id": 867,
+      "content_block_id": 301,
+      "question": "Can electronic prescriptions be issued in installments?"
+    },
+    {
+      "question_id": 868,
+      "content_block_id": 301,
+      "question": "For how many days can drugs be prescribed for chronic illnesses under the extended electronic signature?"
+    },
+    {
+      "question_id": 869,
+      "content_block_id": 302,
+      "question": "What is the exemption for people fleeing the war?"
+    },
+    {
+      "question_id": 870,
+      "content_block_id": 302,
+      "question": "Are medications covered under this exemption?"
+    },
+    {
+      "question_id": 871,
+      "content_block_id": 302,
+      "question": "Who is eligible for this personal contribution waiver?"
+    },
+    {
+      "question_id": 872,
+      "content_block_id": 303,
+      "question": "What are the eligibility requirements for joining?"
+    },
+    {
+      "question_id": 873,
+      "content_block_id": 303,
+      "question": "Who oversees the implementation of this initiative?"
+    },
+    {
+      "question_id": 874,
+      "content_block_id": 303,
+      "question": "Does it involve community participation?"
+    }
+  ]
+}

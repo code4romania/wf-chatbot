@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 591,
+      "content_block_id": 60,
+      "question": "What types of support are offered to refugees?"
+    },
+    {
+      "question_id": 592,
+      "content_block_id": 60,
+      "question": "Which Romanian cities are included in the support network?"
+    },
+    {
+      "question_id": 593,
+      "content_block_id": 60,
+      "question": "Are there resources available for legal assistance?"
+    },
+    {
+      "question_id": 594,
+      "content_block_id": 60,
+      "question": "Can assistance be found for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 595,
+      "content_block_id": 60,
+      "question": "How can one access psychological support services?"
+    },
+    {
+      "question_id": 596,
+      "content_block_id": 60,
+      "question": "Is there a program for accommodation, meals, and integration in Cluj-Napoca?"
+    },
+    {
+      "question_id": 597,
+      "content_block_id": 60,
+      "question": "What medical services are available or recommended?"
+    },
+    {
+      "question_id": 598,
+      "content_block_id": 60,
+      "question": "Is public transportation free for refugees in Cluj-Napoca?"
+    },
+    {
+      "question_id": 599,
+      "content_block_id": 60,
+      "question": "Are there specific services for women's health or victims of domestic violence?"
+    },
+    {
+      "question_id": 600,
+      "content_block_id": 60,
+      "question": "How can one report mistakes or provide feedback about the information?"
+    }
+  ]
+}

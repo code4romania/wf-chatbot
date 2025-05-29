@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 231,
+      "content_block_id": 24,
+      "question": "What is the main purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 232,
+      "content_block_id": 24,
+      "question": "What types of assistance are provided for individuals struggling with drug use?"
+    },
+    {
+      "question_id": 233,
+      "content_block_id": 24,
+      "question": "Are services for drug users confidential and free of charge?"
+    },
+    {
+      "question_id": 234,
+      "content_block_id": 24,
+      "question": "How can one contact the National Anti-Drug Agency for support?"
+    },
+    {
+      "question_id": 235,
+      "content_block_id": 24,
+      "question": "Does the National Anti-Drug Agency operate centers throughout Romania?"
+    },
+    {
+      "question_id": 236,
+      "content_block_id": 24,
+      "question": "What organizations in Bucharest offer drug addiction support?"
+    },
+    {
+      "question_id": 237,
+      "content_block_id": 24,
+      "question": "Are there specialized detoxification services available for minors?"
+    },
+    {
+      "question_id": 238,
+      "content_block_id": 24,
+      "question": "Where can adults access detoxification services for drug addiction?"
+    },
+    {
+      "question_id": 239,
+      "content_block_id": 24,
+      "question": "Is emergency assistance provided for overdose treatment?"
+    },
+    {
+      "question_id": 240,
+      "content_block_id": 24,
+      "question": "What general support categories are offered by the Dopomoha platform, such as housing or education?"
+    }
+  ]
+}

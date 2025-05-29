@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question_id": 149,
+      "content_block_id": 56,
+      "question": "What is the contact number for the Help-line of the Romanian Government?"
+    },
+    {
+      "question_id": 150,
+      "content_block_id": 56,
+      "question": "How can someone join the Solidarity Call Center?"
+    },
+    {
+      "question_id": 151,
+      "content_block_id": 56,
+      "question": "What languages does the Romanian Red Cross offer support in?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 57,
+      "question": "What services do they provide?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 57,
+      "question": "Who can access these medical supports?"
+    },
+    {
+      "question_id": 154,
+      "content_block_id": 57,
+      "question": "Where can I find more information?"
+    },
+    {
+      "question_id": 155,
+      "content_block_id": 58,
+      "question": "What age range does the child counseling service cater to?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 58,
+      "question": "What languages is the guidance and information line available in?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 58,
+      "question": "Does the community gardening program have a fee to participate?"
+    },
+    {
+      "question_id": 158,
+      "content_block_id": 59,
+      "question": "Can foreigners participate in the community gardening program?"
+    },
+    {
+      "question_id": 159,
+      "content_block_id": 59,
+      "question": "Do participants need to have special skills or qualifications?"
+    },
+    {
+      "question_id": 160,
+      "content_block_id": 59,
+      "question": "Where can I find more information about the registration process?"
+    },
+    {
+      "question_id": 161,
+      "content_block_id": 60,
+      "question": "What services do these helplines provide?"
+    },
+    {
+      "question_id": 162,
+      "content_block_id": 60,
+      "question": "Who can access the social assistance department at Sibiu City Hall?"
+    },
+    {
+      "question_id": 163,
+      "content_block_id": 60,
+      "question": "Can residents of Timișoara benefit from the call center?"
+    },
+    {
+      "question_id": 164,
+      "content_block_id": 61,
+      "question": "What services do these helplines provide?"
+    },
+    {
+      "question_id": 165,
+      "content_block_id": 61,
+      "question": "Who is eligible for assistance through these helplines?"
+    },
+    {
+      "question_id": 166,
+      "content_block_id": 61,
+      "question": "Can you explain how to contact the Migration and Asylum Office in the Republic of Moldova?"
+    }
+  ]
+}

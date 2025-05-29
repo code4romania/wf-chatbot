@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 421,
+      "content_block_id": 43,
+      "question": "What is the overall mission of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 422,
+      "content_block_id": 43,
+      "question": "Who is eligible to receive humanitarian support and assistance?"
+    },
+    {
+      "question_id": 423,
+      "content_block_id": 43,
+      "question": "What kind of help does the 'Law made simple' solution provide?"
+    },
+    {
+      "question_id": 424,
+      "content_block_id": 43,
+      "question": "How does 'PTSD Help' assist individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 425,
+      "content_block_id": 43,
+      "question": "What types of medical recovery services are available?"
+    },
+    {
+      "question_id": 426,
+      "content_block_id": 43,
+      "question": "Are there any personal contributions required for medical services for certain beneficiaries?"
+    },
+    {
+      "question_id": 427,
+      "content_block_id": 43,
+      "question": "In which specific cities are support services offered?"
+    },
+    {
+      "question_id": 428,
+      "content_block_id": 43,
+      "question": "What main categories of support, like housing or health, are provided?"
+    },
+    {
+      "question_id": 429,
+      "content_block_id": 43,
+      "question": "What is the typical duration for medical recovery treatments?"
+    },
+    {
+      "question_id": 430,
+      "content_block_id": 43,
+      "question": "How can one report mistakes or provide feedback about the information?"
+    }
+  ]
+}

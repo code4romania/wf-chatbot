@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 701,
+      "content_block_id": 71,
+      "question": "What types of support are available for refugees in Romania?"
+    },
+    {
+      "question_id": 702,
+      "content_block_id": 71,
+      "question": "Can Ukrainian refugees in Romania receive financial assistance?"
+    },
+    {
+      "question_id": 703,
+      "content_block_id": 71,
+      "question": "Is there support specifically for mothers with newborns among refugee populations?"
+    },
+    {
+      "question_id": 704,
+      "content_block_id": 71,
+      "question": "Are single parents or guardians eligible for childcare support allowances in Romania?"
+    },
+    {
+      "question_id": 705,
+      "content_block_id": 71,
+      "question": "What accommodation and allowances are provided for Ukrainian minors in Romania?"
+    },
+    {
+      "question_id": 706,
+      "content_block_id": 71,
+      "question": "How can persons with disabilities who are refugees access social services in Romania?"
+    },
+    {
+      "question_id": 707,
+      "content_block_id": 71,
+      "question": "Do Ukrainian children residing in Romania qualify for a state allowance?"
+    },
+    {
+      "question_id": 708,
+      "content_block_id": 71,
+      "question": "Are unemployment benefits available for refugees under temporary protection in Romania?"
+    },
+    {
+      "question_id": 709,
+      "content_block_id": 71,
+      "question": "Where can refugees find assistance for managing Post Traumatic Stress Disorder (PTSD) in Romania?"
+    },
+    {
+      "question_id": 710,
+      "content_block_id": 71,
+      "question": "Is there a resource to help citizens better understand their rights and obligations in Romania?"
+    }
+  ]
+}

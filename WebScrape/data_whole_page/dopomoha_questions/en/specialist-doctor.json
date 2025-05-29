@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 381,
+      "content_block_id": 39,
+      "question": "What types of support programs are available for refugees?"
+    },
+    {
+      "question_id": 382,
+      "content_block_id": 39,
+      "question": "What is the purpose of the 'Law made simple' initiative?"
+    },
+    {
+      "question_id": 383,
+      "content_block_id": 39,
+      "question": "What services does 'PTSD Help' provide?"
+    },
+    {
+      "question_id": 384,
+      "content_block_id": 39,
+      "question": "How can one access specialist medical consultations?"
+    },
+    {
+      "question_id": 385,
+      "content_block_id": 39,
+      "question": "Are there specific medical services for people from war zones?"
+    },
+    {
+      "question_id": 386,
+      "content_block_id": 39,
+      "question": "What kinds of psychological counseling or therapy are offered?"
+    },
+    {
+      "question_id": 387,
+      "content_block_id": 39,
+      "question": "What types of physiotherapy services are available?"
+    },
+    {
+      "question_id": 388,
+      "content_block_id": 39,
+      "question": "Is there support for individuals recovering from COVID-19?"
+    },
+    {
+      "question_id": 389,
+      "content_block_id": 39,
+      "question": "Which organizations are behind the 'Commit Global solution'?"
+    },
+    {
+      "question_id": 390,
+      "content_block_id": 39,
+      "question": "In what cities are the support services accessible?"
+    }
+  ]
+}

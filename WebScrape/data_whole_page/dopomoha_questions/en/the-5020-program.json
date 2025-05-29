@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 311,
+      "content_block_id": 32,
+      "question": "What types of support are offered to refugees in Romania?"
+    },
+    {
+      "question_id": 312,
+      "content_block_id": 32,
+      "question": "Is financial assistance available for refugee accommodation in Romania?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 32,
+      "question": "Have the support programs for Ukrainians in Romania recently changed?"
+    },
+    {
+      "question_id": 314,
+      "content_block_id": 32,
+      "question": "How can refugees in Romania find housing or temporary accommodation?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 32,
+      "question": "What documents are required to apply for refugee support in Romania?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 32,
+      "question": "Where do refugees apply for support programs in Romanian cities?"
+    },
+    {
+      "question_id": 317,
+      "content_block_id": 32,
+      "question": "Are there resources for refugees to understand their legal rights in Romania?"
+    },
+    {
+      "question_id": 318,
+      "content_block_id": 32,
+      "question": "Who can refugees contact for help with Post Traumatic Stress Disorder (PTSD) in Romania?"
+    },
+    {
+      "question_id": 319,
+      "content_block_id": 32,
+      "question": "Are there ongoing financial benefits like a Minimum Inclusion Income for refugees in Romania?"
+    },
+    {
+      "question_id": 320,
+      "content_block_id": 32,
+      "question": "Is there a call center or helpline for refugees seeking assistance in Romania?"
+    }
+  ]
+}

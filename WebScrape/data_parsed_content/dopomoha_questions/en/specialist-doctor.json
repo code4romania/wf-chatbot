@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 792,
+      "content_block_id": 276,
+      "question": "Which types of medical services are included in the basic package?"
+    },
+    {
+      "question_id": 793,
+      "content_block_id": 276,
+      "question": "Can a specialist provide consultations for chronic diseases?"
+    },
+    {
+      "question_id": 794,
+      "content_block_id": 276,
+      "question": "What kind of services are offered at palliative care clinics?"
+    },
+    {
+      "question_id": 795,
+      "content_block_id": 277,
+      "question": "Can refugees access specialized medical services without a referral ticket?"
+    },
+    {
+      "question_id": 796,
+      "content_block_id": 277,
+      "question": "What types of consultations are available for patients with chronic conditions?"
+    },
+    {
+      "question_id": 797,
+      "content_block_id": 277,
+      "question": "Are there any restrictions on remote consultations for certain diseases?"
+    },
+    {
+      "question_id": 798,
+      "content_block_id": 278,
+      "question": "Can individuals consult specialists without a prescription?"
+    },
+    {
+      "question_id": 799,
+      "content_block_id": 278,
+      "question": "Does the program prioritize refugees from Ukraine?"
+    },
+    {
+      "question_id": 800,
+      "content_block_id": 278,
+      "question": "Do participants need prior experience with gardening?"
+    },
+    {
+      "question_id": 801,
+      "content_block_id": 279,
+      "question": "What types of services are included in day hospitalization?"
+    },
+    {
+      "question_id": 802,
+      "content_block_id": 279,
+      "question": "Can psychologists provide remote psychiatric therapies?"
+    },
+    {
+      "question_id": 803,
+      "content_block_id": 279,
+      "question": "Who can recommend services provided by a physiotherapist?"
+    },
+    {
+      "question_id": 804,
+      "content_block_id": 280,
+      "question": "What are the eligibility requirements for joining this community gardening program?"
+    },
+    {
+      "question_id": 805,
+      "content_block_id": 280,
+      "question": "Does enrolling in the social health insurance system grant additional privileges to individuals from the armed conflict zone?"
+    },
+    {
+      "question_id": 806,
+      "content_block_id": 280,
+      "question": "How does participating in this community gardening initiative benefit local communities?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 301,
+      "content_block_id": 31,
+      "question": "What is the main goal of the Commit Global initiative?"
+    },
+    {
+      "question_id": 302,
+      "content_block_id": 31,
+      "question": "What types of support services are offered?"
+    },
+    {
+      "question_id": 303,
+      "content_block_id": 31,
+      "question": "Are there specific resources available for refugees?"
+    },
+    {
+      "question_id": 304,
+      "content_block_id": 31,
+      "question": "Does the initiative provide assistance for Post Traumatic Stress Disorder (PTSD)?"
+    },
+    {
+      "question_id": 305,
+      "content_block_id": 31,
+      "question": "How can citizens learn more about their legal rights and obligations?"
+    },
+    {
+      "question_id": 306,
+      "content_block_id": 31,
+      "question": "What guidance is available for families preparing for emergencies?"
+    },
+    {
+      "question_id": 307,
+      "content_block_id": 31,
+      "question": "Is there specialized support for children with disabilities?"
+    },
+    {
+      "question_id": 308,
+      "content_block_id": 31,
+      "question": "In which cities are the support services active?"
+    },
+    {
+      "question_id": 309,
+      "content_block_id": 31,
+      "question": "How can users submit feedback or report issues?"
+    },
+    {
+      "question_id": 310,
+      "content_block_id": 31,
+      "question": "What other organizations or initiatives are affiliated?"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 860,
+      "question_id": 860,
+      "content_block_id": 299,
+      "answer": "The medications covered by the National Health and Welfare Fund include those listed on the List of Compensated Drugs, which must first be approved by the government through a decision. These medications can only be prescribed for patients within the social health insurance system and can only be dispensed at community pharmacies that have contracts with health insurance companies.",
+      "bResponse": "The medications covered by the National Health and Welfare Fund include those listed on the List of Compensated Drugs, which must first be approved by the government through a decision. These medications can only be prescribed for patients within the social health insurance system and can only be dispensed at community pharmacies that have contracts with health insurance companies. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 861,
+      "question_id": 861,
+      "content_block_id": 299,
+      "answer": "The doctors who are registered under the social health insurance system can prescribe these drugs, and they can only be dispensed by community pharmacies that have contracts with health insurance houses.",
+      "bResponse": "The doctors who are registered under the social health insurance system can prescribe these drugs, and they can only be dispensed by community pharmacies that have contracts with health insurance houses. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 862,
+      "question_id": 862,
+      "content_block_id": 299,
+      "answer": "No, there are no age restrictions for benefiting from this scheme.",
+      "bResponse": "No, there are no age restrictions for benefiting from this scheme. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 863,
+      "question_id": 863,
+      "content_block_id": 300,
+      "answer": "Yes, medications can be prescribed and financially covered for conditions that can be found in the \"Summary of Product Characteristics\" (SPC) approved by the National Agency of Medicines and Medical Devices in Romania or under the conditions provided in the therapeutic protocols for those drugs restricted to prescription.",
+      "bResponse": "Yes, medications can be prescribed and financially covered for conditions that can be found in the \"Summary of Product Characteristics\" (SPC) approved by the National Agency of Medicines and Medical Devices in Romania or under the conditions provided in the therapeutic protocols for those drugs restricted to prescription. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 864,
+      "question_id": 864,
+      "content_block_id": 300,
+      "answer": "Yes, there are restrictions on which doctors can prescribe certain medications.",
+      "bResponse": "Yes, there are restrictions on which doctors can prescribe certain medications. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 865,
+      "question_id": 865,
+      "content_block_id": 300,
+      "answer": "No, patients do not have to pay out-of-pocket for their medications. Compensated drugs can be prescribed and financially covered for conditions that can be found in the \"Summary of product characteristics\" approved by the National Agency of Medicines and Medical Devices in Romania or under the conditions provided in the therapeutic protocols for those drugs restricted to prescription.",
+      "bResponse": "No, patients do not have to pay out-of-pocket for their medications. Compensated drugs can be prescribed and financially covered for conditions that can be found in the \"Summary of product characteristics\" approved by the National Agency of Medicines and Medical Devices in Romania or under the conditions provided in the therapeutic protocols for those drugs restricted to prescription. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 866,
+      "question_id": 866,
+      "content_block_id": 301,
+      "answer": "Electronic prescriptions can have different durations based on the type of illness or condition. For acute conditions, they are valid for up to 7 days; for subacute conditions, they can last between 8-10 days; and for patients with chronic illnesses, they can be valid for up to 30-31 days. However, for patients with stable chronic diseases and a consistent therapeutic regimen, prescriptions may be valid for up to 90-92 days. Online prescriptions signed with an extended electronic signature can also be issued in installments for up to 30-32 days, but their overall validity remains at 92 days.",
+      "bResponse": "Electronic prescriptions can have different durations based on the type of illness or condition. For acute conditions, they are valid for up to 7 days; for subacute conditions, they can last between 8-10 days; and for patients with chronic illnesses, they can be valid for up to 30-31 days. However, for patients with stable chronic diseases and a consistent therapeutic regimen, prescriptions may be valid for up to 90-92 days. Online prescriptions signed with an extended electronic signature can also be issued in installments for up to 30-32 days, but their overall validity remains at 92 days. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 867,
+      "question_id": 867,
+      "content_block_id": 301,
+      "answer": "Yes, electronic prescriptions can be issued in installments, provided they are online, signed by the prescriber with an extended electronic signature, and have a prescribed duration of 90/91/92 days or more. These installments should not exceed a validity of 92 days after the issue date of the prescription.",
+      "bResponse": "Yes, electronic prescriptions can be issued in installments, provided they are online, signed by the prescriber with an extended electronic signature, and have a prescribed duration of 90/91/92 days or more. These installments should not exceed a validity of 92 days after the issue date of the prescription. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 868,
+      "question_id": 868,
+      "content_block_id": 301,
+      "answer": "Drugs can be prescribed for a period of up to 90 days for patients with chronic illnesses, issued online and signed by the prescriber with an extended electronic signature.",
+      "bResponse": "Drugs can be prescribed for a period of up to 90 days for patients with chronic illnesses, issued online and signed by the prescriber with an extended electronic signature. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 869,
+      "question_id": 869,
+      "content_block_id": 302,
+      "answer": "The exemption for people fleeing the war is that they are exempted from paying the personal contribution for the medicines given in outpatient treatment.",
+      "bResponse": "The exemption for people fleeing the war is that they are exempted from paying the personal contribution for the medicines given in outpatient treatment. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 870,
+      "question_id": 870,
+      "content_block_id": 302,
+      "answer": "Yes, people who are fleeing the war in Ukraine are exempted from paying the personal contribution for the medicines given in outpatient treatment.",
+      "bResponse": "Yes, people who are fleeing the war in Ukraine are exempted from paying the personal contribution for the medicines given in outpatient treatment. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 871,
+      "question_id": 871,
+      "content_block_id": 302,
+      "answer": "Eligible individuals include those fleeing the ongoing conflict in Ukraine and seeking refuge abroad. They can receive exemption from paying the personal contribution required for medications provided during outpatient treatments.",
+      "bResponse": "Eligible individuals include those fleeing the ongoing conflict in Ukraine and seeking refuge abroad. They can receive exemption from paying the personal contribution required for medications provided during outpatient treatments. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 872,
+      "question_id": 872,
+      "content_block_id": 303,
+      "answer": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" provides information about the eligibility requirements for joining the social health insurance system in Ukraine.",
+      "bResponse": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" provides information about the eligibility requirements for joining the social health insurance system in Ukraine. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 873,
+      "question_id": 873,
+      "content_block_id": 303,
+      "answer": "The National Health Insurance House oversees the implementation of the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\".",
+      "bResponse": "The National Health Insurance House oversees the implementation of the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\". For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 874,
+      "question_id": 874,
+      "content_block_id": 303,
+      "answer": "Yes, it involves community participation.",
+      "bResponse": "Yes, it involves community participation. For more details, visit https://dopomoha.ro/en/medicines",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

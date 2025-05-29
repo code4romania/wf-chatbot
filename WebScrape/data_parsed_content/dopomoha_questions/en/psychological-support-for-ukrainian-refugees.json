@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 1385,
+      "content_block_id": 480,
+      "question": "What programs are available for mental health support?"
+    },
+    {
+      "question_id": 1386,
+      "content_block_id": 480,
+      "question": "Who can access these services for refugees?"
+    },
+    {
+      "question_id": 1387,
+      "content_block_id": 480,
+      "question": "Where can people find more information about the initiative?"
+    },
+    {
+      "question_id": 1388,
+      "content_block_id": 481,
+      "question": "What is the format of the workshops?"
+    },
+    {
+      "question_id": 1389,
+      "content_block_id": 481,
+      "question": "Who are the target audience for the workshops?"
+    },
+    {
+      "question_id": 1390,
+      "content_block_id": 481,
+      "question": "Where can I find more information about the workshops?"
+    },
+    {
+      "question_id": 1391,
+      "content_block_id": 482,
+      "question": "What are the benefits of the new community gardening program?"
+    },
+    {
+      "question_id": 1392,
+      "content_block_id": 482,
+      "question": "How can one join the new community gardening program?"
+    },
+    {
+      "question_id": 1393,
+      "content_block_id": 482,
+      "question": "Why did Aliat create this community gardening initiative?"
+    }
+  ]
+}

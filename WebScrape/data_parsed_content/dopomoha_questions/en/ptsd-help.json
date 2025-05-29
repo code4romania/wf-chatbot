@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 1469,
+      "content_block_id": 509,
+      "question": "What is PTSD?"
+    },
+    {
+      "question_id": 1470,
+      "content_block_id": 509,
+      "question": "Who can benefit from using this app?"
+    },
+    {
+      "question_id": 1471,
+      "content_block_id": 509,
+      "question": "How does the PTSD Help app help manage symptoms?"
+    }
+  ]
+}
