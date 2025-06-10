@@ -18,7 +18,7 @@ from database import SessionLocal, engine, create_db_and_tables, UserQuery, User
 
 # --- Configuration ---
 # IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
-BASE_DATA_PATH = "../WebScrape/data_whole_page"
+BASE_DATA_PATH = "./WebScrape/data_whole_page"
 LANGUAGE = "en"
 MODEL_NAME = "all-MiniLM-L6-v2" # Or "sentence-transformers/all-MiniLM-L6-v2"
 
