@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "answer_id": 771,
+      "question_id": 771,
+      "content_block_id": 269,
+      "answer": "The Fast Free Track Transfer initiative offers a quick and free way for refugees to travel from Ukraine to Romania, with support from UNHCR (United Nations High Commissioner for Refugees) and IOM (International Organization for Migration). This program aims to provide assistance and protection to those seeking refuge.",
+      "bResponse": "The Fast Free Track Transfer initiative offers a quick and free way for refugees to travel from Ukraine to Romania, with support from UNHCR (United Nations High Commissioner for Refugees) and IOM (International Organization for Migration). This program aims to provide assistance and protection to those seeking refuge. For more details, visit https://dopomoha.ro/en/buses-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 772,
+      "question_id": 772,
+      "content_block_id": 269,
+      "answer": "The fast free track transfer process from Ukraine to Romania,",
+      "bResponse": "The fast free track transfer process from Ukraine to Romania, For more details, visit https://dopomoha.ro/en/buses-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 773,
+      "question_id": 773,
+      "content_block_id": 269,
+      "answer": "Refugees can access community gardens in areas where UNHCR and IOM support fast free track transfers from Ukraine to Romania, including Moldova.",
+      "bResponse": "Refugees can access community gardens in areas where UNHCR and IOM support fast free track transfers from Ukraine to Romania, including Moldova. For more details, visit https://dopomoha.ro/en/buses-from-ukraine",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

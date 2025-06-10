@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 431,
+      "content_block_id": 44,
+      "question": "What kind of support does the Dopomoha initiative provide?"
+    },
+    {
+      "question_id": 432,
+      "content_block_id": 44,
+      "question": "Which specific solutions are designed to support refugees?"
+    },
+    {
+      "question_id": 433,
+      "content_block_id": 44,
+      "question": "What is the purpose of the 'Law made simple' program?"
+    },
+    {
+      "question_id": 434,
+      "content_block_id": 44,
+      "question": "What assistance does 'PTSD Help' offer for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 435,
+      "content_block_id": 44,
+      "question": "Are home consultations for medical emergencies available?"
+    },
+    {
+      "question_id": 436,
+      "content_block_id": 44,
+      "question": "What types of unassisted medical transportation services are provided?"
+    },
+    {
+      "question_id": 437,
+      "content_block_id": 44,
+      "question": "How can individuals request emergency medical services or transport?"
+    },
+    {
+      "question_id": 438,
+      "content_block_id": 44,
+      "question": "In which cities are the services offered?"
+    },
+    {
+      "question_id": 439,
+      "content_block_id": 44,
+      "question": "Who is the primary audience for information on rights in the social health insurance system?"
+    },
+    {
+      "question_id": 440,
+      "content_block_id": 44,
+      "question": "How can users submit feedback or report inconsistencies?"
+    }
+  ]
+}

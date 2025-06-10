@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 151,
+      "content_block_id": 16,
+      "question": "What is the overall purpose of Dopomoha?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 16,
+      "question": "What types of assistance are offered by the Commit Global solution?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 16,
+      "question": "Can refugees receive pro bono legal help?"
+    },
+    {
+      "question_id": 154,
+      "content_block_id": 16,
+      "question": "How can individuals offer support or volunteer to help vulnerable people?"
+    },
+    {
+      "question_id": 155,
+      "content_block_id": 16,
+      "question": "Are there services available for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 16,
+      "question": "What kind of support is provided for finding temporary housing?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 16,
+      "question": "Does the initiative offer information on education rights for Ukrainian children?"
+    },
+    {
+      "question_id": 158,
+      "content_block_id": 16,
+      "question": "How can one find job opportunities through the program?"
+    },
+    {
+      "question_id": 159,
+      "content_block_id": 16,
+      "question": "Which cities in Romania are included in the support network?"
+    },
+    {
+      "question_id": 160,
+      "content_block_id": 16,
+      "question": "Is a specialized call center available for assistance?"
+    }
+  ]
+}

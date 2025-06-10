@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "content_block_id": 5,
+      "question": "What is the main purpose of the Dopomoha platform?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 5,
+      "question": "What types of support services does Dopomoha provide?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 5,
+      "question": "Which cities are covered by Dopomoha's listed services?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 5,
+      "question": "What is the 'Law made simple' solution designed to help with?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 5,
+      "question": "How does 'PTSD Help' assist individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 46,
+      "content_block_id": 5,
+      "question": "Where can one find information and resources about human trafficking?"
+    },
+    {
+      "question_id": 47,
+      "content_block_id": 5,
+      "question": "Is there a guide available for what to do in case of an emergency or war?"
+    },
+    {
+      "question_id": 48,
+      "content_block_id": 5,
+      "question": "How can a person find a list of shelters in Romania?"
+    },
+    {
+      "question_id": 49,
+      "content_block_id": 5,
+      "question": "What is the procedure for reporting errors or omissions on the Dopomoha website?"
+    },
+    {
+      "question_id": 50,
+      "content_block_id": 5,
+      "question": "What other support organizations are linked through Dopomoha's useful links section?"
+    }
+  ]
+}

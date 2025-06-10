@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
-from PromptMatcher import PromptMatcher
+from backend.PromptMatcher import PromptMatcher
 
 # === 1. Reset ChatterBot DB ===
 if os.path.exists("mybot.sqlite3"):

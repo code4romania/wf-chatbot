@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 839,
+      "content_block_id": 292,
+      "question": "What type of healthcare services do they provide?"
+    },
+    {
+      "question_id": 840,
+      "content_block_id": 292,
+      "question": "Who can benefit from their outpatient or inpatient programs?"
+    },
+    {
+      "question_id": 841,
+      "content_block_id": 292,
+      "question": "Where can individuals receive physical medicine and rehabilitation?"
+    },
+    {
+      "question_id": 842,
+      "content_block_id": 293,
+      "question": "What types of treatments are available for patients?"
+    },
+    {
+      "question_id": 843,
+      "content_block_id": 293,
+      "question": "Are there any restrictions on how many days a patient can receive these treatments?"
+    },
+    {
+      "question_id": 844,
+      "content_block_id": 293,
+      "question": "Who qualifies for additional days of treatment due to their age?"
+    },
+    {
+      "question_id": 845,
+      "content_block_id": 294,
+      "question": "What is covered under the social health insurance for individuals from the armed conflict zone?"
+    },
+    {
+      "question_id": 846,
+      "content_block_id": 294,
+      "question": "Who is eligible for the benefits provided by the guide?"
+    },
+    {
+      "question_id": 847,
+      "content_block_id": 294,
+      "question": "Are there any age restrictions for accessing healthcare services?"
+    }
+  ]
+}

@@ -1,0 +1,2446 @@
+{
+  "entering-romania": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      }
+    ]
+  },
+  "my-rights": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "+"
+      }
+    ]
+  },
+  "about": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      }
+    ]
+  },
+  "info-on-romania": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      }
+    ]
+  },
+  "stay-safe": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "dopomohaapp": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      }
+    ]
+  },
+  "applying-for-asylum": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      }
+    ]
+  },
+  "useful-resources": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      }
+    ]
+  },
+  "phrase-book": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.prose",
+        "child_tag": "table"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      }
+    ]
+  },
+  "share": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      }
+    ]
+  },
+  "regional-centers-for-procedures-and-accommodation-for-asylum-seekers": {
+    "selector": "body > main > div > div.md\\:col-span-2.empty\\:hidden",
+    "rules": [
+      {
+        "tag": "hr",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "h1",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "transportation": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "issue-of-the-residence-permit": {
+    "selector": "main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      }
+    ]
+  },
+  "legal-status": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      }
+    ]
+  },
+  "call-center": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "sprijin": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "education": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 10,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "financial-support-from-unhcr": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid > div.md\\:col-span-2 > div.prose",
+        "child_tag": "p"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.prose",
+        "child_tag": "p"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "dl > div > dd > div.prose",
+        "child_tag": "p"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.grid > div > div.flex-1 > dd.prose",
+        "child_tag": "p"
+      }
+    ]
+  },
+  "main-page": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "sanatate": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "information": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_relative_path": "dl",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "temporary-protection": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      }
+    ]
+  },
+  "short-stay": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      }
+    ]
+  },
+  "support-for-drug-users": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "childrens-nutrition": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.bg-white",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "div.bg-white",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "dl > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "*",
+        "child_relative_path": "div.bg-white",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "vaccination": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.prose",
+        "child_tag": "img"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "psychological-support-for-children": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "legal-help": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "hygiene": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "dl > div.py-4",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "childrens-security": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white > div.px-4 > dd",
+        "child_tag": "p"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "dl > div.py-4 > dd > div.prose",
+        "child_tag": "p"
+      }
+    ]
+  },
+  "taking-care-of-children-with-disabilities": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.prose",
+        "child_tag": "p"
+      }
+    ]
+  },
+  "the-5020-program": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "+"
+      }
+    ]
+  },
+  "free-medical-care-for-refugees-from-ukraine": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "job-for-refugees-from-ukraine-in-romania": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 10,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 11,
+        "type": "-"
+      }
+    ]
+  },
+  "romanian-eng": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "family-doctor-for-refugees-from-ukraine": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      }
+    ]
+  },
+  "buses-from-ukraine": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white",
+        "child_tag": "dd"
+      }
+    ]
+  },
+  "laboratory-analysis": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      }
+    ]
+  },
+  "specialist-doctor": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      }
+    ]
+  },
+  "assistance-in-the-hospital": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      }
+    ]
+  },
+  "dentist": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white > div.px-4.py-5.sm\\:p-6.flex-1 > dd",
+        "child_tag": "p"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white",
+        "child_tag": "p, a"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.prose",
+        "child_tag": "p"
+      }
+    ]
+  },
+  "medicine-and-rehabilitation-services": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      }
+    ]
+  },
+  "medical-recovery-in-hospitals": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "emergency-consultations": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "medicines": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      }
+    ]
+  },
+  "medical-devices": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "patients-with-covid-19": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      }
+    ]
+  },
+  "pregnant-women-from-ukraine": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "national-curative-health-programs": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "medical-assistance-for-refugees": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "education-useful-information": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "medzirka": {
+    "selector": "main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "health-promotion-center": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      }
+    ]
+  },
+  "free-medical-care": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "dopomoha-brasov": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.bg-white",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-timisoara": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-constanta": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "-"
+      }
+    ]
+  },
+  "dopomoha-galati": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-suceava": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-cluj-napoca": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-iasi": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-braila": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-oradea": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div.bg-white",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "terms-and-conditions": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 10,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 11,
+        "type": "+"
+      }
+    ]
+  },
+  "cookie-policy": {
+    "selector": "body > main > div.container",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 10,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 11,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 12,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 13,
+        "type": "+"
+      }
+    ]
+  },
+  "dopomoha-sibiu": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "+"
+      }
+    ]
+  },
+  "psychological-support-for-ukrainian-refugees": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid > div",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "human-trafficking": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 8,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 9,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 10,
+        "type": "+"
+      }
+    ]
+  },
+  "integration": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 3,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 4,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 5,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 6,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      },
+      {
+        "tag": "div",
+        "index": 7,
+        "type": "*",
+        "child_relative_path": "div.grid",
+        "child_tag": "div"
+      }
+    ]
+  },
+  "ptsd-help": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "-"
+      },
+      {
+        "tag": "div",
+        "index": 2,
+        "type": "+"
+      }
+    ]
+  },
+  "social-benefits-for-refugees": {
+    "selector": "body > main > div",
+    "rules": [
+      {
+        "tag": "div",
+        "index": 0,
+        "type": "+"
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "type": "*",
+        "child_relative_path": "div",
+        "child_tag": "div"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 21,
+      "content_block_id": 3,
+      "question": "What is Dopomoha?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 3,
+      "question": "Who is the Dopomoha platform intended to help?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 3,
+      "question": "What kind of information can be found on Dopomoha?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 3,
+      "question": "In which languages is Dopomoha accessible?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 3,
+      "question": "How can one use or access the Dopomoha platform?"
+    },
+    {
+      "question_id": 26,
+      "content_block_id": 3,
+      "question": "Which organizations collaborated to create Dopomoha?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 3,
+      "question": "Does Dopomoha include resources for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 3,
+      "question": "Does Dopomoha offer assistance with understanding legal rights?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 3,
+      "question": "Are there specific Romanian cities mentioned in relation to Dopomoha's scope?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 3,
+      "question": "How can feedback or issues related to Dopomoha be reported?"
+    }
+  ]
+}

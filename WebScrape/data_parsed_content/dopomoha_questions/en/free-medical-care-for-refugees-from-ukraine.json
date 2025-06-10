@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question_id": 720,
+      "content_block_id": 251,
+      "question": "Do Ukrainians and refugees receive free medical care?"
+    },
+    {
+      "question_id": 721,
+      "content_block_id": 251,
+      "question": "Can individuals participate in the community gardening initiative?"
+    },
+    {
+      "question_id": 722,
+      "content_block_id": 251,
+      "question": "Where can people access more information about the IOM Romania programs?"
+    },
+    {
+      "question_id": 723,
+      "content_block_id": 252,
+      "question": "What languages do the doctors speak?"
+    },
+    {
+      "question_id": 724,
+      "content_block_id": 252,
+      "question": "Do I need an appointment to see a doctor?"
+    },
+    {
+      "question_id": 725,
+      "content_block_id": 252,
+      "question": "Where is the RomExpo location?"
+    }
+  ]
+}

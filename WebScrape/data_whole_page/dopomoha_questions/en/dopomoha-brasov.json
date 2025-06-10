@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 541,
+      "content_block_id": 55,
+      "question": "What is the main purpose of the Dopomoha platform?"
+    },
+    {
+      "question_id": 542,
+      "content_block_id": 55,
+      "question": "Which cities in Romania offer support through the Dopomoha platform?"
+    },
+    {
+      "question_id": 543,
+      "content_block_id": 55,
+      "question": "What types of general support categories are available for refugees?"
+    },
+    {
+      "question_id": 544,
+      "content_block_id": 55,
+      "question": "How can Ukrainian refugees register for assistance at the CATTIA Community Center in Brașov?"
+    },
+    {
+      "question_id": 545,
+      "content_block_id": 55,
+      "question": "Are medical services provided free of charge for refugees in Brașov?"
+    },
+    {
+      "question_id": 546,
+      "content_block_id": 55,
+      "question": "What organizations offer psychological support to refugees?"
+    },
+    {
+      "question_id": 547,
+      "content_block_id": 55,
+      "question": "In what languages can psychological support be accessed?"
+    },
+    {
+      "question_id": 548,
+      "content_block_id": 55,
+      "question": "How can Ukrainian children enroll in the education system in Brașov?"
+    },
+    {
+      "question_id": 549,
+      "content_block_id": 55,
+      "question": "Is public transportation free for refugees in Brașov?"
+    },
+    {
+      "question_id": 550,
+      "content_block_id": 55,
+      "question": "What services are available for women, including victims of domestic violence?"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "answers": [
+    {
+      "answer_id": 1007,
+      "question_id": 1007,
+      "content_block_id": 350,
+      "answer": "Every refugee from Ukraine can benefit from the Health Promotion Center.",
+      "bResponse": "Every refugee from Ukraine can benefit from the Health Promotion Center. For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1008,
+      "question_id": 1008,
+      "content_block_id": 350,
+      "answer": "The Health Promotion Center offers free medical consultations and access to certain medical services for refugees from Ukraine.",
+      "bResponse": "The Health Promotion Center offers free medical consultations and access to certain medical services for refugees from Ukraine. For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1009,
+      "question_id": 1009,
+      "content_block_id": 350,
+      "answer": "The Health Promotion Center is located in Bucharest, Romania.",
+      "bResponse": "The Health Promotion Center is located in Bucharest, Romania. For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1010,
+      "question_id": 1010,
+      "content_block_id": 351,
+      "answer": "The Health Promotion Center provides consultations with specialists such as pediatricians, cardiologists, diabetologists, ophthalmologists, and dentists. Services include ultrasounds, ECGs, blood pressure checks, and glucose level tests. Additionally, they offer psychological support for refugees of all ages. The Red Cross helps with language assistance in English, Russian, or Ukrainian. Appointments can be scheduled by calling specific phone numbers during working hours on weekdays.",
+      "bResponse": "The Health Promotion Center provides consultations with specialists such as pediatricians, cardiologists, diabetologists, ophthalmologists, and dentists. Services include ultrasounds, ECGs, blood pressure checks, and glucose level tests. Additionally, they offer psychological support for refugees of all ages. The Red Cross helps with language assistance in English, Russian, or Ukrainian. Appointments can be scheduled by calling specific phone numbers during working hours on weekdays. For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1011,
+      "question_id": 1011,
+      "content_block_id": 351,
+      "answer": "To make an appointment at the Health Promotion Center, one should call the provided phone number (0747 278 486 or 0748 185 714) during their working hours (Monday to Friday from 10.00 to 18.00).",
+      "bResponse": "To make an appointment at the Health Promotion Center, one should call the provided phone number (0747 278 486 or 0748 185 714) during their working hours (Monday to Friday from 10.00 to 18.00). For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 1012,
+      "question_id": 1012,
+      "content_block_id": 351,
+      "answer": "The Red Cross offers help with translation in English, Russian, and Ukrainian languages for a better communication with the doctors at the Health Promotion Center.",
+      "bResponse": "The Red Cross offers help with translation in English, Russian, and Ukrainian languages for a better communication with the doctors at the Health Promotion Center. For more details, visit https://dopomoha.ro/en/health-promotion-center",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

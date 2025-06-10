@@ -12,7 +12,7 @@ class GeminiChat(ChatSession):
     """
     Google Gemini implementation of ChatSession using the GenerativeModel API.
     """
-    def __init__(self, api_key: str = None, model: str = "gemini-1.5-flash-latest", temperature: float = 0.7):
+    def __init__(self, api_key: str = None, model: str = "gemini-2.5-flash-preview-05-20", temperature: float = 0.7):
 
         resolved_api_key = api_key if api_key else os.environ.get("GOOGLE_API_KEY")
         if not resolved_api_key:
@@ -102,6 +102,7 @@ class GeminiChat(ChatSession):
         except ResourceExhausted as e:
             # Specific error for rate limits
             # print(f"Rate limit hit for Gemini. Retrying in 3 seconds. Error: {e}") # Optional: for debugging
+            print(e)
             time.sleep(3)
             return self.send(prompt) # Recursive call for retry
         except InvalidArgument as e:

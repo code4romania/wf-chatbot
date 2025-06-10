@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 1094,
+      "content_block_id": 380,
+      "question": "What are some tips for enjoying my first day in Constanța?"
+    },
+    {
+      "question_id": 1095,
+      "content_block_id": 380,
+      "question": "Who can provide assistance with navigating the local transportation system?"
+    },
+    {
+      "question_id": 1096,
+      "content_block_id": 380,
+      "question": "Are there any upcoming events or festivals happening in the area?"
+    },
+    {
+      "question_id": 1097,
+      "content_block_id": 382,
+      "question": "What are some advantages of participating in this housing initiative?"
+    },
+    {
+      "question_id": 1098,
+      "content_block_id": 382,
+      "question": "Can individuals receive legal assistance while living in these accommodations?"
+    },
+    {
+      "question_id": 1099,
+      "content_block_id": 382,
+      "question": "Are there resources available for finding suitable employment within the community?"
+    },
+    {
+      "question_id": 1100,
+      "content_block_id": 383,
+      "question": "What kind of support does the Women's Center offer?"
+    },
+    {
+      "question_id": 1101,
+      "content_block_id": 383,
+      "question": "Can anyone access the services provided by the center?"
+    },
+    {
+      "question_id": 1102,
+      "content_block_id": 383,
+      "question": "Where is the Women's Center located?"
+    },
+    {
+      "question_id": 1103,
+      "content_block_id": 384,
+      "question": "What kind of services does the Regional HIV Center offer?"
+    },
+    {
+      "question_id": 1104,
+      "content_block_id": 384,
+      "question": "Do I have to be living with HIV to access their services?"
+    },
+    {
+      "question_id": 1105,
+      "content_block_id": 384,
+      "question": "Where can I find more information about this support network?"
+    }
+  ]
+}

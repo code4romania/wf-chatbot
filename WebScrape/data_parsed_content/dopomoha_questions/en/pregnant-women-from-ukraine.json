@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question_id": 899,
+      "content_block_id": 312,
+      "question": "What types of consultations are included in the primary medical assistance?"
+    },
+    {
+      "question_id": 900,
+      "content_block_id": 312,
+      "question": "What is the duration and frequency of prenatal checkups during pregnancy?"
+    },
+    {
+      "question_id": 901,
+      "content_block_id": 312,
+      "question": "Are there any health screenings required for the pregnant woman?"
+    },
+    {
+      "question_id": 902,
+      "content_block_id": 313,
+      "question": "What does the family doctor do during the first appointment of the pregnant woman?"
+    },
+    {
+      "question_id": 903,
+      "content_block_id": 313,
+      "question": "Does the family doctor provide information about pregnancy-related health issues?"
+    },
+    {
+      "question_id": 904,
+      "content_block_id": 313,
+      "question": "Can the family doctor prescribe medication for prenatal care?"
+    },
+    {
+      "question_id": 905,
+      "content_block_id": 314,
+      "question": "Which medical services are included in the basic medical services package?"
+    },
+    {
+      "question_id": 906,
+      "content_block_id": 314,
+      "question": "Can obstetrical ultrasounds be performed by non-specialists?"
+    },
+    {
+      "question_id": 907,
+      "content_block_id": 314,
+      "question": "Are there any conditions detected during second and first trimester obstetrical ultrasounds?"
+    },
+    {
+      "question_id": 908,
+      "content_block_id": 315,
+      "question": "What does the supervision of a normal pregnancy cover?"
+    },
+    {
+      "question_id": 909,
+      "content_block_id": 315,
+      "question": "Who provides the medical services for prenatal screening?"
+    },
+    {
+      "question_id": 910,
+      "content_block_id": 315,
+      "question": "Where can one go for obstetrics-gynecology specialist consultations?"
+    },
+    {
+      "question_id": 911,
+      "content_block_id": 316,
+      "question": "What kind of specialists perform the prenatal screening?"
+    },
+    {
+      "question_id": 912,
+      "content_block_id": 316,
+      "question": "Which types of healthcare facilities offer this mandatory service?"
+    },
+    {
+      "question_id": 913,
+      "content_block_id": 316,
+      "question": "Do patients need a referral to access the double/triple test?"
+    },
+    {
+      "question_id": 914,
+      "content_block_id": 317,
+      "question": "What are the qualifications required to perform obstetric and gynecological ultrasounds?"
+    },
+    {
+      "question_id": 915,
+      "content_block_id": 317,
+      "question": "Who can access the mandatory services provided by obstetrics-gynecology specialist hospitals?"
+    },
+    {
+      "question_id": 916,
+      "content_block_id": 317,
+      "question": "How can one obtain certification in obstetric and gynecological ultrasonography?"
+    },
+    {
+      "question_id": 917,
+      "content_block_id": 318,
+      "question": "Which medical specialists are required to perform ultrasounds?"
+    },
+    {
+      "question_id": 918,
+      "content_block_id": 318,
+      "question": "Where can patients receive specialized care for mild hyperemesis gravidarum?"
+    },
+    {
+      "question_id": 919,
+      "content_block_id": 318,
+      "question": "Do hospitals need to have obstetrics and gynecology departments to offer these services?"
+    },
+    {
+      "question_id": 920,
+      "content_block_id": 319,
+      "question": "Which hospitals and healthcare facilities offer obstetrics-gynecology specialist consultations?"
+    },
+    {
+      "question_id": 921,
+      "content_block_id": 319,
+      "question": "Are there any prerequisites required to participate in the mandatory services provided?"
+    },
+    {
+      "question_id": 922,
+      "content_block_id": 319,
+      "question": "Can family members accompany pregnant women during cardiotocography appointments?"
+    },
+    {
+      "question_id": 923,
+      "content_block_id": 320,
+      "question": "What services are offered in the day hospitalization?"
+    },
+    {
+      "question_id": 924,
+      "content_block_id": 320,
+      "question": "Which conditions qualify a woman for high-risk pregnancy monitoring?"
+    },
+    {
+      "question_id": 925,
+      "content_block_id": 320,
+      "question": "What genetic tests are performed on amniocentesis and cordocentesis?"
+    }
+  ]
+}

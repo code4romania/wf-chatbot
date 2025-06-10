@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 241,
+      "content_block_id": 25,
+      "question": "What types of support services are available?"
+    },
+    {
+      "question_id": 242,
+      "content_block_id": 25,
+      "question": "Which specific cities are served by the programs?"
+    },
+    {
+      "question_id": 243,
+      "content_block_id": 25,
+      "question": "What are the key solutions offered to support refugees?"
+    },
+    {
+      "question_id": 244,
+      "content_block_id": 25,
+      "question": "What is the aim of the \"Law made simple\" initiative?"
+    },
+    {
+      "question_id": 245,
+      "content_block_id": 25,
+      "question": "How does \"PTSD Help\" assist individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 246,
+      "content_block_id": 25,
+      "question": "What is the importance of continuing breastfeeding in emergency situations?"
+    },
+    {
+      "question_id": 247,
+      "content_block_id": 25,
+      "question": "Are there direct contact options for breastfeeding support or lactation consultations?"
+    },
+    {
+      "question_id": 248,
+      "content_block_id": 25,
+      "question": "What are the guidelines for feeding infants under six months if breastfeeding is not possible?"
+    },
+    {
+      "question_id": 249,
+      "content_block_id": 25,
+      "question": "What types of food are recommended for emergency stock for children?"
+    },
+    {
+      "question_id": 250,
+      "content_block_id": 25,
+      "question": "How can one provide feedback or report errors about the information?"
+    }
+  ]
+}

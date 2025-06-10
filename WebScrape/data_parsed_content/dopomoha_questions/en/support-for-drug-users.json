@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 534,
+      "content_block_id": 188,
+      "question": "How can I access the support provided by the National Anti-Drug Agency?"
+    },
+    {
+      "question_id": 535,
+      "content_block_id": 188,
+      "question": "Do I have to disclose my drug use history to receive assistance from the agency?"
+    },
+    {
+      "question_id": 536,
+      "content_block_id": 188,
+      "question": "Are there any age restrictions for accessing their services?"
+    }
+  ]
+}

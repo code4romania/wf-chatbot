@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 1247,
+      "content_block_id": 433,
+      "question": "What is the purpose of managing in a new city?"
+    },
+    {
+      "question_id": 1248,
+      "content_block_id": 433,
+      "question": "Who can provide assistance during my stay in Oradea?"
+    },
+    {
+      "question_id": 1249,
+      "content_block_id": 433,
+      "question": "Which activities or programs are available for me to participate in?"
+    },
+    {
+      "question_id": 1250,
+      "content_block_id": 434,
+      "question": "Can international citizens contact Bihor County Immigration Service?"
+    },
+    {
+      "question_id": 1251,
+      "content_block_id": 434,
+      "question": "What services does the Bihor County Immigration Service offer?"
+    },
+    {
+      "question_id": 1252,
+      "content_block_id": 434,
+      "question": "Who can reach out to the Call centerBihor pentru Ucraina?"
+    },
+    {
+      "question_id": 1253,
+      "content_block_id": 435,
+      "question": "What are the eligibility requirements?"
+    },
+    {
+      "question_id": 1254,
+      "content_block_id": 435,
+      "question": "Are there any age restrictions?"
+    },
+    {
+      "question_id": 1255,
+      "content_block_id": 435,
+      "question": "Does membership have any associated costs?"
+    },
+    {
+      "question_id": 1256,
+      "content_block_id": 436,
+      "question": "What services does the Women's Center offer?"
+    },
+    {
+      "question_id": 1257,
+      "content_block_id": 436,
+      "question": "Can anyone access their support programs?"
+    },
+    {
+      "question_id": 1258,
+      "content_block_id": 436,
+      "question": "Where is the Women's Center located?"
+    },
+    {
+      "question_id": 1259,
+      "content_block_id": 437,
+      "question": "What kind of services do they offer?"
+    },
+    {
+      "question_id": 1260,
+      "content_block_id": 437,
+      "question": "Who provides the support?"
+    },
+    {
+      "question_id": 1261,
+      "content_block_id": 437,
+      "question": "Where can I find these centers?"
+    }
+  ]
+}

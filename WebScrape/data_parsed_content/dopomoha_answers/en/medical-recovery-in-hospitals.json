@@ -1,0 +1,70 @@
+{
+  "answers": [
+    {
+      "answer_id": 848,
+      "question_id": 848,
+      "content_block_id": 295,
+      "answer": "Physical medicine and rehabilitation medical services are provided in spa sanatoriums for inpatient medical recovery. These services may be granted for a maximum duration of 14-21 days per year, divided into a maximum of two fractions, upon the recommendation of the prescribing physician. Services include a minimum of 4 procedures/day for minimum 5 days/week.",
+      "bResponse": "Physical medicine and rehabilitation medical services are provided in spa sanatoriums for inpatient medical recovery. These services may be granted for a maximum duration of 14-21 days per year, divided into a maximum of two fractions, upon the recommendation of the prescribing physician. Services include a minimum of 4 procedures/day for minimum 5 days/week. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 849,
+      "question_id": 849,
+      "content_block_id": 295,
+      "answer": "Family medicine doctors/specialists in the ambulatory and in the hospital determine the criteria for referring patients to physical medicine and rehabilitation treatments.",
+      "bResponse": "Family medicine doctors/specialists in the ambulatory and in the hospital determine the criteria for referring patients to physical medicine and rehabilitation treatments. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 850,
+      "question_id": 850,
+      "content_block_id": 295,
+      "answer": "Yes, beneficiaries of the Emergency Ordinance no.15/2022 regarding the provision of humanitarian support and assistance by the Romanian state to foreign citizens or stateless persons in special situations, coming from the area of armed conflict in Ukraine (with subsequent amendments and additions), are not requested personal contribution for medical services.",
+      "bResponse": "Yes, beneficiaries of the Emergency Ordinance no.15/2022 regarding the provision of humanitarian support and assistance by the Romanian state to foreign citizens or stateless persons in special situations, coming from the area of armed conflict in Ukraine (with subsequent amendments and additions), are not requested personal contribution for medical services. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 851,
+      "question_id": 851,
+      "content_block_id": 296,
+      "answer": "To participate in the community gardening program, individuals must be residents of the area where the garden exists and meet specific income guidelines based on their household size.",
+      "bResponse": "To participate in the community gardening program, individuals must be residents of the area where the garden exists and meet specific income guidelines based on their household size. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 852,
+      "question_id": 852,
+      "content_block_id": 296,
+      "answer": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" states that those who have fled or been displaced due to the ongoing conflict in eastern Ukraine and reside in other regions may be eligible for benefits under this program.",
+      "bResponse": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" states that those who have fled or been displaced due to the ongoing conflict in eastern Ukraine and reside in other regions may be eligible for benefits under this program. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 853,
+      "question_id": 853,
+      "content_block_id": 296,
+      "answer": "To join the community gardening initiative, individuals must first register at the local government office and obtain an ID card with a unique identifier number. This can be done online or in person at any time during regular working hours. Once registered, they will receive further instructions on how to participate in the program.",
+      "bResponse": "To join the community gardening initiative, individuals must first register at the local government office and obtain an ID card with a unique identifier number. This can be done online or in person at any time during regular working hours. Once registered, they will receive further instructions on how to participate in the program. For more details, visit https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 501,
+      "content_block_id": 51,
+      "question": "What kind of support is offered by Dopomoha?"
+    },
+    {
+      "question_id": 502,
+      "content_block_id": 51,
+      "question": "Which cities are covered by the available support services?"
+    },
+    {
+      "question_id": 503,
+      "content_block_id": 51,
+      "question": "What is \"Law made simple\"?"
+    },
+    {
+      "question_id": 504,
+      "content_block_id": 51,
+      "question": "How does \"PTSD Help\" assist individuals?"
+    },
+    {
+      "question_id": 505,
+      "content_block_id": 51,
+      "question": "Are there educational resources available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 506,
+      "content_block_id": 51,
+      "question": "Does JRS Romania offer kindergarten and school programs?"
+    },
+    {
+      "question_id": 507,
+      "content_block_id": 51,
+      "question": "What services does the Angel Appeal Romanian Foundation provide for children?"
+    },
+    {
+      "question_id": 508,
+      "content_block_id": 51,
+      "question": "Where are the \"Ostrovok\" Educational Hubs located?"
+    },
+    {
+      "question_id": 509,
+      "content_block_id": 51,
+      "question": "Is there an official online school from the Ministry of Education of Ukraine?"
+    },
+    {
+      "question_id": 510,
+      "content_block_id": 51,
+      "question": "Can digital textbooks be accessed for self-study?"
+    }
+  ]
+}

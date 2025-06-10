@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 875,
+      "question_id": 875,
+      "content_block_id": 304,
+      "answer": "Outpatient medical devices include ENT prosthetic devices, ostomy prosthetic devices, urinary retention and/or incontinence devices, limb prostheses, spine or limb orthoses, footwear orthotics, devices for visual impairment, equipment for oxygen therapy and non-invasive ventilation, devices for aerosol therapy, walking devices, and external breast prostheses.",
+      "bResponse": "Outpatient medical devices include ENT prosthetic devices, ostomy prosthetic devices, urinary retention and/or incontinence devices, limb prostheses, spine or limb orthoses, footwear orthotics, devices for visual impairment, equipment for oxygen therapy and non-invasive ventilation, devices for aerosol therapy, walking devices, and external breast prostheses. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 876,
+      "question_id": 876,
+      "content_block_id": 304,
+      "answer": "Foreign citizens or stateless persons in special situations, beneficiaries of the Emergency Ordinance no.15/2022, are eligible for the free medical devices.",
+      "bResponse": "Foreign citizens or stateless persons in special situations, beneficiaries of the Emergency Ordinance no.15/2022, are eligible for the free medical devices. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 877,
+      "question_id": 877,
+      "content_block_id": 304,
+      "answer": "Yes, for certain medical devices with prices higher than those established by CNAS (National Authority for Medical Assistance), the insured person may be required to cover part of the cost.",
+      "bResponse": "Yes, for certain medical devices with prices higher than those established by CNAS (National Authority for Medical Assistance), the insured person may be required to cover part of the cost. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 878,
+      "question_id": 878,
+      "content_block_id": 305,
+      "answer": "To qualify for oxygen therapy equipment and non-invasive ventilation, you must meet certain criteria set forth by your healthcare provider and supported by a medical prescription. This includes having a valid classification certificate stating your level and type of disability for these treatments. Additionally, if you are under 14 years old, you may need a specific document such as a child's birth certificate along with the medical prescription.",
+      "bResponse": "To qualify for oxygen therapy equipment and non-invasive ventilation, you must meet certain criteria set forth by your healthcare provider and supported by a medical prescription. This includes having a valid classification certificate stating your level and type of disability for these treatments. Additionally, if you are under 14 years old, you may need a specific document such as a child's birth certificate along with the medical prescription. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 879,
+      "question_id": 879,
+      "content_block_id": 305,
+      "answer": "The patient, a first or second degree relative, spouse, or legal representative is responsible for picking up the device from the health insurance house.",
+      "bResponse": "The patient, a first or second degree relative, spouse, or legal representative is responsible for picking up the device from the health insurance house. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 880,
+      "question_id": 880,
+      "content_block_id": 305,
+      "answer": "When applying for a device, you need to submit various documents such as a copy of your ID, the medical prescription, and the classification certificate (for specific types of devices). Additionally, if the applicant is under 14 years old, they must provide their birth certificate. These documents can either be submitted directly to the health insurance house or sent through postal services or online platforms.",
+      "bResponse": "When applying for a device, you need to submit various documents such as a copy of your ID, the medical prescription, and the classification certificate (for specific types of devices). Additionally, if the applicant is under 14 years old, they must provide their birth certificate. These documents can either be submitted directly to the health insurance house or sent through postal services or online platforms. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 881,
+      "question_id": 881,
+      "content_block_id": 306,
+      "answer": "The new community gardening program provides various benefits such as promoting healthy eating habits, conserving water and soil resources, reducing air pollution, fostering social connections among participants, enhancing public spaces, creating job opportunities, increasing food security, and preserving biodiversity.",
+      "bResponse": "The new community gardening program provides various benefits such as promoting healthy eating habits, conserving water and soil resources, reducing air pollution, fostering social connections among participants, enhancing public spaces, creating job opportunities, increasing food security, and preserving biodiversity. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 882,
+      "question_id": 882,
+      "content_block_id": 306,
+      "answer": "To join the new community gardening program, individuals should visit the local authorities or relevant organizations within their communities and inquire about available opportunities and necessary procedures for joining the program.",
+      "bResponse": "To join the new community gardening program, individuals should visit the local authorities or relevant organizations within their communities and inquire about available opportunities and necessary procedures for joining the program. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 883,
+      "question_id": 883,
+      "content_block_id": 306,
+      "answer": "The National Health Insurance House published this guide.",
+      "bResponse": "The National Health Insurance House published this guide. For more details, visit https://dopomoha.ro/en/medical-devices",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

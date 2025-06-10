@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 451,
+      "content_block_id": 46,
+      "question": "What is the primary goal of the Dopomoha program?"
+    },
+    {
+      "question_id": 452,
+      "content_block_id": 46,
+      "question": "What types of humanitarian assistance are offered to foreign citizens?"
+    },
+    {
+      "question_id": 453,
+      "content_block_id": 46,
+      "question": "Does the Law made simple program explain legal rights?"
+    },
+    {
+      "question_id": 454,
+      "content_block_id": 46,
+      "question": "What kind of aid does the PTSD Help assistant provide?"
+    },
+    {
+      "question_id": 455,
+      "content_block_id": 46,
+      "question": "Are medical devices covered for patients?"
+    },
+    {
+      "question_id": 456,
+      "content_block_id": 46,
+      "question": "Which Romanian cities offer support services?"
+    },
+    {
+      "question_id": 457,
+      "content_block_id": 46,
+      "question": "How can individuals access a call center for inquiries?"
+    },
+    {
+      "question_id": 458,
+      "content_block_id": 46,
+      "question": "Who are the key partners involved in delivering support?"
+    },
+    {
+      "question_id": 459,
+      "content_block_id": 46,
+      "question": "What information is available regarding legal status?"
+    },
+    {
+      "question_id": 460,
+      "content_block_id": 46,
+      "question": "Is there a way to report issues or provide feedback?"
+    }
+  ]
+}

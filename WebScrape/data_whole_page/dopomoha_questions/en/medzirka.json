@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 511,
+      "content_block_id": 52,
+      "question": "What is the Dopomoha initiative?"
+    },
+    {
+      "question_id": 512,
+      "content_block_id": 52,
+      "question": "What kind of support is available for refugees?"
+    },
+    {
+      "question_id": 513,
+      "content_block_id": 52,
+      "question": "How does 'Law made simple' help people?"
+    },
+    {
+      "question_id": 514,
+      "content_block_id": 52,
+      "question": "What assistance does 'PTSD Help' offer?"
+    },
+    {
+      "question_id": 515,
+      "content_block_id": 52,
+      "question": "Are medical services provided by MedZirka?"
+    },
+    {
+      "question_id": 516,
+      "content_block_id": 52,
+      "question": "In which cities are support services accessible?"
+    },
+    {
+      "question_id": 517,
+      "content_block_id": 52,
+      "question": "How can someone contact for more information or assistance?"
+    },
+    {
+      "question_id": 518,
+      "content_block_id": 52,
+      "question": "What types of medical conditions are covered by the health services?"
+    },
+    {
+      "question_id": 519,
+      "content_block_id": 52,
+      "question": "Are there any legal terms or conditions for using the support services?"
+    },
+    {
+      "question_id": 520,
+      "content_block_id": 52,
+      "question": "What other organizations are partnered with the support effort?"
+    }
+  ]
+}

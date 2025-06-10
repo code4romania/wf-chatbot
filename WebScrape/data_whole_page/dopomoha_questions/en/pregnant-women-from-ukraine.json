@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 471,
+      "content_block_id": 48,
+      "question": "What is the main goal of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 472,
+      "content_block_id": 48,
+      "question": "Who is eligible to receive support from the Commit Global solution?"
+    },
+    {
+      "question_id": 473,
+      "content_block_id": 48,
+      "question": "What specific assistance does 'Law made simple' offer?"
+    },
+    {
+      "question_id": 474,
+      "content_block_id": 48,
+      "question": "How does 'PTSD Help' assist individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 475,
+      "content_block_id": 48,
+      "question": "What medical services are available for pregnant women?"
+    },
+    {
+      "question_id": 476,
+      "content_block_id": 48,
+      "question": "In which cities are the support services accessible?"
+    },
+    {
+      "question_id": 477,
+      "content_block_id": 48,
+      "question": "What kind of help can be obtained from the Women's Center?"
+    },
+    {
+      "question_id": 478,
+      "content_block_id": 48,
+      "question": "How can users provide feedback or report issues with the services?"
+    },
+    {
+      "question_id": 479,
+      "content_block_id": 48,
+      "question": "What organizations are partnered in providing the solutions?"
+    },
+    {
+      "question_id": 480,
+      "content_block_id": 48,
+      "question": "Does the program offer support beyond medical assistance, such as housing or education?"
+    }
+  ]
+}

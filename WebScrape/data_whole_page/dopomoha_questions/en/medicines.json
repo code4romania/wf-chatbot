@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 441,
+      "content_block_id": 45,
+      "question": "What is the main goal of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 442,
+      "content_block_id": 45,
+      "question": "How does the health insurance system compensate for prescribed medicines?"
+    },
+    {
+      "question_id": 443,
+      "content_block_id": 45,
+      "question": "Who is qualified to receive compensated medications?"
+    },
+    {
+      "question_id": 444,
+      "content_block_id": 45,
+      "question": "Which medical professionals are authorized to issue prescriptions for compensated drugs?"
+    },
+    {
+      "question_id": 445,
+      "content_block_id": 45,
+      "question": "What are the different validity periods for medical prescriptions?"
+    },
+    {
+      "question_id": 446,
+      "content_block_id": 45,
+      "question": "What percentage of a drug's cost is typically covered by health insurance?"
+    },
+    {
+      "question_id": 447,
+      "content_block_id": 45,
+      "question": "Can compensated medications be obtained from any pharmacy nationwide?"
+    },
+    {
+      "question_id": 448,
+      "content_block_id": 45,
+      "question": "Are there any exemptions for refugees from Ukraine regarding medicine payments?"
+    },
+    {
+      "question_id": 449,
+      "content_block_id": 45,
+      "question": "How can users submit feedback or report inaccuracies in the provided information?"
+    },
+    {
+      "question_id": 450,
+      "content_block_id": 45,
+      "question": "What other types of support, beyond health, does the project offer?"
+    }
+  ]
+}

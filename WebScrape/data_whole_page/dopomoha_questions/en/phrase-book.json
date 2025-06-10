@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 81,
+      "content_block_id": 9,
+      "question": "What kind of support does the Dopomoha initiative provide?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 9,
+      "question": "Who is the Dopomoha initiative designed to help?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 9,
+      "question": "What are the key features of the Law made simple program?"
+    },
+    {
+      "question_id": 84,
+      "content_block_id": 9,
+      "question": "How does the PTSD Help assistant function?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 9,
+      "question": "What types of assistance are available through the Dopomoha platform?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 9,
+      "question": "In which cities are Dopomoha services offered?"
+    },
+    {
+      "question_id": 87,
+      "content_block_id": 9,
+      "question": "What languages are supported by the Dopomoha platform?"
+    },
+    {
+      "question_id": 88,
+      "content_block_id": 9,
+      "question": "How can one request or offer resources via Sprijin de Urgență?"
+    },
+    {
+      "question_id": 89,
+      "content_block_id": 9,
+      "question": "What is the process for finding or offering temporary accommodation through Un Acoperiș?"
+    },
+    {
+      "question_id": 90,
+      "content_block_id": 9,
+      "question": "How can users provide feedback or report issues to Dopomoha?"
+    }
+  ]
+}

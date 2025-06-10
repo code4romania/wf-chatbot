@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 1,
+      "answer": "Yes, they can apply for temporary protection in Romania.",
+      "bResponse": "Yes, they can apply for temporary protection in Romania. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 1,
+      "answer": "To join the community gardening program, you must meet specific eligibility criteria and complete necessary steps, such as applying through official channels, securing land, forming partnerships, and obtaining permits if required.",
+      "bResponse": "To join the community gardening program, you must meet specific eligibility criteria and complete necessary steps, such as applying through official channels, securing land, forming partnerships, and obtaining permits if required. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 1,
+      "answer": "One can submit an application for asylum in Romania by applying at a later point within Romania.",
+      "bResponse": "One can submit an application for asylum in Romania by applying at a later point within Romania. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 2,
+      "answer": "Yes, Ukrainian nationals who are able to present a valid passport at the border crossing can enter Romania. However, they can also enter as an asylum seeker if they don't have any other documents.",
+      "bResponse": "Yes, Ukrainian nationals who are able to present a valid passport at the border crossing can enter Romania. However, they can also enter as an asylum seeker if they don't have any other documents. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 2,
+      "answer": "There are two types of entry available for asylum seekers - they can either enter as an asylum seeker or temporarily protected individuals, depending on their specific circumstances.",
+      "bResponse": "There are two types of entry available for asylum seekers - they can either enter as an asylum seeker or temporarily protected individuals, depending on their specific circumstances. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 6,
+      "content_block_id": 2,
+      "answer": "The temporary protection is granted for a period of one year and can be automatically extended for periods of 6 months, for a maximum of one year, if the generating situation persists.",
+      "bResponse": "The temporary protection is granted for a period of one year and can be automatically extended for periods of 6 months, for a maximum of one year, if the generating situation persists. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 7,
+      "content_block_id": 4,
+      "answer": "Volunteers and various resources such as food, products, clothing, tents, transportation, and more are being requested.",
+      "bResponse": "Volunteers and various resources such as food, products, clothing, tents, transportation, and more are being requested. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 8,
+      "content_block_id": 4,
+      "answer": "Yes, individuals can volunteer their time and skills at this event or initiative by offering resources such as assistance with transportation, supplies, or even emotional support for those affected by the situation.",
+      "bResponse": "Yes, individuals can volunteer their time and skills at this event or initiative by offering resources such as assistance with transportation, supplies, or even emotional support for those affected by the situation. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 9,
+      "content_block_id": 4,
+      "answer": "Yes, there are specific guidelines and requirements for offering resources on Sprijin de Urgență.",
+      "bResponse": "Yes, there are specific guidelines and requirements for offering resources on Sprijin de Urgență. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 10,
+      "content_block_id": 5,
+      "answer": "Access Unacoperis for information about the types of accommodations available and how to find them.",
+      "bResponse": "Access Unacoperis for information about the types of accommodations available and how to find them. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 11,
+      "content_block_id": 5,
+      "answer": "Access to Un Acoperiș can be provided for those seeking temporary accommodation and willing to provide a space for vulnerable individuals who have recently arrived in Romania.",
+      "bResponse": "Access to Un Acoperiș can be provided for those seeking temporary accommodation and willing to provide a space for vulnerable individuals who have recently arrived in Romania. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 12,
+      "content_block_id": 5,
+      "answer": "Yes, individuals can contribute by offering their own spaces for others to stay. To access such opportunities and learn more about this initiative, please visit \"Access Un Acoperiș!\" and search or offer accommodation.",
+      "bResponse": "Yes, individuals can contribute by offering their own spaces for others to stay. To access such opportunities and learn more about this initiative, please visit \"Access Un Acoperiș!\" and search or offer accommodation. For more details, visit https://dopomoha.ro/en/entering-romania",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

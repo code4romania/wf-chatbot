@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 108,
+      "content_block_id": 40,
+      "question": "What services or resources can people request on this platform?"
+    },
+    {
+      "question_id": 109,
+      "content_block_id": 40,
+      "question": "Can individuals or organizations offer their support on this platform?"
+    },
+    {
+      "question_id": 110,
+      "content_block_id": 40,
+      "question": "Which types of assistance or aid are currently being provided through this initiative?"
+    },
+    {
+      "question_id": 111,
+      "content_block_id": 41,
+      "question": "When do the evacuation buses depart from Odessa?"
+    },
+    {
+      "question_id": 112,
+      "content_block_id": 41,
+      "question": "Who can participate in the bus rides from Odessa to Palanca?"
+    },
+    {
+      "question_id": 113,
+      "content_block_id": 41,
+      "question": "Where can I find more information about the organization behind this initiative?"
+    },
+    {
+      "question_id": 114,
+      "content_block_id": 42,
+      "question": "What modes of transportation are used for the transfer?"
+    },
+    {
+      "question_id": 115,
+      "content_block_id": 42,
+      "question": "Who organizes the transportation from Ukraine to Romania via Moldova?Where do refugees receive assistance upon arrival in Romania?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 43,
+      "question": "What services does Rescue 4x4 provide?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 43,
+      "question": "Does one need their own transportation to use the service offered by Rescue 4x4?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 43,
+      "question": "How can one request assistance from Rescue 4x4 for an emergency situation?"
+    }
+  ]
+}

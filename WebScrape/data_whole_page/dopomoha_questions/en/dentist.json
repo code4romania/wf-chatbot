@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 401,
+      "content_block_id": 41,
+      "question": "What is Dopomoha?"
+    },
+    {
+      "question_id": 402,
+      "content_block_id": 41,
+      "question": "What is the purpose of the Commit Global solution?"
+    },
+    {
+      "question_id": 403,
+      "content_block_id": 41,
+      "question": "What services does 'Law made simple' offer to citizens?"
+    },
+    {
+      "question_id": 404,
+      "content_block_id": 41,
+      "question": "How does 'PTSD Help' assist individuals?"
+    },
+    {
+      "question_id": 405,
+      "content_block_id": 41,
+      "question": "What dental services are available for refugees from Ukraine in Romania?"
+    },
+    {
+      "question_id": 406,
+      "content_block_id": 41,
+      "question": "What is the coverage percentage for dentistry services for different age groups of refugees?"
+    },
+    {
+      "question_id": 407,
+      "content_block_id": 41,
+      "question": "In which cities are support services provided?"
+    },
+    {
+      "question_id": 408,
+      "content_block_id": 41,
+      "question": "How can one view a list of dentists working with the National Insurance House?"
+    },
+    {
+      "question_id": 409,
+      "content_block_id": 41,
+      "question": "Where can official information on the rights of people from the armed conflict zone in Ukraine be found?"
+    },
+    {
+      "question_id": 410,
+      "content_block_id": 41,
+      "question": "How can one report errors or provide feedback about the information?"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 19,
+      "content_block_id": 8,
+      "question": "What kind of assistance does the Dopomoha platform provide?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 8,
+      "question": "Who is involved in creating and supporting the Dopomoha platform?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 8,
+      "question": "Where can refugees access the Dopomoha platform?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 9,
+      "question": "Benefits of participating in the new community gardening program?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 9,
+      "question": "How do I download the DOPOMOHA poster?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 9,
+      "question": "Where can I find information about sharing the poster at important locations?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 10,
+      "question": "What are the key features of this initiative?"
+    },
+    {
+      "question_id": 26,
+      "content_block_id": 10,
+      "question": "Who can participate in this program?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 10,
+      "question": "Are there any success stories from previous initiatives like this?"
+    }
+  ]
+}

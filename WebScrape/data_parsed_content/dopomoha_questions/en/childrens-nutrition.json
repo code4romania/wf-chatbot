@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question_id": 537,
+      "content_block_id": 190,
+      "question": "What are some tips for ensuring a balanced diet for children?"
+    },
+    {
+      "question_id": 538,
+      "content_block_id": 190,
+      "question": "Why is breastfeeding important for infants?"
+    },
+    {
+      "question_id": 539,
+      "content_block_id": 190,
+      "question": "How can parents prepare for emergencies and ensure their child's nutritional needs are met?"
+    },
+    {
+      "question_id": 540,
+      "content_block_id": 191,
+      "question": "Why is frequent breastfeeding necessary during stressful situations?"
+    },
+    {
+      "question_id": 541,
+      "content_block_id": 191,
+      "question": "Can stress negatively affect milk production in mothers?"
+    },
+    {
+      "question_id": 542,
+      "content_block_id": 191,
+      "question": "According to experts, how many times per day should a baby be fed according to demand?"
+    },
+    {
+      "question_id": 543,
+      "content_block_id": 192,
+      "question": "Can breastfeeding help provide emotional support during emergencies?"
+    },
+    {
+      "question_id": 544,
+      "content_block_id": 192,
+      "question": "What happens to a child's immune system when they experience high levels of stress?"
+    },
+    {
+      "question_id": 545,
+      "content_block_id": 192,
+      "question": "Are there any dietary restrictions that could impact a mother's ability to breastfeed?"
+    },
+    {
+      "question_id": 546,
+      "content_block_id": 193,
+      "question": "What are the benefits of the Support for refugee women program?"
+    },
+    {
+      "question_id": 547,
+      "content_block_id": 193,
+      "question": "How can I access the counseling and prenatal education services provided by the Support for refugee women program?"
+    },
+    {
+      "question_id": 548,
+      "content_block_id": 193,
+      "question": "Do refugee women living outside Romania have access to the Support for refugee women program?"
+    },
+    {
+      "question_id": 549,
+      "content_block_id": 194,
+      "question": "Can infants under six months old safely drink animal milk?"
+    },
+    {
+      "question_id": 550,
+      "content_block_id": 194,
+      "question": "Why is it important to properly prepare dry infant formula?"
+    },
+    {
+      "question_id": 551,
+      "content_block_id": 194,
+      "question": "What are some tips for cleaning feeding bottles when traveling?"
+    },
+    {
+      "question_id": 552,
+      "content_block_id": 195,
+      "question": "What are some tips for providing a balanced diet to young children?"
+    },
+    {
+      "question_id": 553,
+      "content_block_id": 195,
+      "question": "Why is it important for infants to have a varied diet?"
+    },
+    {
+      "question_id": 554,
+      "content_block_id": 195,
+      "question": "At what age should babies start solid foods?"
+    },
+    {
+      "question_id": 555,
+      "content_block_id": 196,
+      "question": "What are some tips for successful breastfeeding?"
+    },
+    {
+      "question_id": 556,
+      "content_block_id": 196,
+      "question": "Can you provide examples of reproductive health issues?"
+    },
+    {
+      "question_id": 557,
+      "content_block_id": 196,
+      "question": "Where can I find resources related to women's health?"
+    },
+    {
+      "question_id": 558,
+      "content_block_id": 197,
+      "question": "Benefits of joining this community gardening program?"
+    },
+    {
+      "question_id": 559,
+      "content_block_id": 197,
+      "question": "Can anyone join this community gardening program?"
+    },
+    {
+      "question_id": 560,
+      "content_block_id": 197,
+      "question": "Do you need experience with gardening to participate?"
+    }
+  ]
+}

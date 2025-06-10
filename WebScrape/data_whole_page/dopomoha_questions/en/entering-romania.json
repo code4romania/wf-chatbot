@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 1,
+      "question": "What kind of support is available for individuals entering Romania?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 1,
+      "question": "Are there specific programs to help refugees with legal information?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 1,
+      "question": "Is psychological support offered to people experiencing trauma?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 1,
+      "question": "What are the different ways a person can enter Romania?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 1,
+      "question": "Are there specific requirements for Ukrainian nationals entering Romania?"
+    },
+    {
+      "question_id": 6,
+      "content_block_id": 1,
+      "question": "Do children need special documents to cross the border into Romania?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 1,
+      "question": "What are the rules for bringing pets into Romania?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 1,
+      "question": "Are there any COVID-19 related entry requirements for Romania?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 1,
+      "question": "How can one find temporary accommodation in Romania?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 1,
+      "question": "Where can individuals find assistance with basic resources like food or clothing in Romania?"
+    }
+  ]
+}

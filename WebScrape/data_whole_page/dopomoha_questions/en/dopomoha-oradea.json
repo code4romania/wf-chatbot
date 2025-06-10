@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 621,
+      "content_block_id": 63,
+      "question": "What is the main purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 622,
+      "content_block_id": 63,
+      "question": "What types of assistance are offered to refugees?"
+    },
+    {
+      "question_id": 623,
+      "content_block_id": 63,
+      "question": "In which Romanian cities can one access support services?"
+    },
+    {
+      "question_id": 624,
+      "content_block_id": 63,
+      "question": "Are there resources to help citizens understand their legal rights?"
+    },
+    {
+      "question_id": 625,
+      "content_block_id": 63,
+      "question": "Is psychological support available for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 626,
+      "content_block_id": 63,
+      "question": "How can individuals find assistance with housing and accommodation?"
+    },
+    {
+      "question_id": 627,
+      "content_block_id": 63,
+      "question": "What medical services are provided through the program?"
+    },
+    {
+      "question_id": 628,
+      "content_block_id": 63,
+      "question": "Is educational assistance for children available?"
+    },
+    {
+      "question_id": 629,
+      "content_block_id": 63,
+      "question": "Are services offered for victims of domestic violence or for reproductive health?"
+    },
+    {
+      "question_id": 630,
+      "content_block_id": 63,
+      "question": "Can individuals living with HIV receive counseling and support?"
+    }
+  ]
+}

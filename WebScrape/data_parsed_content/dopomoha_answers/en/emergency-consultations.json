@@ -1,0 +1,70 @@
+{
+  "answers": [
+    {
+      "answer_id": 854,
+      "question_id": 854,
+      "content_block_id": 297,
+      "answer": "No",
+      "bResponse": "No For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 855,
+      "question_id": 855,
+      "content_block_id": 297,
+      "answer": "No, patients do not have to pay extra for using these services beyond the minimum package, as they are included in the additional benefits without any limitations.",
+      "bResponse": "No, patients do not have to pay extra for using these services beyond the minimum package, as they are included in the additional benefits without any limitations. For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 856,
+      "question_id": 856,
+      "content_block_id": 297,
+      "answer": "The dispatcher analyzes the situation described and determines which type of ambulance to send when a patient calls the emergency service 112 for home consultations.",
+      "bResponse": "The dispatcher analyzes the situation described and determines which type of ambulance to send when a patient calls the emergency service 112 for home consultations. For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 857,
+      "question_id": 857,
+      "content_block_id": 298,
+      "answer": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" provides information about the eligibility criteria for individuals from the armed conflict zone in Ukraine who wish to access the social health insurance system.",
+      "bResponse": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" provides information about the eligibility criteria for individuals from the armed conflict zone in Ukraine who wish to access the social health insurance system. For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 858,
+      "question_id": 858,
+      "content_block_id": 298,
+      "answer": "The National Health Insurance House manages the social health insurance system.",
+      "bResponse": "The National Health Insurance House manages the social health insurance system. For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 859,
+      "question_id": 859,
+      "content_block_id": 298,
+      "answer": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" states that the community garden program benefits participants by promoting healthy eating habits and access to fresh produce, fostering a sense of community among residents, reducing stress levels through gardening activities, improving mental well-being, contributing to environmental sustainability, supporting local food systems, and creating employment opportunities for gardeners.",
+      "bResponse": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" states that the community garden program benefits participants by promoting healthy eating habits and access to fresh produce, fostering a sense of community among residents, reducing stress levels through gardening activities, improving mental well-being, contributing to environmental sustainability, supporting local food systems, and creating employment opportunities for gardeners. For more details, visit https://dopomoha.ro/en/emergency-consultations",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

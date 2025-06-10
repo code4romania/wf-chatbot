@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 1193,
+      "content_block_id": 414,
+      "question": "What can I do to get involved with the community garden?"
+    },
+    {
+      "question_id": 1194,
+      "content_block_id": 414,
+      "question": "Are there any events or workshops related to community gardening happening soon?"
+    },
+    {
+      "question_id": 1195,
+      "content_block_id": 414,
+      "question": "Where can I find more information about the community garden initiative?"
+    },
+    {
+      "question_id": 1196,
+      "content_block_id": 416,
+      "question": "What services are offered at the Women's Center?"
+    },
+    {
+      "question_id": 1197,
+      "content_block_id": 416,
+      "question": "How can someone access reproductive healthcare at the Women's Center?"
+    },
+    {
+      "question_id": 1198,
+      "content_block_id": 416,
+      "question": "Where can I go for support with domestic violence?"
+    },
+    {
+      "question_id": 1199,
+      "content_block_id": 417,
+      "question": "What kind of services does accesconsilierehiv.ro offer?"
+    },
+    {
+      "question_id": 1200,
+      "content_block_id": 417,
+      "question": "Do they provide support specifically for people living with HIV?"
+    },
+    {
+      "question_id": 1201,
+      "content_block_id": 417,
+      "question": "Can international visitors access their services?"
+    }
+  ]
+}

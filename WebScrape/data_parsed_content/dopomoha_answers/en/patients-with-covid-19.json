@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 884,
+      "question_id": 884,
+      "content_block_id": 307,
+      "answer": "Yes, medical services and medicines are covered for everyone diagnosed with COVID-19, including insured persons, uninsured persons, and other persons on Romanian territory.",
+      "bResponse": "Yes, medical services and medicines are covered for everyone diagnosed with COVID-19, including insured persons, uninsured persons, and other persons on Romanian territory. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 885,
+      "question_id": 885,
+      "content_block_id": 307,
+      "answer": "Insured persons, uninsured persons, and other individuals within Romanian territory who have been diagnosed with COVID-19 can receive coverage for all necessary medical services and medications through the FNUASS program.",
+      "bResponse": "Insured persons, uninsured persons, and other individuals within Romanian territory who have been diagnosed with COVID-19 can receive coverage for all necessary medical services and medications through the FNUASS program. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 886,
+      "question_id": 886,
+      "content_block_id": 307,
+      "answer": "Yes, the FNUASS covers all necessary medical services and medications for those diagnosed with COVID-19 within Romania regardless of whether they are insured or not, as well as any other individuals present on Romanian territory who have been diagnosed with COVID-19.",
+      "bResponse": "Yes, the FNUASS covers all necessary medical services and medications for those diagnosed with COVID-19 within Romania regardless of whether they are insured or not, as well as any other individuals present on Romanian territory who have been diagnosed with COVID-19. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 887,
+      "question_id": 887,
+      "content_block_id": 308,
+      "answer": "Remote consultations offered by family doctor or specialist doctor, evaluation center services for those without oxygen therapy, mild to moderate symptoms & 2+ risk factors, Post-Covid-19 Syndrome Evaluation service, Continuous oxygen administration device for severe respiratory insufficiency, Noninvasive ventilation for certain conditions, Physical therapy, Psychological counseling, Psychotherapy (under recommendation from doctors in cardiology and pneumology)",
+      "bResponse": "Remote consultations offered by family doctor or specialist doctor, evaluation center services for those without oxygen therapy, mild to moderate symptoms & 2+ risk factors, Post-Covid-19 Syndrome Evaluation service, Continuous oxygen administration device for severe respiratory insufficiency, Noninvasive ventilation for certain conditions, Physical therapy, Psychological counseling, Psychotherapy (under recommendation from doctors in cardiology and pneumology) For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 888,
+      "question_id": 888,
+      "content_block_id": 308,
+      "answer": "Those who suffer from moderate or severe respiratory insufficiency after COVID-19 or those who have been diagnosed with SARS-CoV-2 virus can benefit from a Continuous Oxygen Administration Device. This includes patients who pass through a specific triage system for infection with the SARS-CoV-2 virus.",
+      "bResponse": "Those who suffer from moderate or severe respiratory insufficiency after COVID-19 or those who have been diagnosed with SARS-CoV-2 virus can benefit from a Continuous Oxygen Administration Device. This includes patients who pass through a specific triage system for infection with the SARS-CoV-2 virus. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 889,
+      "question_id": 889,
+      "content_block_id": 308,
+      "answer": "Physical therapy, psychological counseling and psychotherapy are available for post-COVID-19 conditions.",
+      "bResponse": "Physical therapy, psychological counseling and psychotherapy are available for post-COVID-19 conditions. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 890,
+      "question_id": 890,
+      "content_block_id": 309,
+      "answer": "Here's a link to download a list of family medicine offices in Bucharest where you can get a covid vaccination. The list is available in Romanian.",
+      "bResponse": "Here's a link to download a list of family medicine offices in Bucharest where you can get a covid vaccination. The list is available in Romanian. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 891,
+      "question_id": 891,
+      "content_block_id": 309,
+      "answer": "Yes, you may need an appointment to receive a COVID-19 vaccine at these locations.",
+      "bResponse": "Yes, you may need an appointment to receive a COVID-19 vaccine at these locations. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 892,
+      "question_id": 892,
+      "content_block_id": 309,
+      "answer": "Yes, minors under a certain age can also receive the COVID-19 vaccine at these locations.",
+      "bResponse": "Yes, minors under a certain age can also receive the COVID-19 vaccine at these locations. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 893,
+      "question_id": 893,
+      "content_block_id": 310,
+      "answer": "The new community gardening program provides numerous benefits such as promoting healthy eating habits, reducing food insecurity and hunger, fostering social connections, improving mental health, contributing to environmental sustainability, enhancing physical activity levels, and offering educational opportunities for children and adults alike.",
+      "bResponse": "The new community gardening program provides numerous benefits such as promoting healthy eating habits, reducing food insecurity and hunger, fostering social connections, improving mental health, contributing to environmental sustainability, enhancing physical activity levels, and offering educational opportunities for children and adults alike. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 894,
+      "question_id": 894,
+      "content_block_id": 310,
+      "answer": "To join the new community gardening program, you need to download the list containing all the necessary information about joining and participating in the program.",
+      "bResponse": "To join the new community gardening program, you need to download the list containing all the necessary information about joining and participating in the program. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 895,
+      "question_id": 895,
+      "content_block_id": 310,
+      "answer": "No prior experience is required for participating in the Download List event.",
+      "bResponse": "No prior experience is required for participating in the Download List event. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 896,
+      "question_id": 896,
+      "content_block_id": 311,
+      "answer": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" provides detailed information about what is covered under the social health insurance system for those affected by the ongoing conflict in Ukraine.",
+      "bResponse": "The \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" provides detailed information about what is covered under the social health insurance system for those affected by the ongoing conflict in Ukraine. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 897,
+      "question_id": 897,
+      "content_block_id": 311,
+      "answer": "People from the armed conflict zone in Ukraine are eligible for the rights outlined in this guide.",
+      "bResponse": "People from the armed conflict zone in Ukraine are eligible for the rights outlined in this guide. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 898,
+      "question_id": 898,
+      "content_block_id": 311,
+      "answer": "Individuals can access support related to the armed conflict zone by referring to the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\", published by the National Health Insurance House.",
+      "bResponse": "Individuals can access support related to the armed conflict zone by referring to the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\", published by the National Health Insurance House. For more details, visit https://dopomoha.ro/en/patients-with-covid-19",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

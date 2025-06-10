@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 601,
+      "content_block_id": 61,
+      "question": "What is the primary goal of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 602,
+      "content_block_id": 61,
+      "question": "Which specific groups of people are eligible for support from Dopomoha?"
+    },
+    {
+      "question_id": 603,
+      "content_block_id": 61,
+      "question": "What types of assistance and services does Dopomoha offer?"
+    },
+    {
+      "question_id": 604,
+      "content_block_id": 61,
+      "question": "Is the 'Law made simple' resource freely available to users?"
+    },
+    {
+      "question_id": 605,
+      "content_block_id": 61,
+      "question": "Does 'PTSD Help' provide complimentary assistance for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 606,
+      "content_block_id": 61,
+      "question": "In which geographical locations or cities does Dopomoha provide its support services?"
+    },
+    {
+      "question_id": 607,
+      "content_block_id": 61,
+      "question": "Are there specific programs or resources related to housing assistance offered by Dopomoha?"
+    },
+    {
+      "question_id": 608,
+      "content_block_id": 61,
+      "question": "Can individuals access psychological support services through the Dopomoha platform?"
+    },
+    {
+      "question_id": 609,
+      "content_block_id": 61,
+      "question": "Does Dopomoha provide information or courses for learning the Romanian language?"
+    },
+    {
+      "question_id": 610,
+      "content_block_id": 61,
+      "question": "How can users submit feedback or report any issues regarding Dopomoha's services?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 171,
+      "content_block_id": 18,
+      "question": "What types of solutions are available to support refugees?"
+    },
+    {
+      "question_id": 172,
+      "content_block_id": 18,
+      "question": "How can refugees access cash assistance through UNHCR?"
+    },
+    {
+      "question_id": 173,
+      "content_block_id": 18,
+      "question": "What are the eligibility requirements for UNHCR cash assistance?"
+    },
+    {
+      "question_id": 174,
+      "content_block_id": 18,
+      "question": "How much financial support does UNHCR provide as cash assistance?"
+    },
+    {
+      "question_id": 175,
+      "content_block_id": 18,
+      "question": "Where are the enrollment centers for UNHCR cash assistance located?"
+    },
+    {
+      "question_id": 176,
+      "content_block_id": 18,
+      "question": "What documents are required to register for UNHCR cash assistance?"
+    },
+    {
+      "question_id": 177,
+      "content_block_id": 18,
+      "question": "Why are fingerprints collected for UNHCR cash assistance?"
+    },
+    {
+      "question_id": 178,
+      "content_block_id": 18,
+      "question": "Are bank account details necessary for receiving UNHCR cash assistance?"
+    },
+    {
+      "question_id": 179,
+      "content_block_id": 18,
+      "question": "Can individuals receiving other forms of aid also qualify for UNHCR cash assistance?"
+    },
+    {
+      "question_id": 180,
+      "content_block_id": 18,
+      "question": "What is the process for picking up cash assistance from UNHCR?"
+    }
+  ]
+}

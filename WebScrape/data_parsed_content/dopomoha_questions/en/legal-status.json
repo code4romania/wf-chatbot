@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question_id": 128,
+      "content_block_id": 49,
+      "question": "Can individuals obtain temporary protection or asylum status in Romania?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 49,
+      "question": "What are the rights of those holding temporary protection or asylum status in Romania?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 49,
+      "question": "How can a person apply for asylum in Romania after entering the country?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 50,
+      "question": "Who is eligible for temporary protection?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 50,
+      "question": "Can Ukrainian citizens visit Romania without a visa?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 50,
+      "question": "How can someone apply for asylum in Romania?"
+    },
+    {
+      "question_id": 134,
+      "content_block_id": 51,
+      "question": "What are the requirements for obtaining temporary protection?"
+    },
+    {
+      "question_id": 135,
+      "content_block_id": 51,
+      "question": "Who qualifies for temporary protection in Ukraine?"
+    },
+    {
+      "question_id": 136,
+      "content_block_id": 51,
+      "question": "Can temporary protection status be renewed?"
+    },
+    {
+      "question_id": 137,
+      "content_block_id": 52,
+      "question": "Can Ukrainian citizens visit Romania without a visa?"
+    },
+    {
+      "question_id": 138,
+      "content_block_id": 52,
+      "question": "What is the duration of their stay allowed?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 52,
+      "question": "Do they need a special permit or authorization?"
+    },
+    {
+      "question_id": 140,
+      "content_block_id": 53,
+      "question": "How does applying for asylum work?"
+    },
+    {
+      "question_id": 141,
+      "content_block_id": 53,
+      "question": "Who is eligible for asylum in Romania?"
+    },
+    {
+      "question_id": 142,
+      "content_block_id": 53,
+      "question": "What rights do asylum seekers have?"
+    },
+    {
+      "question_id": 143,
+      "content_block_id": 54,
+      "question": "What are the requirements for applying for temporary protection?"
+    },
+    {
+      "question_id": 144,
+      "content_block_id": 54,
+      "question": "Can individuals already inside Romania apply for asylum?"
+    },
+    {
+      "question_id": 145,
+      "content_block_id": 54,
+      "question": "Do asylum seekers have access to healthcare while their case is being processed?"
+    },
+    {
+      "question_id": 146,
+      "content_block_id": 55,
+      "question": "Who can contact the hotlines for support?"
+    },
+    {
+      "question_id": 147,
+      "content_block_id": 55,
+      "question": "What languages are available on the hotlines?"
+    },
+    {
+      "question_id": 148,
+      "content_block_id": 55,
+      "question": "Where can I find more information on the temporary protection program?"
+    }
+  ]
+}

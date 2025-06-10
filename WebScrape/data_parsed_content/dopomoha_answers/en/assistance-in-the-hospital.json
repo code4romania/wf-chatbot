@@ -1,0 +1,191 @@
+{
+  "answers": [
+    {
+      "answer_id": 807,
+      "question_id": 807,
+      "content_block_id": 281,
+      "answer": "Yes, I can provide information on the types of illnesses that can be treated in a one day hospitalization. These include anemia, respiratory infections, urinary tract infections, viral or bacterial intestinal infections, infectious diarrhea, irritable bowel syndrome, gastro-oesophageal reflux disease, varicose veins without inflammation, acute tonsillitis, autoimmune thyroiditis, diabetes, ischemic cardiomyopathy, mitral or aortic valve insufficiency without indication for surgical intervention, and alcoholic hepatitis.",
+      "bResponse": "Yes, I can provide information on the types of illnesses that can be treated in a one day hospitalization. These include anemia, respiratory infections, urinary tract infections, viral or bacterial intestinal infections, infectious diarrhea, irritable bowel syndrome, gastro-oesophageal reflux disease, varicose veins without inflammation, acute tonsillitis, autoimmune thyroiditis, diabetes, ischemic cardiomyopathy, mitral or aortic valve insufficiency without indication for surgical intervention, and alcoholic hepatitis. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 808,
+      "question_id": 808,
+      "content_block_id": 281,
+      "answer": "Day hospitalization has a maximum duration of 12 hours, whereas continuous hospitalization involves a hospitalization period longer than 12 hours.",
+      "bResponse": "Day hospitalization has a maximum duration of 12 hours, whereas continuous hospitalization involves a hospitalization period longer than 12 hours. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 1",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 809,
+      "question_id": 809,
+      "content_block_id": 282,
+      "answer": "No, patients cannot receive free medical services at hospitals without a contract with health insurance companies.",
+      "bResponse": "No, patients cannot receive free medical services at hospitals without a contract with health insurance companies. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 810,
+      "question_id": 810,
+      "content_block_id": 282,
+      "answer": "No specific restrictions are mentioned in the summary regarding participation in the community gardening program.",
+      "bResponse": "No specific restrictions are mentioned in the summary regarding participation in the community gardening program. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 811,
+      "question_id": 811,
+      "content_block_id": 282,
+      "answer": "As per the given summary, starting from April 1, 2022, several types of medical treatments will be covered under the agreement between health insurance companies and public hospitals. These include chemotherapy services with monitoring provided in the day hospitalization regime, dialysis services provided in the health facilities running the National Program for the replacement of renal function in patients with chronic renal failure, and radiotherapy services provided by the health units that run the Radiotherapy Subprogram for patients with oncological diseases.",
+      "bResponse": "As per the given summary, starting from April 1, 2022, several types of medical treatments will be covered under the agreement between health insurance companies and public hospitals. These include chemotherapy services with monitoring provided in the day hospitalization regime, dialysis services provided in the health facilities running the National Program for the replacement of renal function in patients with chronic renal failure, and radiotherapy services provided by the health units that run the Radiotherapy Subprogram for patients with oncological diseases. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 2",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 812,
+      "question_id": 812,
+      "content_block_id": 283,
+      "answer": "The purpose of requiring private hospitals to charge personal contributions is to cover the difference between the rates charged by the private hospital and those settled by the health insurance company, ensuring transparency and respecting patients' rights. This allows patients to have more control over their healthcare costs and makes them aware of what they should expect to pay before receiving hospitalization services.",
+      "bResponse": "The purpose of requiring private hospitals to charge personal contributions is to cover the difference between the rates charged by the private hospital and those settled by the health insurance company, ensuring transparency and respecting patients' rights. This allows patients to have more control over their healthcare costs and makes them aware of what they should expect to pay before receiving hospitalization services. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 813,
+      "question_id": 813,
+      "content_block_id": 283,
+      "answer": "By publicly displaying pricing information, it allows patients to make informed decisions about their healthcare options and costs. This helps them understand what they might have to pay out-of-pocket when choosing to receive hospitalization services in private health facilities. Additionally, it promotes transparency and respects patients' rights, giving them control over their healthcare choices and treatment costs.",
+      "bResponse": "By publicly displaying pricing information, it allows patients to make informed decisions about their healthcare options and costs. This helps them understand what they might have to pay out-of-pocket when choosing to receive hospitalization services in private health facilities. Additionally, it promotes transparency and respects patients' rights, giving them control over their healthcare choices and treatment costs. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 814,
+      "question_id": 814,
+      "content_block_id": 283,
+      "answer": "This requirement ensures transparency and respects patients' rights when it comes to their healthcare decisions. By requiring written consent for any changes in hospitalization costs, the process guarantees that the patient is fully informed about any potential adjustments and can make an informed decision regarding their treatment plan.",
+      "bResponse": "This requirement ensures transparency and respects patients' rights when it comes to their healthcare decisions. By requiring written consent for any changes in hospitalization costs, the process guarantees that the patient is fully informed about any potential adjustments and can make an informed decision regarding their treatment plan. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 3",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 815,
+      "question_id": 815,
+      "content_block_id": 284,
+      "answer": "The estimated benefits of the new community gardening program include increased access to fresh produce and healthier eating habits for participants, improved social connections within local communities, enhanced environmental sustainability through reduced carbon footprint, and opportunities for education on sustainable agriculture practices.",
+      "bResponse": "The estimated benefits of the new community gardening program include increased access to fresh produce and healthier eating habits for participants, improved social connections within local communities, enhanced environmental sustainability through reduced carbon footprint, and opportunities for education on sustainable agriculture practices. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 816,
+      "question_id": 816,
+      "content_block_id": 284,
+      "answer": "To sign up for the new community gardening program, you can visit their website and fill out an online application or contact them directly by phone or email to request more information about signing up.",
+      "bResponse": "To sign up for the new community gardening program, you can visit their website and fill out an online application or contact them directly by phone or email to request more information about signing up. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 817,
+      "question_id": 817,
+      "content_block_id": 284,
+      "answer": "The summary says \"For events and activities where participants need to be at least X years old, they should check the specific criteria for participation.\" So, it depends on the event or activity if there is an age requirement or not.",
+      "bResponse": "The summary says \"For events and activities where participants need to be at least X years old, they should check the specific criteria for participation.\" So, it depends on the event or activity if there is an age requirement or not. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 4",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 818,
+      "question_id": 818,
+      "content_block_id": 285,
+      "answer": "No, if the doctor in the ward where the patient is hospitalized recommends, based on medical documents, certain medicines, sanitary materials or laboratory investigations, and the expenses for these are borne by the patient, even though he would have been entitled to benefit from them for free, the hospital will reimburse the patient the value of these expenses at the request of the insured.",
+      "bResponse": "No, if the doctor in the ward where the patient is hospitalized recommends, based on medical documents, certain medicines, sanitary materials or laboratory investigations, and the expenses for these are borne by the patient, even though he would have been entitled to benefit from them for free, the hospital will reimburse the patient the value of these expenses at the request of the insured. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 819,
+      "question_id": 819,
+      "content_block_id": 285,
+      "answer": "Yes, if a patient is hospitalized in a public hospital and the doctor recommends necessary medications, lab tests, or supplies, the hospital will reimburse the patient for those expenses after receiving approval from the health insurance company.",
+      "bResponse": "Yes, if a patient is hospitalized in a public hospital and the doctor recommends necessary medications, lab tests, or supplies, the hospital will reimburse the patient for those expenses after receiving approval from the health insurance company. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 820,
+      "question_id": 820,
+      "content_block_id": 285,
+      "answer": "Yes, there are limitations on who can receive reimbursement from public hospitals. The reimbursement of expenses is applicable exclusively to public hospitals and is carried out from their own revenues.",
+      "bResponse": "Yes, there are limitations on who can receive reimbursement from public hospitals. The reimbursement of expenses is applicable exclusively to public hospitals and is carried out from their own revenues. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 5",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 821,
+      "question_id": 821,
+      "content_block_id": 286,
+      "answer": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" published by the National Health Insurance House includes information about various benefits related to the social health insurance system in Ukraine.",
+      "bResponse": "The \"Guide on the Rights of People from the Armed Conflict Zone in Ukraine in the Social Health Insurance System\" published by the National Health Insurance House includes information about various benefits related to the social health insurance system in Ukraine. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 822,
+      "question_id": 822,
+      "content_block_id": 286,
+      "answer": "People from the armed conflict zone in Ukraine who have never been registered with the Social Health Insurance System before can be part of this program.",
+      "bResponse": "People from the armed conflict zone in Ukraine who have never been registered with the Social Health Insurance System before can be part of this program. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 823,
+      "question_id": 823,
+      "content_block_id": 286,
+      "answer": "More information about the community gardening initiative can be found in the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" published by the National Health Insurance House.",
+      "bResponse": "More information about the community gardening initiative can be found in the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system\" published by the National Health Insurance House. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Content Block 6",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

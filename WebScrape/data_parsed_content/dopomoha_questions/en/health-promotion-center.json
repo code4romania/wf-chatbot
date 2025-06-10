@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question_id": 1007,
+      "content_block_id": 350,
+      "question": "Who can benefit from the Health Promotion Center?"
+    },
+    {
+      "question_id": 1008,
+      "content_block_id": 350,
+      "question": "What kind of medical services can refugees access at the center?"
+    },
+    {
+      "question_id": 1009,
+      "content_block_id": 350,
+      "question": "Where is the Health Promotion Center located?"
+    },
+    {
+      "question_id": 1010,
+      "content_block_id": 351,
+      "question": "What services does the Health Promotion Center provide?"
+    },
+    {
+      "question_id": 1011,
+      "content_block_id": 351,
+      "question": "How can someone make an appointment at the center?"
+    },
+    {
+      "question_id": 1012,
+      "content_block_id": 351,
+      "question": "Who provides translation services at the center?"
+    }
+  ]
+}
