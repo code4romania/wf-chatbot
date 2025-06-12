@@ -1,5 +1,7 @@
 FROM python:3.13-slim
 
+ENV DB_PATH="/app/data/api_data.db"
+
 WORKDIR /app
 
 COPY requirements.txt .
