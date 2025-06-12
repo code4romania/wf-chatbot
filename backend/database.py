@@ -17,7 +17,7 @@ class UserQuery(Base):
     id = Column(Integer, primary_key=True, index=True)
     session_id = Column(String, index=True, default=lambda: str(uuid.uuid4()))
     query_text = Column(Text, nullable=False)
-    timestamp = Column(DateTime, default=datetime.utcnow)
+    timestamp = Column(DateTime, default=datetime.now(UTC))
     # Store returned answer IDs as a comma-separated string for simplicity
     returned_answer_ids = Column(Text, nullable=True)
     reviews = relationship("UserReview", back_populates="query") # Relation to reviews
@@ -31,8 +31,8 @@ class UserReview(Base):
     review_code = Column(Integer, nullable=False) # 1: good, 2: okay, 3-5: worst
     review_text = Column(Text, nullable=True) # Optional text review
     position_in_results = Column(Integer, nullable=True) # To store the rank (1st, 2nd, 3rd...) of the answer
-    timestamp = Column(DateTime, default=datetime.utcnow)
-    
+    timestamp = Column(DateTime, default=datetime.now(UTC))
+
     query_id = Column(Integer, ForeignKey("user_queries.id"), nullable=False)
     query = relationship("UserQuery", back_populates="reviews") # Relationship back to query
 
