@@ -111,7 +111,7 @@ class PromptMatcher:
 if __name__ == "__main__":
     # IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
     # For example: actual_data_path = "/home/s4402146/Documents/CommitGlobal/WebScrape/data"
-    actual_data_path = "~/WebScrape/data_whole_page"
+    actual_data_path = "./WebScrape/data_whole_page"
 
     try:
         matcher = PromptMatcher(base_data_path=actual_data_path, language="en")

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="text-center">Prompt Matcher Frontend</h1>
+    <h1 class="text-center">Dopomoha Smart FAQ</h1>
 
     <div class="query-section">
       <input type="text" v-model="userQuery" placeholder="Enter your query..." @keyup.enter="sendQuery" />
