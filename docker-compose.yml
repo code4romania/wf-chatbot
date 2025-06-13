@@ -1,16 +1,17 @@
-# docker-compose.yml
-version: "3.9"
 services:
   backend:
     build: ./backend
     ports:
       - "8000:8000"
+    environment:
+      - DB_PATH=/app/data/api_data.db
     volumes:
       - ./backend:/app
+      - ./data:/app/data
 
   frontend:
-    build: ./frontend # Docker Compose will use the multi-stage Dockerfile
+    build: ./frontend
     ports:
-      - "3000:80" # Map host port 3000 to container port 80 (where Nginx serves)
+      - "3000:80"
     environment:
       - NUXT_API_URL=http://backend:8000
