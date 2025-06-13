@@ -1,7 +1,15 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pandas
-numpy
-scikit-learn
-sentence-transformers
+# — core web —
+fastapi==0.115.2          # matches Pydantic v2
+uvicorn[standard]==0.29.0 # ASGI server (includes httptools, websockets…)
+
+# — data / ML  —
+sentence-transformers==2.7.0   # pulls torch + transformers + huggingface-hub
+scikit-learn==1.5.0            # cosine_similarity / euclidean_distances
+pandas==2.2.2
+numpy==1.26.4
+
+# — database  —
+SQLAlchemy==2.0.30             # works with declarative_base import path
+
+# (optional) load .env files for local dev
+python-dotenv==1.0.1

@@ -18,7 +18,6 @@ from database import SessionLocal, create_db_and_tables, UserQuery, UserReview
 # IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
 BASE_DATA_PATH = "./WebScrape/data_whole_page"
 LANGUAGE = "en"
-MODEL_NAME = "all-MiniLM-L6-v2"  # Or "sentence-transformers/all-MiniLM-L6-v2"
 
 # --- Global PromptMatcher Instance ---
 # We'll initialize this once when the application starts
@@ -36,7 +35,7 @@ async def lifespan(app: FastAPI):
     logging.info("Starting up API...")
     try:
         logging.info(f"Initializing PromptMatcher with data path: {BASE_DATA_PATH}")
-        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, model_name=MODEL_NAME)
+        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE)
         if prompt_matcher.df is None or prompt_matcher.df.empty:
             logging.warning("PromptMatcher initialized but no data was loaded. Check data path and files.")
         else:

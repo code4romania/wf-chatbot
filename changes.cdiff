@@ -1,0 +1,170 @@
+# report_styles.cdiff
+# This patch provides a comprehensive visual overhaul for the HTML report.
+
+--- PATCH_START ---
+FILE: generate_report.py
+TYPE: REPLACE
+DESCRIPTION: Replace the original CSS with a modern, clean, and more professional design system.
+
+OLD_BLOCK_START
+<style>
+    body {{ font-family: Arial, sans-serif; margin: 20px; background: #f4f4f4; color: #333; }}
+    h1, h2 {{ color: #0056b3; }}
+    section {{ background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); }}
+    .stats-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; }}
+    .stat-card {{ background: #e9f5ff; border: 1px solid #cce0ff; padding: 15px; border-radius: 5px; text-align: center; }}
+    .stat-card h3 {{ margin-top: 0; color: #004085; }}
+    .filters {{ background: #f0f8ff; padding: 15px; border-radius: 8px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 15px; align-items: center; }}
+    .filters label {{ font-weight: 700; margin-right: 5px; }}
+    .filters button {{ padding: 8px 15px; background: #007bff; color: #fff; border: 0; border-radius: 5px; cursor: pointer; transition: background .2s; }}
+    .filters button:hover {{ background: #0056b3; }}
+    .answer-card {{ background: #fff; border: 1px solid #dcdcdc; margin-bottom: 15px; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); transition: transform .2s; }}
+    .answer-card:hover {{ transform: translateY(-3px); }}
+    .answer-card h3 {{ color: #28a745; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 10px; }}
+    .review-card {{ background: #f8f9fa; border: 1px solid #e2e6ea; margin: 8px 0; padding: 10px; border-radius: 5px; font-size: .9em; }}
+    .review-card .code {{ font-weight: 700; color: #dc3545; }}
+    .review-card .text {{ font-style: italic; color: #666; }}
+    .hidden {{ display: none; }}
+    .no-data {{ text-align: center; color: #888; padding: 50px; }}
+</style>
+OLD_BLOCK_END
+
+NEW_BLOCK_START
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+    :root {{
+        --brand-primary: #0d6efd;
+        --brand-success: #198754;
+        --brand-secondary: #6c757d;
+        --text-dark: #212529;
+        --text-light: #495057;
+        --surface-bg: #f8f9fa;
+        --content-bg: #ffffff;
+        --border-color: #dee2e6;
+        --shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+        --radius: 8px;
+    }}
+
+    body {{
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+        padding: clamp(15px, 4vw, 40px);
+        background: var(--surface-bg);
+        color: var(--text-dark);
+        line-height: 1.6;
+    }}
+
+    h1 {{ font-size: 2.2rem; font-weight: 700; color: var(--text-dark); text-align: center; margin-bottom: 30px; }}
+    h2 {{ font-size: 1.7rem; font-weight: 600; color: var(--text-dark); border-bottom: 2px solid var(--border-color); padding-bottom: 12px; margin-bottom: 25px; }}
+    h3 {{ font-size: 1.2rem; font-weight: 600; margin-top: 0; }}
+    h4 {{ font-size: 1.1rem; font-weight: 600; color: var(--text-light); }}
+
+    section {{
+        background: var(--content-bg);
+        padding: clamp(15px, 3vw, 25px);
+        margin-bottom: 25px;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+    }}
+
+    /* --- Stats Section --- */
+    .stats-grid {{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 20px;
+    }}
+    .stat-card {{
+        background: var(--content-bg);
+        border: 1px solid var(--border-color);
+        padding: 20px;
+        border-radius: var(--radius);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }}
+    .stat-card:hover {{
+        transform: translateY(-3px);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+    }}
+    .stat-card h3 {{ color: var(--text-light); margin-bottom: 8px; font-size: 1rem; text-transform: uppercase; letter-spacing: .5px; }}
+    .stat-card p {{ font-size: 2.25rem; font-weight: 700; color: var(--brand-primary); margin: 0; }}
+    .stat-card:first-of-type p {{color: var(--brand-success);}}
+
+    /* --- Filters Section --- */
+    .filters {{
+        background: var(--content-bg);
+        padding: 20px;
+        border-radius: var(--radius);
+        margin-bottom: 25px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px 25px;
+        align-items: center;
+    }}
+    .filters label {{ font-weight: 600; margin-right: 5px; }}
+    .filters select, .filters input[type='checkbox'] {{ margin-right: 5px; }}
+    .filters select {{ padding: 8px; border-radius: 5px; border: 1px solid var(--border-color); background: #fff; }}
+    .filters button {{
+        padding: 10px 20px;
+        color: #fff;
+        background: var(--brand-primary);
+        border: 0;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: 600;
+        transition: all 0.2s ease;
+    }}
+    .filters button:hover {{ background: #0b5ed7; transform: translateY(-1px); }}
+    .filters button:last-of-type {{ background-color: var(--brand-secondary); }}
+    .filters button:last-of-type:hover {{ background-color: #5a6268; }}
+
+    /* --- Answer Section --- */
+    #answer-list {{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }}
+    .answer-card {{
+        background: var(--content-bg);
+        border: 1px solid var(--border-color);
+        margin-bottom: 0;
+        padding: 20px;
+        border-radius: var(--radius);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }}
+    .answer-card:hover {{
+        box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+    }}
+    .answer-card h3 {{
+        color: var(--brand-success);
+        margin: 0 0 15px 0;
+        padding-bottom: 15px;
+        border-bottom: 1px solid var(--border-color);
+    }}
+
+    .review-card {{
+        background: var(--surface-bg);
+        border: 1px solid #e9ecef;
+        margin-top: 15px;
+        padding: 15px;
+        border-radius: var(--radius);
+        font-size: 0.95em;
+    }}
+    .review-card .code {{
+        font-weight: 700;
+        color: #b02a37;
+    }}
+    .review-card .text {{
+        font-style: italic;
+        color: var(--text-light);
+        padding-left: 15px;
+        border-left: 3px solid var(--border-color);
+        margin-top: 10px;
+        display: block; /* Ensures block-level treatment */
+    }}
+    .review-card p {{ margin: 5px 0; }}
+
+    .hidden {{ display: none; }}
+    .no-data {{ text-align: center; color: var(--text-light); padding: 50px; font-size: 1.2rem; }}
+</style>
+NEW_BLOCK_END
+--- PATCH_END ---

@@ -1,150 +1,169 @@
-import pandas as pd
+"""
+PromptMatcher using INT8-quantized multilingual-E5-base
+"""
+
+import os, json
 import numpy as np
-import os
-import json
+import pandas as pd
+from typing import List, Dict, Union
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
-from typing import List, Dict, Union
+
+
+INT8_E5_MODEL = "intfloat/multilingual-e5-base"
+MAX_LENGTH    = 512                                             # truncate longer passages
+
 
 class PromptMatcher:
-    def __init__(self, base_data_path: str, language: str = "en", model_name: str = "all-MiniLM-L6-v2"):
+    """
+    Build an ANN-ready matrix of *question+answer* embeddings using a CPU-optimized
+    INT8 multilingual-E5 model.  Incoming queries are prefixed with 'query:'.
+    """
+
+    def __init__(
+        self,
+        base_data_path: str,
+        language: str = "en",
+        model_name: str = INT8_E5_MODEL,
+        device: str = "cpu",                # change to "cuda" later if you add a GPU
+    ):
         self.base_data_path = base_data_path
-        self.language = language
-        self.model = SentenceTransformer(model_name)
-        self.df = None
-        self.prompts: List[str] = []
-        self.responses: List[str] = []
-        self.question_ids: List[int] = []
-        self.answer_ids: List[int] = []
-        self.prompt_embeddings: np.ndarray = None
-        self.process_data()
+        self.language       = language.lower()
+        self.model_name     = model_name
+        self.device         = device
 
-    def process_data(self):
-        questions_dir = os.path.join(self.base_data_path, "dopomoha_questions", self.language)
-        answers_dir = os.path.join(self.base_data_path, "dopomoha_answers", self.language)
+        # ── load INT8 Sentence-Transformer checkpoint ────────────────────────────
+        print(f"Loading model {self.model_name} on {self.device} …")
+        self.model = SentenceTransformer(self.model_name, device=self.device)  # quantized weights
 
-        if not os.path.isdir(questions_dir):
-            raise FileNotFoundError(f"Questions directory not found: {questions_dir}")
-        if not os.path.isdir(answers_dir):
-            raise FileNotFoundError(f"Answers directory not found: {answers_dir}")
+        # data holders
+        self.df             : pd.DataFrame          | None = None
+        self.display_qs     : List[str]                     = []  # for printing results
+        self.display_as     : List[str]                     = []
+        self.embedding_txts : List[str]                     = []  # 'passage: Q A'
+        self.prompt_vectors : np.ndarray           | None = None
+        self.q_ids          : List[int]                     = []
+        self.a_ids          : List[int]                     = []
 
-        all_questions: Dict[int, str] = {}
-        all_answers_with_ids: Dict[int, Dict[str, Union[str, int]]] = {}
+        self._process_data()
 
-        for filename in os.listdir(questions_dir):
-            if filename.endswith(".json"):
-                filepath = os.path.join(questions_dir, filename)
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if "questions" in data:
-                        for q_entry in data["questions"]:
-                            if "question_id" in q_entry and "question" in q_entry:
-                                all_questions[q_entry["question_id"]] = q_entry["question"]
+    # --------------------------------------------------------------------- #
 
-        for filename in os.listdir(answers_dir):
-            if filename.endswith(".json"):
-                filepath = os.path.join(answers_dir, filename)
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if "answers" in data:
-                        for a_entry in data["answers"]:
-                            if "question_id" in a_entry and "answer_id" in a_entry and "answer" in a_entry:
-                                all_answers_with_ids[a_entry["question_id"]] = {
-                                    "answer": a_entry["bResponse"],
-                                    "answer_id": a_entry["answer_id"]
-                                }
+    def _process_data(self):
+        """Load Q&A json files → DataFrame → embeddings."""
+        q_dir = os.path.join(self.base_data_path, "dopomoha_questions", self.language)
+        a_dir = os.path.join(self.base_data_path, "dopomoha_answers",   self.language)
+        if not (os.path.isdir(q_dir) and os.path.isdir(a_dir)):
+            raise FileNotFoundError("Q&A directories not found. Check base_data_path.")
 
-        linked_data = []
-        for q_id, question_text in all_questions.items():
-            if q_id in all_answers_with_ids:
-                linked_data.append({
-                    "Prompt": question_text,
-                    "Response": all_answers_with_ids[q_id]["answer"],
+        # ---- read questions ----
+        questions: Dict[int, str] = {}
+        for f in filter(lambda x: x.endswith(".json"), os.listdir(q_dir)):
+            with open(os.path.join(q_dir, f), encoding="utf-8") as fh:
+                for q in json.load(fh).get("questions", []):
+                    if "question_id" in q and "question" in q:
+                        questions[q["question_id"]] = q["question"]
+
+        # ---- read answers ----
+        answers: Dict[int, Dict[str, Union[str, int]]] = {}
+        for f in filter(lambda x: x.endswith(".json"), os.listdir(a_dir)):
+            with open(os.path.join(a_dir, f), encoding="utf-8") as fh:
+                for a in json.load(fh).get("answers", []):
+                    if {"question_id", "answer_id", "answer"} <= a.keys():
+                        answers[a["question_id"]] = {
+                            "answer":    a["bResponse"],
+                            "answer_id": a["answer_id"],
+                        }
+
+        # ---- link Q ↔ A and build embedding strings ----
+        rows = []
+        for q_id, q_txt in questions.items():
+            if q_id in answers:
+                a_txt      = answers[q_id]["answer"]
+                passage    = f"passage: {q_txt.strip()} {a_txt.strip()}"
+                rows.append({
+                    "Prompt":      q_txt,
+                    "Response":    a_txt,
                     "question_id": q_id,
-                    "answer_id": all_answers_with_ids[q_id]["answer_id"]
+                    "answer_id":   answers[q_id]["answer_id"],
+                    "embed_txt":   passage,
                 })
 
-        if not linked_data:
-            print("Warning: No linked questions and answers found. Please check data files.")
-            return
+        if not rows:
+            raise ValueError("No linked questions/answers found.")
 
-        self.df = pd.DataFrame(linked_data)
-        self.prompts = self.df["Prompt"].tolist()
-        self.responses = self.df["Response"].tolist()
-        self.question_ids = self.df["question_id"].tolist()
-        self.answer_ids = self.df["answer_id"].tolist()
+        self.df             = pd.DataFrame(rows)
+        self.display_qs     = self.df["Prompt"].tolist()
+        self.display_as     = self.df["Response"].tolist()
+        self.embedding_txts = self.df["embed_txt"].tolist()
+        self.q_ids          = self.df["question_id"].tolist()
+        self.a_ids          = self.df["answer_id"].tolist()
 
-        self.prompt_embeddings = self.model.encode(self.prompts, normalize_embeddings=True)
-        print(f"Processed {len(self.prompts)} prompt-response pairs for language '{self.language}'.")
+        # ---- embed everything (batch, cpu-friendly) ----
+        print("Encoding corpus …")
+        self.prompt_vectors = self.model.encode(
+            self.embedding_txts,
+            batch_size=64,
+            normalize_embeddings=True,
+            show_progress_bar=True
+        )
+        print(f"Ready – indexed {len(self.prompt_vectors)} Q+A passages.\n")
 
-    def query(self, user_prompt: str, metric: str = "cosine", top_k: int = 1) -> Union[Dict[str, Union[str, float, int]], List[Dict[str, Union[str, float, int]]]]:
-        if self.prompt_embeddings is None or not self.prompts:
-            raise ValueError("Data has not been processed or no valid prompts were found.")
+    # --------------------------------------------------------------------- #
 
-        user_embedding = self.model.encode([user_prompt], normalize_embeddings=True)
+    def query(
+        self,
+        user_prompt: str,
+        metric: str = "cosine",
+        top_k: int = 1,
+    ) -> Union[Dict[str, Union[str, float, int]], List[Dict[str, Union[str, float, int]]]]:
+        """Return best -K matches for the user query."""
+        if self.prompt_vectors is None:
+            raise RuntimeError("Corpus not encoded.")
+
+        # ----- embed the incoming query -----
+        query_vec = self.model.encode(
+            [f"query: {user_prompt.strip()}"],
+            normalize_embeddings=True
+        )
 
         if metric == "cosine":
-            similarities = cosine_similarity(user_embedding, self.prompt_embeddings)[0]
-            sorted_indices = np.argsort(similarities)[::-1]
-            scores = similarities
+            scores = cosine_similarity(query_vec, self.prompt_vectors)[0]
+            idxs   = np.argsort(scores)[::-1]
         elif metric == "euclidean":
-            distances = euclidean_distances(user_embedding, self.prompt_embeddings)[0]
-            sorted_indices = np.argsort(distances)
-            scores = distances
+            scores = euclidean_distances(query_vec, self.prompt_vectors)[0]
+            idxs   = np.argsort(scores)   # smaller distance = better
         else:
-            raise ValueError("Unsupported metric. Choose 'cosine' or 'euclidean'.")
+            raise ValueError("metric must be 'cosine' or 'euclidean'")
 
         results = []
-        for i in range(min(top_k, len(sorted_indices))):
-            index = sorted_indices[i]
+        for rank in range(min(top_k, len(idxs))):
+            i = idxs[rank]
             results.append({
-                "matched_prompt": self.prompts[index],
-                "response": self.responses[index],
-                "score": scores[index],
-                "metric": metric,
-                "question_id": self.question_ids[index],
-                "answer_id": self.answer_ids[index]
+                "matched_prompt": self.display_qs[i],
+                "response":       self.display_as[i],
+                "score":          float(scores[i]),
+                "metric":         metric,
+                "question_id":    self.q_ids[i],
+                "answer_id":      self.a_ids[i],
             })
-
         return results[0] if top_k == 1 else results
 
+
+# ----------------------------------------------------------------------------- #
 if __name__ == "__main__":
-    # IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
-    # For example: actual_data_path = "/home/s4402146/Documents/CommitGlobal/WebScrape/data"
-    actual_data_path = "./WebScrape/data_whole_page"
+    actual_data_path = "./WebScrape/data_whole_page"       # <-- adjust
+    matcher = PromptMatcher(base_data_path=actual_data_path, language="en")
 
-    try:
-        matcher = PromptMatcher(base_data_path=actual_data_path, language="en")
-
-        while True:
-            user_query = input("\nAsk something (or type 'quit'): ")
-            if user_query.lower() == "quit":
-                break
-
-            # Set top_k to a value greater than 1 to get multiple matches
-            # For example, top_k=3 will return the 3 best matches
-            top_k_value = 1
-            results = matcher.query(user_query, metric="cosine", top_k=top_k_value)
-
-            print(f"\n--- Top {top_k_value} Matches ---")
-            if isinstance(results, list): # This will be true if top_k > 1
-                if results:
-                    for i, result in enumerate(results):
-                        print(f"\nMatch {i+1}:")
-                        print(f"  Matched Prompt (ID: {result['question_id']}): {result['matched_prompt']}")
-                        print(f"  Response (ID: {result['answer_id']}): {result['response']}")
-                        print(f"  Score: {result['score']:.4f}")
-                        print("-" * 30) # Separator for readability
-                else:
-                    print("No suitable matches found.")
-            else: # This case handles when top_k was explicitly set to 1
-                print(f"Matched Prompt (ID: {results['question_id']}): {results['matched_prompt']}")
-                print(f"Response (ID: {results['answer_id']}): {results['response']}")
-                print(f"Score: {results['score']:.4f}")
-
-    except FileNotFoundError as e:
-        print(f"\nError: {e}. Please ensure 'base_data_path' is set correctly and the directories exist.")
-    except ValueError as e:
-        print(f"\nError processing data or during query: {e}")
-    except Exception as e:
-        print(f"\nAn unexpected error occurred: {e}")
+    while True:
+        q = input("\nAsk something (or 'quit'): ").strip()
+        if q.lower() == "quit":
+            break
+        top_k = 3
+        hits  = matcher.query(q, metric="cosine", top_k=top_k)
+        print(f"\n--- Top {top_k} result(s) ---")
+        for rnk, hit in enumerate(hits, 1) if isinstance(hits, list) else [(1, hits)]:
+            print(f"\nMatch {rnk}:")
+            print(f"  Q-ID {hit['question_id']}  » {hit['matched_prompt']}")
+            print(f"  A-ID {hit['answer_id']}  » {hit['response']}")
+            print(f"  Score: {hit['score']:.4f}")
