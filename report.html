@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>API Data Review Report</title>
+<style>
+    body { font-family: Arial, sans-serif; margin: 20px; background: #f4f4f4; color: #333; }
+    h1, h2 { color: #0056b3; }
+    section { background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); }
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; }
+    .stat-card { background: #e9f5ff; border: 1px solid #cce0ff; padding: 15px; border-radius: 5px; text-align: center; }
+    .stat-card h3 { margin-top: 0; color: #004085; }
+    .filters { background: #f0f8ff; padding: 15px; border-radius: 8px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 15px; align-items: center; }
+    .filters label { font-weight: 700; margin-right: 5px; }
+    .filters button { padding: 8px 15px; background: #007bff; color: #fff; border: 0; border-radius: 5px; cursor: pointer; transition: background .2s; }
+    .filters button:hover { background: #0056b3; }
+    .answer-card { background: #fff; border: 1px solid #dcdcdc; margin-bottom: 15px; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); transition: transform .2s; }
+    .answer-card:hover { transform: translateY(-3px); }
+    .answer-card h3 { color: #28a745; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 10px; }
+    .review-card { background: #f8f9fa; border: 1px solid #e2e6ea; margin: 8px 0; padding: 10px; border-radius: 5px; font-size: .9em; }
+    .review-card .code { font-weight: 700; color: #dc3545; }
+    .review-card .text { font-style: italic; color: #666; }
+    .hidden { display: none; }
+    .no-data { text-align: center; color: #888; padding: 50px; }
+</style>
+</head>
+<body>
+<h1>API Data Review Report</h1>
+<section id="stats"><h2>Overall Statistics</h2><div class="stats-grid"><div class='stat-card'><h3>Total Reviews</h3><p>4</p></div><div class='stat-card'><h3>Average Overall Score (1=Best, 5=Worst)</h3><p>2.25</p></div><div class='stat-card'><h3>Score 1 Ratio</h3><p>1 / 4 = 25.00%</p></div><div class='stat-card'><h3>Score 2 Ratio</h3><p>1 / 4 = 25.00%</p></div><div class='stat-card'><h3>Score 3 Ratio</h3><p>2 / 4 = 50.00%</p></div><div class='stat-card'><h3>Score 4 Ratio</h3><p>0 / 4 = 0.00%</p></div><div class='stat-card'><h3>Score 5 Ratio</h3><p>0 / 4 = 0.00%</p></div></div></section>
+<section id="answer-section">
+  <h2>Answer Reviews</h2>
+  <div class="filters" id="filters">
+    <div>
+      <label for="avg-score-filter">Average Score:</label>
+      <select id="avg-score-filter">
+        <option value='all'>All</option>
+        <option value='1.0-1.9'>1.0 ‑ 1.9</option>
+        <option value='2.0-2.9'>2.0 ‑ 2.9</option>
+        <option value='3.0-3.9'>3.0 ‑ 3.9</option>
+        <option value='4.0-5.0'>4.0 ‑ 5.0</option>
+      </select>
+    </div>
+    <div>
+      <label>Contains Review Score:</label>
+      <input type='checkbox' id='filter-1' value='1'> <label for='filter-1'>1 (Best)</label>
+      <input type='checkbox' id='filter-2' value='2'> <label for='filter-2'>2</label>
+      <input type='checkbox' id='filter-3' value='3'> <label for='filter-3'>3</label>
+      <input type='checkbox' id='filter-4' value='4'> <label for='filter-4'>4</label>
+      <input type='checkbox' id='filter-5' value='5'> <label for='filter-5'>5 (Worst)</label>
+    </div>
+    <button onclick='applyFilters()'>Apply Filters</button>
+    <button onclick='clearFilters()'>Clear Filters</button>
+  </div>
+  <div id='answer-list'><div class='answer-card' data-avg-score='1.00' data-has-review-1='true'><h3>Answer ID: 374 (Average Score: 1.00)</h3><h4>Individual Reviews:</h4><div class='review-card'><p>Review ID: 4</p><p>Score: <span class='code'>1</span></p><p>Position in Results: 3</p><p class='text'>Text: very good</p><p>Timestamp: 2025-06-13 14:27:00</p></div></div><div class='answer-card' data-avg-score='2.00' data-has-review-2='true'><h3>Answer ID: 351 (Average Score: 2.00)</h3><h4>Individual Reviews:</h4><div class='review-card'><p>Review ID: 2</p><p>Score: <span class='code'>2</span></p><p>Position in Results: 2</p><p class='text'>Text: yeah </p><p>Timestamp: 2025-06-13 14:27:00</p></div></div><div class='answer-card' data-avg-score='3.00' data-has-review-3='true'><h3>Answer ID: 221 (Average Score: 3.00)</h3><h4>Individual Reviews:</h4><div class='review-card'><p>Review ID: 1</p><p>Score: <span class='code'>3</span></p><p>Position in Results: 1</p><p class='text'>Text: not enough</p><p>Timestamp: 2025-06-13 14:27:00</p></div></div><div class='answer-card' data-avg-score='3.00' data-has-review-3='true'><h3>Answer ID: 134 (Average Score: 3.00)</h3><h4>Individual Reviews:</h4><div class='review-card'><p>Review ID: 3</p><p>Score: <span class='code'>3</span></p><p>Position in Results: 1</p><p class='text'>Text: limited</p><p>Timestamp: 2025-06-13 14:27:00</p></div></div></div> <!-- /answer-list -->
+</section>
+<script>
+function applyFilters() {
+  const avgVal = document.getElementById('avg-score-filter').value;
+  const selectedCodes = Array.from(
+      document.querySelectorAll('#filters input[type="checkbox"]:checked'))
+      .map(cb => cb.value);
+
+  document.querySelectorAll('.answer-card').forEach(card => {
+    let show = true;
+    const score = parseFloat(card.dataset.avgScore);
+
+    // Average score filter
+    if (avgVal !== 'all') {
+      const [min, max] = avgVal.split('-').map(parseFloat);
+      if (score < (min - 0.001) || score > (max + 0.001)) show = false;
+    }
+
+    // Review code filter (uses data attribute presence)
+    if (selectedCodes.length && show) {
+      show = selectedCodes.some(code => card.hasAttribute(`data-has-review-${code}`));
+    }
+
+    card.classList.toggle('hidden', !show);
+  });
+}
+
+function clearFilters() {
+  document.getElementById('avg-score-filter').value = 'all';
+  document.querySelectorAll('#filters input[type="checkbox"]').forEach(cb => cb.checked = false);
+  applyFilters();
+}
+</script>
+</body>
+</html>
