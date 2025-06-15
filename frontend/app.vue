@@ -2,6 +2,11 @@
   <div class="container">
     <h1 class="text-center">Dopomoha Smart FAQ</h1>
 
+    <div class="concat-indicator">
+      <span class="status-dot" :class="{ 'dot-blue': useConcatMatcher, 'dot-yellow': !useConcatMatcher }"></span>
+      Matcher Mode
+    </div>
+
     <div class="query-section">
       <input type="text" v-model="userQuery" placeholder="Enter your query..." @keyup.enter="sendQuery" />
       <button @click="sendQuery" :disabled="loading">Search</button>
@@ -35,7 +40,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted } from 'vue'; // Import onMounted
 
 // Reactive state variables
 const userQuery = ref('');
@@ -46,6 +51,7 @@ const queryError = ref(null);
 const currentAnswerIndex = ref(0);
 const sessionId = ref(null);
 const queryId = ref(null);
+const useConcatMatcher = ref(Math.random() < 0.5); // Randomly select initial option
 
 // --- NEW STATE FOR REVIEW CONSTRAINT ---
 const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed for the current session/query
@@ -107,6 +113,7 @@ const sendQuery = async () => {
         top_k: topK.value,
         metric: 'cosine',
         session_id: sessionId.value,
+        use_concat_matcher: useConcatMatcher.value, // Pass the selected option
       }),
     });
 
@@ -140,6 +147,15 @@ const handleReviewSubmitted = (reviewData) => {
     reviewedKPositions.value.add(reviewData.position_in_results);
   }
 };
+
+// Expose a global function to toggle the concat option from the browser console
+onMounted(() => {
+  window.change = () => {
+    useConcatMatcher.value = !useConcatMatcher.value;
+    console.log(`Concat option changed to: ${useConcatMatcher.value}`);
+    alert(`Concat option for new queries will now be: ${useConcatMatcher.value ? 'concatenated' : 'separate'}`);
+  };
+});
 </script>
 
 <style>
@@ -299,5 +315,37 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
   font-weight: bold;
   color: #555;
+}
+
+/* Concat Indicator */
+.concat-indicator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+  padding: 10px 15px;
+  background-color: #f8f9fa; /* Light neutral background */
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  color: #6c757d; /* Darker grey text */
+  font-size: 0.95rem;
+  font-weight: 600;
+  gap: 8px; /* Space between dot and text */
+}
+
+.status-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,0.1); /* Subtle border for visibility */
+}
+
+.dot-blue {
+  background-color: #007bff; /* Blue for concatenated */
+}
+
+.dot-yellow {
+  background-color: #ffc107; /* Yellow for separate */
 }
 </style>

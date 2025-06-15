@@ -19,9 +19,10 @@ from database import SessionLocal, create_db_and_tables, UserQuery, UserReview
 BASE_DATA_PATH = "./WebScrape/data_whole_page"
 LANGUAGE = "en"
 
-# --- Global PromptMatcher Instance ---
-# We'll initialize this once when the application starts
-prompt_matcher: Optional[PromptMatcher] = None
+# --- Global PromptMatcher Instances ---
+# We'll initialize these once when the application starts
+prompt_matcher_concat: Optional[PromptMatcher] = None
+prompt_matcher_no_concat: Optional[PromptMatcher] = None
 
 
 # --- FastAPI App Setup ---
@@ -31,15 +32,23 @@ async def lifespan(app: FastAPI):
     Handles startup and shutdown events for the FastAPI application.
     Initializes the PromptMatcher and creates database tables.
     """
-    global prompt_matcher
+    global prompt_matcher_concat, prompt_matcher_no_concat
     logging.info("Starting up API...")
     try:
-        logging.info(f"Initializing PromptMatcher with data path: {BASE_DATA_PATH}")
-        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a= False)
-        if prompt_matcher.df is None or prompt_matcher.df.empty:
-            logging.warning("PromptMatcher initialized but no data was loaded. Check data path and files.")
+        logging.info(f"Initializing PromptMatcher (concat=True) with data path: {BASE_DATA_PATH}")
+        prompt_matcher_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=True)
+        if prompt_matcher_concat.df is None or prompt_matcher_concat.df.empty:
+            logging.warning("PromptMatcher (concat=True) initialized but no data was loaded. Check data path and files.")
         else:
-            logging.info(f"PromptMatcher successfully loaded {len(prompt_matcher.df)} data entries.")
+            logging.info(f"PromptMatcher (concat=True) successfully loaded {len(prompt_matcher_concat.df)} data entries.")
+
+        logging.info(f"Initializing PromptMatcher (concat=False) with data path: {BASE_DATA_PATH}")
+        prompt_matcher_no_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=False)
+        if prompt_matcher_no_concat.df is None or prompt_matcher_no_concat.df.empty:
+            logging.warning("PromptMatcher (concat=False) initialized but no data was loaded. Check data path and files.")
+        else:
+            logging.info(f"PromptMatcher (concat=False) successfully loaded {len(prompt_matcher_no_concat.df)} data entries.")
+
     except FileNotFoundError as e:
         logging.error(f"Failed to initialize PromptMatcher: {e}. Please check BASE_DATA_PATH.")
         raise
@@ -95,6 +104,7 @@ class QueryRequest(BaseModel):
     top_k: int = Field(default=1, ge=1, le=10)  # Get between 1 and 10 results
     metric: str = "cosine"  # "cosine" or "euclidean"
     session_id: Optional[str] = None  # Allow client to provide session ID
+    use_concat_matcher: bool = Field(default=True, description="Whether to use the matcher with concatenated Q&A (True) or separate Q&A (False).")
 
 
 class MatchedResponse(BaseModel):
@@ -137,14 +147,22 @@ async def root():
 
 @app.post("/query", response_model=QueryResponse)
 async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
-    if prompt_matcher is None or prompt_matcher.df is None or prompt_matcher.df.empty:
+    # Select the appropriate PromptMatcher instance
+    if request.use_concat_matcher:
+        current_prompt_matcher = prompt_matcher_concat
+        concat_option_active = True
+    else:
+        current_prompt_matcher = prompt_matcher_no_concat
+        concat_option_active = False
+
+    if current_prompt_matcher is None or current_prompt_matcher.df is None or current_prompt_matcher.df.empty:
         raise HTTPException(
             status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-            detail="PromptMatcher is not initialized or data is not loaded yet. Please try again later.",
+            detail="Selected PromptMatcher is not initialized or data is not loaded yet. Please try again later.",
         )
 
     try:
-        results = prompt_matcher.query(user_prompt=request.query, metric=request.metric, top_k=request.top_k)
+        results = current_prompt_matcher.query(user_prompt=request.query, metric=request.metric, top_k=request.top_k)
 
         # Ensure results is always a list for consistent processing
         if not isinstance(results, list):
@@ -158,6 +176,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
             session_id=request.session_id if request.session_id else None,  # Use provided or let DB generate
             query_text=request.query,
             returned_answer_ids=returned_answer_ids,
+            concat_option_active=concat_option_active, # Store the option used
         )
         db.add(user_query_db)
         db.commit()

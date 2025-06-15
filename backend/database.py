@@ -2,7 +2,7 @@ from datetime import UTC, datetime
 import os
 import uuid
 
-from sqlalchemy import create_engine, Column, Integer, String, DateTime, ForeignKey, Text
+from sqlalchemy import create_engine, Column, Integer, String, DateTime, ForeignKey, Text, Boolean
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 
@@ -31,6 +31,7 @@ class UserQuery(Base):
     timestamp = Column(DateTime, default=datetime.now(UTC))
     # Store returned answer IDs as a comma-separated string for simplicity
     returned_answer_ids = Column(Text, nullable=True)
+    concat_option_active = Column(Boolean, nullable=False, default=True) # New field to store the concat option used
     reviews = relationship("UserReview", back_populates="query")  # Relation to reviews
 
 

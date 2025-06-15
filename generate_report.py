@@ -1,12 +1,11 @@
-# report.py
 import os
-from sqlalchemy import create_engine, Column, Integer, String, Text, DateTime, ForeignKey
+from sqlalchemy import create_engine, Column, Integer, String, Text, DateTime, ForeignKey, Boolean
 from sqlalchemy.orm import declarative_base, sessionmaker, relationship
-from datetime import datetime
+from datetime import datetime, UTC # Changed datetime.utcnow to datetime.now(UTC) for timezone awareness
 import uuid
 
 # -----------------------------------------------------------------------------
-# Database setup (stand‑alone)
+# Database setup (stand-alone)
 # -----------------------------------------------------------------------------
 DATABASE_URL = "sqlite:///data/api_data.db"
 engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
@@ -20,8 +19,9 @@ class UserQuery(Base):
     id = Column(Integer, primary_key=True, index=True)
     session_id = Column(String, index=True, default=lambda: str(uuid.uuid4()))
     query_text = Column(Text, nullable=False)
-    timestamp = Column(DateTime, default=datetime.utcnow)
+    timestamp = Column(DateTime, default=datetime.now(UTC)) # Use timezone-aware datetime
     returned_answer_ids = Column(Text, nullable=True)
+    concat_option_active = Column(Boolean, nullable=False, default=True) # NEW: concat option
 
     reviews = relationship("UserReview", back_populates="query")
 
@@ -35,7 +35,7 @@ class UserReview(Base):
     review_code = Column(Integer, nullable=False)  # 1 = best, 5 = worst
     review_text = Column(Text, nullable=True)
     position_in_results = Column(Integer, nullable=True)
-    timestamp = Column(DateTime, default=datetime.utcnow)
+    timestamp = Column(DateTime, default=datetime.now(UTC)) # Use timezone-aware datetime
     query_id = Column(Integer, ForeignKey("user_queries.id"), nullable=False)
 
     query = relationship("UserQuery", back_populates="reviews")
@@ -60,71 +60,91 @@ def generate_report() -> None:
     session = SessionLocal()
 
     try:
-        all_reviews = session.query(UserReview).all()
-        total_reviews = len(all_reviews)
+        # Fetch all reviews along with their associated query's concat_option_active status
+        all_reviews_with_concat_info = (
+            session.query(UserReview, UserQuery.concat_option_active)
+            .join(UserQuery)
+            .all()
+        )
 
-        if total_reviews == 0:
-            print("No reviews found in the database. Exiting.")
-            return
+        # Separate reviews based on concat_option_active
+        reviews_concat_true = [r for r, concat_active in all_reviews_with_concat_info if concat_active]
+        reviews_concat_false = [r for r, concat_active in all_reviews_with_concat_info if not concat_active]
 
-        # --------------------------------------------------------------
-        # 1. Overall statistics
-        # --------------------------------------------------------------
-        sum_scores = sum(r.review_code for r in all_reviews)
-        avg_overall_score = sum_scores / total_reviews
-
-        score_counts = {sc: 0 for sc in range(1, 6)}
-        for r in all_reviews:
-            score_counts[r.review_code] += 1
-        score_ratios = {s: c / total_reviews for s, c in score_counts.items()}
-
-        # --------------------------------------------------------------
-        # 2. Aggregate answers
-        # --------------------------------------------------------------
-        answers_data = {}
-        for r in all_reviews:
-            data = answers_data.setdefault(
-                r.answer_id,
-                {
-                    "reviews": [],
-                    "sum_scores": 0,
-                    "count_scores": 0,
-                    "codes": set(),
-                },
-            )
-            data["reviews"].append(
-                {
-                    "id": r.id,
-                    "review_code": r.review_code,
-                    "review_text": r.review_text,
-                    "position": r.position_in_results,
-                    "timestamp": r.timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                }
-            )
-            data["sum_scores"] += r.review_code
-            data["count_scores"] += 1
-            data["codes"].add(r.review_code)
-
-        answers_list = [
-            {
-                "answer_id": aid,
-                "avg": d["sum_scores"] / d["count_scores"],
-                "reviews": d["reviews"],
-                "codes": d["codes"],
-            }
-            for aid, d in answers_data.items()
+        report_configs = [
+            {"label": "Concatenated Q&A (concat_q_and_a = True)", "reviews": reviews_concat_true, "filename": "report_concat_true.html"},
+            {"label": "Separate Q&A (concat_q_and_a = False)", "reviews": reviews_concat_false, "filename": "report_concat_false.html"},
         ]
-        answers_list.sort(key=lambda x: x["avg"])  # lower is better
 
-        # --------------------------------------------------------------
-        # 3. Build HTML
-        # --------------------------------------------------------------
-        html = f"""<!DOCTYPE html>
+        for config in report_configs:
+            label = config["label"]
+            reviews_to_process = config["reviews"]
+            out_file_name = config["filename"]
+
+            total_reviews = len(reviews_to_process)
+
+            if total_reviews == 0:
+                print(f"No reviews found for '{label}'. Skipping report generation for this category.")
+                continue
+
+            # --------------------------------------------------------------
+            # 1. Overall statistics
+            # --------------------------------------------------------------
+            sum_scores = sum(r.review_code for r in reviews_to_process)
+            avg_overall_score = sum_scores / total_reviews
+
+            score_counts = {sc: 0 for sc in range(1, 6)}
+            for r in reviews_to_process:
+                score_counts[r.review_code] += 1
+            score_ratios = {s: c / total_reviews for s, c in score_counts.items()}
+
+            # --------------------------------------------------------------
+            # 2. Aggregate answers
+            # --------------------------------------------------------------
+            answers_data = {}
+            for r in reviews_to_process:
+                data = answers_data.setdefault(
+                    r.answer_id,
+                    {
+                        "reviews": [],
+                        "sum_scores": 0,
+                        "count_scores": 0,
+                        "codes": set(),
+                    },
+                )
+                data["reviews"].append(
+                    {
+                        "id": r.id,
+                        "review_code": r.review_code,
+                        "review_text": r.review_text,
+                        "position": r.position_in_results,
+                        "timestamp": r.timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                    }
+                )
+                data["sum_scores"] += r.review_code
+                data["count_scores"] += 1
+                data["codes"].add(r.review_code)
+
+            answers_list = [
+                {
+                    "answer_id": aid,
+                    "avg": d["sum_scores"] / d["count_scores"],
+                    "reviews": d["reviews"],
+                    "codes": d["codes"],
+                }
+                for aid, d in answers_data.items()
+            ]
+            answers_list.sort(key=lambda x: x["avg"])  # lower is better
+
+            # --------------------------------------------------------------
+            # 3. Build HTML
+            # --------------------------------------------------------------
+            html = f"""<!DOCTYPE html>
 <html lang=\"en\">
 <head>
 <meta charset=\"UTF-8\">
 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-<title>API Data Review Report</title>
+<title>API Data Review Report - {label}</title>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
@@ -263,19 +283,19 @@ def generate_report() -> None:
 </style>
 </head>
 <body>
-<h1>API Data Review Report</h1>
+<h1>API Data Review Report - {label}</h1>
 <section id=\"stats\"><h2>Overall Statistics</h2><div class=\"stats-grid\">"""
-        html += (
-            f"<div class='stat-card'><h3>Total Reviews</h3><p>{total_reviews}</p></div>"
-            f"<div class='stat-card'><h3>Average Overall Score (1=Best, 5=Worst)</h3><p>{avg_overall_score:.2f}</p></div>"
-        )
-        for score in range(1, 6):
-            pct = score_ratios.get(score, 0) * 100
-            html += f"<div class='stat-card'><h3>Score {score} Ratio</h3><p>{score_counts[score]} / {total_reviews} = {pct:.2f}%</p></div>"
-        html += "</div></section>"
+            html += (
+                f"<div class='stat-card'><h3>Total Reviews</h3><p>{total_reviews}</p></div>"
+                f"<div class='stat-card'><h3>Average Overall Score (1=Best, 5=Worst)</h3><p>{avg_overall_score:.2f}</p></div>"
+            )
+            for score in range(1, 6):
+                pct = score_ratios.get(score, 0) * 100
+                html += f"<div class='stat-card'><h3>Score {score} Ratio</h3><p>{score_counts[score]} / {total_reviews} = {pct:.2f}%</p></div>"
+            html += "</div></section>"
 
-        # Filters + answers
-        html += """
+            # Filters + answers
+            html += """
 <section id=\"answer-section\">
   <h2>Answer Reviews</h2>
   <div class=\"filters\" id=\"filters\">
@@ -302,32 +322,31 @@ def generate_report() -> None:
   </div>
   <div id='answer-list'>"""
 
-        if not answers_list:
-            html += "<p class='no-data'>No answers with reviews found.</p>"
-        else:
-            for ans in answers_list:
-                attr_str = " ".join(
-                    f"data-has-review-{code}='true'" for code in ans["codes"]
-                )
-                html += (
-                    f"<div class='answer-card' data-avg-score='{ans['avg']:.2f}' {attr_str}>"
-                    f"<h3>Answer ID: {ans['answer_id']} (Average Score: {ans['avg']:.2f})</h3>"
-                    "<h4>Individual Reviews:</h4>"
-                )
-                for rev in ans["reviews"]:
-                    html += (
-                        "<div class='review-card'>"
-                        f"<p>Review ID: {rev['id']}</p>"
-                        f"<p>Score: <span class='code'>{rev['review_code']}</span></p>"
-                        f"<p>Position in Results: {rev['position'] if rev['position'] is not None else 'N/A'}</p>"
-                        f"<p class='text'>Text: {rev['review_text'] or 'No text provided.'}</p>"
-                        f"<p>Timestamp: {rev['timestamp']}</p>"
-                        "</div>"
+            if not answers_list:
+                html += "<p class='no-data'>No answers with reviews found.</p>"
+            else:
+                for ans in answers_list:
+                    attr_str = " ".join(
+                        f"data-has-review-{code}='true'" for code in ans["codes"]
                     )
-                html += "</div>"  # /answer-card
+                    html += (
+                        f"<div class='answer-card' data-avg-score='{ans['avg']:.2f}' {attr_str}>"
+                        f"<h3>Answer ID: {ans['answer_id']} (Average Score: {ans['avg']:.2f})</h3>"
+                        "<h4>Individual Reviews:</h4>"
+                    )
+                    for rev in ans["reviews"]:
+                        html += (
+                            "<div class='review-card'>"
+                            f"<p>Review ID: {rev['id']}</p>"
+                            f"<p>Score: <span class='code'>{rev['review_code']}</span></p>"
+                            f"<p>Position in Results: {rev['position'] if rev['position'] is not None else 'N/A'}</p>"
+                            f"<p class='text'>Text: {rev['review_text'] or 'No text provided.'}</p>"
+                            f"<p>Timestamp: {rev['timestamp']}</p>"
+                            "</div>"
+                        )
+                    html += "</div>"  # /answer-card
 
-        html += """</div> <!-- /answer-list -->
-</section>
+            html += """</div> </section>
 <script>
 function applyFilters() {
   const avgVal = document.getElementById('avg-score-filter').value;
@@ -363,13 +382,12 @@ function clearFilters() {
 </body>
 </html>"""
 
-        # --------------------------------------------------------------
-        # 4. Write
-        # --------------------------------------------------------------
-        out_file = "report.html"
-        with open(out_file, "w", encoding="utf-8") as f:
-            f.write(html)
-        print(f"Report generated successfully: {os.path.abspath(out_file)}")
+            # --------------------------------------------------------------
+            # 4. Write
+            # --------------------------------------------------------------
+            with open(out_file_name, "w", encoding="utf-8") as f:
+                f.write(html)
+            print(f"Report generated successfully: {os.path.abspath(out_file_name)}")
 
     finally:
         session.close()
