@@ -2,10 +2,7 @@
   <div class="container">
     <h1 class="text-center">Dopomoha Smart FAQ</h1>
 
-    <div class="concat-indicator">
-      <span class="status-dot" :class="{ 'dot-blue': useConcatMatcher, 'dot-yellow': !useConcatMatcher }"></span>
-      Matcher Mode
-    </div>
+    <p class="text-center">Is Concat Matcher Active? {{ useConcatMatcher }}</p>
 
     <div class="query-section">
       <input type="text" v-model="userQuery" placeholder="Enter your query..." @keyup.enter="sendQuery" />
@@ -51,9 +48,9 @@ const queryError = ref(null);
 const currentAnswerIndex = ref(0);
 const sessionId = ref(null);
 const queryId = ref(null);
-const useConcatMatcher = ref(Math.random() < 0.5); // Randomly select initial option
+const randomNumberUsed = ref(Math.random());
+const useConcatMatcher = ref(randomNumberUsed.value < 0.5);
 
-// --- NEW STATE FOR REVIEW CONSTRAINT ---
 const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed for the current session/query
 
 // FastAPI Backend URL
@@ -72,6 +69,11 @@ const isReviewDisabledForCurrentK = computed(() => {
   const currentK = currentAnswerIndex.value + 1;
   // Constraint: can't post review for k > 1 unless k=1 has been reviewed
   return currentK > 1 && !reviewedKPositions.value.has(1);
+});
+
+// --- NEW: Computed property for the dot's class ---
+const matcherDotClass = computed(() => {
+  return useConcatMatcher.value ? 'dot-blue' : 'dot-yellow';
 });
 
 // --- Carousel Navigation Functions ---
@@ -116,6 +118,7 @@ const sendQuery = async () => {
         use_concat_matcher: useConcatMatcher.value, // Pass the selected option
       }),
     });
+    console.log(useConcatMatcher.value)
 
     if (!response.ok) {
       const errorData = await response.json();
@@ -155,6 +158,10 @@ onMounted(() => {
     console.log(`Concat option changed to: ${useConcatMatcher.value}`);
     alert(`Concat option for new queries will now be: ${useConcatMatcher.value ? 'concatenated' : 'separate'}`);
   };
+
+  // --- NEW: Log the random number and concat selection on mount ---
+  console.log(`Initial random number: ${randomNumberUsed.value}`);
+  console.log(`Concat selection on start/refresh: ${useConcatMatcher.value ? 'concatenated' : 'separate'}`);
 });
 </script>
 
@@ -314,7 +321,7 @@ h1, h2, h3, h4, h5, h6 {
 .carousel-navigation .carousel-counter {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #555;
+  color: hsl(0, 46%, 62%);
 }
 
 /* Concat Indicator */
@@ -342,10 +349,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .dot-blue {
-  background-color: #007bff; /* Blue for concatenated */
+  background-color: #007bff !important; /* Blue for concatenated */
 }
 
 .dot-yellow {
-  background-color: #ffc107; /* Yellow for separate */
+  background-color: #ffc107 !important; /* Yellow for separate */
 }
 </style>

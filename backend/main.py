@@ -162,7 +162,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
         )
 
     try:
-        results = current_prompt_matcher.query(user_prompt=request.query, metric=request.metric, top_k=request.top_k)
+        results = await current_prompt_matcher.query(user_prompt=request.query, metric=request.metric, top_k=request.top_k)
 
         # Ensure results is always a list for consistent processing
         if not isinstance(results, list):

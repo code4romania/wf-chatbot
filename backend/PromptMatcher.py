@@ -11,7 +11,7 @@ import json
 import logging
 from pathlib import Path
 from typing import List, Dict, Union, Optional
-
+import asyncio
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
@@ -138,54 +138,57 @@ class PromptMatcher:
         ).astype("float32")  # FAISS‑friendly precision
         logger.info(f"Ready – indexed {len(self.prompt_vectors)} passages.\n")
 
-    # ------------------------------------------------------------------
-    # Query API
-    # ------------------------------------------------------------------
-    def query(
-        self,
-        user_prompt: str,
-        metric: str = "cosine",
-        top_k: int = 1,
-    ) -> List[Dict[str, Union[str, float, int]]]:
-        """Return top‑K matches for the user prompt."""
+    async def query( # <--- ADD 'async' HERE
+            self,
+            user_prompt: str,
+            metric: str = "cosine",
+            top_k: int = 1,
+        ) -> List[Dict[str, Union[str, float, int]]]:
+            """Return top‑K matches for the user prompt."""
 
-        if self.prompt_vectors is None:
-            raise RuntimeError("Corpus not encoded.")
+            if self.prompt_vectors is None:
+                raise RuntimeError("Corpus not encoded.")
 
-        # ----- embed user prompt -----
-        query_vec = self.model.encode([f"query: {user_prompt.strip()}"], normalize_embeddings=True)
+            # --- Define a synchronous helper function to encapsulate the blocking logic ---
+            def _sync_query_logic():
+                # ----- embed user prompt -----
+                query_vec = self.model.encode([f"query: {user_prompt.strip()}"], normalize_embeddings=True)
 
-        # ----- similarity scores -----
-        if metric.lower() == "cosine":
-            scores = cosine_similarity(query_vec, self.prompt_vectors)[0]
-            best_idx = np.argsort(scores)[::-1]
-        elif metric.lower() in {"euclidean", "l2"}:
-            scores = euclidean_distances(query_vec, self.prompt_vectors)[0]
-            best_idx = np.argsort(scores)  # smaller distance = better
-        else:
-            raise ValueError("metric must be 'cosine' or 'euclidean'")
+                # ----- similarity scores -----
+                if metric.lower() == "cosine":
+                    scores = cosine_similarity(query_vec, self.prompt_vectors)[0]
+                    best_idx = np.argsort(scores)[::-1]
+                elif metric.lower() in {"euclidean", "l2"}:
+                    scores = euclidean_distances(query_vec, self.prompt_vectors)[0]
+                    best_idx = np.argsort(scores)  # smaller distance = better
+                else:
+                    raise ValueError("metric must be 'cosine' or 'euclidean'")
 
-        # ----- assemble results -----
-        results: List[Dict[str, Union[str, float, int]]] = []
-        for rank in range(min(top_k, len(best_idx))):
-            i = best_idx[rank]
-            results.append(
-                {
-                    "matched_prompt": self.df.iloc[i]["Prompt"],
-                    "response": self.df.iloc[i]["Response"],
-                    "score": float(scores[i]),
-                    "metric": metric.lower(),
-                    "question_id": int(self.df.iloc[i]["question_id"]),
-                    "answer_id": int(self.df.iloc[i]["answer_id"]),
-                }
-            )
-        return results
+                # ----- assemble results -----
+                results: List[Dict[str, Union[str, float, int]]] = []
+                for rank in range(min(top_k, len(best_idx))):
+                    i = best_idx[rank]
+                    results.append(
+                        {
+                            "matched_prompt": self.df.iloc[i]["Prompt"],
+                            "response": self.df.iloc[i]["Response"],
+                            "score": float(scores[i]),
+                            "metric": metric.lower(),
+                            "question_id": int(self.df.iloc[i]["question_id"]),
+                            "answer_id": int(self.df.iloc[i]["answer_id"]),
+                        }
+                    )
+                return results
+
+            # --- Run the synchronous logic in a separate thread ---
+            return await asyncio.to_thread(_sync_query_logic) # <--- ADD 'await asyncio.to_thread()'
 
     # helper for REPL – keeps original behaviour but now exposes args
 
 
 if __name__ == "__main__":
     import argparse
+    import asyncio # <--- ADD THIS IMPORT
 
     parser = argparse.ArgumentParser(description="Interactive semantic Q&A matcher (brute‑force)")
     parser.add_argument("--base-data-path", type=str, default="./WebScrape/data_whole_page", help="Root folder holding dopomoha_questions/ and dopomoha_answers/")
@@ -209,17 +212,22 @@ if __name__ == "__main__":
         concat_q_and_a=not args.no_answer,
     )
 
-    try:
-        while True:
-            q = input("\nAsk something (or 'quit'): ").strip()
-            if q.lower() == "quit":
-                break
-            hits = matcher.query(q, metric=args.metric, top_k=args.top_k)
-            print(f"\n--- Top {len(hits)} result(s) ---")
-            for rnk, hit in enumerate(hits, 1):
-                print(f"\nMatch {rnk}:")
-                print(f"  Q-ID {hit['question_id']} » {hit['matched_prompt']}")
-                print(f"  A-ID {hit['answer_id']} » {hit['response']}")
-                print(f"  Score: {hit['score']:.4f}")
-    except KeyboardInterrupt:
-        print("\nExiting. Bye!")
+    # We need an async function to run the async query in the main block
+    async def main_repl(): # <--- NEW ASYNC FUNCTION FOR REPL
+        try:
+            while True:
+                q = input("\nAsk something (or 'quit'): ").strip()
+                if q.lower() == "quit":
+                    break
+                hits = await matcher.query(q, metric=args.metric, top_k=args.top_k) # <--- ADD 'await' HERE
+                print(f"\n--- Top {len(hits)} result(s) ---")
+                for rnk, hit in enumerate(hits, 1):
+                    print(f"\nMatch {rnk}:")
+                    print(f"  Q-ID {hit['question_id']} » {hit['matched_prompt']}")
+                    print(f"  A-ID {hit['answer_id']} » {hit['response']}")
+                    print(f"  Score: {hit['score']:.4f}")
+        except KeyboardInterrupt:
+            print("\nExiting. Bye!")
+
+    # Run the async main_repl function
+    asyncio.run(main_repl()) # <--- RUN THE ASYNC REPL
