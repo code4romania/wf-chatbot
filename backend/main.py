@@ -35,7 +35,7 @@ async def lifespan(app: FastAPI):
     logging.info("Starting up API...")
     try:
         logging.info(f"Initializing PromptMatcher with data path: {BASE_DATA_PATH}")
-        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE)
+        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a= False)
         if prompt_matcher.df is None or prompt_matcher.df.empty:
             logging.warning("PromptMatcher initialized but no data was loaded. Check data path and files.")
         else:
