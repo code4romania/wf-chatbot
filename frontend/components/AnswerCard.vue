@@ -82,7 +82,8 @@ const reviewMessage = ref(null);
 const reviewError = ref(false);
 
 // FastAPI Backend URL
-const API_BASE_URL = 'http://localhost:8000';
+șconst config = useRuntimeConfig();
+const API_BASE_URL = config.public.baseAPI;
 
 // Watch for changes in the 'answer' prop to reset the form
 watch(() => props.answer, () => {
