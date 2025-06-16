@@ -1,4 +1,6 @@
 # main.py
+import os
+
 from fastapi import FastAPI, Depends, HTTPException, status
 from pydantic import BaseModel, Field
 from typing import List, Optional
@@ -18,6 +20,9 @@ from database import SessionLocal, create_db_and_tables, UserQuery, UserReview
 # IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
 BASE_DATA_PATH = "./WebScrape/data_whole_page"
 LANGUAGE = "en"
+
+# The address of your frontend application, default to localhost if not set
+FRONTEND_ADDRESS = os.environ.get("FRONTEND_ADDRESS", "http://localhost:3000")
 
 # --- Global PromptMatcher Instances ---
 # We'll initialize these once when the application starts
@@ -74,7 +79,7 @@ app = FastAPI(
 
 # CORS
 origins = [
-    "http://localhost:3000",  # Your Nuxt.js frontend development server's address
+    FRONTEND_ADDRESS,  # Your Nuxt.js frontend development server's address
     # You might add other origins for production deployment later, e.g.:
     # "https://your-production-frontend.com",
 ]
