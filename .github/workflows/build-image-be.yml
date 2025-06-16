@@ -18,6 +18,7 @@ jobs:
     with:
       images: code4romania/wf-chatbot-backend
       context: ./backend
+      dockerfile: ./backend/Dockerfile
     secrets:
       username: ${{ secrets.DOCKER_HUB_USERNAME }}
       token: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
