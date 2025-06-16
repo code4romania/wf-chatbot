@@ -54,7 +54,8 @@ const useConcatMatcher = ref(randomNumberUsed.value < 0.5);
 const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed for the current session/query
 
 // FastAPI Backend URL
-const API_BASE_URL = 'http://localhost:8000';
+const config = useRuntimeConfig();
+const API_BASE_URL = config.public.baseAPI;
 
 // Computed property for the currently displayed answer
 const currentAnswer = computed(() => {

@@ -2,7 +2,7 @@ services:
   backend:
     build: ./backend
     ports:
-      - "8000:8000"
+      - "8001:8000"
     environment:
       - DB_PATH=/app/data/api_data.db
       - FRONTEND_ADDRESS=http://localhost:3001
@@ -13,6 +13,6 @@ services:
   frontend:
     build: ./frontend
     ports:
-      - "3000:80"
+      - "3001:80"
     environment:
-      - NUXT_API_URL=http://backend:8000
+      - NUXT_PUBLIC_BASE_API=http://localhost:8001
