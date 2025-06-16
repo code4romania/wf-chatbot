@@ -1,0 +1,24 @@
+on:
+  push:
+    branches:
+      - 'main'
+    tags:
+      - 'v*'
+    paths:
+      - 'frontend/**'
+      - '.github/workflows/build-image-fe.yml'
+
+name: Build Docker image for the frontend
+
+jobs:
+
+  build-fe:
+    name: Build Docker image
+    uses: code4romania/.github/.github/workflows/build-push-image.yml@main
+    with:
+      images: code4romania/wf-chatbot-frontend
+      context: ./
+      dockerfile: ./frontend/Dockerfile
+    secrets:
+      username: ${{ secrets.DOCKER_HUB_USERNAME }}
+      token: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
