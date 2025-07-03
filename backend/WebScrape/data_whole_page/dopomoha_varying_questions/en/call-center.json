@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 17,
+      "content_block_id": 15,
+      "question": "What is the main purpose of the Dopomoha platform?"
+    },
+    {
+      "question_id": 18,
+      "content_block_id": 15,
+      "question": "What types of support services are available through Dopomoha, such as housing, education, or health?"
+    },
+    {
+      "question_id": 19,
+      "content_block_id": 15,
+      "question": "What are 'Law made simple' and 'PTSD Help' designed to do?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 15,
+      "question": "What are the contact numbers for major refugee support organizations like CNRR, UNHCR, and IOM Romania?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 15,
+      "question": "Is there a help-line provided by the Romanian Government for refugees, and what are its hours of operation?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 15,
+      "question": "Are there helplines dedicated to reporting human trafficking, domestic violence, or sexual abuse?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 15,
+      "question": "What organizations offer medical support, including HIV treatment or assistance for rare diseases?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 15,
+      "question": "Are there dedicated support services and helplines for children?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 15,
+      "question": "How can individuals get information or support regarding accommodation and immigration status in Romania?"
+    },
+    {
+      "question_id": 26,
+      "content_block_id": 15,
+      "question": "Are local help-lines available for specific Romanian cities like Sibiu or Timișoara?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 15,
+      "question": "What languages are the various support helplines and services offered in?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 15,
+      "question": "Are there helplines or resources listed for refugees in other countries, such as Moldova, Poland, Slovakia, or the Czech Republic?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 15,
+      "question": "How can users provide feedback or report any errors on the platform?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 15,
+      "question": "What useful external links or resources are provided on the platform?"
+    }
+  ]
+}

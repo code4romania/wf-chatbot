@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 77,
+      "content_block_id": 46,
+      "question": "What kind of support is available for individuals coming from the armed conflict zone in Ukraine?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 46,
+      "question": "What is 'Law made simple' and what services does it provide?"
+    },
+    {
+      "question_id": 79,
+      "content_block_id": 46,
+      "question": "How does 'PTSD Help' assist individuals with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 80,
+      "content_block_id": 46,
+      "question": "What are medical devices in the context of health insurance?"
+    },
+    {
+      "question_id": 81,
+      "content_block_id": 46,
+      "question": "Who is eligible to receive medical devices through the health insurance system?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 46,
+      "question": "Are there any personal costs or contributions required for obtaining medical devices?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 46,
+      "question": "Do foreign citizens or stateless persons from the armed conflict zone in Ukraine need to pay for medical devices?"
+    },
+    {
+      "question_id": 84,
+      "content_block_id": 46,
+      "question": "What types of medical devices are included in the basic package for outpatient recovery?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 46,
+      "question": "What is the procedure for applying to receive medical devices?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 46,
+      "question": "What documents are necessary when submitting an application for medical devices?"
+    },
+    {
+      "question_id": 87,
+      "content_block_id": 46,
+      "question": "How quickly are medical device applications processed and approved?"
+    },
+    {
+      "question_id": 88,
+      "content_block_id": 46,
+      "question": "What happens if the demand for medical devices exceeds available monthly funds?"
+    },
+    {
+      "question_id": 89,
+      "content_block_id": 46,
+      "question": "How does one obtain the approved medical device after the application is accepted?"
+    },
+    {
+      "question_id": 90,
+      "content_block_id": 46,
+      "question": "Which official organization provides the information regarding medical device rights?"
+    },
+    {
+      "question_id": 91,
+      "content_block_id": 46,
+      "question": "How can one report errors or provide feedback about the information provided?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 46,
+      "question": "What other support organizations or useful resources are associated with the initiative?"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 47,
+      "content_block_id": 18,
+      "question": "What types of support are available for refugees?"
+    },
+    {
+      "question_id": 48,
+      "content_block_id": 18,
+      "question": "Is there a financial assistance program specifically for refugees?"
+    },
+    {
+      "question_id": 49,
+      "content_block_id": 18,
+      "question": "What are the eligibility criteria for refugee financial assistance?"
+    },
+    {
+      "question_id": 50,
+      "content_block_id": 18,
+      "question": "Where are the locations for refugee support or registration?"
+    },
+    {
+      "question_id": 51,
+      "content_block_id": 18,
+      "question": "What documents are needed to apply for refugee assistance?"
+    },
+    {
+      "question_id": 52,
+      "content_block_id": 18,
+      "question": "How can one manage Post Traumatic Stress Disorder with available resources?"
+    },
+    {
+      "question_id": 53,
+      "content_block_id": 18,
+      "question": "Are there resources to help citizens understand their legal rights and obligations?"
+    },
+    {
+      "question_id": 54,
+      "content_block_id": 18,
+      "question": "Is it possible to receive refugee financial assistance if already getting other aid?"
+    },
+    {
+      "question_id": 55,
+      "content_block_id": 18,
+      "question": "What is the process for updating personal information for refugee support?"
+    },
+    {
+      "question_id": 56,
+      "content_block_id": 18,
+      "question": "Why would fingerprints be required for refugee financial assistance?"
+    },
+    {
+      "question_id": 57,
+      "content_block_id": 18,
+      "question": "What methods are used for receiving refugee financial assistance?"
+    },
+    {
+      "question_id": 58,
+      "content_block_id": 18,
+      "question": "Is there a specific timeframe to collect refugee financial assistance once approved?"
+    },
+    {
+      "question_id": 59,
+      "content_block_id": 18,
+      "question": "What contact information is available for inquiries about refugee support?"
+    },
+    {
+      "question_id": 60,
+      "content_block_id": 18,
+      "question": "Are there specific support services for refugees in different cities?"
+    }
+  ]
+}

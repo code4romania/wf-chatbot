@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 998,
+      "content_block_id": 6,
+      "question": "What is the purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 999,
+      "content_block_id": 6,
+      "question": "Who is the Commit Global solution designed to help?"
+    },
+    {
+      "question_id": 1000,
+      "content_block_id": 6,
+      "question": "What types of support services are available for refugees in Romania?"
+    },
+    {
+      "question_id": 1001,
+      "content_block_id": 6,
+      "question": "Are there specific helplines or contact numbers for assistance?"
+    },
+    {
+      "question_id": 1002,
+      "content_block_id": 6,
+      "question": "What documents are required for Ukrainian nationals to enter Romania?"
+    },
+    {
+      "question_id": 1003,
+      "content_block_id": 6,
+      "question": "Which border crossing points can be used to enter Romania from Ukraine?"
+    },
+    {
+      "question_id": 1004,
+      "content_block_id": 6,
+      "question": "Is it possible to travel from Romania to other European Union Member States?"
+    },
+    {
+      "question_id": 1005,
+      "content_block_id": 6,
+      "question": "What provisions are in place for unaccompanied children entering Romania?"
+    },
+    {
+      "question_id": 1006,
+      "content_block_id": 6,
+      "question": "Is assistance available for finding accommodation in Romania?"
+    },
+    {
+      "question_id": 1007,
+      "content_block_id": 6,
+      "question": "What financial services, such as currency exchange, are offered for Ukrainian citizens in Romania?"
+    },
+    {
+      "question_id": 1008,
+      "content_block_id": 6,
+      "question": "Where can one get emergency resources like food, clothing, or transportation?"
+    },
+    {
+      "question_id": 1009,
+      "content_block_id": 6,
+      "question": "Are there regional centers for asylum seekers in Romania?"
+    },
+    {
+      "question_id": 1010,
+      "content_block_id": 6,
+      "question": "How can feedback or corrections be submitted regarding the provided information?"
+    },
+    {
+      "question_id": 1011,
+      "content_block_id": 6,
+      "question": "What are the 'Law made simple' and 'PTSD Help' solutions?"
+    }
+  ]
+}

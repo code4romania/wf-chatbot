@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question_id": 1035,
+      "content_block_id": 19,
+      "question": "What is the Dopomoha platform?"
+    },
+    {
+      "question_id": 1036,
+      "content_block_id": 19,
+      "question": "What kind of support does the Dopomoha platform offer to refugees?"
+    },
+    {
+      "question_id": 1037,
+      "content_block_id": 19,
+      "question": "Which organizations are partners in creating the Dopomoha solution?"
+    },
+    {
+      "question_id": 1038,
+      "content_block_id": 19,
+      "question": "Are there specific tools available for legal assistance through Dopomoha?"
+    },
+    {
+      "question_id": 1039,
+      "content_block_id": 19,
+      "question": "Does the Dopomoha platform provide resources for mental health support?"
+    },
+    {
+      "question_id": 1040,
+      "content_block_id": 19,
+      "question": "Who is eligible to receive support from the Dopomoha initiative?"
+    },
+    {
+      "question_id": 1041,
+      "content_block_id": 19,
+      "question": "What information is available regarding housing options for individuals seeking assistance?"
+    },
+    {
+      "question_id": 1042,
+      "content_block_id": 19,
+      "question": "Can individuals find information about education opportunities through the Dopomoha platform?"
+    },
+    {
+      "question_id": 1043,
+      "content_block_id": 19,
+      "question": "Are details about healthcare services provided on the Dopomoha platform?"
+    },
+    {
+      "question_id": 1044,
+      "content_block_id": 19,
+      "question": "Does the Dopomoha platform offer guidance on transportation for refugees?"
+    },
+    {
+      "question_id": 1045,
+      "content_block_id": 19,
+      "question": "Is there a call center available for assistance through the Dopomoha solution?"
+    },
+    {
+      "question_id": 1046,
+      "content_block_id": 19,
+      "question": "What cities in Romania are covered by the Dopomoha support services?"
+    },
+    {
+      "question_id": 1047,
+      "content_block_id": 19,
+      "question": "How can one provide feedback or report issues to the Dopomoha team?"
+    },
+    {
+      "question_id": 1048,
+      "content_block_id": 19,
+      "question": "Are there resources for finding employment opportunities listed on the Dopomoha platform?"
+    },
+    {
+      "question_id": 1049,
+      "content_block_id": 19,
+      "question": "What information is available about legal status for individuals seeking protection in Romania?"
+    },
+    {
+      "question_id": 1050,
+      "content_block_id": 19,
+      "question": "Does the Dopomoha platform offer advice on staying safe?"
+    },
+    {
+      "question_id": 1051,
+      "content_block_id": 19,
+      "question": "What are the terms and conditions for using the Dopomoha platform?"
+    },
+    {
+      "question_id": 1052,
+      "content_block_id": 19,
+      "question": "Is there information about how to enter Romania for individuals fleeing Ukraine?"
+    }
+  ]
+}

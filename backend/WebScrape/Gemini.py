@@ -123,7 +123,7 @@ if __name__ == '__main__':
     try:
         # To test, set your GOOGLE_API_KEY environment variable
         # or pass it directly: api_key="YOUR_GOOGLE_API_KEY"
-        gemini_session = GeminiChat(model="gemini-1.5-flash-latest") # Using flash for faster, cheaper tests
+        gemini_session = GeminiChat(model="gemini-2.5-flash-latest") # Using flash for faster, cheaper tests
         print("GeminiChatSession initialized successfully.")
 
         prompt1 = "Hello, Gemini! Tell me a fun fact about programming."

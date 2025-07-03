@@ -14,8 +14,8 @@ language_map = {
     # add more codes if needed, e.g. 'ro': 'Romanian'
 }
 
-INPUT_FOLDER = "./data_whole_page/dopomoha_parsed"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_questions"
+INPUT_FOLDER = "./data_whole_page/dopomoha_stripped"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_varying_stripped_questions"
 QID_FILE = os.path.join(OUTPUT_ROOT, "next_qid.txt") # File to store next_qid
 FAILURES_FILE = os.path.join(OUTPUT_ROOT, "notes", "fails.json") # Path for failures log
 
@@ -58,14 +58,15 @@ def save_failures(failures):
 
 def generate_questions_for_language(scraped, code, language, page_name, verbose=False):
     questions_out = []
-    n_questions = 10
+    n_questions = 5
+    max_questions= 20
     failures = load_failures() # Load existing failures
 
     for entry in scraped:
         base_prompt = (
             f"Given content: '{entry['summary']}', "
-            f"generate {n_questions} concise, distinct questions in {language} that someone curious might naturally ask "
-            "BEFORE reading any details! "
+            f"generate {n_questions}  to {max_questions} concise, distinct questions in {language} that someone curious might naturally ask "
+            "BEFORE reading any details!. Determine the number of questions to cover all the content in the page. " 
             "IMPORTANT: Each question MUST be fully understandable on its own, as if seen in isolation. It should not require knowledge of the content to grasp what the question is about. "
 
             "BAD Examples that LACK CONTEXT: "
@@ -75,7 +76,7 @@ def generate_questions_for_language(scraped, code, language, page_name, verbose=
             "A GOOD question is 'What are the benefits of the new community gardening program?' or 'How can one join the new community gardening program?'. "
             "If the question is about a specific program, event, or concept mentioned try to include that specific program, event, or concept in the question itself. "
             "Do not include the words “this”, 'these', or “content” in your questions. "
-            f"SUPER IMPORTANT: Return only a Python list literal of exactly {n_questions} items." # Keep this instruction to the model
+            f"SUPER IMPORTANT: Return only a Python list literal." # Keep this instruction to the model
         )
         history = []
         questions = []

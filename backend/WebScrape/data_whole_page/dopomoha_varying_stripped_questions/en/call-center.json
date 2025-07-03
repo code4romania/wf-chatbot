@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 13,
+      "content_block_id": 15,
+      "question": "What types of support services are available for refugees in Romania?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 15,
+      "question": "Are help-lines available for multiple countries, or only for Romania?"
+    },
+    {
+      "question_id": 15,
+      "content_block_id": 15,
+      "question": "Is there support for specific issues like human trafficking or domestic violence?"
+    },
+    {
+      "question_id": 16,
+      "content_block_id": 15,
+      "question": "Are there help-lines for medical support or specific health conditions like HIV or rare diseases?"
+    },
+    {
+      "question_id": 17,
+      "content_block_id": 15,
+      "question": "Is there dedicated support or counseling for children?"
+    },
+    {
+      "question_id": 18,
+      "content_block_id": 15,
+      "question": "Where can one find information about accommodation requests or immigration conditions in Romania?"
+    },
+    {
+      "question_id": 19,
+      "content_block_id": 15,
+      "question": "Are support services available in multiple languages, such as Ukrainian, English, or Russian?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 15,
+      "question": "Do the listed help-lines operate 24/7, or are there specific operating hours?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 15,
+      "question": "Are there local help-lines specific to different cities within Romania, such as Sibiu or Timișoara?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 15,
+      "question": "Is there a general information line about the rights and services available to refugees in Romania?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 15,
+      "question": "Does the Romanian Red Cross offer any help-line services?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 15,
+      "question": "Is there a help-line provided by the Romanian Border Police, particularly in Ukrainian language?"
+    }
+  ]
+}

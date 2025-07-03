@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 435,
+      "content_block_id": 52,
+      "question": "What kind of medical services does MedZirka provide?"
+    },
+    {
+      "question_id": 436,
+      "content_block_id": 52,
+      "question": "Are the medical services offered by MedZirka free of charge?"
+    },
+    {
+      "question_id": 437,
+      "content_block_id": 52,
+      "question": "Does MedZirka offer both online and offline medical services?"
+    },
+    {
+      "question_id": 438,
+      "content_block_id": 52,
+      "question": "What is the process to receive free consultations from MedZirka?"
+    },
+    {
+      "question_id": 439,
+      "content_block_id": 52,
+      "question": "What types of medical professionals are available for consultations at MedZirka?"
+    },
+    {
+      "question_id": 440,
+      "content_block_id": 52,
+      "question": "Can MedZirka issue medical prescriptions?"
+    },
+    {
+      "question_id": 441,
+      "content_block_id": 52,
+      "question": "Is it possible to obtain a sick leave certificate from MedZirka?"
+    },
+    {
+      "question_id": 442,
+      "content_block_id": 52,
+      "question": "Does MedZirka provide referrals to specialists?"
+    },
+    {
+      "question_id": 443,
+      "content_block_id": 52,
+      "question": "Can MedZirka provide referrals for laboratory testing?"
+    },
+    {
+      "question_id": 444,
+      "content_block_id": 52,
+      "question": "Is it possible to obtain a vaccination certificate through MedZirka?"
+    },
+    {
+      "question_id": 445,
+      "content_block_id": 52,
+      "question": "What range of medical conditions or health topics can be discussed with MedZirka's doctors?"
+    },
+    {
+      "question_id": 446,
+      "content_block_id": 52,
+      "question": "Does MedZirka offer consultations for common illnesses like flu, cold, or SARS?"
+    },
+    {
+      "question_id": 447,
+      "content_block_id": 52,
+      "question": "Are chronic diseases covered by MedZirka's services?"
+    },
+    {
+      "question_id": 448,
+      "content_block_id": 52,
+      "question": "How can one contact MedZirka for more information or to access services?"
+    },
+    {
+      "question_id": 449,
+      "content_block_id": 52,
+      "question": "Can MedZirka be contacted via messaging apps like Viber or Telegram?"
+    }
+  ]
+}

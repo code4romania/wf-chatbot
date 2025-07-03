@@ -12,9 +12,9 @@ language_map = {
     'en': 'English',
 }
 
-QUESTIONS_ROOT = "./data_whole_page/dopomoha_questions/"
-SOURCE_FOLDER = "./data_whole_page/dopomoha_parsed/"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_answers/"
+QUESTIONS_ROOT = "./data_whole_page/dopomoha_varying_stripped_questions/"
+SOURCE_FOLDER = "./data_whole_page/dopomoha_stripped/"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_pointing_answers/"
 
 os.makedirs(OUTPUT_ROOT, exist_ok=True)
 
@@ -46,6 +46,7 @@ if __name__ == '__main__':
             # --- END NEW ADDITION ---
 
             questions_data = load_json(os.path.join(questions_folder, fname))['questions']
+            website= "https://dopomoha.ro/en/" + page_name
             content_data = load_json(os.path.join(SOURCE_FOLDER, f"{page_name}.json"))
             answers_out = []
             for q in questions_data:
@@ -53,12 +54,11 @@ if __name__ == '__main__':
                 if not entry:
                     continue
                 ans_prompt = (
-                    f"Answer in {language} using only the summary: '{entry['summary']}'.\n"
                     f"Question: {q}\n"
-                    "Give a concise answer of the question while providing details. "
-                    "Don't just give a yes/no answer, give a full answer from the summary. "
-                    "Don't mention that the response is coming from the summary. "
+                    f"Answer in {language} using only the summary: '{entry['summary']} from website {website}'.\n"
+                    "Give a concise answer of 1 or 2 sentences."
                     "Don't say anything like according to the summary. Return only the answer text."
+                    "Than explain the user how to find the detailed information in the webpage(like go to the website and read under the section... )"
                 )
                 resp, _ = chat.send(ans_prompt)
                 ans_text = resp.strip()

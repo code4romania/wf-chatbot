@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 875,
+      "content_block_id": 67,
+      "question": "What types of support services are offered?"
+    },
+    {
+      "question_id": 876,
+      "content_block_id": 67,
+      "question": "Who is eligible to receive support services?"
+    },
+    {
+      "question_id": 877,
+      "content_block_id": 67,
+      "question": "In which cities or regions are the support services available?"
+    },
+    {
+      "question_id": 878,
+      "content_block_id": 67,
+      "question": "What languages are available for consultations or support?"
+    },
+    {
+      "question_id": 879,
+      "content_block_id": 67,
+      "question": "Are there specific programs for mental health support?"
+    },
+    {
+      "question_id": 880,
+      "content_block_id": 67,
+      "question": "Is legal assistance provided for citizens?"
+    },
+    {
+      "question_id": 881,
+      "content_block_id": 67,
+      "question": "How can one contact the organizations providing support?"
+    },
+    {
+      "question_id": 882,
+      "content_block_id": 67,
+      "question": "Are there workshops available for discussing trauma of war?"
+    },
+    {
+      "question_id": 883,
+      "content_block_id": 67,
+      "question": "Do any organizations offer psychological support specifically for children?"
+    },
+    {
+      "question_id": 884,
+      "content_block_id": 67,
+      "question": "Can services be settled through an insurance company like CNAS?"
+    },
+    {
+      "question_id": 885,
+      "content_block_id": 67,
+      "question": "Are there mental health services for survivors of gender-based violence?"
+    },
+    {
+      "question_id": 886,
+      "content_block_id": 67,
+      "question": "Is there support available for humanitarian workers?"
+    },
+    {
+      "question_id": 887,
+      "content_block_id": 67,
+      "question": "How can individuals report mistakes or provide feedback on the information?"
+    },
+    {
+      "question_id": 888,
+      "content_block_id": 67,
+      "question": "What is the scope of services provided by the International Organization for Migration (IOM)?"
+    },
+    {
+      "question_id": 889,
+      "content_block_id": 67,
+      "question": "Are there any services for the LGBTIQ+ community or Roma community?"
+    }
+  ]
+}

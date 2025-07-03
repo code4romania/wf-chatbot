@@ -75,8 +75,8 @@ class PromptMatcher:
     def _process_data(self):
         """Load question/answer JSON → DataFrame → embeddings."""
 
-        q_dir = self.base_data_path / "dopomoha_questions" / self.language
-        a_dir = self.base_data_path / "dopomoha_answers" / self.language
+        q_dir = self.base_data_path / "dopomoha_varying_stripped_questions" / self.language
+        a_dir = self.base_data_path / "dopomoha_pointing_answers" / self.language
         if not (q_dir.is_dir() and a_dir.is_dir()):
             raise FileNotFoundError(
                 f"Expected directories {q_dir} and {a_dir}. Check --base-data-path."
@@ -99,7 +99,7 @@ class PromptMatcher:
             for a in payload.get("answers", []):
                 if {"question_id", "answer_id", "answer"} <= a.keys():
                     answers[a["question_id"]] = {
-                        "answer": a["answer"],  # fixed field name
+                        "answer": a["bResponse"],  # fixed field name
                         "answer_id": a["answer_id"],
                     }
 
