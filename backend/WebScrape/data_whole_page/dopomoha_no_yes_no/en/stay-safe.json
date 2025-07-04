@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 90,
+      "content_block_id": 5,
+      "question": "What defines human trafficking?"
+    },
+    {
+      "question_id": 91,
+      "content_block_id": 5,
+      "question": "How can individuals reduce their vulnerability to human trafficking?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 5,
+      "question": "Where can someone report suspicious activity related to human trafficking?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 5,
+      "question": "Why is child safety emphasized in discussions about human trafficking?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 5,
+      "question": "What essential information does the \"What to do in case of emergency or war\" guide provide?"
+    },
+    {
+      "question_id": 95,
+      "content_block_id": 5,
+      "question": "Who developed the \"What to do in case of emergency or war\" guide?"
+    },
+    {
+      "question_id": 96,
+      "content_block_id": 5,
+      "question": "How does the \"What to do in case of emergency or war\" guide help people prepare for unforeseen events?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 5,
+      "question": "Where can individuals locate shelters in Romania?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 5,
+      "question": "What types of support do shelters in Romania offer?"
+    },
+    {
+      "question_id": 99,
+      "content_block_id": 5,
+      "question": "In what way can someone access specific shelter information for Bucharest?"
+    }
+  ]
+}

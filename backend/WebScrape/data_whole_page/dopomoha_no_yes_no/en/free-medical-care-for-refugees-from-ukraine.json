@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question_id": 170,
+      "content_block_id": 33,
+      "question": "What kind of assistance is available for refugees in Romania?"
+    },
+    {
+      "question_id": 171,
+      "content_block_id": 33,
+      "question": "Who provides medical care to refugees in Romania?"
+    },
+    {
+      "question_id": 172,
+      "content_block_id": 33,
+      "question": "How can refugees access medical services in Romania?"
+    },
+    {
+      "question_id": 173,
+      "content_block_id": 33,
+      "question": "Where can refugees find medical care in Bucharest?"
+    },
+    {
+      "question_id": 174,
+      "content_block_id": 33,
+      "question": "What types of medical consultations are offered to refugees?"
+    },
+    {
+      "question_id": 175,
+      "content_block_id": 33,
+      "question": "Why are medical services provided free of charge to refugees?"
+    },
+    {
+      "question_id": 176,
+      "content_block_id": 33,
+      "question": "What are the operating hours for refugee assistance centers?"
+    },
+    {
+      "question_id": 177,
+      "content_block_id": 33,
+      "question": "How do refugees schedule an appointment for medical care?"
+    },
+    {
+      "question_id": 178,
+      "content_block_id": 33,
+      "question": "Which languages are supported for medical consultations for refugees?"
+    },
+    {
+      "question_id": 179,
+      "content_block_id": 33,
+      "question": "What contact information is available for refugee support services in Romania?"
+    },
+    {
+      "question_id": 180,
+      "content_block_id": 33,
+      "question": "In what way does the International Organization for Migration support refugees in Romania?"
+    },
+    {
+      "question_id": 181,
+      "content_block_id": 33,
+      "question": "What is the primary location for refugee assistance in Bucharest?"
+    },
+    {
+      "question_id": 182,
+      "content_block_id": 33,
+      "question": "How can someone get in touch with the IOM representatives for assistance?"
+    }
+  ]
+}

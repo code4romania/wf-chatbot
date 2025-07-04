@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 303,
+      "content_block_id": 44,
+      "question": "What types of home medical services are available?"
+    },
+    {
+      "question_id": 304,
+      "content_block_id": 44,
+      "question": "How do patients arrange for medical transportation services?"
+    },
+    {
+      "question_id": 305,
+      "content_block_id": 44,
+      "question": "Which patient conditions qualify for specialized medical transport?"
+    },
+    {
+      "question_id": 306,
+      "content_block_id": 44,
+      "question": "What is the scope of medical transport services beyond a basic package?"
+    },
+    {
+      "question_id": 307,
+      "content_block_id": 44,
+      "question": "Who provides the emergency consultation and unassisted medical transport services?"
+    },
+    {
+      "question_id": 308,
+      "content_block_id": 44,
+      "question": "Under what circumstances can hospital-to-home transport be arranged?"
+    },
+    {
+      "question_id": 309,
+      "content_block_id": 44,
+      "question": "What specific requirements apply to transport for specialist consultations?"
+    },
+    {
+      "question_id": 310,
+      "content_block_id": 44,
+      "question": "How do patients access transport for laboratory tests?"
+    },
+    {
+      "question_id": 311,
+      "content_block_id": 44,
+      "question": "What role does the 112 emergency service play in medical transport arrangements?"
+    },
+    {
+      "question_id": 312,
+      "content_block_id": 44,
+      "question": "For what purpose are emergency home consultations provided?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 44,
+      "question": "Who is eligible for emergency home consultations?"
+    },
+    {
+      "question_id": 314,
+      "content_block_id": 44,
+      "question": "In what way do health insurance companies support medical transport services?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 44,
+      "question": "What is the source of information regarding these patient rights?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 44,
+      "question": "Which organization oversees the social health insurance system related to these services?"
+    }
+  ]
+}

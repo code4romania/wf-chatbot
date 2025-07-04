@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 353,
+      "content_block_id": 7,
+      "question": "What defines asylum protection?"
+    },
+    {
+      "question_id": 354,
+      "content_block_id": 7,
+      "question": "Who qualifies for asylum?"
+    },
+    {
+      "question_id": 355,
+      "content_block_id": 7,
+      "question": "How does someone initiate an asylum application?"
+    },
+    {
+      "question_id": 356,
+      "content_block_id": 7,
+      "question": "What process follows an asylum application?"
+    },
+    {
+      "question_id": 357,
+      "content_block_id": 7,
+      "question": "What protections does an asylum seeker receive?"
+    },
+    {
+      "question_id": 358,
+      "content_block_id": 7,
+      "question": "How long does the asylum process typically take?"
+    },
+    {
+      "question_id": 359,
+      "content_block_id": 7,
+      "question": "What types of situations necessitate seeking asylum?"
+    },
+    {
+      "question_id": 360,
+      "content_block_id": 7,
+      "question": "Where can someone submit an asylum application?"
+    },
+    {
+      "question_id": 361,
+      "content_block_id": 7,
+      "question": "What types of assistance does Sprijin de Urgență provide?"
+    },
+    {
+      "question_id": 362,
+      "content_block_id": 7,
+      "question": "How can individuals request support from Sprijin de Urgență?"
+    },
+    {
+      "question_id": 363,
+      "content_block_id": 7,
+      "question": "In what ways can someone offer resources through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 364,
+      "content_block_id": 7,
+      "question": "What is the main purpose of Un Acoperiș?"
+    },
+    {
+      "question_id": 365,
+      "content_block_id": 7,
+      "question": "How does Un Acoperiș help with finding temporary accommodation?"
+    },
+    {
+      "question_id": 366,
+      "content_block_id": 7,
+      "question": "What steps are involved in accessing support from Un Acoperiș?"
+    },
+    {
+      "question_id": 367,
+      "content_block_id": 7,
+      "question": "How can people provide housing options via Un Acoperiș?"
+    }
+  ]
+}

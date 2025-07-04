@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 291,
+      "content_block_id": 9,
+      "question": "What languages are included in the communication guide?"
+    },
+    {
+      "question_id": 292,
+      "content_block_id": 9,
+      "question": "How is the practical information categorized within the resource?"
+    },
+    {
+      "question_id": 293,
+      "content_block_id": 9,
+      "question": "What specific types of assistance can individuals request through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 294,
+      "content_block_id": 9,
+      "question": "How can people offer resources or volunteer through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 295,
+      "content_block_id": 9,
+      "question": "What is the main purpose of the 'Un Acoperiș' initiative?"
+    },
+    {
+      "question_id": 296,
+      "content_block_id": 9,
+      "question": "How does 'Un Acoperiș' facilitate finding temporary accommodation?"
+    },
+    {
+      "question_id": 297,
+      "content_block_id": 9,
+      "question": "Which medical situations does the language guide help users navigate?"
+    },
+    {
+      "question_id": 298,
+      "content_block_id": 9,
+      "question": "What essential phrases are provided for basic daily conversations?"
+    },
+    {
+      "question_id": 299,
+      "content_block_id": 9,
+      "question": "Where can someone find information about transportation options in the guide?"
+    },
+    {
+      "question_id": 300,
+      "content_block_id": 9,
+      "question": "What guidance is offered regarding documents and financial transactions?"
+    },
+    {
+      "question_id": 301,
+      "content_block_id": 9,
+      "question": "Why might someone find a multi-language phrasebook useful in an emergency?"
+    },
+    {
+      "question_id": 302,
+      "content_block_id": 9,
+      "question": "Who is intended to benefit most from the phrases provided?"
+    }
+  ]
+}

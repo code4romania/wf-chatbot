@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 140,
+      "content_block_id": 16,
+      "question": "What kinds of support are available for vulnerable people arriving in Romania?"
+    },
+    {
+      "question_id": 141,
+      "content_block_id": 16,
+      "question": "How might someone volunteer to assist vulnerable people in Romania?"
+    },
+    {
+      "question_id": 142,
+      "content_block_id": 16,
+      "question": "Where might individuals find specialized medical assistance?"
+    },
+    {
+      "question_id": 143,
+      "content_block_id": 16,
+      "question": "What options exist for finding temporary accommodation for vulnerable people?"
+    },
+    {
+      "question_id": 144,
+      "content_block_id": 16,
+      "question": "How might someone locate suitable job opportunities?"
+    },
+    {
+      "question_id": 145,
+      "content_block_id": 16,
+      "question": "What information is available regarding educational access for Ukrainian children in Romania?"
+    },
+    {
+      "question_id": 146,
+      "content_block_id": 16,
+      "question": "Which services do the specialized call-centers provide?"
+    },
+    {
+      "question_id": 147,
+      "content_block_id": 16,
+      "question": "What kind of legal assistance is offered to Ukrainian refugees?"
+    },
+    {
+      "question_id": 148,
+      "content_block_id": 16,
+      "question": "How can individuals obtain transportation or vehicle assistance in emergencies?"
+    },
+    {
+      "question_id": 149,
+      "content_block_id": 16,
+      "question": "What free language courses are accessible for Ukrainian refugees?"
+    },
+    {
+      "question_id": 150,
+      "content_block_id": 16,
+      "question": "Where might someone find support services for drug users?"
+    },
+    {
+      "question_id": 151,
+      "content_block_id": 16,
+      "question": "What mental health services are available for refugees dealing with trauma?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 16,
+      "question": "How might the online map help in finding organizations assisting refugees?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 16,
+      "question": "What does the integration process for refugees in Romania entail?"
+    },
+    {
+      "question_id": 154,
+      "content_block_id": 16,
+      "question": "Which essential resources can be requested or provided through Sprijin de Urgență?"
+    }
+  ]
+}

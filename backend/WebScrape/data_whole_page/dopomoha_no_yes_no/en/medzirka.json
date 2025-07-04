@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 455,
+      "content_block_id": 52,
+      "question": "What types of medical services does MedZirka offer?"
+    },
+    {
+      "question_id": 456,
+      "content_block_id": 52,
+      "question": "How can individuals access medical services from MedZirka?"
+    },
+    {
+      "question_id": 457,
+      "content_block_id": 52,
+      "question": "Who can benefit from cost-free medical services provided by MedZirka?"
+    },
+    {
+      "question_id": 458,
+      "content_block_id": 52,
+      "question": "Why does MedZirka provide medical services free of charge?"
+    },
+    {
+      "question_id": 459,
+      "content_block_id": 52,
+      "question": "Which medical specialists are available for consultations through MedZirka?"
+    },
+    {
+      "question_id": 460,
+      "content_block_id": 52,
+      "question": "What is the procedure for receiving medical assistance from MedZirka?"
+    },
+    {
+      "question_id": 461,
+      "content_block_id": 52,
+      "question": "What range of medical conditions can MedZirka help with?"
+    },
+    {
+      "question_id": 462,
+      "content_block_id": 52,
+      "question": "How does MedZirka deliver medical services online?"
+    },
+    {
+      "question_id": 463,
+      "content_block_id": 52,
+      "question": "What is the process for obtaining a medical prescription from MedZirka?"
+    },
+    {
+      "question_id": 464,
+      "content_block_id": 52,
+      "question": "In what ways can someone get in touch with MedZirka for further details?"
+    },
+    {
+      "question_id": 465,
+      "content_block_id": 52,
+      "question": "Where are MedZirka's physical clinic locations?"
+    },
+    {
+      "question_id": 466,
+      "content_block_id": 52,
+      "question": "What documents or information are needed to register for MedZirka's services?"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 410,
+      "content_block_id": 45,
+      "question": "What are compensated medicines?"
+    },
+    {
+      "question_id": 411,
+      "content_block_id": 45,
+      "question": "How does one qualify for compensated medicines?"
+    },
+    {
+      "question_id": 412,
+      "content_block_id": 45,
+      "question": "Which types of medical conditions are covered for compensated medicines?"
+    },
+    {
+      "question_id": 413,
+      "content_block_id": 45,
+      "question": "Who can prescribe compensated medicines?"
+    },
+    {
+      "question_id": 414,
+      "content_block_id": 45,
+      "question": "Where can patients obtain compensated medicines?"
+    },
+    {
+      "question_id": 415,
+      "content_block_id": 45,
+      "question": "What is the process for getting a prescription for compensated medicines?"
+    },
+    {
+      "question_id": 416,
+      "content_block_id": 45,
+      "question": "How much of the cost of medicines is typically covered by health insurance?"
+    },
+    {
+      "question_id": 417,
+      "content_block_id": 45,
+      "question": "What is the validity period for prescriptions of compensated medicines?"
+    },
+    {
+      "question_id": 418,
+      "content_block_id": 45,
+      "question": "What role do health insurance houses play in the compensation system?"
+    },
+    {
+      "question_id": 419,
+      "content_block_id": 45,
+      "question": "How do different categories of drugs affect their compensation percentage?"
+    },
+    {
+      "question_id": 420,
+      "content_block_id": 45,
+      "question": "In what way do therapeutic protocols influence the prescription of certain drugs?"
+    },
+    {
+      "question_id": 421,
+      "content_block_id": 45,
+      "question": "What documentation is needed to receive compensated medicines?"
+    },
+    {
+      "question_id": 422,
+      "content_block_id": 45,
+      "question": "Why might some patients be exempt from personal contributions for medicines?"
+    },
+    {
+      "question_id": 423,
+      "content_block_id": 45,
+      "question": "What happens if a hospitalized patient needs compensated drugs not available in the hospital?"
+    },
+    {
+      "question_id": 424,
+      "content_block_id": 45,
+      "question": "How do electronic medical prescriptions work for compensated medicines?"
+    }
+  ]
+}

@@ -55,9 +55,9 @@ if __name__ == '__main__':
                     continue
                 ans_prompt = (
                     f"Question: {q}\n"
-                    f"Answer in {language} using only the summary: '{entry['summary']} from website {website}'.\n"
+                    f"Answer in {language} using only the content: '{entry['summary']} from website {website}'.\n"
                     "Give a concise answer of 1 or 2 sentences."
-                    "Don't say anything like according to the summary. Return only the answer text."
+                    "Don't say anything like according to the content. Return only the answer text."
                     "Than explain the user how to find the detailed information in the webpage(like go to the website and read under the section... )"
                 )
                 resp, _ = chat.send(ans_prompt)

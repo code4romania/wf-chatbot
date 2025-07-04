@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 16,
+      "content_block_id": 15,
+      "question": "What kinds of assistance do various helplines offer?"
+    },
+    {
+      "question_id": 17,
+      "content_block_id": 15,
+      "question": "How can individuals access support services through helplines?"
+    },
+    {
+      "question_id": 18,
+      "content_block_id": 15,
+      "question": "Which organizations typically provide help-line services?"
+    },
+    {
+      "question_id": 19,
+      "content_block_id": 15,
+      "question": "What specific types of support are available for refugees or individuals seeking asylum?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 15,
+      "question": "Who operates the different national and international helplines?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 15,
+      "question": "When are support helplines generally available for calls?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 15,
+      "question": "How do helplines assist with medical needs or health-related inquiries?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 15,
+      "question": "What services do helplines provide for children in vulnerable situations?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 15,
+      "question": "Which helplines offer guidance on legal rights or immigration processes?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 15,
+      "question": "In what languages do support helplines typically provide assistance?"
+    },
+    {
+      "question_id": 26,
+      "content_block_id": 15,
+      "question": "How do helplines address concerns related to human trafficking or domestic violence?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 15,
+      "question": "What geographical areas do these support services cover?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 15,
+      "question": "How can someone find accommodation or housing assistance through helplines?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 15,
+      "question": "What steps should individuals take when contacting a support helpline?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 15,
+      "question": "Which helplines specialize in support for rare diseases or specific medical conditions?"
+    }
+  ]
+}

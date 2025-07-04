@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 985,
+      "content_block_id": 8,
+      "question": "What kind of support is offered through dopomoha.ro?"
+    },
+    {
+      "question_id": 986,
+      "content_block_id": 8,
+      "question": "How can people effectively share information from dopomoha.ro?"
+    },
+    {
+      "question_id": 987,
+      "content_block_id": 8,
+      "question": "Where are the suggested locations for displaying the dopomoha.ro poster?"
+    },
+    {
+      "question_id": 988,
+      "content_block_id": 8,
+      "question": "What languages are covered in the common expressions guide?"
+    },
+    {
+      "question_id": 989,
+      "content_block_id": 8,
+      "question": "Who might find the phrase book most useful?"
+    },
+    {
+      "question_id": 990,
+      "content_block_id": 8,
+      "question": "What types of resources can individuals request through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 991,
+      "content_block_id": 8,
+      "question": "How can someone offer resources or volunteer through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 992,
+      "content_block_id": 8,
+      "question": "What kind of accommodation assistance does Un Acoperiș provide?"
+    },
+    {
+      "question_id": 993,
+      "content_block_id": 8,
+      "question": "How can individuals offer temporary housing through Un Acoperiș?"
+    },
+    {
+      "question_id": 994,
+      "content_block_id": 8,
+      "question": "Who is the primary audience for the Un Acoperiș platform?"
+    },
+    {
+      "question_id": 995,
+      "content_block_id": 8,
+      "question": "What information is included on the dopomoha.ro flyer?"
+    }
+  ]
+}

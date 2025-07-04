@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question_id": 234,
+      "content_block_id": 12,
+      "question": "What kind of support can individuals request through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 235,
+      "content_block_id": 12,
+      "question": "How can someone offer resources or volunteer services on Sprijin de Urgență?"
+    },
+    {
+      "question_id": 236,
+      "content_block_id": 12,
+      "question": "What are the operational details for evacuation buses traveling from Odessa to Palanca?"
+    },
+    {
+      "question_id": 237,
+      "content_block_id": 12,
+      "question": "How can one make a reservation for an evacuation bus from Odessa to Palanca?"
+    },
+    {
+      "question_id": 238,
+      "content_block_id": 12,
+      "question": "What is the process for utilizing the free transfer service from Ukraine to Romania via Moldova?"
+    },
+    {
+      "question_id": 239,
+      "content_block_id": 12,
+      "question": "Which support services are available upon arrival in Huși during the free transfer from Ukraine to Romania?"
+    },
+    {
+      "question_id": 240,
+      "content_block_id": 12,
+      "question": "What specific types of emergency interventions does Rescue 4x4 offer?"
+    },
+    {
+      "question_id": 241,
+      "content_block_id": 12,
+      "question": "How can individuals request assistance from the Rescue 4x4 service?"
+    },
+    {
+      "question_id": 242,
+      "content_block_id": 12,
+      "question": "How can travelers find train routes and timetables for passenger trains in Romania?"
+    },
+    {
+      "question_id": 243,
+      "content_block_id": 12,
+      "question": "Which railway operators provide train services in Romania?"
+    },
+    {
+      "question_id": 244,
+      "content_block_id": 12,
+      "question": "What advice is given for safety on overnight trains in Romania?"
+    },
+    {
+      "question_id": 245,
+      "content_block_id": 12,
+      "question": "How can one access routes and timetables for buses and minibuses in Romania?"
+    },
+    {
+      "question_id": 246,
+      "content_block_id": 12,
+      "question": "What are the different ways to purchase bus tickets or long-term travel cards in Romania?"
+    },
+    {
+      "question_id": 247,
+      "content_block_id": 12,
+      "question": "Which documents are necessary to buy a bus pass in Romania?"
+    },
+    {
+      "question_id": 248,
+      "content_block_id": 12,
+      "question": "Which applications are recommended for arranging taxi rides in major Romanian cities?"
+    },
+    {
+      "question_id": 249,
+      "content_block_id": 12,
+      "question": "Why are certain methods for obtaining a taxi recommended over others in Romania?"
+    },
+    {
+      "question_id": 250,
+      "content_block_id": 12,
+      "question": "What are the payment methods available for traveling by subway in Romania?"
+    },
+    {
+      "question_id": 251,
+      "content_block_id": 12,
+      "question": "What are the general policies regarding transportation costs covered by the Romanian government?"
+    }
+  ]
+}

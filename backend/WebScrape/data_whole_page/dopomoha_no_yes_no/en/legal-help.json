@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 711,
+      "content_block_id": 28,
+      "question": "What types of legal assistance are available for Ukrainian refugees?"
+    },
+    {
+      "question_id": 712,
+      "content_block_id": 28,
+      "question": "How can Ukrainian refugees find pro bono legal help?"
+    },
+    {
+      "question_id": 713,
+      "content_block_id": 28,
+      "question": "Which organizations offer legal support to Ukrainian refugees?"
+    },
+    {
+      "question_id": 714,
+      "content_block_id": 28,
+      "question": "What specific services does the National Association of the Romanian Bars provide for Ukrainian refugees?"
+    },
+    {
+      "question_id": 715,
+      "content_block_id": 28,
+      "question": "How does the UA.SUPPORT campaign facilitate legal assistance for refugees?"
+    },
+    {
+      "question_id": 716,
+      "content_block_id": 28,
+      "question": "What legal issues does ACTEDO address for refugees in Romania?"
+    },
+    {
+      "question_id": 717,
+      "content_block_id": 28,
+      "question": "How can refugees access the list of lawyers compiled by UNHCR?"
+    },
+    {
+      "question_id": 718,
+      "content_block_id": 28,
+      "question": "What is the scope of free legal counseling offered by CNRR?"
+    },
+    {
+      "question_id": 719,
+      "content_block_id": 28,
+      "question": "Which contact methods are available for CNRR's legal counseling service?"
+    },
+    {
+      "question_id": 720,
+      "content_block_id": 28,
+      "question": "What are the operating hours for legal support hotlines?"
+    },
+    {
+      "question_id": 721,
+      "content_block_id": 28,
+      "question": "In what countries can Ukrainian refugees receive legal assistance?"
+    },
+    {
+      "question_id": 722,
+      "content_block_id": 28,
+      "question": "Who can volunteer to provide legal support to Ukrainian refugees through these initiatives?"
+    },
+    {
+      "question_id": 723,
+      "content_block_id": 28,
+      "question": "How does the matching process work for lawyers willing to offer support?"
+    },
+    {
+      "question_id": 724,
+      "content_block_id": 28,
+      "question": "What common administrative challenges do refugees face in Romania that require legal help?"
+    }
+  ]
+}
