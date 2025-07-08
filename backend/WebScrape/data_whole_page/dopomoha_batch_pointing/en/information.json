@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 567,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens can enter Romania with a biometric or simple passport for a short stay. While not strictly required if fleeing conflict, it is advisable to bring personal identification like a national identity document, passport, or birth certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Who and how can enter Romania? What documents do I need to present at the border crossing in order to enter Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 568,
+      "content_block_id": 21,
+      "answer": "All children from Ukraine are accepted into Romania, and it is advisable to carry an identity document or birth certificate for them. Parents do not need the approval of the second parent for a child to cross the border, and unaccompanied minors can also enter.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What documents do I need to enter Romania with a child / minor?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 569,
+      "content_block_id": 21,
+      "answer": "Ukrainian men between 18 and 60 years old are allowed to enter Romania if they meet the conditions for leaving Ukraine and entering Romania. Boys under 18 and men over 60 can leave Ukraine and enter Romania without specific additional conditions mentioned.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Are Ukrainian men allowed into Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 570,
+      "content_block_id": 21,
+      "answer": "There are no requirements to present a COVID-19 vaccination certificate or a valid PCR test to enter Romania from Ukraine. Additionally, quarantine is not required for those arriving by land from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Do I need a vaccination certificate or valid PCR test for COVID-19 in order to enter Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 571,
+      "content_block_id": 21,
+      "answer": "Third Country Nationals (TCNs) who resided in Ukraine and hold a passport can cross into Romania at border points and obtain a transit visa on arrival for up to 90 days. Currently, TCNs are primarily accepted for transit purposes only.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What if I am fleeing the war in Ukraine, but I am not an Ukrainian national?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 572,
+      "content_block_id": 21,
+      "answer": "Pets must be microchipped and vaccinated against rabies at least 21 days before travel, with the vaccination valid for pets at least 12 weeks old. Additionally, a rabies antibody test is required 30 days after vaccination and less than 3 months before EU travel.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Can I bring along an animal without a vaccination certificate?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 573,
+      "content_block_id": 21,
+      "answer": "Children arriving in Romania have the right to stay, are legally safe, and cannot be forced to go anywhere they don't want to. They also have special rights including staying with family, attending school, playing, receiving help if hurt, and having their ideas and views taken seriously.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'I’m under 18, what do I need to know about my rights here?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 574,
+      "content_block_id": 21,
+      "answer": "Individuals not applying for asylum can receive free accommodation in temporary camps or other locations, where basic utilities are provided. Asylum seekers can be housed in Regional Accommodation and Procedures Centers, or individuals can request accommodation via the form on unacoperis.ro/en.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can we find free accommodation in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 575,
+      "content_block_id": 21,
+      "answer": "Ukrainian hryvnia (UAH) can be exchanged for Romanian lei (RON) at BCR (Romanian Commercial Bank) branches, up to 1,000 lei per Ukrainian passport, at the BNR exchange rate.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I exchange UAH to RON?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 576,
+      "content_block_id": 21,
+      "answer": "Foreign nationals and stateless persons from Ukraine can access free medical services, supplies, medicines, and devices included in national health programs, similar to insured Romanian citizens, without social health insurance contributions or co-payments for outpatient medicines.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Do I have access to medical services in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 577,
+      "content_block_id": 21,
+      "answer": "Children can enroll in the Romanian education system free of charge by visiting the School Inspectorate, which will assign them to a school with resources for Ukrainian language learning.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I enroll my child in a school in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 578,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens can stay for 90 days without a visa, but for an extended period, temporary protection is a special legal status offered by the EU and granted by the Romanian state. This status provides protection and access to social and economic rights, with permits automatically valid until April 3, 2024.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 579,
+      "content_block_id": 21,
+      "answer": "It is normal to feel upset, and individuals are encouraged to talk to someone they trust, seek help from a psychologist, counselor, or doctor. Free psychological counseling is also available through the Regina Maria Private hospital hotline at 021 9277.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'I feel sad, angry, worried, scared, or confused. Is this normal?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 580,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens who entered Romania legally and have not requested protection can work under the same conditions as Romanian citizens without a job permit or visa. If lacking documents for their field, they can provide a statement of training or experience, valid for 12 months and extendable.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What procedure do I have to follow to get a job in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 581,
+      "content_block_id": 21,
+      "answer": "To apply for asylum in Romania, individuals must submit their application in person, either at a border crossing point or by going to one of the six Regional Centers for Housing and Procedures for Asylum Seekers if already in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I make a claim for asylum in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

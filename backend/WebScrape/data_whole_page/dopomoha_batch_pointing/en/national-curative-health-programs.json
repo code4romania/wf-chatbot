@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 115,
+      "content_block_id": 49,
+      "answer": "National Curative Health Programs (PNSC) are a set of measures aimed at ensuring specific treatment for diseases with a major impact on public health.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 116,
+      "content_block_id": 49,
+      "answer": "National Curative Health Programs focus on treatment and are run by the National Health Insurance House, whereas other national public health programs emphasize prevention and are run by the Ministry of Health.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 117,
+      "content_block_id": 49,
+      "answer": "The National Health Insurance House oversees the National Curative Health Programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 118,
+      "content_block_id": 49,
+      "answer": "National Curative Health Programs focus on specific diseases to ensure specific treatment for conditions that have a major impact on public health.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 119,
+      "content_block_id": 49,
+      "answer": "Patients receive benefits such as medicine, sanitary materials, medical devices, specific services (e.g., radiotherapy, dialysis), and specific investigations (e.g., glycosylated hemoglobin dosage, PET-CT investigations).",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 120,
+      "content_block_id": 49,
+      "answer": "Medicines granted under National Curative Health Programs can be dispensed through community pharmacies (open-circuit pharmacies) or hospital pharmacies (closed-circuit pharmacies).",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 121,
+      "content_block_id": 49,
+      "answer": "National Curative Health Programs cover conditions including cardiovascular diseases, oncology, deafness, diabetes, neurological diseases, hemophilia, thalassemia, rare diseases, mental health, endocrine diseases, orthopedics, organ transplantation, renal failure, and liver failure, among others.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'The national curative health programs run by CNAS are:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 122,
+      "content_block_id": 49,
+      "answer": "A specialist doctor decides to enroll a patient in a National Curative Health Program based on the patient's condition, health state, and eligibility criteria; patients must contact a specialist doctor working in a health unit running the program.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 123,
+      "content_block_id": 49,
+      "answer": "Qualification for participation depends on the patient's condition, state of health, and specific eligibility criteria, as determined by a specialist doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 124,
+      "content_block_id": 49,
+      "answer": "Specialist doctors contribute by deciding patient enrollment in the programs, prescribing treatment, and serving as the initial point of contact for patients seeking program benefits.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 125,
+      "content_block_id": 49,
+      "answer": "Individuals can find a list of these health facilities on the web pages of the health insurance companies, specifically in the \"Information for insured people\" - \"National Curative Health Programs\" section.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 126,
+      "content_block_id": 49,
+      "answer": "For the national program for replacement of renal function, non-medical support includes non-medicalized transport of hemodialysis patients and monthly transport of peritoneal dialysis medicines and sanitary materials to patients' homes.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 127,
+      "content_block_id": 49,
+      "answer": "Only medicines included in the List of compensated medicines approved by Government Decision are provided within National Curative Health Programs, and they are prescribed and covered only for the specific conditions of the program.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 128,
+      "content_block_id": 49,
+      "answer": "The provided content states that medicines for patients with certain conditions like multiple sclerosis, hemophilia, some rare diseases, and endocrine diseases are issued only through hospital pharmacies, but it does not specify the reason why.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 129,
+      "content_block_id": 49,
+      "answer": "The National Health Insurance House (CNAS) is responsible for running the national curative health programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

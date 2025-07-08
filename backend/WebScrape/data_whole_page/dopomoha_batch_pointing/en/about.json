@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 797,
+      "content_block_id": 3,
+      "answer": "A web support and information platform called Dopomoha is available for migrants fleeing the war in Ukraine, providing crucial resources and guidance.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 798,
+      "content_block_id": 3,
+      "answer": "Individuals can obtain reliable information through Dopomoha, a web support and information platform designed for migrants fleeing the war in Ukraine, which provides details on entry requirements at the border.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 799,
+      "content_block_id": 3,
+      "answer": "Accessible information is crucial because it addresses the questions and worries migrants have about safely entering and navigating the reality of a new country.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 800,
+      "content_block_id": 3,
+      "answer": "New arrivals commonly have questions about the procedure for seeking asylum in Romania, their rights and obligations as asylum seekers, and useful resources for their stay.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 801,
+      "content_block_id": 3,
+      "answer": "Support and information for displaced populations are typically provided by organizations such as Code for Romania, DSU, The UN Refugee Agency, IOM, and the National Romanian Council for Refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 802,
+      "content_block_id": 3,
+      "answer": "Humanitarian aid resources, specifically Dopomoha, are offered in Romanian, Ukrainian, English, and Russian.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 803,
+      "content_block_id": 3,
+      "answer": "Official sources are utilized to ensure accuracy by regularly updating the platform with verified information for all displaced migrants in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 804,
+      "content_block_id": 3,
+      "answer": "Useful resources for their stay in Romania are commonly provided to help migrants settle into a new country, alongside information on entry requirements, asylum procedures, and their rights and obligations.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 805,
+      "content_block_id": 3,
+      "answer": "Technology assists by providing a web support and information platform like Dopomoha, which can be accessed through a browser from any device, making information readily available to migrants.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 806,
+      "content_block_id": 3,
+      "answer": "Asylum seekers have obligations in a host country, and information about these responsibilities is provided on the platform, alongside their rights.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

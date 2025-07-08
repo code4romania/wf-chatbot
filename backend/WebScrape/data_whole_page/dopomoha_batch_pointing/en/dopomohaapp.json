@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 932,
+      "content_block_id": 6,
+      "answer": "Assistance includes help-lines, guidance on entry and legal status, accommodation support, currency exchange, banking services, emergency resources, and regional centers for asylum seekers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 933,
+      "content_block_id": 6,
+      "answer": "Individuals can enter Romania either with the right of short-stay if they have a valid passport, or as an asylum seeker if they lack documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 934,
+      "content_block_id": 6,
+      "answer": "Border points available for entry from Ukraine are Halmeu, Sighetu Marmației, Siret, and Isaccea, or individuals can enter via the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Border points you can use to cross into Romania From Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 935,
+      "content_block_id": 6,
+      "answer": "Ukrainian nationals can enter Romania for a short-stay of up to 90 days with a valid passport, or as an asylum seeker if they lack documents. Asylum applications can also be made later within Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 936,
+      "content_block_id": 6,
+      "answer": "All unaccompanied children can cross the border, and the General Directorates for Social Assistance and Child Protection (DGASPC) in each county are authorized to care for them.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Minors entering Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 937,
+      "content_block_id": 6,
+      "answer": "Individuals can exchange Ukrainian hryvnia (UAH) for Romanian lei (RON) at BCR (Romanian Commercial Bank) up to 2,000 lei per person/Ukrainian passport, at the BNR exchange rate.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 938,
+      "content_block_id": 6,
+      "answer": "BCR offers Ukrainian citizens 0 lei costs for POS and ATM transactions with Ukrainian cards, 0 lei commission for opening and administering a current account, and 0 fees for inter and intra bank payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 939,
+      "content_block_id": 6,
+      "answer": "Temporary accommodation can be secured by accessing 'Un Acoperiș!', which provides support in finding a place to stay.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 940,
+      "content_block_id": 6,
+      "answer": "To offer a space to help vulnerable people through 'Un Acoperis', individuals need to access 'Un Acoperiș!'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 941,
+      "content_block_id": 6,
+      "answer": "Regional Centers for Procedures and Accommodation for Asylum Seekers are located in Rădăuți, Satu Mare (Maramureș), Galați, București, Timișoara, and Giurgiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Regional Centers for Procedures and Accommodation for Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 942,
+      "content_block_id": 6,
+      "answer": "Ukrainian citizens with a biometric passport do not need a visa to travel to the EU, but it is recommended to contact the embassy of the destination country for specific travel conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Traveling to other Member States of the European Union'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 943,
+      "content_block_id": 6,
+      "answer": "Someone can obtain emergency resources like food, clothing, or transportation by requesting resources through 'Sprijin de Urgență'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Emergency help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 944,
+      "content_block_id": 6,
+      "answer": "To provide emergency resources or volunteer help, individuals can offer them through 'Sprijin de Urgență' by accessing the \"Request or provide resources\" option.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Emergency help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 945,
+      "content_block_id": 6,
+      "answer": "Contact options for help-lines include CNRR (0040 730 073 170), UNHCR (+40723653651), IOM Romania (021 210 3050), and the National Line against Trafficking in Persons (0 800 800 678 / +4021.313.31.00).",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Romania Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 946,
+      "content_block_id": 6,
+      "answer": "Real-time waiting times at border crossings into Romania can be checked on the website https://www.politiadefrontiera.ro/ro/traficonline/.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Border points you can use to cross into Romania From Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

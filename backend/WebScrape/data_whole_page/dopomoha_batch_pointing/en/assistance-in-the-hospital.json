@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "answer": "Hospitals typically provide consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals for inpatients.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "answer": "A patient generally gains admission to a hospital for inpatient services based on a referral ticket issued by a family medicine doctor or an outpatient specialist.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "answer": "Hospitalization services are categorized as day hospitalization, lasting a maximum of 12 hours, or continuous hospitalization, which implies a duration of more than 12 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "answer": "Commonly treated conditions during one-day hospitalization include various infections, irritable bowel syndrome, gastro-oesophageal reflux disease, varicose veins without inflammation, acute tonsillitis, autoimmune thyroiditis, diabetes, ischemic cardiomyopathy, and alcoholic hepatitis.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "answer": "Patients can receive free medical services in public hospitals that have contracts with health insurance companies, and these hospitals cannot collect any additional payment from insured patients for the services provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 6,
+      "content_block_id": 40,
+      "answer": "Public hospitals cover all necessary expenses for hospitalized insured persons, including medicines, sanitary materials, laboratory and imaging investigations. They also cover standard hotel services for companions of sick children up to 3 years old and people with severe disabilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 7,
+      "content_block_id": 40,
+      "answer": "If an insured person chooses a hospital without a contract with their health insurance company, they must bear the full cost of the medical services received and cannot recover that amount from their health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 8,
+      "content_block_id": 40,
+      "answer": "Private hospitals under contract with health insurance companies can charge a personal contribution, which is the difference between the rate settled by the health insurance company and the rate charged by the private hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 9,
+      "content_block_id": 40,
+      "answer": "Before hospitalization, a patient should receive a cost estimate valid for 5 working days, and any cost changes during the stay require written consent. Upon discharge, a statement detailing all hospitalization expenses will be issued.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 10,
+      "content_block_id": 40,
+      "answer": "If a patient in a public hospital pays for items that should have been free, such as medicines or investigations, the hospital is obligated to reimburse the patient for these expenses upon request.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 11,
+      "content_block_id": 40,
+      "answer": "Specialized medical services receiving particular coverage include chemotherapy services with monitoring in day hospitalization, dialysis services under the National Program for renal function replacement, and radiotherapy services for oncological diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 12,
+      "content_block_id": 40,
+      "answer": "A referral ticket from a family medicine doctor or outpatient specialist is generally required for hospital admission, but it is not needed for medical emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 13,
+      "content_block_id": 40,
+      "answer": "The maximum duration for a day hospitalization period is 12 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 14,
+      "content_block_id": 40,
+      "answer": "Public hospitals manage reimbursement of patient-borne expenses from their own revenues, establishing a methodology that is shared with the health insurance company and made known to patients upon hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 15,
+      "content_block_id": 40,
+      "answer": "In public hospitals with insurance contracts, insured patients receive free services and are not charged extra. In contrast, private hospitals with contracts can charge patients a personal contribution representing the difference between the settled and charged rates.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

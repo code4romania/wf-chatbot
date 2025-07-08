@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 890,
+      "content_block_id": 57,
+      "answer": "Newcomers in Constanța can find support for immigration, accommodation, meals, integration, transportation, medical needs, psychological well-being, education, legal and social advice, and language courses. Additionally, there is support for employment access, cultural integration, women's health and safety, and HIV services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 891,
+      "content_block_id": 57,
+      "answer": "To travel within the city of Constanța, individuals can use the bus. Further information on bus lines is available through a provided link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 892,
+      "content_block_id": 57,
+      "answer": "Individuals can seek medical assistance at the Constanța Emergency County Clinical Hospital Sf Apostol Andrei, including its Pediatric Clinical Department for children. A list of family doctors for Constanța county is also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 893,
+      "content_block_id": 57,
+      "answer": "Psychological support in Constanța is offered by World Vision Romania, Terre des hommes Foundation, and The International Organization for Migration (IOM). The Sensiblu Foundation also provides face-to-face or online psychotherapy.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 894,
+      "content_block_id": 57,
+      "answer": "The Constanța County School Inspectorate provides information on the enrollment of Ukrainian students in Romanian pre-university education units and on studying the Romanian language and civilization. Specific documents and more details can be found via their provided link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 895,
+      "content_block_id": 57,
+      "answer": "Legal assistance for new residents in Constanța is provided by AIDRom and the ROUA Center. The Sensiblu Foundation also offers legal advice and representation in court.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 896,
+      "content_block_id": 57,
+      "answer": "AIDRom offers support in accessing the labor market for individuals seeking employment in Constanța. Further information may be available under the 'Jobs' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 897,
+      "content_block_id": 57,
+      "answer": "Help for accommodation, board, and integration in Constanța is available through a specific support program, for which more information is provided. Additionally, Novapolis Association offers services including transport and accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'The support program for accommodation, meals and integration in Constanța' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 898,
+      "content_block_id": 57,
+      "answer": "Organizations offering general assistance in Constanța include CNRR, AIDRom, ROUA Center, Constanta Regional Integration Center (JRS Romania Association), Sensiblu Foundation, and Novapolis Association. These organizations provide a range of support services from advice to integration.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 899,
+      "content_block_id": 57,
+      "answer": "The key emergency call number for Constanța is 112. The National Anti-Traffic Hotline Romania can also be reached at 0800 800 678 or 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 900,
+      "content_block_id": 57,
+      "answer": "Specialized support for women's health and safety in Constanța is provided by a Women's Center, which assists with reproductive health services and domestic violence. The Sensiblu Foundation also offers a support network for women and girls.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Women's Center' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 901,
+      "content_block_id": 57,
+      "answer": "Individuals can find a family doctor in Constanța county by accessing the provided list of family doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 902,
+      "content_block_id": 57,
+      "answer": "Psychological counseling services in Constanța are offered in Russian, Ukrainian, Romanian, and English. World Vision Romania provides support in Russian and Ukrainian, while IOM offers advice in all four languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 903,
+      "content_block_id": 57,
+      "answer": "The Immigration Service of Constanța county helps with immigration services. Their contact numbers are provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

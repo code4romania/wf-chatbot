@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 395,
+      "content_block_id": 17,
+      "answer": "Ukrainian children can enroll in Romanian schools, kindergartens, or extracurricular activities. There are also options for Ukrainian online/part-time kindergartens, Ukrainian schools/classes, remote education, learning platforms, and free education in private schools.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 396,
+      "content_block_id": 17,
+      "answer": "To enroll a child in school, contact the County Schools Inspectorates, fill out and submit the application with the audiences statute. The application will be analyzed within one day, and a Commission will contact you to decide on the child's assignment.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'I want to enroll my child in school'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 397,
+      "content_block_id": 17,
+      "answer": "To enroll a child in extracurricular activities, contact the County Schools Inspectorates, fill out and submit the application without needing the audience statute. The application is analyzed within one day, and a Commission will contact you to decide on the child's assignment.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'I want to enroll my child in extracurricular activities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 398,
+      "content_block_id": 17,
+      "answer": "Children can benefit from psycho-pedagogical assistance and counseling by checking that option on the enrollment application form when enrolling in school or extracurricular activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 399,
+      "content_block_id": 17,
+      "answer": "For inquiries, Ukrainian students can contact Maricica Ciubara, the advisor for Ukrainian students at the Bucharest School Inspectorate (ISMB), at +40799626330 during working hours of 9:00 AM - 5:00 PM.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Assistance in the integration of Ukrainian children into the Romanian education system'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 400,
+      "content_block_id": 17,
+      "answer": "Ukrainian students can continue their university studies by going directly to the university of their choice. They can enroll based on a statement on their own responsibility regarding previous studies, even without documents, but each university has its own evaluation procedure.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Continuing your studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 401,
+      "content_block_id": 17,
+      "answer": "To recognize or equate diplomas, you must contact CNRED (National Center for Diploma Recognition and Equivalence) and submit a file with required documents. The file will be evaluated, and you will receive a response and your certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'I have completed my studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 402,
+      "content_block_id": 17,
+      "answer": "For diploma recognition, typically required documents include an application (if submitted physically), a copy of the high school diploma/certificate, school situation for the last two years, a copy of personal identification documents, and an evaluation fee, unless exempt.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Steps you need to follow'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 403,
+      "content_block_id": 17,
+      "answer": "Ukrainian minors under temporary protection are eligible for free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Accommodation and Allowances for Ukrainian Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 404,
+      "content_block_id": 17,
+      "answer": "Ukrainian children who want to learn Romanian can do so through the County School Inspectorates, which will create the necessary conditions and assure the appropriate human resources for the request.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 405,
+      "content_block_id": 17,
+      "answer": "Free courses and activities offered to refugees from Ukraine in Romania include language courses, yoga, drawing classes, chess, and music.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Courses and activities for refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 406,
+      "content_block_id": 17,
+      "answer": "Information regarding the structure of the school year and a list of days off in Romanian educational institutions can be found under the calendar of holidays.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Calendar of holidays in schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 407,
+      "content_block_id": 17,
+      "answer": "Useful information is provided about Ukrainian online or part-time kindergartens and Ukrainian schools and classes available in different cities of Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Ukrainian schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 408,
+      "content_block_id": 17,
+      "answer": "The diploma recognition process usually takes a maximum of 30 working days from the date a complete file is registered, though the deadline may be extended if further checks are required.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'What's next?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 409,
+      "content_block_id": 17,
+      "answer": "If original academic documents are not available for continuing studies, students may still enroll based on a statement on their own responsibility regarding previous studies, but each university has its own evaluation procedure.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Continuing your studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 985,
+      "content_block_id": 8,
+      "answer": "Dopomoha.ro offers support for urgent needs such as resources, food, clothing, transportation, and volunteers through 'Sprijin de Urgență,' and assistance with finding or offering temporary accommodation via 'Un Acoperiș.'",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 986,
+      "content_block_id": 8,
+      "answer": "People can effectively share information by downloading, printing, and displaying the poster in crowded places, and by downloading and sharing the flyer wherever they go.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 987,
+      "content_block_id": 8,
+      "answer": "The suggested locations for displaying the dopomoha.ro poster are crowded places visible to people, such as storefronts and apartment buildings.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 988,
+      "content_block_id": 8,
+      "answer": "The common expressions guide covers Romanian, English, and Ukrainian languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Click here for the phrase book'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 989,
+      "content_block_id": 8,
+      "answer": "The phrase book, which provides common expressions in Romanian translated into English and Ukrainian, would be most useful for individuals who need to communicate in Romanian, especially those who speak English or Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Click here for the phrase book'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 990,
+      "content_block_id": 8,
+      "answer": "Individuals can request resources, food, products, clothing, tents, transportation, or volunteers through Sprijin de Urgență.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 991,
+      "content_block_id": 8,
+      "answer": "Someone can offer resources or volunteer through Sprijin de Urgență by using the 'Request or provide resources' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 992,
+      "content_block_id": 8,
+      "answer": "Un Acoperiș provides support in finding temporary accommodation for vulnerable people who are coming to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 993,
+      "content_block_id": 8,
+      "answer": "Individuals can offer temporary housing through Un Acoperiș by accessing the platform and using the 'Search or offer accommodation' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 994,
+      "content_block_id": 8,
+      "answer": "The primary audience for the Un Acoperiș platform includes vulnerable people coming to Romania who need temporary accommodation and individuals willing to provide a space to help them.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 995,
+      "content_block_id": 8,
+      "answer": "The dopomoha.ro flyer contains information from dopomoha.ro in a concise form and a QR code to the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

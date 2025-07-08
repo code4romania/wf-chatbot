@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 782,
+      "content_block_id": 35,
+      "answer": "Romanian and English language courses are available for Ukrainian refugees. These include courses for adults, video courses, and self-study manuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the section under 'Language courses and activities for Ukrainian refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 783,
+      "content_block_id": 35,
+      "answer": "Activities offered include Romanian and English language courses, art therapy, music lessons, yoga, stretching, history classes, chess, drawing, social and legal consultations, and various educational, developmental, creative, and sports activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the section under 'Language courses and activities for Ukrainian refugees List of free language courses and activities for Ukrainian refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 784,
+      "content_block_id": 35,
+      "answer": "Language courses and activities are available for children and adults. Specifically, Centrul de Tineret FNT courses are for people aged 14-35, and the Ukrainian Educational Center offers programs for children.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Courses and activities from Centrul de Tineret FNT' and 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 785,
+      "content_block_id": 35,
+      "answer": "Registration methods vary by organization: IOM requires in-person registration at their Bucharest offices, Centrul de Tineret FNT allows signup via their Facebook page or phone, and JRS Romania provides registration information through their Facebook group.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM', 'Courses and activities from Centrul de Tineret FNT', and 'Courses and activities for adults from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 786,
+      "content_block_id": 35,
+      "answer": "IOM courses are held at their offices in Bucharest. The Ukrainian Educational Center activities are for children in Bucharest or nearby, likely at the Romanian-Finnish Highschool, while JRS Romania activities may be city-specific.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM' and 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 787,
+      "content_block_id": 35,
+      "answer": "Most classes and offices operate from Monday to Friday. Specific class schedules can be found on the Facebook pages of Centrul de Tineret FNT and JRS Romania, while IOM provides program details upon registration.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM', 'Courses and activities from Centrul de Tineret FNT', and 'Courses and activities for adults from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 788,
+      "content_block_id": 35,
+      "answer": "Resources for independent Romanian learning include a phrase book, a video course from TVR1, a manual by UNHCR Romania, and language handbooks by Terre des hommes for various ages.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian Phrase Book', 'Romanian video language course from TVR1', 'Manual \"Romanian language for Ukrainians\" UNHCR Romania', and 'Romanian Language handbooks for Ukrainian teenagers and children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 789,
+      "content_block_id": 35,
+      "answer": "Children with temporary protection status living in or near Bucharest can access educational and developmental activities through the Ukrainian Educational Center by contacting Olga Gireada. Additionally, there are self-study Romanian handbooks and a coloring book available.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the section under 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 790,
+      "content_block_id": 35,
+      "answer": "Children can receive psychological support through the Ukrainian Educational Center. Additionally, a coloring book titled 'Heroes Cry Too' is available, which explores the theme of fear due to war and was created with input from mental health professionals.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Ukrainian Educational Center from the Romanian-Finnish Highschool' and 'Coloring book for children \"Heroes cry too\"'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 791,
+      "content_block_id": 35,
+      "answer": "Organizations providing assistance include the International Organization for Migration (IOM), Centrul de Tineret FNT, JRS Romania, the Romanian-Finnish Highschool (for the Ukrainian Educational Center), UNHCR Romania, and Terre des hommes.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 792,
+      "content_block_id": 35,
+      "answer": "The TVR1 Romanian video course is specifically designed for beginners. Other language courses and resources mentioned do not explicitly state addressing different skill levels.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the section under 'Romanian video language course from TVR1'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 793,
+      "content_block_id": 35,
+      "answer": "For adults, support beyond language includes art therapy, music lessons, yoga, stretching, history classes, chess, drawing classes, and social and legal consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Courses and activities from Centrul de Tineret FNT' and 'Courses and activities for adults from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 794,
+      "content_block_id": 35,
+      "answer": "Contact methods include visiting IOM offices or emailing iombucarest@iom.int, checking Facebook pages or calling Centrul de Tineret FNT at +380639798162 (telegram) or +40755567482. JRS Romania can be contacted via their Facebook group, email at jrsromania@gmail.com, phone at 0744405657, or their website. For the Ukrainian Educational Center, contact Olga Gireada at +40 726 646 733.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM', 'Courses and activities from Centrul de Tineret FNT', 'Courses and activities for adults from JRS Romania', and 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 795,
+      "content_block_id": 35,
+      "answer": "Families can locate specific programs by visiting IOM offices for detailed program and class location information, checking the official Facebook pages of Centrul de Tineret FNT and JRS Romania for schedules, or contacting the Ukrainian Educational Center for children's programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM', 'Courses and activities from Centrul de Tineret FNT', 'Courses and activities for adults from JRS Romania', and 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 796,
+      "content_block_id": 35,
+      "answer": "IOM offices are open from Monday to Friday, 9:00 to 17:00. The Ukrainian Educational Center has working hours from 08:00 to 13:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the sections under 'Romanian courses for adults from IOM' and 'Ukrainian Educational Center from the Romanian-Finnish Highschool'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

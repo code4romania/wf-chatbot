@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 957,
+      "content_block_id": 38,
+      "answer": "Individuals can access free services by having a referral ticket from a family medicine doctor or specialist doctor contracted with a health insurance company, and by going to a laboratory that also has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 958,
+      "content_block_id": 38,
+      "answer": "Eligibility is determined by possessing a referral ticket from a family medicine or specialist doctor who has a contract with a health insurance company, and by visiting a laboratory that also holds a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 959,
+      "content_block_id": 38,
+      "answer": "Referral tickets for laboratory analyses and imaging can be issued by a family medicine doctor or a specialist doctor, provided they have a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 960,
+      "content_block_id": 38,
+      "answer": "The health insurance system covers various laboratory tests including hematological, serum, urine, immunological, microbiological analyses, examination of sampled tissues, and the Papanicolaou test.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 961,
+      "content_block_id": 38,
+      "answer": "Health insurance coverage includes radiology analyses, ultrasounds (non-radiative investigations), doppler, and high-performance investigations such as CT, MRI, scintigraphy, and angiography.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 962,
+      "content_block_id": 38,
+      "answer": "Patients can find laboratories contracted with health insurance companies by accessing the CNAS website (www.cnas.ro) under the 'Informații Furnizori' menu in the 'Rapoarte online furnizori' section, or on the web pages of the health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 963,
+      "content_block_id": 38,
+      "answer": "The availability of funds for medical tests at a specific laboratory can be confirmed by accessing the CNAS website (www.cnas.ro) through the 'Informații Furnizori' menu and the 'Rapoarte online furnizori' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 964,
+      "content_block_id": 38,
+      "answer": "The standard validity period for a referral note for laboratory investigations is 30 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 965,
+      "content_block_id": 38,
+      "answer": "The validity of a referral note for investigations can be extended up to 90 days for all chronic diseases and for analyses that involve tissue collection.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 966,
+      "content_block_id": 38,
+      "answer": "If an investigation cannot be performed immediately, the laboratory is obligated to schedule the patient during the referral ticket's validity period, noting both the present and next appointment dates on the back of the ticket.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'Attention!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 967,
+      "content_block_id": 38,
+      "answer": "Providers must carry out investigations within 5 calendar days from the date of request for monitoring patients with COVID-19, as well as those with oncological diseases, diabetes, rare diseases, cardiovascular, cerebrovascular, and neurological diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 968,
+      "content_block_id": 38,
+      "answer": "The provided content does not specify the steps a patient should take if a laboratory declines to schedule an appointment; it only describes the laboratory's obligation to schedule and what happens if the patient refuses an appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 969,
+      "content_block_id": 38,
+      "answer": "Detailed information on patient rights within the social health insurance system regarding medical care is provided in the “Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system” by the National Health Insurance House, also referred to as the “Manual of Rights.”",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 155,
+      "content_block_id": 42,
+      "answer": "Medical recovery, physical medicine, and rehabilitation services are provided under this category.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 156,
+      "content_block_id": 42,
+      "answer": "Physical medicine and rehabilitation services can be provided to insured persons on an outpatient or inpatient basis.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 157,
+      "content_block_id": 42,
+      "answer": "Insured persons, including both children and adults, qualify for these services, with specific provisions for children aged 0-18 with a confirmed diagnosis of cerebral palsy.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 158,
+      "content_block_id": 42,
+      "answer": "Accessing these services involves following a flow and plan of specific procedures established by the physical medicine and rehabilitation specialist, based on their recommendation.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Specific physical medicine and rehabilitation procedures within a series of procedures - performed in treatment bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 159,
+      "content_block_id": 42,
+      "answer": "These services are usually offered on an outpatient basis in treatment bases, within the clinical specialty of physical medicine and rehabilitation, including those in balneo-climatic resorts.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 160,
+      "content_block_id": 42,
+      "answer": "Outpatient physical medicine and rehabilitation services are provided in treatment bases, include specific procedures like physiotherapy and massage, and have maximum daily and yearly duration limits for insured persons.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 161,
+      "content_block_id": 42,
+      "answer": "Certain procedures, such as mineral baths, natural skunks, and mud wraps, can only be performed in the treatment bases of balneo-climatic resorts.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 162,
+      "content_block_id": 42,
+      "answer": "Commonly utilized procedures include physiotherapy, hydrotherapy, massage, aerosols, mineral baths, natural skunks, and mud wraps.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 163,
+      "content_block_id": 42,
+      "answer": "Specific procedures are chosen for a patient according to a Plan established by the physical medicine and rehabilitation specialist, based on their recommendation.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Specific physical medicine and rehabilitation procedures within a series of procedures - performed in treatment bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 164,
+      "content_block_id": 42,
+      "answer": "A person can typically receive outpatient physical medicine and rehabilitation procedures for a maximum period of 21 days per year per insured person.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 165,
+      "content_block_id": 42,
+      "answer": "A series of outpatient physical medicine and rehabilitation treatments generally includes a maximum of 4 procedures per day.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 166,
+      "content_block_id": 42,
+      "answer": "Children aged 0-18 with cerebral palsy can receive procedures for up to 42 days per year, and their procedures can be divided into a maximum of two sessions.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 167,
+      "content_block_id": 42,
+      "answer": "Children aged 0-18 with a confirmed diagnosis of cerebral palsy can receive physical medicine and rehabilitation medical procedures for a maximum period of 42 days per year.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 168,
+      "content_block_id": 42,
+      "answer": "Medical recovery and rehabilitation services are provided to and covered for insured persons, although specific financial details are not outlined.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 169,
+      "content_block_id": 42,
+      "answer": "The National Health Insurance House provides the \"Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system,\" which contains information on these services.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

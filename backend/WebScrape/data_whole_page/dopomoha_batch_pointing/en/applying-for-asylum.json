@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 353,
+      "content_block_id": 7,
+      "answer": "Asylum is a form of protection that allows a foreigner who cannot return to their country of origin to remain in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 354,
+      "content_block_id": 7,
+      "answer": "Any foreigner who left their country of origin due to fear of persecution, serious human rights violations, or armed conflict can apply for asylum.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 355,
+      "content_block_id": 7,
+      "answer": "Someone initiates an asylum application by asking for it either in writing or verbally.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 356,
+      "content_block_id": 7,
+      "answer": "After applying, asylum seekers receive a form, submit documents, and get a temporary identity document. They are then scheduled for preliminary and secondary interviews by the General Inspectorate for Immigration, which evaluates and resolves the application.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 357,
+      "content_block_id": 7,
+      "answer": "An asylum seeker cannot be deported to their country of origin and receives a temporary identity document. Additionally, everything they say during interviews is confidential.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 358,
+      "content_block_id": 7,
+      "answer": "Asylum applications in Romania are normally processed within one to two months.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 359,
+      "content_block_id": 7,
+      "answer": "Seeking asylum is necessary for foreigners who left their country of origin due to fear of persecution, serious human rights violations, or armed conflict.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 360,
+      "content_block_id": 7,
+      "answer": "An asylum application can be submitted directly at a border crossing point or, if already in Romania, anywhere within the country. It cannot be applied for from outside Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 361,
+      "content_block_id": 7,
+      "answer": "Sprijin de Urgență provides resources, food, products, clothing, tents, transportation, or volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 362,
+      "content_block_id": 7,
+      "answer": "Individuals can request support from Sprijin de Urgență by using the 'Request or provide resources' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 363,
+      "content_block_id": 7,
+      "answer": "Someone can offer resources such as food, products, clothing, tents, transportation, or volunteer services through Sprijin de Urgență by using the 'Request or provide resources' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 364,
+      "content_block_id": 7,
+      "answer": "The main purpose of Un Acoperiș is to provide support in finding temporary accommodation or to offer space to help vulnerable people arriving in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 365,
+      "content_block_id": 7,
+      "answer": "Un Acoperiș helps by providing support to individuals who need to find temporary accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 366,
+      "content_block_id": 7,
+      "answer": "To access support from Un Acoperiș, individuals need to 'Access Un Acoperiș!' and then they can search for accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 367,
+      "content_block_id": 7,
+      "answer": "People can provide housing options via Un Acoperiș by offering a space to help vulnerable people and using the 'offer accommodation' option after accessing Un Acoperiș.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

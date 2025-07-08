@@ -1,0 +1,191 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 467,
+      "content_block_id": 58,
+      "answer": "People arriving in Galați can find information on navigating the city, important contacts, temporary protection, medical services, psychological support, education access, and general assistance from various organizations.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'GALAȚI'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 468,
+      "content_block_id": 58,
+      "answer": "Temporary protection registration can be done at the Regional Center for Procedures and Accommodation of Asylum Seekers Galați or the Immigration Office of Galati County.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Temporary protection in Galați'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 469,
+      "content_block_id": 58,
+      "answer": "The County Emergency Clinical Hospital \"Sf. Apostol Andrei\" Galați serves general medical needs, while the Emergency Clinical Hospital for Children \"Sf. Ioan\" Galați is for children. A list of family doctors is also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 470,
+      "content_block_id": 58,
+      "answer": "Various organizations like Project HOPE, Positive Progress, Terre des hommes, Save the Children, IOM, Plan International, and Red Cross Romania offer psychological support, including consultations, psychosocial assistance, and mental health awareness.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 471,
+      "content_block_id": 58,
+      "answer": "Children can enroll in state kindergartens and nurseries, or private kindergartens like Clever Kids Kindergarten, some of which have groups for Ukrainian children. School no. 16 also organizes extracurricular activities for children from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 472,
+      "content_block_id": 58,
+      "answer": "JRS (Jesuit Refugee Service) offers free Romanian language courses, and Fundatia Inimă de Copil also provides Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 473,
+      "content_block_id": 58,
+      "answer": "Organizations providing general assistance include JRS Romania, Red Cross Galați, Save the Children, CNRR, Fundatia Inimă de Copil, AIDRom, Asociația pentru Ajutor Umanitar AJUT, and Help to Ukraine Galați Association.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 474,
+      "content_block_id": 58,
+      "answer": "Users can find housing information by clicking on the designated \"Housing Info\" section on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 475,
+      "content_block_id": 58,
+      "answer": "AIDRom offers support in accessing the labor market for individuals in Galați.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 476,
+      "content_block_id": 58,
+      "answer": "The Women's Center provides support for accessing reproductive health services, navigating the health system, and services specifically for victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 477,
+      "content_block_id": 58,
+      "answer": "Individuals living with HIV can receive free, anonymous, and confidential psycho-medical-social services from specialist doctors at 10 Regional HIV Centers in Romania, supported by Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 478,
+      "content_block_id": 58,
+      "answer": "Contact details for the Galați County Immigration Service and the Regional Center for Procedures and Accommodation of Asylum Seekers are provided under \"Important contacts\".",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 479,
+      "content_block_id": 58,
+      "answer": "Project HOPE, Positive Progress psychological Solutions, Terre des hommes Foundation, Save the Children, International Organization for Migration (IOM), Plan International Organization, and Red Cross Romania offer mental health support, some explicitly for refugees from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 480,
+      "content_block_id": 58,
+      "answer": "JRS organizes educational, cultural, recreational, and relaxation activities such as painting, drawing, and sports, along with free Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 481,
+      "content_block_id": 58,
+      "answer": "AIDRom offers social and legal advice, social assistance like vouchers for food/hygiene/medicine, medical consultations, subsidies for education, and support for labor market access and cultural integration.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 482,
+      "content_block_id": 58,
+      "answer": "Save the Children offers counseling for children and parents from Ukraine, as well as psychological services in Russian, Ukrainian, Romanian, and English.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 483,
+      "content_block_id": 58,
+      "answer": "The emergency call number is 112, and the National Anti-Traffic Hotline Romania numbers are 0800 800 678 and 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

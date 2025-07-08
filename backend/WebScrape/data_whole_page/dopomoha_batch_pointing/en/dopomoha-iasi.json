@@ -1,0 +1,191 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 274,
+      "content_block_id": 61,
+      "answer": "Essential emergency contacts include the Iași County Immigration Service, the emergency call number 112, and the National Anti-Traffic Hotline Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 275,
+      "content_block_id": 61,
+      "answer": "The website provides information on managing in Iași, and various organizations listed under 'Organisations offering their support' can assist new residents with different aspects of daily life.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 276,
+      "content_block_id": 61,
+      "answer": "A support program for accommodation, meals, and integration is managed by the Directorate of Social Assistance Iași. Additionally, the CTR Nicolina Refugee Center offers accommodation and food.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'The support program for accommodation, meals and integration in Iași' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 277,
+      "content_block_id": 61,
+      "answer": "Public transport in Iași is not free for Ukrainians, but new residents can find details about ticket costs, payment methods, and public transport areas via a provided link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 278,
+      "content_block_id": 61,
+      "answer": "For urgent medical services, adults can contact the County Emergency Clinical Hospital ,,Sf. Spiridon\" Iași, and for children, the Emergency Clinical Hospital for Children ,,Sf. Maria\" Iași.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 279,
+      "content_block_id": 61,
+      "answer": "Psychological support is provided by the International Organization for Migration (IOM), Project HOPE, Asociatia ParentIS, World Vision Romania, Save the Children, and Red Cross Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 280,
+      "content_block_id": 61,
+      "answer": "Educational opportunities include kindergarten, school preparation, Ukrainian language school for grades 1-11, and integration programs at the multi-service center. Various organizations also offer educational activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the sections under 'Education' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 281,
+      "content_block_id": 61,
+      "answer": "Adults can access free Romanian language courses at Inspectoratul Școlar Județean Iași, Centrul de Asistență Umanitară și Socială pentru Refugiați CTR Nicolina, Crucea Roșie, and Caritas.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 282,
+      "content_block_id": 61,
+      "answer": "Legal advice for new residents is offered by CNRR (Romanian National Council for Refugees), AIDRom, and Justiție pentru minori.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 283,
+      "content_block_id": 61,
+      "answer": "Support organizations provide a wide range of assistance including accommodation, food, medical aid, psychological counseling, legal advice, language courses, educational activities, and support for integration and specific services like translation reimbursements.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 284,
+      "content_block_id": 61,
+      "answer": "Someone can find specific service providers near their location by exploring the map available on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 285,
+      "content_block_id": 61,
+      "answer": "Women needing reproductive health services can find support for contraception, breastfeeding, prevention of STDs, pregnancy monitoring, and abortion through the Women's Center.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 286,
+      "content_block_id": 61,
+      "answer": "Support for victims of domestic violence is offered through services dedicated to them, accessible via the Women's Center section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 287,
+      "content_block_id": 61,
+      "answer": "Assistance for accessing medical services and medicines is available from the ICAR Foundation. AIDRom and Justiție pentru minori also offer support for accessing medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 288,
+      "content_block_id": 61,
+      "answer": "New residents can receive support for job searching through career guidance sessions offered by Alternative Sociale.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 289,
+      "content_block_id": 61,
+      "answer": "Services for families with children include urgent medical care, kindergarten, school preparation, Ukrainian language school, and other educational activities. Additionally, accommodation, meals for mothers and children, and socio-cultural activities are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the sections under 'Medical services', 'Education', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 290,
+      "content_block_id": 61,
+      "answer": "Information crucial for understanding one's legal status includes details on the asylum procedure, child protection, and integration, which can be obtained through legal advice from organizations like CNRR.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 751,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app is designed as a free assistant for managing Post Traumatic Stress Disorder (PTSD).",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 752,
+      "content_block_id": 70,
+      "answer": "The app assists by providing a variety of resources and tools specifically designed to support people with PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 753,
+      "content_block_id": 70,
+      "answer": "The app offers essential information about PTSD, a self-assessment module, practical tools for managing discomfort, crisis support contacts, and detailed information about professional treatments.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 754,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app was developed in partnership with the US Department of Veterans Affairs - National Center for PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 755,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app is available for Android and iOS operating systems.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 756,
+      "content_block_id": 70,
+      "answer": "The app is primarily intended for vulnerable people affected by the crisis in Ukraine and individuals affected by any type of traumatic experience such as war, violence, aggression, or accidents.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 757,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app offers practical tools specifically for managing discomfort associated with post-traumatic stress.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 758,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app helps users understand their symptoms through a self-assessment module.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 759,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app provides crisis support contacts.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 760,
+      "content_block_id": 70,
+      "answer": "The PTSD Help app details information about available professional treatments.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

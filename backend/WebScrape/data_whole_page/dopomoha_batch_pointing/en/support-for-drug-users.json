@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 183,
+      "content_block_id": 24,
+      "answer": "Individuals can receive medical, psychological, and social services, including evaluation, counseling, and various treatments like substitution therapy.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 184,
+      "content_block_id": 24,
+      "answer": "Someone can access support by contacting the centers of the National Anti-Drug Agency via phone or by visiting their locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What should you do if you used drugs and now you need help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 185,
+      "content_block_id": 24,
+      "answer": "Services from the National Anti-Drug Agency and several other centers are free of charge, while some specific providers like ARAS Health Center, Color Mind Clinic, and ANIT Romania offer paid services.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 186,
+      "content_block_id": 24,
+      "answer": "The services provided by the National Anti-Drug Agency are confidential.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What should you do if you used drugs and now you need help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 187,
+      "content_block_id": 24,
+      "answer": "Doctors, psychologists, and social workers are the professionals who typically provide support in drug addiction recovery programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What should you do if you used drugs and now you need help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 188,
+      "content_block_id": 24,
+      "answer": "Individuals can find help centers at the National Anti-Drug Agency locations across all counties of Romania, and at various specific providers in Bucharest.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 189,
+      "content_block_id": 24,
+      "answer": "Medical services in drug addiction treatment include evaluation, counseling, and medical treatment, which also covers substitution treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 190,
+      "content_block_id": 24,
+      "answer": "Psychological services assist in drug addiction recovery through assessment, as well as individual and group counseling.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 191,
+      "content_block_id": 24,
+      "answer": "Social support involves counseling and guidance within the network of services available for drug users, whether or not they are currently in treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 192,
+      "content_block_id": 24,
+      "answer": "In a drug overdose emergency, someone should contact the emergency phone number 112.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'Overdose treatment and assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 193,
+      "content_block_id": 24,
+      "answer": "Services for young people and minors include counseling for juvenile drug users, evaluation and treatment at \"St. Stelian\" Center, and disintoxication services at Clinical Hospital of Psychiatry Prof.dr. Alexandru Obregia and Grigore Alexandrescu Emergency Clinical Hospital for Children.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 194,
+      "content_block_id": 24,
+      "answer": "Substitution treatment is provided as part of the medical services available for drug addiction recovery.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 195,
+      "content_block_id": 24,
+      "answer": "Drug detoxification services are available for minors and adults at Clinical Hospital of Psychiatry Prof.dr. Alexandru Obregia, and also at the Center for Evaluation and Treatment of Drug Addictions for Young People \"St. Stelian\", and Grigore Alexandrescu Emergency Clinical Hospital for Children.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the sections under 'Disintoxication services for minors' and 'Disintoxication services for adults'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 196,
+      "content_block_id": 24,
+      "answer": "Typical operating hours for some National Anti-Drug Agency centers in Bucharest are Monday to Friday, 08:00-16:00, while Color Mind Clinic operates Monday-Friday 09:00-21:00 and Saturday 09:00-13:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 197,
+      "content_block_id": 24,
+      "answer": "In Bucharest, drug addiction help is provided by the National Anti-Drug Agency, Center for Evaluation and Treatment of Drug Addicts for Young People \"St. Stelian\", Clinical Hospital of Psychiatry Prof.dr. Alexandru Obregia, Romanian Anti-AIDS Association, Color Mind Psychiatry and Psychotherapy Clinic, and ANIT Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'In Bucharest you will find several types of services offered by the National Anti-Drug Agency or by other providers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 198,
+      "content_block_id": 24,
+      "answer": "Someone can locate a drug addiction treatment center in their county by accessing the map linked on the National Anti-Drug Agency's website, which provides contact details for local centers.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'The National Anti-Drug Agency has centers in all counties of Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

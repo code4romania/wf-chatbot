@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 511,
+      "content_block_id": 59,
+      "answer": "The website offers information on managing in the city, important contacts, temporary protection, transportation, medical services, psychological support, and education. Various organizations also provide support, including material aid, legal status, housing, jobs, and services for women and people living with HIV.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 512,
+      "content_block_id": 59,
+      "answer": "Individuals can register for temporary protection in Suceava County at the CRCPSA (Regional Center for Accommodation and Procedures for Asylum Seekers) Rădăuți and the Immigration Office of Suceava County.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Temporary protection in Suceava county'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 513,
+      "content_block_id": 59,
+      "answer": "Newcomers should be aware of the emergency call number 112 and the National Anti-Traffic Hotline Romania at 0800 800 678 or 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 514,
+      "content_block_id": 59,
+      "answer": "Ukrainian refugees in Suceava can benefit from a free travel subscription for local public transport.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 515,
+      "content_block_id": 59,
+      "answer": "For general medical services, one can contact the Suceava Emergency Hospital, and for children, the Pediatric Department of the Suceava Emergency Hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 516,
+      "content_block_id": 59,
+      "answer": "World Vision Romania, Positive Progress psychological Solutions, Terre des hommes Foundation, Plan International Organization, and Save the Children all offer psychological support services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 517,
+      "content_block_id": 59,
+      "answer": "In Suceava county, there are several high schools and secondary schools that offer teaching in the Ukrainian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 518,
+      "content_block_id": 59,
+      "answer": "The ICAR Foundation and CNRR (Romanian National Council for Refugees) provide support for the translation of documents and diplomas.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 519,
+      "content_block_id": 59,
+      "answer": "The provided content indicates a section for 'Housing Info,' but it does not detail specific resources available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 520,
+      "content_block_id": 59,
+      "answer": "The provided content indicates a section for 'Jobs Support,' but it does not detail specific ways job seekers can find employment assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 521,
+      "content_block_id": 59,
+      "answer": "eLiberare and AMURTEL in Suceava, JRS in Rădăuți, and The Bucovina Institute Association offer material support or vouchers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 522,
+      "content_block_id": 59,
+      "answer": "The Women's Center provides support in accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 523,
+      "content_block_id": 59,
+      "answer": "Individuals can access legal advice and representation in court through the Sensiblu Foundation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 524,
+      "content_block_id": 59,
+      "answer": "The Bucovina Institute Association facilitates access to resources for vulnerable groups, including people with disabilities, chronically ill individuals, the elderly, unaccompanied minors, and underage mothers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 525,
+      "content_block_id": 59,
+      "answer": "Romanian and English language courses are offered by The Bucovina Institute Association. Save the Children also provides Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 835,
+      "content_block_id": 47,
+      "answer": "All medical services and medicines necessary for the treatment of COVID-19 are covered by the FNUASS in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Measures for patients with COVID - 19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 836,
+      "content_block_id": 47,
+      "answer": "Insured persons, uninsured persons, and other individuals on the territory of Romania diagnosed with COVID-19 qualify for covered medical services and medicines.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Measures for patients with COVID - 19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 837,
+      "content_block_id": 47,
+      "answer": "Individuals in Romania showing COVID-19 symptoms can benefit from remote consultations offered by their family doctor or a specialist doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Measures for patients with COVID - 19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 838,
+      "content_block_id": 47,
+      "answer": "Eligibility is for persons with confirmed infection via rapid antigen or NAAT/RT-PCR test in Corona Forms, who do not require oxygen therapy, have mild or moderate COVID-19 manifestations, and at least 2 risk factors, without needing a referral note.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 839,
+      "content_block_id": 47,
+      "answer": "The \"Post-Covid-19 Syndrome Evaluation\" service was introduced to help patients who continue to present symptoms for a long period, even after experiencing a mild form of the disease.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 840,
+      "content_block_id": 47,
+      "answer": "The \"Post-Covid-19 Syndrome Evaluation\" service is available as part of medical services provided during day hospitalization, but the specific access procedure is not detailed here.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 841,
+      "content_block_id": 47,
+      "answer": "Patients who show moderate or severe respiratory insufficiency after COVID-19 upon leaving the hospital, or who have passed through a SARS-CoV-2 triage system, can qualify for a continuous oxygen administration device.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 842,
+      "content_block_id": 47,
+      "answer": "Details about the procedure for obtaining continuous oxygen administration devices or noninvasive ventilation devices are presented in the Medical devices chapter.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 843,
+      "content_block_id": 47,
+      "answer": "Patients with post-COVID-19 conditions can benefit from physical therapy, psychological counseling, and psychotherapy.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 844,
+      "content_block_id": 47,
+      "answer": "These services are covered by the health insurance system, provided that the doctors offering them work in clinics under contract with the health insurance house.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 845,
+      "content_block_id": 47,
+      "answer": "Doctors from the clinical specialties of cardiology and pneumology can recommend physical therapy, psychological counseling, and psychotherapy for post-COVID-19 conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 846,
+      "content_block_id": 47,
+      "answer": "Individuals can get COVID-19 vaccinations in Bucharest at family medicine offices.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 847,
+      "content_block_id": 47,
+      "answer": "A list of family medicine offices in Bucharest where one can get a COVID-19 vaccination is available for download on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

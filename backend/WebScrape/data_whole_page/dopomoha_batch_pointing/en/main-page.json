@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 970,
+      "content_block_id": 19,
+      "answer": "Ukrainians fleeing war at home are welcomed to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 971,
+      "content_block_id": 19,
+      "answer": "Anyone fleeing Ukraine can enter Romania through any of the official border crossings.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 972,
+      "content_block_id": 19,
+      "answer": "The platform's purpose is to provide all relevant information about seeking protection in Romania for civilians fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 973,
+      "content_block_id": 19,
+      "answer": "The key partners involved in creating the platform are Code for Romania, the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration, and the Romanian National Council for Refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 974,
+      "content_block_id": 19,
+      "answer": "People can find information on legal status, simplified law, support, housing, call center services, education, health, transport, jobs, staying safe, and PTSD help.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 975,
+      "content_block_id": 19,
+      "answer": "Individuals can access legal status information and simplified law information on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info Law made simple'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 976,
+      "content_block_id": 19,
+      "answer": "Information regarding housing options for people seeking protection in Romania is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Housing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 977,
+      "content_block_id": 19,
+      "answer": "The platform provides information about how the call center assists people seeking protection in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Call center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 978,
+      "content_block_id": 19,
+      "answer": "The platform offers information on educational resources for people seeking protection in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 979,
+      "content_block_id": 19,
+      "answer": "Information on healthcare services accessible to people seeking protection in Romania is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 980,
+      "content_block_id": 19,
+      "answer": "The platform provides information to help people find employment opportunities in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Jobs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 981,
+      "content_block_id": 19,
+      "answer": "Support for managing PTSD is offered on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'PTSD Help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 982,
+      "content_block_id": 19,
+      "answer": "General support mechanisms for people seeking protection in Romania are available through the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 983,
+      "content_block_id": 19,
+      "answer": "Information regarding transportation assistance for people seeking protection in Romania is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 984,
+      "content_block_id": 19,
+      "answer": "Guidance is provided on the platform to help people stay safe in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Stay safe'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

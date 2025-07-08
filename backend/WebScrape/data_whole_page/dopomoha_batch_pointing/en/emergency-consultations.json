@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 303,
+      "content_block_id": 44,
+      "answer": "Patients can benefit from emergency consultations at home and unassisted medical transport activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 304,
+      "content_block_id": 44,
+      "answer": "Patients or their relatives can arrange for medical transportation services by calling the 112 emergency service if the patient meets the described criteria.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 305,
+      "content_block_id": 44,
+      "answer": "Specialized medical transport is available for patients with severe cognitive disorders, immobile patients with tetraparesis or motor insufficiency, and bedridden patients with severe cognitive disorders, hemiparesis, or paraparesis.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 306,
+      "content_block_id": 44,
+      "answer": "Beyond the minimum package, medical transport services include transport upon leaving the hospital, transport of immobile patients to the hospital for hospitalization, and round-trip transport to specialist offices or laboratories for bedridden patients.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 307,
+      "content_block_id": 44,
+      "answer": "Emergency consultations at home and unassisted medical transport services are carried out by private ambulances.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 308,
+      "content_block_id": 44,
+      "answer": "Hospital-to-home transport can be arranged for patients with severe cognitive disorders (dementia, autistic spectrum disorders, severe or profound mental retardation) upon their discharge from the hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 309,
+      "content_block_id": 44,
+      "answer": "Transport for specialist consultations is for bedridden patients with severe cognitive disorders, hemiparesis, or paraparesis, and is for evaluation, monitoring, and prescribing treatment for chronic conditions where medication requires a specialist.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 310,
+      "content_block_id": 44,
+      "answer": "Bedridden patients can access transport for laboratory tests by having paraclinical medical investigations recommended by family medicine doctors or specialist doctors from outpatient clinics.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 311,
+      "content_block_id": 44,
+      "answer": "The 112 emergency service is the point of contact for arranging medical transport; its dispatcher analyzes the situation and decides which ambulance to send, and it can be called by patients, relatives, or hospital staff.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 312,
+      "content_block_id": 44,
+      "answer": "The provided text indicates that emergency home consultations are a service, but does not specify their exact purpose.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 313,
+      "content_block_id": 44,
+      "answer": "Patients are eligible for emergency home consultations if they find themselves in one of the situations described, such as having severe cognitive disorders, being immobile, or being bedridden with specific conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 314,
+      "content_block_id": 44,
+      "answer": "Health insurance companies support medical transport services by having contractual relations with the private ambulances that carry out these services.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 315,
+      "content_block_id": 44,
+      "answer": "The information regarding these patient rights is contained in the “Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system”.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 316,
+      "content_block_id": 44,
+      "answer": "The National Health Insurance House oversees the social health insurance system related to these services.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

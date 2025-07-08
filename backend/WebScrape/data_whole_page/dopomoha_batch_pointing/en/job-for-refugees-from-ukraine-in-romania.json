@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 772,
+      "content_block_id": 34,
+      "answer": "Ukrainian citizens can initially go to employment agencies to register with an identity document to find a job.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 773,
+      "content_block_id": 34,
+      "answer": "An identity document is required for registration at employment agencies, and a self-responsibility statement is necessary for signing the employment contract.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 774,
+      "content_block_id": 34,
+      "answer": "The National Agency for Employment, UNHCR (through its compiled list of organizations), Adecco platform, and Ateliere Fără Frontiere (AFF) offer employment support.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'Organizations Providing Support in Employment for Refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 775,
+      "content_block_id": 34,
+      "answer": "Ukrainian citizens can access job opportunities by registering with employment agencies, using platforms like Jobs4Ukraine and Adecco, or seeking assistance from organizations such as Ateliere Fără Frontiere.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 776,
+      "content_block_id": 34,
+      "answer": "Guidance is available on signing employment contracts, and organizations offer consultations on labor rights and legislation. Additionally, a guide provides an understanding of the legal aspects for finding a job.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'Guidance on access to the labor market'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 777,
+      "content_block_id": 34,
+      "answer": "The Jobs4Ukraine platform assists by providing easy and free access to job opportunities, both abroad and remote, to help individuals rebuild their financial stability.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'Job search on the Jobs4Ukraine platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 778,
+      "content_block_id": 34,
+      "answer": "The National Agency for Employment, through its territorial structures, offers several free services to Ukrainian citizens who are registered with the NAE.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'Free services offered to Ukrainian citizens for their integration into the Romanian labour market'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 779,
+      "content_block_id": 34,
+      "answer": "Ukrainian citizens can still register and find a job through employment agencies even if they do not have qualification or experience documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 780,
+      "content_block_id": 34,
+      "answer": "The employment guides provide information on how to look for a job, advice on creating a resume, preparing for interviews, rules for completing documents, and an introduction to the Romanian employment system, including legal aspects.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 781,
+      "content_block_id": 34,
+      "answer": "Ukrainian citizens can ensure legal and safe work by completing the necessary self-responsibility statement for the employment contract and by consulting guides and organizations that provide information on legal aspects, labor rights, and legislation.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'Guidance on access to the labor market'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

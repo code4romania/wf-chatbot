@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 170,
+      "content_block_id": 33,
+      "answer": "Free medical care is available for Ukrainians and refugees from other countries in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 171,
+      "content_block_id": 33,
+      "answer": "The International Organization for Migration in Romania (IOM Romania) provides free medical care to refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 172,
+      "content_block_id": 33,
+      "answer": "To access medical services, refugees must first make an appointment with the IOM representatives at their office located in RomExpo.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 173,
+      "content_block_id": 33,
+      "answer": "Refugees can find medical care at RomExpo, which is located at Meresti Boulevard 65-67, Bucharest 011465.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 174,
+      "content_block_id": 33,
+      "answer": "Free consultations are offered with a family doctor, psychologist, and gynecologist.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 175,
+      "content_block_id": 33,
+      "answer": "The provided content states that medical care is free but does not specify the reason why it is provided free of charge.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 176,
+      "content_block_id": 33,
+      "answer": "The working hours for the center of assistance for refugees at RomExpo are Monday to Friday, from 9:00 to 17:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 177,
+      "content_block_id": 33,
+      "answer": "To schedule an appointment with a doctor, refugees must first make an appointment with the IOM representatives at their office in RomExpo.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 178,
+      "content_block_id": 33,
+      "answer": "All doctors are English speakers, and a free translator can be requested for medical consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 179,
+      "content_block_id": 33,
+      "answer": "Contact information includes RomExpo phone number 0212077000, IOM phone number +40 21 – 210.30.50, and the IOM site address https://romania.iom.int/.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 180,
+      "content_block_id": 33,
+      "answer": "The International Organization for Migration (IOM Romania) supports refugees by providing free medical care.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 181,
+      "content_block_id": 33,
+      "answer": "The primary location for refugee assistance in Bucharest is RomExpo, which serves as the center of assistance for refugees from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 182,
+      "content_block_id": 33,
+      "answer": "You can get in touch with IOM representatives by making an appointment at their office in RomExpo or by calling their phone number +40 21 – 210.30.50.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

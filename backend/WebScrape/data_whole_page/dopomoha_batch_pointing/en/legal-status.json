@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 484,
+      "content_block_id": 14,
+      "answer": "The primary ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 485,
+      "content_block_id": 14,
+      "answer": "An individual's rights in Romania depend on their specific status.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 486,
+      "content_block_id": 14,
+      "answer": "Temporary protection is a special form of protection for people fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 487,
+      "content_block_id": 14,
+      "answer": "Ukrainian nationals entering with a short-stay right can stay up to 90 days in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 488,
+      "content_block_id": 14,
+      "answer": "An individual is considered an asylum seeker in Romania from the moment they ask for asylum, either in writing or verbally.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 489,
+      "content_block_id": 14,
+      "answer": "One applies for asylum in Romania by asking for it, either in writing or verbally.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 490,
+      "content_block_id": 14,
+      "answer": "Someone should apply for asylum at the Romanian border if they cannot present any documents upon entering Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 491,
+      "content_block_id": 14,
+      "answer": "Individuals can find support information for entering other European countries by consulting the hotlines and websites listed for Poland, Moldova, Hungary, and The Slovak Republic.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 492,
+      "content_block_id": 14,
+      "answer": "Temporary protection is a special form of protection for people fleeing the war in Ukraine, and if one is a beneficiary, their permit is automatically valid until 03/04/2026 without needing an extension.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 493,
+      "content_block_id": 14,
+      "answer": "Ukrainian nationals need to present a valid passport at the border crossing for a short stay entry into Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 494,
+      "content_block_id": 14,
+      "answer": "The provided content states that one can apply for asylum within Romania at a later point, but does not specify the reasons why someone might choose to do so.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

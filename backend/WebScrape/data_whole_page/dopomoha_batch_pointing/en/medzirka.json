@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 455,
+      "content_block_id": 52,
+      "answer": "MedZirka offers cost-free medical services online and offline, including consultations with a family doctor, therapist, or pediatrician, and specific services like medical prescriptions, referrals, sick leave, vaccination certificates, and referrals for laboratory testing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 456,
+      "content_block_id": 52,
+      "answer": "Individuals can access MedZirka's medical services after submitting the declaration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 457,
+      "content_block_id": 52,
+      "answer": "Anyone who submits the declaration can benefit from MedZirka's cost-free medical services, which include consultations from a family doctor, therapist, or pediatrician.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 458,
+      "content_block_id": 52,
+      "answer": "The provided content states that MedZirka offers cost-free medical services but does not explain the reason why they are provided free of charge.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 459,
+      "content_block_id": 52,
+      "answer": "Through MedZirka, individuals can receive consultations from a family doctor, therapist, or pediatrician.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 460,
+      "content_block_id": 52,
+      "answer": "To receive medical assistance from MedZirka, one must submit the declaration first.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 461,
+      "content_block_id": 52,
+      "answer": "MedZirka can help with topics including flu, cold, SARS, respiratory, circulatory, digestive, kidney, blood, endocrine, heart, and joint diseases, along with chronic conditions of various etiologies.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 462,
+      "content_block_id": 52,
+      "answer": "The content states that MedZirka offers medical services online, but it does not specify the methods or platforms used for online delivery.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 463,
+      "content_block_id": 52,
+      "answer": "The content lists medical prescriptions as a service provided by MedZirka, but it does not detail the specific process for obtaining one.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 464,
+      "content_block_id": 52,
+      "answer": "For further details, one can call MedZirka at 0 800 330 553 or write on Viber/Telegram by following the links provided on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 465,
+      "content_block_id": 52,
+      "answer": "The content indicates MedZirka is a 'Ukrainian network of clinics' offering services offline, but it does not provide any specific physical clinic locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 466,
+      "content_block_id": 52,
+      "answer": "The content states that services are available 'After submitting the declaration,' but it does not specify what documents or information are required for this declaration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 597,
+      "content_block_id": 2,
+      "answer": "Rights in Romania depend on an individual's status, which can be temporary protection, short-stay right, or asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 598,
+      "content_block_id": 2,
+      "answer": "Individuals can obtain permission to live in Romania by obtaining temporary protection, having a short-stay right, or by applying for asylum. Beneficiaries of temporary protection are issued a document granting them permission to remain.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 599,
+      "content_block_id": 2,
+      "answer": "Beneficiaries of temporary protection can request assistance for maintenance if they lack material means and receive adequate medical assistance for special needs. They also have rights related to employment, education, and being issued a document to remain.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'My rights as a beneficiary of temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 600,
+      "content_block_id": 2,
+      "answer": "Individuals with temporary protection can be hired with a residence permit, without needing an employment notice or visa. They can provide a statement for lacking documents, but professionals like doctors or architects require specific documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 601,
+      "content_block_id": 2,
+      "answer": "Children under temporary protection can access Romanian schools with the same conditions as Romanians, including free accommodation, food, supplies, health exams, transport for specific cases, and Romanian language courses. Ukrainian students can also pursue higher education under the same conditions as Romanian citizens.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right for education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 602,
+      "content_block_id": 2,
+      "answer": "Foreign nationals from conflict zones receive medical services, supplies, medicines, and devices through national health programs, without social health insurance contributions, personal contributions for outpatient medicines, or co-payment. They can also access specialized outpatient care without a doctor's referral.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 603,
+      "content_block_id": 2,
+      "answer": "Family reunification for those under temporary protection is possible if family members are in different Member States or need protection in Romania, taking into account their wishes. This applies to spouses, unmarried minors (biological or adopted), and parents or guardians of minor, unmarried beneficiaries.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Reuniting families'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 604,
+      "content_block_id": 2,
+      "answer": "In temporary accommodation centers, food, clothing, personal hygiene products, primary health care, emergency medical care, and free treatment for life-threatening diseases are ensured. Additionally, individuals can register requests for resources like food or clothing on https://sprijindeurgenta.ro/.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 605,
+      "content_block_id": 2,
+      "answer": "Individuals and legal entities hosting people from the conflict zone in Ukraine can receive reimbursement for daily accommodation and food expenses.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 606,
+      "content_block_id": 2,
+      "answer": "Ukrainian citizens living abroad can undergo remote verification for pension payments via the Dіya online service or the Pension Fund's call center. They can also confirm their residence through a consular officer at the Embassy of Ukraine, apply for remote pensions, and receive international transfers via Ukrposhta if they previously received cash pensions in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Pension'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 607,
+      "content_block_id": 2,
+      "answer": "Foreign nationals without temporary protection must apply for a work permit at the General Inspectorate for Immigration and obtain a residence permit for work purposes. Required documents include an application, border crossing document, proof of living space, labor contract, employee picture, registered salary, medical certificate, and a tax of approximately 250 Euro.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Work' within 'My rights having a short stay status'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 608,
+      "content_block_id": 2,
+      "answer": "Asylum seekers can receive legal counseling by calling the Romanian National Council for Refugees (CNRR) or by contacting and being assisted by an NGO or UNHCR.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 609,
+      "content_block_id": 2,
+      "answer": "Asylum seekers can receive a temporary identification document and be accommodated in a Regional Reception Center if they lack sufficient financial resources. They are also permitted to remain in Romania throughout their asylum procedure.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Accommodation and residence'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 610,
+      "content_block_id": 2,
+      "answer": "Asylum seekers become eligible to work in Romania under the same conditions as Romanian citizens after acquiring refugee status or three months after their asylum application if no decision has been made.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Work' within 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 611,
+      "content_block_id": 2,
+      "answer": "Through the Sprijin de Urgență platform, users can request or offer resources such as food, products, clothing, tents, transportation, or volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 612,
+      "content_block_id": 2,
+      "answer": "The Un Acoperiș initiative assists by allowing individuals to search for temporary accommodation or offer a space to help vulnerable people coming to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 613,
+      "content_block_id": 2,
+      "answer": "Ukrainian students must submit a written request to their desired university, which will evaluate the application per its regulations and, if positive, issue a Letter of acceptance of academic mobility. Doctoral students must present relevant diplomas before completing studies, and Ukrainian citizens can benefit from state funding for tuition.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Higher Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 614,
+      "content_block_id": 2,
+      "answer": "Beneficiaries of temporary protection under 18 have the right to access the state education system under the same conditions as Romanian citizens, including free accommodation, food, supplies, health examinations, and Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right for education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 615,
+      "content_block_id": 2,
+      "answer": "Foreign professionals in fields such as medicine, dentistry, veterinary medicine, pharmacy, architecture, or any liberal profession must have the necessary documents to work in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
