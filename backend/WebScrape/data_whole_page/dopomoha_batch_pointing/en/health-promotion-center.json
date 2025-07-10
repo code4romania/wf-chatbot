@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 541,
+      "content_block_id": 53,
+      "answer": "The center offers free medical consultations, access to some medical services, psychological support, and specific tests like ultrasound, ECG, blood pressure, and blood glucose checks.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Health Promotion Center - free medical care for refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 542,
+      "content_block_id": 53,
+      "answer": "Every refugee from Ukraine is eligible to receive free medical consultations at the Health Promotion Center.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 543,
+      "content_block_id": 53,
+      "answer": "Appointments can be scheduled by calling 0747 278 486 or 0748 185 714. Calls can be made in Romanian, Russian, Ukrainian, or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Appointments can be made by calling the following phone numbers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 544,
+      "content_block_id": 53,
+      "answer": "Consultations are offered by a pediatrician, cardiologist, diabetologist, ophthalmologist, and dentist.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Consultations are offered by specialists of various profiles'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 545,
+      "content_block_id": 53,
+      "answer": "The Red Cross provides translation help in English, Russian, or Ukrainian languages to facilitate better communication with doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Red Cross offers help with translation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 546,
+      "content_block_id": 53,
+      "answer": "A Health Promotion Center for refugees is located in Bucharest. The specific street address is not provided in the content.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 547,
+      "content_block_id": 53,
+      "answer": "The center's operating hours are Monday to Friday from 10:00 to 18:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Working hours'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 548,
+      "content_block_id": 53,
+      "answer": "The Health Promotion Center offers psychological support for refugees of any age.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 549,
+      "content_block_id": 53,
+      "answer": "Refugees can access an ultrasound according to a doctor's recommendation, an ECG, blood pressure measurement, and checks for blood glucose levels.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'It is possible to do an ultrasound according to the doctor's recommendation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 550,
+      "content_block_id": 53,
+      "answer": "Red Cross Romania opened the Health Promotion Center with the support of the French Red Cross.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 551,
+      "content_block_id": 53,
+      "answer": "The provided content does not explain why a health promotion center is important for the well-being of refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

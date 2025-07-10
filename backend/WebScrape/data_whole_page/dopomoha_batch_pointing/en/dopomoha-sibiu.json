@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 526,
+      "content_block_id": 66,
+      "answer": "Individuals arriving in Sibiu can find help with important contacts, information on managing in a new city, support programs for accommodation and meals, public transport, medical and psychological services, education, and assistance from various organizations.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 527,
+      "content_block_id": 66,
+      "answer": "One can manage daily life by accessing information on important contacts, public transport, medical services, psychological support, education, and various support organizations listed on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 528,
+      "content_block_id": 66,
+      "answer": "Key contact information for immigration services in Sibiu County can be found under 'Important contacts' for the Sibiu County Immigration Office.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 529,
+      "content_block_id": 66,
+      "answer": "The support program for accommodation, meals, and integration in Sibiu assists with these needs, providing information required for the program.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'The support program for accommodation, meals and integration in Sibiu'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 530,
+      "content_block_id": 66,
+      "answer": "The website indicates that information on how and where to buy tickets for public transport in Sibiu can be found under the 'Public transport in Sibiu' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Public transport in Sibiu'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 531,
+      "content_block_id": 66,
+      "answer": "One can access medical services in Sibiu by going to the County Emergency Clinical Hospital Sibiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 532,
+      "content_block_id": 66,
+      "answer": "The website mentions that more information about healthcare in Romania can be found under the 'Medical services' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 533,
+      "content_block_id": 66,
+      "answer": "The A.L.E.G. Association and The International Rescue Committee both offer psychological support services in Sibiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 534,
+      "content_block_id": 66,
+      "answer": "The A.L.E.G. Association provides free psychosocial support to Ukrainian refugee women in Sibiu, with translation into Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 535,
+      "content_block_id": 66,
+      "answer": "The website indicates that information on how to enroll a child in primary education and required documents can be found under the 'Education' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 536,
+      "content_block_id": 66,
+      "answer": "Sus Inima provides refugees with access to free basic food and hygiene products, therapies and medical services, Romanian and English language courses, temporary accommodation, and day center and educational infrastructure for Ukrainian children.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 537,
+      "content_block_id": 66,
+      "answer": "One can contact Sus Inima for support via email at contact@susinima.eu or by phone at +40 751 138 783.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 538,
+      "content_block_id": 66,
+      "answer": "The Women's Center offers support in accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 539,
+      "content_block_id": 66,
+      "answer": "Anyone arriving in Romania who needs free, anonymous, and confidential psycho-medical-social HIV services can receive counseling from specialist doctors at 10 Regional HIV Centers and support from Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 540,
+      "content_block_id": 66,
+      "answer": "Services dedicated to victims of domestic violence are available through the Women's Center.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

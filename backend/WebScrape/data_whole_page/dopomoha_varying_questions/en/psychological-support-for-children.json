@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 978,
+      "content_block_id": 27,
+      "question": "What is the purpose of the Dopomoha platform?"
+    },
+    {
+      "question_id": 979,
+      "content_block_id": 27,
+      "question": "What specific solutions are offered to support refugees?"
+    },
+    {
+      "question_id": 980,
+      "content_block_id": 27,
+      "question": "Are there resources for psychological support for children?"
+    },
+    {
+      "question_id": 981,
+      "content_block_id": 27,
+      "question": "What types of general support categories are available?"
+    },
+    {
+      "question_id": 982,
+      "content_block_id": 27,
+      "question": "Which cities are covered by the support services?"
+    },
+    {
+      "question_id": 983,
+      "content_block_id": 27,
+      "question": "Are there tips for parents on how to support their children in an emergency?"
+    },
+    {
+      "question_id": 984,
+      "content_block_id": 27,
+      "question": "Does the platform offer advice for parents on managing their own well-being during stressful times?"
+    },
+    {
+      "question_id": 985,
+      "content_block_id": 27,
+      "question": "How can users provide feedback or report issues to Dopomoha?"
+    },
+    {
+      "question_id": 986,
+      "content_block_id": 27,
+      "question": "Are there links to other useful organizations or support services?"
+    },
+    {
+      "question_id": 987,
+      "content_block_id": 27,
+      "question": "Is information available regarding legal status?"
+    }
+  ]
+}

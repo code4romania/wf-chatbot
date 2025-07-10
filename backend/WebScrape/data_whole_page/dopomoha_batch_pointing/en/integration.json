@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 823,
+      "content_block_id": 69,
+      "answer": "The Hands Across Romania Association offers vocational integration services including professional consultations, educational path discussions, vocational retraining courses, and support from consultation to employment for Ukrainian refugees in Bucharest.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Hands Across Romania Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 824,
+      "content_block_id": 69,
+      "answer": "The NESsT Refugee Employment Initiative provides funding and business assistance to enterprises that offer long-term employment support, vocational training, quality job opportunities, and comprehensive services to refugees and migrants in Poland and Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'The NESsT Refugee Employment Initiative'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 825,
+      "content_block_id": 69,
+      "answer": "BERD supports local SMEs and entrepreneurs through business consulting and grant funding, including funds for companies founded by Ukrainians or Ukrainian enterprises moving to Romania, along with accompanying employment services like training, language learning, and mediation.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'BERD - Banca Europeană pentru Reconstrucție & Dezvoltare support for SMEs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 826,
+      "content_block_id": 69,
+      "answer": "The Youth Center of the National Youth Foundation offers expert job search assistance to young Ukrainians aged 17 to 25, including setting professional goals, job search strategies, assistance with CV and cover letter compilation, and interview preparation.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Youth Center of the National Youth Foundation for the Integration of Young People in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 827,
+      "content_block_id": 69,
+      "answer": "HEKS EPER offers employment assistance to Ukrainian refugees, which includes help with personal branding, job search, CV building, legal support, career counseling, and post-employment support.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'HEKS EPER Employment Support for Ukrainian Refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 828,
+      "content_block_id": 69,
+      "answer": "The IOM 'Cultural orientation - Romania' guide provides new arrivals with useful information about Romanian culture, customs, legislation, and other important aspects of life to help them effectively adapt and integrate.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Guide from IOM \"Cultural orientation - Romania\"'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 829,
+      "content_block_id": 69,
+      "answer": "The website indicates that language courses, as well as various events and activities, are available for refugees from Ukraine in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Courses and activities for refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 830,
+      "content_block_id": 69,
+      "answer": "The provided content does not list specific job platforms but directs users to learn more about job platforms in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Jobs for Ukrainian Refugees in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 831,
+      "content_block_id": 69,
+      "answer": "The primary aim of Animest is to promote cartoons and animated films from around the world in Romania, and to assist in the production and promotion of Romanian animated films.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Animest - Bucharest International Animated Film Festival'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 832,
+      "content_block_id": 69,
+      "answer": "The Hungarian Theater of Cluj typically presents repertory theater performances in Hungarian, usually with subtitles available in Romanian or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Hungarian Theater in Napoca-Cluj'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 833,
+      "content_block_id": 69,
+      "answer": "The National Museum of Rumanian Literature in Bucharest preserves literary treasures including manuscripts, ancient and rare books, historical-literary documents, speeches, furniture, art objects, periodicals, photographs, and audio-video recordings related to Romanian writers.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'The National Museum of Rumanian Literature in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 834,
+      "content_block_id": 69,
+      "answer": "The 'Alexandru Sahia' documentary film studio primarily documented the daily life and evolution of the communist regime in socialist Romania during the period from 1950 to 1990.",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under '“Alexandru Sahia” was the documentary film studio in socialist Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

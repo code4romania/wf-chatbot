@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 905,
+      "content_block_id": 47,
+      "question": "What is the main goal of the Dopomoha platform?"
+    },
+    {
+      "question_id": 906,
+      "content_block_id": 47,
+      "question": "Which organizations collaborated to create the support solutions?"
+    },
+    {
+      "question_id": 907,
+      "content_block_id": 47,
+      "question": "What specific support solutions are available for refugees?"
+    },
+    {
+      "question_id": 908,
+      "content_block_id": 47,
+      "question": "Are medical services and medicines for COVID-19 treatment covered in Romania?"
+    },
+    {
+      "question_id": 909,
+      "content_block_id": 47,
+      "question": "Can individuals with COVID-19 symptoms in Romania receive remote consultations?"
+    },
+    {
+      "question_id": 910,
+      "content_block_id": 47,
+      "question": "How do COVID-19 evaluation centers provide services in Romania?"
+    },
+    {
+      "question_id": 911,
+      "content_block_id": 47,
+      "question": "Is there a specific service for evaluating Post-COVID-19 Syndrome?"
+    },
+    {
+      "question_id": 912,
+      "content_block_id": 47,
+      "question": "Can patients with respiratory issues after COVID-19 obtain oxygen administration devices?"
+    },
+    {
+      "question_id": 913,
+      "content_block_id": 47,
+      "question": "Are physical therapy and psychological support covered for post-COVID-19 conditions?"
+    },
+    {
+      "question_id": 914,
+      "content_block_id": 47,
+      "question": "Where can one find locations for COVID-19 vaccination in Bucharest?"
+    },
+    {
+      "question_id": 915,
+      "content_block_id": 47,
+      "question": "What is the official source of the health insurance system guide?"
+    },
+    {
+      "question_id": 916,
+      "content_block_id": 47,
+      "question": "How can users provide feedback or report issues with the information?"
+    },
+    {
+      "question_id": 917,
+      "content_block_id": 47,
+      "question": "What other support resources or organizations are recommended?"
+    },
+    {
+      "question_id": 918,
+      "content_block_id": 47,
+      "question": "What are the terms and conditions for using the website?"
+    },
+    {
+      "question_id": 919,
+      "content_block_id": 47,
+      "question": "Which cities in Romania are mentioned as having local support information?"
+    }
+  ]
+}

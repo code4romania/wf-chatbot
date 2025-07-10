@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 681,
+      "content_block_id": 63,
+      "answer": "New arrivals in Oradea can find information on managing in the city, important contacts, support programs for accommodation, meals and integration, details on public transport, medical services, psychological support, education, legal status, housing, safety, job support, women's center services, and counseling for people living with HIV.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 682,
+      "content_block_id": 63,
+      "answer": "One can contact the Bihor County Immigration Service via email at bh.igi@mai.gov.ro or by phone at 0259 454 012.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Important contacts Bihor County Immigration Service'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 683,
+      "content_block_id": 63,
+      "answer": "The provided content only gives the contact number for the Call center Bihor pentru Ucraina (+4 0359 456 123) but does not state its specific purpose.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Call center Bihor pentru Ucraina'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 684,
+      "content_block_id": 63,
+      "answer": "The content states that information is required for the accommodation, board, and integration support program, but it does not specify what exact information is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'The support program for accommodation, meals and integration in Oradea'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 685,
+      "content_block_id": 63,
+      "answer": "The content indicates that one can find out how and where to buy tickets for public transport in Oradea by seeking more information, but it does not detail the purchasing process itself.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Public transport in Oradea'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 686,
+      "content_block_id": 63,
+      "answer": "For emergency medical services in Bihor County, one can go to the County Emergency Clinical Hospital Bihor.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 687,
+      "content_block_id": 63,
+      "answer": "The International Organization for Migration (IOM) offers psychological support by guiding vulnerable individuals to resources, organizing psychosocial support and mental health awareness events, mental health first aid, and providing training, workshops, and supervision.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 688,
+      "content_block_id": 63,
+      "answer": "The International Organization for Migration (IOM), Plan International Organization, and Dorcas Aid Romania / Dorcas Aid Moldova provide psychological assistance for Ukrainian refugees in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 689,
+      "content_block_id": 63,
+      "answer": "The content states that one can find information on how to enroll a child in primary education and the required documents by seeking more information, but it does not detail the enrollment process.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 690,
+      "content_block_id": 63,
+      "answer": "The Oradea Caritas Eparhial Association organizes educational programs for primary and secondary school students.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 691,
+      "content_block_id": 63,
+      "answer": "The Women's Center offers support in accessing reproductive health services, navigating the health system, and provides services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 692,
+      "content_block_id": 63,
+      "answer": "People living with HIV can find free, anonymous, and confidential psycho-medical-social services from specialist doctors at 10 Regional HIV Centers in Romania and through the expertise and support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 693,
+      "content_block_id": 63,
+      "answer": "The content indicates that job support is available, but it does not specify the types of resources provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 694,
+      "content_block_id": 63,
+      "answer": "The content indicates that housing information is available, but it does not specify how to access it.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 695,
+      "content_block_id": 63,
+      "answer": "The content mentions \"Stay safe\" as a category but does not provide specific steps or information on how to ensure safety in Oradea.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Stay safe'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

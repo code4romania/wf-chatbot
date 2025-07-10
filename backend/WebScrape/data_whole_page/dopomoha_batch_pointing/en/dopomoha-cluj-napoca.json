@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 335,
+      "content_block_id": 60,
+      "answer": "Newcomers can find information on how to manage in a new city and identify who can help them upon arrival in Cluj-Napoca.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 336,
+      "content_block_id": 60,
+      "answer": "Key contact points include the Immigration Service for Cluj County, the Emergency call number 112, and the National Anti-Traffic Hotline Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 337,
+      "content_block_id": 60,
+      "answer": "The program offers support for accommodation, meals, and integration specifically in Cluj-Napoca.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'The support program for accommodation, meals and integration in Cluj-Napoca'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 338,
+      "content_block_id": 60,
+      "answer": "One can access the application for the accommodation, meals, and integration support program by clicking the 'Access the application' link provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'The support program for accommodation, meals and integration in Cluj-Napoca'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 339,
+      "content_block_id": 60,
+      "answer": "People arriving in Cluj-Napoca can contact the Clinical Emergency Hospital in Napoca Cluj for medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 340,
+      "content_block_id": 60,
+      "answer": "The provided information states that a list of family doctors can be found in Oradea.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 341,
+      "content_block_id": 60,
+      "answer": "The International Organization for Migration (IOM) and World Vision Romania both provide psychological support services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 342,
+      "content_block_id": 60,
+      "answer": "Psychological support is available in Russian, Ukrainian, Romanian, and English languages through IOM, and in Russian and Ukrainian through World Vision Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 343,
+      "content_block_id": 60,
+      "answer": "The Sensiblu Foundation offers social counseling, face-to-face or online psychotherapy, legal advice and representation in court, a support network for women and girls, obtaining forensic medical certificates, and referral to mediation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 344,
+      "content_block_id": 60,
+      "answer": "The 'Ukrainian Home - Protection and Support Center' implements a comprehensive program for protection, information, well-being, inclusiveness, psychosocial support, assistance with injuries, and providing verified information.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 345,
+      "content_block_id": 60,
+      "answer": "All refugees from Ukraine are eligible for support from the 'Ukrainian Home - Protection and Support Center'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 346,
+      "content_block_id": 60,
+      "answer": "Newcomers can use the public transportation system for free in Cluj-Napoca.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 347,
+      "content_block_id": 60,
+      "answer": "To use public transportation for free in Cluj-Napoca, you will need to show an ID in case of a check.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 348,
+      "content_block_id": 60,
+      "answer": "Resources for finding housing information are available under the 'Housing Info' section, which can be accessed by clicking its link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 349,
+      "content_block_id": 60,
+      "answer": "Support for job seekers is available, and more information can be found by accessing the 'Jobs Support' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 350,
+      "content_block_id": 60,
+      "answer": "The Women's Center provides support in accessing reproductive health services, navigating the health system, and offers services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 351,
+      "content_block_id": 60,
+      "answer": "People living with HIV can receive free, anonymous, and confidential psycho-medical-social services from specialist doctors at 10 Regional HIV Centers in Romania and through the expertise of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 352,
+      "content_block_id": 60,
+      "answer": "Free, anonymous, and confidential psycho-medical-social HIV services are available through specialist doctors from 10 Regional HIV Centers in Romania and with the support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

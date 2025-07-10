@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 550,
+      "content_block_id": 66,
+      "question": "What kind of support does Dopomoha offer?"
+    },
+    {
+      "question_id": 551,
+      "content_block_id": 66,
+      "question": "Which groups of people are eligible to receive support from Dopomoha?"
+    },
+    {
+      "question_id": 552,
+      "content_block_id": 66,
+      "question": "In which Romanian cities are support services available?"
+    },
+    {
+      "question_id": 553,
+      "content_block_id": 66,
+      "question": "What are the 'Law made simple' and 'PTSD Help' solutions?"
+    },
+    {
+      "question_id": 554,
+      "content_block_id": 66,
+      "question": "Is there support available for housing or accommodation?"
+    },
+    {
+      "question_id": 555,
+      "content_block_id": 66,
+      "question": "What medical or health services are provided or referenced?"
+    },
+    {
+      "question_id": 556,
+      "content_block_id": 66,
+      "question": "Are psychological support services offered?"
+    },
+    {
+      "question_id": 557,
+      "content_block_id": 66,
+      "question": "Is there assistance for education, especially for children?"
+    },
+    {
+      "question_id": 558,
+      "content_block_id": 66,
+      "question": "What information is available regarding transportation services?"
+    },
+    {
+      "question_id": 559,
+      "content_block_id": 66,
+      "question": "Can one find legal status information or legal assistance?"
+    },
+    {
+      "question_id": 560,
+      "content_block_id": 66,
+      "question": "Are emergency contact numbers or hotlines provided?"
+    },
+    {
+      "question_id": 561,
+      "content_block_id": 66,
+      "question": "What kind of help does the Sus Inima organization provide?"
+    },
+    {
+      "question_id": 562,
+      "content_block_id": 66,
+      "question": "Are there services specifically for women, such as those related to reproductive health or domestic violence?"
+    },
+    {
+      "question_id": 563,
+      "content_block_id": 66,
+      "question": "How can users report errors or suggest improvements to the information?"
+    },
+    {
+      "question_id": 564,
+      "content_block_id": 66,
+      "question": "What other related websites or initiatives are linked?"
+    }
+  ]
+}

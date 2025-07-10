@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 425,
+      "content_block_id": 36,
+      "answer": "People fleeing Ukraine benefit from the basic service package, including medical assistance, medicines, and medical devices, similar to Romanian insured persons. They also receive medical services included in national curative health programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 426,
+      "content_block_id": 36,
+      "answer": "People from Ukraine access healthcare services by being registered by providers in an IT application, which assigns them an identification number in the social health insurance system. This identification number can then be used at any medical unit in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 427,
+      "content_block_id": 36,
+      "answer": "People coming from the armed conflict zone in Ukraine qualify for medical assistance under the Romanian social health insurance system. Those in special situations from Ukraine also benefit from these rights without paying contributions or co-payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 428,
+      "content_block_id": 36,
+      "answer": "The basic medical package includes medical services, medicines, and medical devices, provided by a family doctor or specialist. It covers curative, preventive, prophylactic, home medical services, medication administration, and additional diagnostic/therapeutic services.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the sections under 'The basic service package' and 'Family doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 429,
+      "content_block_id": 36,
+      "answer": "People from Ukraine requesting medical services for the first time are registered by providers in an IT application from the National Health Insurance House, which assigns them an identification number. This number is then printed and handed to the patient for future use across Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 430,
+      "content_block_id": 36,
+      "answer": "For people from Ukraine, the family doctor is their first contact with the health system and provides any medical service included in the basic medical services package. This is done without requiring these individuals to be registered on the doctor's personal list.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Family doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 431,
+      "content_block_id": 36,
+      "answer": "A family doctor can issue medical documents such as referral tickets for specialist consultations, medical prescriptions, medical leave certificates, and medical certificates for children in case of illness. They can also provide recommendations for home care or medical prosthetic devices.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Family doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 432,
+      "content_block_id": 36,
+      "answer": "An up-to-date list of family doctors in Bucharest, including their contact details, can be found and downloaded directly from the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'List of family doctor in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 433,
+      "content_block_id": 36,
+      "answer": "For people in special situations from Ukraine, specialized ambulatory medical assistance included in the basic service package is granted without needing a referral ticket. Otherwise, a referral ticket from a family doctor is typically required for specialist consultations or investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 434,
+      "content_block_id": 36,
+      "answer": "Preventive services are provided by the family doctor for all age groups with varying frequencies, including an annual prevention package for those 40+ involving evaluation, intervention, and monitoring of various health risks. These services also include diabetes detection for asymptomatic adults with risk factors.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Preventive Services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 435,
+      "content_block_id": 36,
+      "answer": "Chronic diseases are managed through periodic consultations, held by appointment, for continuing therapy and monitoring disease evolution and complications. Patients with chronic diseases can receive one consultation per month from their family doctor, either in the office or remotely.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Patients with chronic diseases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 436,
+      "content_block_id": 36,
+      "answer": "Home medical consultations are available for people who cannot move, patients with chronic or acute conditions preventing office travel, children aged 0-1 year, and children 0-18 years with infectious-contagious diseases. Patients with chronic diseases can receive one home consultation per month.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Counseling at home or remotely'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 437,
+      "content_block_id": 36,
+      "answer": "Family doctors can provide remote medical consultations for patients with chronic diseases or those with endemic-epidemic potential requiring isolation. Documents resulting from these consultations are sent to the patient through electronic means of communication.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Counseling at home or remotely'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 438,
+      "content_block_id": 36,
+      "answer": "For people in special situations from Ukraine, there are no associated costs for medical services, as they are exempt from paying social health insurance contributions, personal contributions for outpatient medicines, and co-payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 439,
+      "content_block_id": 36,
+      "answer": "People from Ukraine benefit from the basic service package, including medical assistance, medicines, and medical devices, similar to Romanian insured persons, and services from national curative health programs. Those in special situations are also exempt from contributions, co-payments, and can access specialized ambulatory care without a referral ticket.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

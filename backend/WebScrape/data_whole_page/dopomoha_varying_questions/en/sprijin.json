@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 152,
+      "content_block_id": 16,
+      "question": "What is the primary goal of the Dopomoha solution?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 16,
+      "question": "What types of assistance are available through Dopomoha?"
+    },
+    {
+      "question_id": 154,
+      "content_block_id": 16,
+      "question": "How can individuals find support for housing needs?"
+    },
+    {
+      "question_id": 155,
+      "content_block_id": 16,
+      "question": "What educational opportunities are provided for Ukrainian children in Romania?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 16,
+      "question": "Where can one access specialized medical or health assistance?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 16,
+      "question": "Are there resources for transportation support or vehicle assistance?"
+    },
+    {
+      "question_id": 158,
+      "content_block_id": 16,
+      "question": "How can people find job opportunities suitable for them?"
+    },
+    {
+      "question_id": 159,
+      "content_block_id": 16,
+      "question": "What kind of legal help is offered to Ukrainian refugees?"
+    },
+    {
+      "question_id": 160,
+      "content_block_id": 16,
+      "question": "Are free language courses available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 161,
+      "content_block_id": 16,
+      "question": "How does 'PTSD Help' assist with Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 162,
+      "content_block_id": 16,
+      "question": "What is 'Law made simple' designed to help citizens understand?"
+    },
+    {
+      "question_id": 163,
+      "content_block_id": 16,
+      "question": "How can individuals offer support such as food, clothing, or volunteer help?"
+    },
+    {
+      "question_id": 164,
+      "content_block_id": 16,
+      "question": "Which Romanian cities are included in the support network?"
+    },
+    {
+      "question_id": 165,
+      "content_block_id": 16,
+      "question": "Is there an online map of organizations assisting refugees from Ukraine?"
+    },
+    {
+      "question_id": 166,
+      "content_block_id": 16,
+      "question": "What information is available regarding mental health services for refugees from Ukraine?"
+    },
+    {
+      "question_id": 167,
+      "content_block_id": 16,
+      "question": "How can one report mistakes or provide feedback about the services?"
+    },
+    {
+      "question_id": 168,
+      "content_block_id": 16,
+      "question": "What is 'Sprijin de Urgență' for, and how can one request or provide resources through it?"
+    }
+  ]
+}

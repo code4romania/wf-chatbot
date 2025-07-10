@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 797,
+      "content_block_id": 3,
+      "question": "What kind of support is available for people displaced by conflict?"
+    },
+    {
+      "question_id": 798,
+      "content_block_id": 3,
+      "question": "How can individuals fleeing a conflict obtain reliable information about entering a new country?"
+    },
+    {
+      "question_id": 799,
+      "content_block_id": 3,
+      "question": "Why is accessible information crucial for migrants navigating a new country?"
+    },
+    {
+      "question_id": 800,
+      "content_block_id": 3,
+      "question": "What types of questions do new arrivals commonly have about seeking asylum?"
+    },
+    {
+      "question_id": 801,
+      "content_block_id": 3,
+      "question": "Who typically provides support and information for displaced populations?"
+    },
+    {
+      "question_id": 802,
+      "content_block_id": 3,
+      "question": "In what languages are humanitarian aid resources generally offered?"
+    },
+    {
+      "question_id": 803,
+      "content_block_id": 3,
+      "question": "How are official sources utilized to ensure accuracy of information in crisis situations?"
+    },
+    {
+      "question_id": 804,
+      "content_block_id": 3,
+      "question": "What resources are commonly provided to help migrants settle into a new country?"
+    },
+    {
+      "question_id": 805,
+      "content_block_id": 3,
+      "question": "How does technology assist in delivering aid and information during humanitarian crises?"
+    },
+    {
+      "question_id": 806,
+      "content_block_id": 3,
+      "question": "What are the key responsibilities of refugees and asylum seekers in a host country?"
+    }
+  ]
+}

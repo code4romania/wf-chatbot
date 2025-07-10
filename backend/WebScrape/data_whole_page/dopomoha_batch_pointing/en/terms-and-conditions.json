@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 262,
+      "content_block_id": 64,
+      "answer": "The main objective of dopomoha.ro is to provide information and support for people from Ukraine who want to request help from Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '1. Objective of the Platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 263,
+      "content_block_id": 64,
+      "answer": "The dopomoha.ro platform assists people from Ukraine by providing information and support to those who want to request help from Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '1. Objective of the Platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 264,
+      "content_block_id": 64,
+      "answer": "The platform provides general information and support for people from Ukraine who are seeking help from Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '1. Objective of the Platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 265,
+      "content_block_id": 64,
+      "answer": "Code for Romania processes personal data only in the interest of website users requesting support services for refugees, adhering to legal provisions in force in Romania. The dopomoha.ro platform itself does not process personal data.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '3. Purpose and grounds'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 266,
+      "content_block_id": 64,
+      "answer": "Users have rights including information, access, intervention, rectification, deletion, portability, opposition, restriction of processing, and the right to address the National Supervisory Authority or judiciary.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '6. Your rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 267,
+      "content_block_id": 64,
+      "answer": "Code for Romania temporarily stores personal data for the duration of the dopomoha.ro platform's operation.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '4. Duration of data storage'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 268,
+      "content_block_id": 64,
+      "answer": "Code for Romania generally does not provide personal data to third parties, but it may share data with institutions, public authorities, or other competent state bodies based on legal provisions and their express requests.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '5. Transfer of Personal Data to third parties'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 269,
+      "content_block_id": 64,
+      "answer": "Code for Romania uses state-of-the-art technologies and reasonable technical and organizational measures to ensure full security and confidentiality during data transmission and storage. All personal data is processed and stored on EU servers under European data protection legislation.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '7. Security and Privacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 270,
+      "content_block_id": 64,
+      "answer": "The copyright for all information on the dopomoha.ro website is owned by Code for Romania and its project partners.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '8. Trademark and Copyright'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 271,
+      "content_block_id": 64,
+      "answer": "Code for Romania reserves the right to revise and update the General Terms and Conditions of Use at any time, without prior notice or user acceptance.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '9. Changes to the General Site Terms and Conditions of Use'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 272,
+      "content_block_id": 64,
+      "answer": "Code for Romania is an independent, non-governmental, politically unaffiliated, and apolitical organization founded in 2016 to mobilize IT professionals for social problem-solving.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '10. About Code for Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 273,
+      "content_block_id": 64,
+      "answer": "Someone can contact Code for Romania via email at contact@code4.ro or by mail at their address in Bucharest, Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '11. Contact us'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

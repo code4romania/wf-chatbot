@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 582,
+      "content_block_id": 48,
+      "answer": "Medical services available include primary medical assistance, specialized ambulatory medical assistance for paraclinical and clinical specialties, and day or continuous hospitalization services. These cover pregnancy monitoring, diagnostic procedures, and specialized interventions like amniocentesis.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 583,
+      "content_block_id": 48,
+      "answer": "Medical services for pregnant women are structured into Primary medical assistance, Specialized ambulatory medical assistance for paraclinical specialties, and Specialized ambulatory medical assistance for clinical specialties. These services can be provided via day hospitalization or, if complications arise, continuous hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'The medical services provided to pregnant women are managed on different levels as follows'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 584,
+      "content_block_id": 48,
+      "answer": "Primary medical assistance for pregnant women, including supervision of labor without giving birth and unexpected birth services, can be provided by the family doctor. The family doctor also issues the document certifying pregnancy existence during the first appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Primary medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 585,
+      "content_block_id": 48,
+      "answer": "Routine monitoring involves consultations in the first quarter, monthly monitoring from the 3rd to 7th month, twice a month from the 7th to 9th month, and post-maternity ward and baby monitoring at home. It also includes various specialist consultations, blood tests, urine tests, and ultrasounds.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Primary medical assistance' and 'Specialized ambulatory medical assistance for clinical specialties'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 586,
+      "content_block_id": 48,
+      "answer": "Medical professionals typically involved in monitoring a pregnancy include family doctors, obstetrics-gynecology specialists, and doctors with superspecialization in maternal-fetal medicine for advanced procedures. Laboratory medicine professionals also contribute to paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 587,
+      "content_block_id": 48,
+      "answer": "Recommended tests include HIV, hepatitis B and C, Papanicolau, vaginal secretion exams, antibiogram, antifungigram, and obstetrical ultrasounds. Mandatory services for normal pregnancy supervision encompass complete blood count, blood group determination, various serum tests, complete urine examination, VDRL/RPR, and specific tests like Glucose Tolerance Test or Fetal Biometry.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Primary medical assistance', 'Specialized ambulatory medical assistance for paraclinical specialties', and 'Specialized ambulatory medical assistance for clinical specialties'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 588,
+      "content_block_id": 48,
+      "answer": "High-risk pregnancies have specific surveillance protocols with distinct mandatory services, including specialized consultations, blood tests, urine tests, and ultrasounds tailored to the condition. These services are often contracted with higher-level hospitals (level 3 or 2) and can include hospital medical care packages.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 589,
+      "content_block_id": 48,
+      "answer": "Specific medical conditions considered high-risk during pregnancy include gestational oedema, mild hyperemesis gravidarum, and a scarred uterus in the third trimester. Additionally, coagulation disorders and hereditary/acquired thrombophilias, along with associated vascular and obstetric risk factors, are managed as high-risk.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 590,
+      "content_block_id": 48,
+      "answer": "Mandatory services for high-risk pregnancies vary by condition but generally include obstetrics-gynecology specialist consultations, specific blood tests (e.g., complete blood count, serum creatinine, TGP, TGO, Antithrombin III, Protein C, Protein S), urine examinations, and obstetrical and gynecological ultrasounds. Cardiotocography is also mandatory for scarred uterus evaluation.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections detailing 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 591,
+      "content_block_id": 48,
+      "answer": "The purpose of prenatal screening services is to detect fetal anomalies, often through a double or triple test and ultrasound, and to assess the risk of conditions like aneuploidy. It also includes an obstetrics-gynecology specialist consultation for integrative interpretation of results.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Prenatal screening (S11 - S19 + 6 days)'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 592,
+      "content_block_id": 48,
+      "answer": "Specialized invasive procedures like amniocentesis, cordocentesis, and chorionic villus biopsy are covered as day hospitalization services. They are covered for specific indications, such as confirmed major anomalies or genetic pathology risk, and include the genetic testing of samples taken.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section that discusses 'amniocentesis, cordocentesis, and chorionic villus biopsy services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 593,
+      "content_block_id": 48,
+      "answer": "Advanced diagnostic or therapeutic procedures like cordocentesis, amniocentesis, and chorionic villus biopsy can only be performed by doctors specializing in obstetrics-gynecology with super-specialization in maternal-fetal medicine.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section discussing 'amniocentesis, cordocentesis, and chorionic villus biopsy services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 594,
+      "content_block_id": 48,
+      "answer": "Healthcare facilities must be obstetrics-gynecology specialty hospitals or health units with beds that have obstetrics-gynecology and neonatology departments ranked at specific levels (1, 2, or 3). They must also possess an obstetrics-gynecology office for consultations and ultrasounds, and a medical analysis laboratory.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections detailing facility requirements for 'Supervision of a normal pregnancy', 'Prenatal screening', and 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 595,
+      "content_block_id": 48,
+      "answer": "A pregnant patient might require continuous hospitalization if they present complications or comorbidities posing a risk, major bleeding requiring volume repletion, anesthetic risk difficult to manage in day hospitalization, or difficult-to-control post-procedural pain associated with major invasive procedures.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section starting with 'The medical services provided in the day hospitalization regime can also be provided in the continuous hospitalization regime'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 596,
+      "content_block_id": 48,
+      "answer": "Individuals can seek support for accessing reproductive health services and navigating the healthcare system from the Women's Center. This center also offers services related to contraception, breastfeeding, prevention of sexually transmitted diseases, pregnancy monitoring, abortion, and support for victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

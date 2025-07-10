@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 565,
+      "content_block_id": 48,
+      "question": "What levels of medical assistance are available for pregnant women?"
+    },
+    {
+      "question_id": 566,
+      "content_block_id": 48,
+      "question": "What services does primary medical assistance for pregnant women typically include?"
+    },
+    {
+      "question_id": 567,
+      "content_block_id": 48,
+      "question": "Are specific medical tests, such as HIV or hepatitis screenings, recommended for pregnant women?"
+    },
+    {
+      "question_id": 568,
+      "content_block_id": 48,
+      "question": "Can family doctors play a role in managing pregnancy care?"
+    },
+    {
+      "question_id": 569,
+      "content_block_id": 48,
+      "question": "What specialized diagnostic examinations are covered for pregnant women?"
+    },
+    {
+      "question_id": 570,
+      "content_block_id": 48,
+      "question": "Are obstetrical ultrasounds included in the medical services for pregnant women?"
+    },
+    {
+      "question_id": 571,
+      "content_block_id": 48,
+      "question": "What mandatory services are part of supervising a normal pregnancy?"
+    },
+    {
+      "question_id": 572,
+      "content_block_id": 48,
+      "question": "Which types of medical facilities are authorized to provide comprehensive pregnancy supervision?"
+    },
+    {
+      "question_id": 573,
+      "content_block_id": 48,
+      "question": "Is prenatal screening offered, and what does it involve?"
+    },
+    {
+      "question_id": 574,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies managed within the medical system?"
+    },
+    {
+      "question_id": 575,
+      "content_block_id": 48,
+      "question": "Are services for monitoring high-risk pregnancies with coagulation disorders provided?"
+    },
+    {
+      "question_id": 576,
+      "content_block_id": 48,
+      "question": "Are invasive diagnostic procedures, like amniocentesis or chorionic villus biopsy, covered for pregnant women?"
+    },
+    {
+      "question_id": 577,
+      "content_block_id": 48,
+      "question": "What are the conditions under which day hospitalization services for pregnancy can transition to continuous hospitalization?"
+    },
+    {
+      "question_id": 578,
+      "content_block_id": 48,
+      "question": "What specific qualifications do doctors need to provide advanced obstetric and gynecological services?"
+    },
+    {
+      "question_id": 579,
+      "content_block_id": 48,
+      "question": "Where can one find official guidance on health insurance rights related to pregnancy services?"
+    },
+    {
+      "question_id": 580,
+      "content_block_id": 48,
+      "question": "Is there a dedicated support center for reproductive health services for women?"
+    }
+  ]
+}

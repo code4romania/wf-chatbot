@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 100,
+      "content_block_id": 10,
+      "question": "What is the main purpose of dopomoha.ro?"
+    },
+    {
+      "question_id": 101,
+      "content_block_id": 10,
+      "question": "How can individuals contribute to sharing dopomoha.ro information?"
+    },
+    {
+      "question_id": 102,
+      "content_block_id": 10,
+      "question": "What specific types of assistance does Sprijin de Urgență offer?"
+    },
+    {
+      "question_id": 103,
+      "content_block_id": 10,
+      "question": "How can someone request help through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 10,
+      "question": "What steps should someone follow to provide resources for Sprijin de Urgență?"
+    },
+    {
+      "question_id": 105,
+      "content_block_id": 10,
+      "question": "Who is eligible to receive support from Un Acoperiș?"
+    },
+    {
+      "question_id": 106,
+      "content_block_id": 10,
+      "question": "How can someone offer accommodation through Un Acoperiș?"
+    },
+    {
+      "question_id": 107,
+      "content_block_id": 10,
+      "question": "What languages does the phrase book include translations for?"
+    },
+    {
+      "question_id": 108,
+      "content_block_id": 10,
+      "question": "Why is the phrase book an important resource?"
+    },
+    {
+      "question_id": 109,
+      "content_block_id": 10,
+      "question": "What kind of information is contained in the general dopomoha.ro flyer?"
+    },
+    {
+      "question_id": 110,
+      "content_block_id": 10,
+      "question": "In what situations can the dopomoha.ro flyer be shared?"
+    },
+    {
+      "question_id": 111,
+      "content_block_id": 10,
+      "question": "What locations are recommended for displaying dopomoha.ro posters?"
+    },
+    {
+      "question_id": 112,
+      "content_block_id": 10,
+      "question": "How does Un Acoperiș facilitate temporary housing?"
+    },
+    {
+      "question_id": 113,
+      "content_block_id": 10,
+      "question": "What are the key objectives of the Sprijin de Urgență initiative?"
+    },
+    {
+      "question_id": 114,
+      "content_block_id": 10,
+      "question": "Which common expressions are covered in the Romanian language guide?"
+    }
+  ]
+}

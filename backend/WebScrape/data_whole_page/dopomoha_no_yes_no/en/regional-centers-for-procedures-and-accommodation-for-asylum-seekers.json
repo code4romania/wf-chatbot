@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 860,
+      "content_block_id": 11,
+      "question": "What kind of services do regional centers provide?"
+    },
+    {
+      "question_id": 861,
+      "content_block_id": 11,
+      "question": "How can individuals contact a specific regional center?"
+    },
+    {
+      "question_id": 862,
+      "content_block_id": 11,
+      "question": "Why would someone need to visit a regional center?"
+    },
+    {
+      "question_id": 863,
+      "content_block_id": 11,
+      "question": "Which regional center serves a particular geographic area?"
+    },
+    {
+      "question_id": 864,
+      "content_block_id": 11,
+      "question": "What information should someone prepare before contacting a regional center?"
+    },
+    {
+      "question_id": 865,
+      "content_block_id": 11,
+      "question": "Who operates regional centers?"
+    },
+    {
+      "question_id": 866,
+      "content_block_id": 11,
+      "question": "In what way do regional centers assist with administrative procedures?"
+    },
+    {
+      "question_id": 867,
+      "content_block_id": 11,
+      "question": "What are the typical operating hours for regional centers?"
+    },
+    {
+      "question_id": 868,
+      "content_block_id": 11,
+      "question": "How do regional centers handle inquiries from the public?"
+    },
+    {
+      "question_id": 869,
+      "content_block_id": 11,
+      "question": "What documents are typically required for services at a regional center?"
+    },
+    {
+      "question_id": 870,
+      "content_block_id": 11,
+      "question": "Where are the main regional centers located?"
+    },
+    {
+      "question_id": 871,
+      "content_block_id": 11,
+      "question": "What types of issues fall under the jurisdiction of a regional center?"
+    },
+    {
+      "question_id": 872,
+      "content_block_id": 11,
+      "question": "How does one find the appropriate regional center for their needs?"
+    },
+    {
+      "question_id": 873,
+      "content_block_id": 11,
+      "question": "How does proximity to national borders influence the role of certain regional centers?"
+    },
+    {
+      "question_id": 874,
+      "content_block_id": 11,
+      "question": "What is the organizational structure of regional centers?"
+    },
+    {
+      "question_id": 875,
+      "content_block_id": 11,
+      "question": "What resources are available through regional centers?"
+    },
+    {
+      "question_id": 876,
+      "content_block_id": 11,
+      "question": "Why are there multiple regional centers across the country?"
+    }
+  ]
+}

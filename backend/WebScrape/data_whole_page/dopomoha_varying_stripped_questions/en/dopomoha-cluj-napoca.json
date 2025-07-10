@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 310,
+      "content_block_id": 60,
+      "question": "What kind of assistance is available for new arrivals in Cluj-Napoca?"
+    },
+    {
+      "question_id": 311,
+      "content_block_id": 60,
+      "question": "What are the contact details for the Immigration Service in Cluj County?"
+    },
+    {
+      "question_id": 312,
+      "content_block_id": 60,
+      "question": "What is the national emergency number in Romania?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 60,
+      "question": "Is there a national anti-traffic hotline in Romania?"
+    },
+    {
+      "question_id": 314,
+      "content_block_id": 60,
+      "question": "Is there a support program for accommodation, meals, and integration in Cluj-Napoca?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 60,
+      "question": "Where can one access medical services in Cluj-Napoca?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 60,
+      "question": "Which organizations provide psychological support services?"
+    },
+    {
+      "question_id": 317,
+      "content_block_id": 60,
+      "question": "In what languages is psychological support offered?"
+    },
+    {
+      "question_id": 318,
+      "content_block_id": 60,
+      "question": "What services does the Sensiblu Foundation provide?"
+    },
+    {
+      "question_id": 319,
+      "content_block_id": 60,
+      "question": "Is there a dedicated center for Ukrainian refugees in Cluj-Napoca, and what support does it offer?"
+    },
+    {
+      "question_id": 320,
+      "content_block_id": 60,
+      "question": "Is public transportation free in Cluj for certain individuals, and what are the conditions?"
+    },
+    {
+      "question_id": 321,
+      "content_block_id": 60,
+      "question": "Where can one find information about legal status for newcomers?"
+    },
+    {
+      "question_id": 322,
+      "content_block_id": 60,
+      "question": "Are there resources available for finding housing in Cluj-Napoca?"
+    },
+    {
+      "question_id": 323,
+      "content_block_id": 60,
+      "question": "What kind of job support is available?"
+    },
+    {
+      "question_id": 324,
+      "content_block_id": 60,
+      "question": "Where can women find support for reproductive health or domestic violence issues?"
+    },
+    {
+      "question_id": 325,
+      "content_block_id": 60,
+      "question": "Is confidential support available for people living with HIV in Romania?"
+    },
+    {
+      "question_id": 326,
+      "content_block_id": 60,
+      "question": "Where can one find general information about healthcare in Romania?"
+    }
+  ]
+}

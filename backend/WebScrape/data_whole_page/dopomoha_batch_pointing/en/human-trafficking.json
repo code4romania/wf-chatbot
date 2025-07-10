@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 495,
+      "content_block_id": 68,
+      "answer": "Human trafficking is defined as the recruitment, transportation, transfer, harbouring or receipt of persons by means of threats, use of force, or psychological pressure for the purpose of further exploitation. It is a form of modern slavery and human rights violation.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What is human trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 496,
+      "content_block_id": 68,
+      "answer": "Individuals can recognize signs if they are offered an unrealistically high salary, forced to work without consent, have documents or communication devices withheld, or are controlled by strict rules. Other indicators include restricted movement, unpaid work, or being asked to repay 'debts' for services.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 497,
+      "content_block_id": 68,
+      "answer": "Exploitation associated with human trafficking can take forms such as labour exploitation, sexual exploitation, involvement in criminal activities, forced begging, domestic servitude, illegal adoption, organ removal, slavery, or forced marriage.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What is human trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 498,
+      "content_block_id": 68,
+      "answer": "Suspected human trafficking can be reported to TELVERDE ANITIP at 0800.800.678 (in Romania) or the eLiberare Crisis Textline at 0757.749.845. Other options include the National Emergency Number 112, or the free national anti-trafficking hotline for migrants 527 (from Ukraine).",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Suggestions to seek help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 499,
+      "content_block_id": 68,
+      "answer": "To reduce vulnerability, individuals should know their rights, maintain possession of documents, stay in touch with trusted people, and gather comprehensive information about travel plans. Sharing this information with trusted persons and developing a secret 'safeword' are also recommended.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 500,
+      "content_block_id": 68,
+      "answer": "Sexual exploitation constitutes any actual or attempted abuse of a position of vulnerability, differential power, or trust for sexual purposes.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What is sexual exploitation?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 501,
+      "content_block_id": 68,
+      "answer": "Sexual exploitation involves the abuse of vulnerability, power, or trust for sexual purposes. In contrast, sexual abuse is any actual or threatened sexual activity carried out by force or under unequal or coercive conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Reporting sexual exploitation and abuse commited by humanitarian workers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 502,
+      "content_block_id": 68,
+      "answer": "Reports of suspected sexual exploitation and abuse by a UNHCR, UN, or NGO staff member can be made directly to UNHCR Romania at inspector@unhcr.org.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Report suspected sexual exploitation and abuse'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 503,
+      "content_block_id": 68,
+      "answer": "To ensure children's safety, parents can prepare them for different scenarios, including packing a 'safety backpack,' discussing important points to minimize stress, and creating a plan of action.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Children’s security'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 504,
+      "content_block_id": 68,
+      "answer": "The eLiberare Association, with UNICEF's support, created a story that serves as a conversation guide for parents and children to cover basic safeguards against human trafficking and online exploitation vulnerabilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'A guide helping Children of all ages avoid human traffickers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 505,
+      "content_block_id": 68,
+      "answer": "Through 'Sprijin de Urgență,' individuals can request or offer resources such as food, products, clothing, tents, transportation, or volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 506,
+      "content_block_id": 68,
+      "answer": "Someone can find temporary accommodation using 'Un Acoperiș' by accessing the platform to search for available spaces.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 507,
+      "content_block_id": 68,
+      "answer": "Anti-trafficking assistance in Romania can be accessed via the Romanian National Anti-trafficking Helpline at 0 800 800 678 or +4021.313.31.00, the National Emergency Number 112, or the eLiberare Crisis Textline 0757.749.845.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Suggestions to seek help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 508,
+      "content_block_id": 68,
+      "answer": "If experiencing exploitation, a person can seek help by calling the Romanian National Anti-trafficking Helpline, the National Emergency Number, or the hotline for migrants. They can also run to a public place like a hospital or post office.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Suggestions to seek help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 509,
+      "content_block_id": 68,
+      "answer": "To enhance personal safety, individuals should gather information about who they are travelling with, the route, accommodation details, and any potential workplace or employer. This information should then be shared with trusted persons.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 510,
+      "content_block_id": 68,
+      "answer": "People fleeing war face increased vulnerability to human trafficking risks because their situation makes them more susceptible than usual.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

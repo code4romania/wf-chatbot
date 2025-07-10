@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What types of services do hospitals typically provide for inpatients?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How does a patient generally gain admission to a hospital for services?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the different categories of hospitalization based on length of stay?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "Which medical conditions are commonly treated during a one-day hospitalization?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "What financial arrangements apply to patients receiving medical services in public hospitals?"
+    },
+    {
+      "question_id": 6,
+      "content_block_id": 40,
+      "question": "What specific expenses do public hospitals cover for insured patients?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 40,
+      "question": "What happens financially if a patient chooses a hospital that does not have a contract with their health insurance company?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 40,
+      "question": "How do private hospitals determine patient contributions for hospitalization services?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 40,
+      "question": "What cost information should a patient expect from a private hospital before and during their stay?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 40,
+      "question": "What recourse does a patient have if they pay for items that should have been free in a public hospital?"
+    },
+    {
+      "question_id": 11,
+      "content_block_id": 40,
+      "question": "What specialized medical services receive particular coverage in hospitals?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 40,
+      "question": "Who needs a referral for hospital admission, and who is exempt from this requirement?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 40,
+      "question": "What is the maximum duration for a day hospitalization period?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 40,
+      "question": "How do public hospitals manage the reimbursement of patient-borne expenses?"
+    },
+    {
+      "question_id": 15,
+      "content_block_id": 40,
+      "question": "What are the key differences in financial obligations for patients between public and private hospitals with insurance contracts?"
+    }
+  ]
+}

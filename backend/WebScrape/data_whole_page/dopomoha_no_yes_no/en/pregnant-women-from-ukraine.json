@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 582,
+      "content_block_id": 48,
+      "question": "What types of medical services are available for pregnant women?"
+    },
+    {
+      "question_id": 583,
+      "content_block_id": 48,
+      "question": "How are medical services for pregnant women structured or categorized?"
+    },
+    {
+      "question_id": 584,
+      "content_block_id": 48,
+      "question": "Who provides the primary medical assistance for pregnant women?"
+    },
+    {
+      "question_id": 585,
+      "content_block_id": 48,
+      "question": "What does the routine monitoring of a normal pregnancy typically involve?"
+    },
+    {
+      "question_id": 586,
+      "content_block_id": 48,
+      "question": "Which medical professionals are typically involved in monitoring a pregnancy?"
+    },
+    {
+      "question_id": 587,
+      "content_block_id": 48,
+      "question": "What specific medical tests are recommended during pregnancy monitoring?"
+    },
+    {
+      "question_id": 588,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies managed differently from standard pregnancies?"
+    },
+    {
+      "question_id": 589,
+      "content_block_id": 48,
+      "question": "What specific medical conditions are considered high-risk during pregnancy?"
+    },
+    {
+      "question_id": 590,
+      "content_block_id": 48,
+      "question": "Which medical services are mandatory for monitoring high-risk pregnancies?"
+    },
+    {
+      "question_id": 591,
+      "content_block_id": 48,
+      "question": "What is the purpose of prenatal screening services during pregnancy?"
+    },
+    {
+      "question_id": 592,
+      "content_block_id": 48,
+      "question": "How are specialized invasive procedures during pregnancy, such as amniocentesis, typically covered?"
+    },
+    {
+      "question_id": 593,
+      "content_block_id": 48,
+      "question": "Who is qualified to perform advanced diagnostic or therapeutic procedures like cordocentesis?"
+    },
+    {
+      "question_id": 594,
+      "content_block_id": 48,
+      "question": "What criteria must healthcare facilities meet to offer pregnancy-related medical services?"
+    },
+    {
+      "question_id": 595,
+      "content_block_id": 48,
+      "question": "Under what circumstances might a pregnant patient require continuous hospitalization instead of day hospitalization?"
+    },
+    {
+      "question_id": 596,
+      "content_block_id": 48,
+      "question": "Where can individuals seek support for accessing reproductive health services and navigating the healthcare system?"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 60,
+      "content_block_id": 56,
+      "answer": "The website provides information on how to manage in Timișoara, including important contacts, medical services, psychological support, transportation, education, and various organizations offering assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 61,
+      "content_block_id": 56,
+      "answer": "You can contact the Immigration Bureau of Timiș County via email at tm.igi@mai.gov.ro or by phone at +40256-402434, +40256-402431, or +40256-402432.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 62,
+      "content_block_id": 56,
+      "answer": "The provided content only lists contact numbers for the Timișoara for Ukraine Support Center (+40356 993, WhatsApp +40741 113 952) but does not specify the services it provides.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 63,
+      "content_block_id": 56,
+      "answer": "For general emergency medical services, you can contact the Emergency Municipal Clinical Hospital. For children's medical help, go to the Louis Țurcanu Children's Emergency Clinical Hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 64,
+      "content_block_id": 56,
+      "answer": "The Plan International Organization offers psychological assistance for adults and children of refugees from Ukraine in various cities of Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 65,
+      "content_block_id": 56,
+      "answer": "In Timișoara, you can use the public transport system STPT for free, but you may be required to show an ID if asked.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 66,
+      "content_block_id": 56,
+      "answer": "Educational units in Timiș with Ukrainian language teaching include Kindergarten and Secondary School no. 2 Timisoara, Secondary School no. 24 Timisoara, \"William Shakespeare\" Theoretical High School, and various other schools listed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 67,
+      "content_block_id": 56,
+      "answer": "The LOGS Association offers social and legal counseling, financial support, medical assistance, Romanian language courses, and facilitates access to jobs for immigrants.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 68,
+      "content_block_id": 56,
+      "answer": "You can find support for job searching through The LOGS Association – Group of Social Initiatives, which facilitates access to jobs, or through The Timiș County Youth Foundation (FITT), which offers help in finding a job.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 69,
+      "content_block_id": 56,
+      "answer": "The LOGS Association offers Romanian language courses, The Timiș County Youth Foundation (FITT) provides Romanian and English language courses, Save the Children Timiș offers English classes for children, and SCOP organization also provides language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 70,
+      "content_block_id": 56,
+      "answer": "The content states that enrollment applications for Ukrainian preschoolers and students in Timiș County educational units can be found via a link labeled \"here,\" but does not describe the specific enrollment process.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 71,
+      "content_block_id": 56,
+      "answer": "Victims of domestic violence can find dedicated services and support through the Women's Center by following the provided link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 72,
+      "content_block_id": 56,
+      "answer": "People living with HIV in Romania can receive free, anonymous, and confidential psycho-medical-social HIV services from specialist doctors at 10 Regional HIV Centers and through the expertise and support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 73,
+      "content_block_id": 56,
+      "answer": "The National Anti-Traffic Hotline in Romania can be contacted at +40800 800 678 or +4021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 74,
+      "content_block_id": 56,
+      "answer": "The Louis Țurcanu Children's Emergency Clinical Hospital provides specific medical help for children in Timișoara.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

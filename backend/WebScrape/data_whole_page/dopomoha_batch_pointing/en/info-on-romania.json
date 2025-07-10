@@ -1,0 +1,224 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 996,
+      "content_block_id": 4,
+      "answer": "Inter-city travel within Romania can be done by train, bus/maxi taxi, or by using ride-hailing apps like Free Now, Uber, or Bolt in major cities.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info', 'Bus/maxi taxi info', and 'Taxi'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 997,
+      "content_block_id": 4,
+      "answer": "Train tickets can be purchased via cfrcalatori.ro or mersultrenurilor.infofer.ro, while bus/maxi taxi tickets can be bought through autogari.ro or mersulautobuzelor.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info' and 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 998,
+      "content_block_id": 4,
+      "answer": "On overnight trains, it is recommended to shut the sleeper compartment door as securely as possible, as there are no locks, and to keep valuable possessions close at hand.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 999,
+      "content_block_id": 4,
+      "answer": "Rescue 4x4 is a free public rescue service that offers recovery and intervention in special emergency situations.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Rescue 4x4 / 4x4 Volunteer Rescue Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 1000,
+      "content_block_id": 4,
+      "answer": "Individuals can request help from Rescue 4x4 by using the 'Request help' option provided on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Rescue 4x4 / 4x4 Volunteer Rescue Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 1001,
+      "content_block_id": 4,
+      "answer": "Travelers with disabilities may find getting around a major problem because public transport is often inaccessible and cars with hand controls are not available from rental companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Travelers with disabilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 1002,
+      "content_block_id": 4,
+      "answer": "Shopping malls are usually open from 9 am to 10 pm, while most shops operate from 9 or 10 am to 6 or 8 pm on weekdays. Many offices, especially for flights, visas, or car rental, are closed by 4 pm.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Opening hours'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 1003,
+      "content_block_id": 4,
+      "answer": "Romania observes public holidays including New Year (Jan 1-2), Day of the Unification (Jan 24), Orthodox Easter (April 22, 24-25), Labor Day (May 1), Children's Day (June 1), Orthodox Pentecost (June 12-13), Assumption (Aug 15), Saint Andrew (Nov 30), Romania's National Day (Dec 1), and Christmas (Dec 25-26).",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Opening hours'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 1004,
+      "content_block_id": 4,
+      "answer": "No vaccinations are required for Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 1005,
+      "content_block_id": 4,
+      "answer": "Ukrainian children with cancer can access national treatment centers through a platform developed by Dăruiește Aripi Association and the Romanian Pediatric Oncology and Hematology Society, by filling out a form, emailing ukrainechildcancer@daruiestearipi.ro, or calling +40724024229.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 1006,
+      "content_block_id": 4,
+      "answer": "Ukrainian refugees needing HIV treatment can contact Sens Positiv via Facebook, Instagram (@informathiv.ro), or phone (0744.682.225), who will refer and accompany them to HIV Focal Points.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 1007,
+      "content_block_id": 4,
+      "answer": "The National Alliance for Rare Diseases Romania can provide support and guidance to refugees with rare diseases, and the NoRo center in Zalău offers free therapy for Ukrainian children needing their services.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 1008,
+      "content_block_id": 4,
+      "answer": "Most towns and villages have pharmacies, typically open Monday to Saturday from 9 am to 6 pm, with at least one 24-hour pharmacy in cities and most towns; staff in larger towns may understand English, French, or German.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 1009,
+      "content_block_id": 4,
+      "answer": "The main mobile phone providers in Romania are Orange, Telekom, and Vodafone. A local SIM card can be purchased from any of these providers for typically €5 and topped up by vouchers from phone shops or street kiosks.",
+      "instruction": "Go to website https://dopopoha.ro/en/info-on-romania and read the section under 'Telecommunications Phones'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 1010,
+      "content_block_id": 4,
+      "answer": "The official currency of Romania is the Romanian leu (RON), divided into 100 bani. Ukrainian Hryvnia (UAH) can be exchanged for RON at BCR (Romanian Commercial Bank) at the BNR exchange rate, up to 1,000 lei per person with a Ukrainian passport.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 1011,
+      "content_block_id": 4,
+      "answer": "Ukrainian citizens can exchange UAH for RON at BCR, with 11 BCR branches near border areas open 24/7 for cash needs. For assistance, they can call 0373514244 or email suport.linia1@bcr.ro, benefiting from zero fees for POS/ATM transactions with Ukrainian cards, account opening, and inter/intra bank payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 1012,
+      "content_block_id": 4,
+      "answer": "The primary emergency number in Romania is 112. When calling, one should state: 'Salut. Sunt refugiat din Ucraina. Nu vorbesc română.' or 'Hello. I am an Ukrainian refugee. I do not speak Romanian.'",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Useful contacts 112 Emergency Number'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 1013,
+      "content_block_id": 4,
+      "answer": "Asylum seekers can find accommodation and procedural support at Regional Centers for Procedures and Accommodation for Asylum Seekers located in Rădăuți, Maramureș, Galați, București, Timișoara, and Giurgiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Regional Centers for Procedures and Accommodation for Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 1014,
+      "content_block_id": 4,
+      "answer": "Individuals can request or offer emergency resources such as food, products, clothing, tents, transportation, or volunteers through the 'Sprijin de Urgență' platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 20,
+      "question_id": 1015,
+      "content_block_id": 4,
+      "answer": "Support for finding or providing temporary accommodation in Romania is available through 'Un Acoperiș', a platform where users can search for or offer a space to help vulnerable people.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

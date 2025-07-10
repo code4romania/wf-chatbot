@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 90,
+      "content_block_id": 5,
+      "answer": "Human trafficking is defined as the recruitment, transportation, transfer, harbouring, or receipt of persons by means of threats, use of force, or other forms of psychological pressure for the purpose of further exploitation.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 91,
+      "content_block_id": 5,
+      "answer": "Individuals can find out what to do to reduce their vulnerability to human trafficking by exploring the information provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 92,
+      "content_block_id": 5,
+      "answer": "Individuals can find contacts on the website where to report in case of suspicion of human trafficking.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 93,
+      "content_block_id": 5,
+      "answer": "The provided content mentions learning more about child safety, but does not explain why it is emphasized in discussions about human trafficking.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 94,
+      "content_block_id": 5,
+      "answer": "The guide provides detailed instructions on how to prepare for emergencies and how to act if they occur.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'What to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 95,
+      "content_block_id": 5,
+      "answer": "The \"What to do in case of emergency or war\" guide was created by the Ukrainian authorities.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'What to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 96,
+      "content_block_id": 5,
+      "answer": "The guide helps people prepare for unforeseen events by offering detailed instructions on how to prepare for emergencies and how to act if they occur.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'What to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 97,
+      "content_block_id": 5,
+      "answer": "Individuals can find a list of shelters in Romania under the 'Map of shelters in Romania' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Map of shelters in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 98,
+      "content_block_id": 5,
+      "answer": "The provided content only indicates where to find lists of shelters in Romania and Bucharest, but does not specify the types of support they offer.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Map of shelters in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 99,
+      "content_block_id": 5,
+      "answer": "Someone can access specific shelter information for Bucharest by finding the list of shelters provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Map of shelters in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

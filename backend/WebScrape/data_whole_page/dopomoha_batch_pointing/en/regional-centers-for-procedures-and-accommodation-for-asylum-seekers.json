@@ -1,0 +1,191 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 860,
+      "content_block_id": 11,
+      "answer": "The provided content does not specify the types of services regional centers provide. It primarily lists their contact information and locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 861,
+      "content_block_id": 11,
+      "answer": "Individuals can contact a specific regional center by phone, fax, or email using the contact details provided for each location.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the contact information provided for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 862,
+      "content_block_id": 11,
+      "answer": "The provided content does not explicitly state the reasons for visiting a regional center. It only lists their locations and contact details.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 863,
+      "content_block_id": 11,
+      "answer": "Regional centers serve their respective geographic areas, indicated by their city and county names, and some are further specified by proximity to borders or as the capital city.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the location details provided for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 864,
+      "content_block_id": 11,
+      "answer": "The provided content does not specify what information someone should prepare before contacting a regional center. It only lists the contact details for each center.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 865,
+      "content_block_id": 11,
+      "answer": "The provided content does not explicitly state who operates the regional centers, though their email addresses suggest an affiliation with \"igi@mai.gov.ro\".",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the email addresses provided for the regional centers.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 866,
+      "content_block_id": 11,
+      "answer": "The provided content does not detail how regional centers assist with administrative procedures. It only lists their contact information and locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 867,
+      "content_block_id": 11,
+      "answer": "The provided content does not specify the typical operating hours for regional centers. It only lists their contact details and addresses.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 868,
+      "content_block_id": 11,
+      "answer": "The provided content indicates that regional centers can be reached for inquiries via phone, fax, and email. It does not detail their specific processes for handling these inquiries.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the contact information provided for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 869,
+      "content_block_id": 11,
+      "answer": "The provided content does not specify what documents are typically required for services at a regional center. It only lists their contact details and locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 870,
+      "content_block_id": 11,
+      "answer": "The main regional centers are located in Rădăuți (Suceava), Satu Mare (Maramureș), Galați, București, Timișoara, and Giurgiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the addresses and locations listed for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 871,
+      "content_block_id": 11,
+      "answer": "The provided content does not explicitly state the types of issues that fall under the jurisdiction of a regional center. The page title suggests they handle procedures and accommodation for asylum seekers.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully, specifically the page title.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 872,
+      "content_block_id": 11,
+      "answer": "One can find the appropriate regional center by identifying the one located in or closest to their geographic area, as centers are listed with their city, county, and sometimes proximity to specific borders or as the capital.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the location details provided for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 873,
+      "content_block_id": 11,
+      "answer": "The provided content states that some regional centers are located next to national borders (e.g., Rădăuți next to Chernivtsi Oblast, Timișoara next to the Romanian-Hungarian border), but it does not explain how this proximity influences their specific role.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the geographical context provided for each regional center.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 874,
+      "content_block_id": 11,
+      "answer": "The provided content does not describe the organizational structure of the regional centers. It only lists their contact details and locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 875,
+      "content_block_id": 11,
+      "answer": "The provided content does not explicitly list specific resources available through regional centers. It primarily provides their contact information and addresses.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 876,
+      "content_block_id": 11,
+      "answer": "The provided content lists multiple regional centers located in various cities and counties across Romania, but it does not explain the specific reasons for having multiple centers.",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the locations listed for the various regional centers.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

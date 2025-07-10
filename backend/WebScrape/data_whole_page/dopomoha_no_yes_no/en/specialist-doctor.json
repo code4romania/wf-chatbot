@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 368,
+      "content_block_id": 39,
+      "question": "What types of specialized medical assistance are generally provided?"
+    },
+    {
+      "question_id": 369,
+      "content_block_id": 39,
+      "question": "Where can individuals typically receive specialized ambulatory medical assistance?"
+    },
+    {
+      "question_id": 370,
+      "content_block_id": 39,
+      "question": "How do individuals usually obtain a specialist consultation?"
+    },
+    {
+      "question_id": 371,
+      "content_block_id": 39,
+      "question": "What specific conditions or situations allow for specialist consultations without a referral ticket?"
+    },
+    {
+      "question_id": 372,
+      "content_block_id": 39,
+      "question": "What limits or frequencies apply to consultations for individuals with chronic medical conditions?"
+    },
+    {
+      "question_id": 373,
+      "content_block_id": 39,
+      "question": "What does the concept of 'day hospitalization services' involve in a specialized medical setting?"
+    },
+    {
+      "question_id": 374,
+      "content_block_id": 39,
+      "question": "What kinds of medical services can be delivered remotely?"
+    },
+    {
+      "question_id": 375,
+      "content_block_id": 39,
+      "question": "What types of recommendations can a specialist doctor make after consultations?"
+    },
+    {
+      "question_id": 376,
+      "content_block_id": 39,
+      "question": "How can patients access services from a psychologist or physiotherapist through specialized medical care?"
+    },
+    {
+      "question_id": 377,
+      "content_block_id": 39,
+      "question": "What specific services are offered by a psychologist within the healthcare system?"
+    },
+    {
+      "question_id": 378,
+      "content_block_id": 39,
+      "question": "What specific services are offered by a physiotherapist within the healthcare system?"
+    },
+    {
+      "question_id": 379,
+      "content_block_id": 39,
+      "question": "For what purposes are consultations offered free of charge to insured individuals with a confirmed diagnosis upon leaving the hospital?"
+    }
+  ]
+}

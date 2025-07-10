@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 380,
+      "content_block_id": 23,
+      "question": "What are the different ways someone can enter Romania?"
+    },
+    {
+      "question_id": 381,
+      "content_block_id": 23,
+      "question": "How does one apply for asylum within Romania?"
+    },
+    {
+      "question_id": 382,
+      "content_block_id": 23,
+      "question": "What social services are available for individuals with short-stay status in Romania?"
+    },
+    {
+      "question_id": 383,
+      "content_block_id": 23,
+      "question": "Where can individuals register requests for resources like food or clothing?"
+    },
+    {
+      "question_id": 384,
+      "content_block_id": 23,
+      "question": "What steps are necessary to obtain a work permit in Romania?"
+    },
+    {
+      "question_id": 385,
+      "content_block_id": 23,
+      "question": "Which documents are required for a residence permit for work purposes in Romania?"
+    },
+    {
+      "question_id": 386,
+      "content_block_id": 23,
+      "question": "How can someone benefit from employment incentives and unemployment insurance in Romania?"
+    },
+    {
+      "question_id": 387,
+      "content_block_id": 23,
+      "question": "What conditions must children and young refugees meet to enroll in the Romanian education system?"
+    },
+    {
+      "question_id": 388,
+      "content_block_id": 23,
+      "question": "What medical services are available to foreign nationals from the conflict zone in Ukraine?"
+    },
+    {
+      "question_id": 389,
+      "content_block_id": 23,
+      "question": "What support is available for individuals hosting people from the conflict zone in Ukraine regarding accommodation and food expenses?"
+    },
+    {
+      "question_id": 390,
+      "content_block_id": 23,
+      "question": "What types of resources can individuals request or offer through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 391,
+      "content_block_id": 23,
+      "question": "How does Un Acoperiș assist individuals in finding temporary accommodation?"
+    },
+    {
+      "question_id": 392,
+      "content_block_id": 23,
+      "question": "How do foreign nationals from Ukraine access specialized outpatient healthcare in Romania?"
+    },
+    {
+      "question_id": 393,
+      "content_block_id": 23,
+      "question": "When might someone not need a work permit or visa to work in Romania?"
+    },
+    {
+      "question_id": 394,
+      "content_block_id": 23,
+      "question": "What are the requirements for professionals in regulated fields like medicine or architecture to work in Romania?"
+    }
+  ]
+}

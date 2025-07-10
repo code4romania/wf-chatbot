@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 541,
+      "content_block_id": 53,
+      "question": "What kind of medical services are available at a health promotion center for refugees?"
+    },
+    {
+      "question_id": 542,
+      "content_block_id": 53,
+      "question": "Who is eligible for free medical consultations at a refugee health center?"
+    },
+    {
+      "question_id": 543,
+      "content_block_id": 53,
+      "question": "How can individuals schedule an appointment at a health center supporting refugees?"
+    },
+    {
+      "question_id": 544,
+      "content_block_id": 53,
+      "question": "Which medical specialists offer consultations at a refugee health promotion center?"
+    },
+    {
+      "question_id": 545,
+      "content_block_id": 53,
+      "question": "What language support is available for refugees seeking medical assistance?"
+    },
+    {
+      "question_id": 546,
+      "content_block_id": 53,
+      "question": "Where is a health promotion center for refugees located in Bucharest?"
+    },
+    {
+      "question_id": 547,
+      "content_block_id": 53,
+      "question": "What are the operating hours for a health center providing care to refugees?"
+    },
+    {
+      "question_id": 548,
+      "content_block_id": 53,
+      "question": "How does a health promotion center provide psychological support for refugees?"
+    },
+    {
+      "question_id": 549,
+      "content_block_id": 53,
+      "question": "What types of diagnostic tests can refugees access at a health promotion center?"
+    },
+    {
+      "question_id": 550,
+      "content_block_id": 53,
+      "question": "Who provides the support for a new health promotion center aiding refugees?"
+    },
+    {
+      "question_id": 551,
+      "content_block_id": 53,
+      "question": "Why is a health promotion center important for the well-being of refugees?"
+    }
+  ]
+}

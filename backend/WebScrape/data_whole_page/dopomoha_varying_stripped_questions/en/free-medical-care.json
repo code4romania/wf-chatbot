@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 754,
+      "content_block_id": 54,
+      "question": "Is free medical care available for people fleeing the war in Ukraine?"
+    },
+    {
+      "question_id": 755,
+      "content_block_id": 54,
+      "question": "Which organizations provide medical assistance to Ukrainian refugees?"
+    },
+    {
+      "question_id": 756,
+      "content_block_id": 54,
+      "question": "Are medical services offered to refugees from countries other than Ukraine?"
+    },
+    {
+      "question_id": 757,
+      "content_block_id": 54,
+      "question": "What types of medical services are available to refugees from Ukraine?"
+    },
+    {
+      "question_id": 758,
+      "content_block_id": 54,
+      "question": "Where can refugees from Ukraine access free medical care?"
+    },
+    {
+      "question_id": 759,
+      "content_block_id": 54,
+      "question": "Does IOM Romania offer free medical care to refugees?"
+    },
+    {
+      "question_id": 760,
+      "content_block_id": 54,
+      "question": "Are MedZirka's free medical consultations available online or offline?"
+    },
+    {
+      "question_id": 761,
+      "content_block_id": 54,
+      "question": "What kinds of doctors can be consulted through MedZirka's free services?"
+    },
+    {
+      "question_id": 762,
+      "content_block_id": 54,
+      "question": "Is there a specific process to receive free consultations from MedZirka?"
+    },
+    {
+      "question_id": 763,
+      "content_block_id": 54,
+      "question": "Does the Red Cross operate a Health Promotion Center for refugees?"
+    },
+    {
+      "question_id": 764,
+      "content_block_id": 54,
+      "question": "What medical services are provided at the Red Cross Health Promotion Center?"
+    },
+    {
+      "question_id": 765,
+      "content_block_id": 54,
+      "question": "Who is eligible for free medical care at the Red Cross Health Promotion Center?"
+    }
+  ]
+}

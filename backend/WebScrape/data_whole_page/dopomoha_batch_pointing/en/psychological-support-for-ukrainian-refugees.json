@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 807,
+      "content_block_id": 67,
+      "answer": "Mental health services typically available include specialized psychological and psychiatric support, mental health consultations, addiction treatment, psychological assistance, and psychosocial support activities. Services also encompass mental health awareness, psychological first aid, and capacity building events for humanitarian workers.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 808,
+      "content_block_id": 67,
+      "answer": "Individuals can generally access psychological support by contacting organizations via email or phone, attending workshops, individual or group sessions, or being referred to necessary resources. Support is also available by selecting a specific city on the website's \"Other cities\" menu.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 809,
+      "content_block_id": 67,
+      "answer": "Mental health service providers commonly use Ukrainian, Russian, Romanian, and English for consultations. Some organizations also offer support in Polish.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 810,
+      "content_block_id": 67,
+      "answer": "Mental health support programs are generally designed for Ukrainian refugees, including adults and children, third-country nationals, and the local population of Romania. Specific populations include pregnant/nursing women, children, LGBTIQ+ individuals, the Roma community, unaccompanied children, survivors of gender-based violence, people with serious mental illnesses, people with disabilities, and refugee center staff.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 811,
+      "content_block_id": 67,
+      "answer": "The costs of psychological or psychiatric support can be settled through the insurance company (CNAS) by some providers.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Atelier Psy Clinic'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 812,
+      "content_block_id": 67,
+      "answer": "Psychological assistance is commonly offered in Bucharest, with specific clinics mentioned, and in various other cities across Romania. Users can find support in other cities by selecting their desired location in the main menu.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the sections under 'Psychological support in Bucharest' and 'Psychological support in other cities of Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 813,
+      "content_block_id": 67,
+      "answer": "Some of the organizations that provide mental health services include ALIAT Association, Atelier Psy Clinic, Red Cross Romania, Project HOPE, World Vision Romania, Save the Children, and the International Organization for Migration (IOM). Other providers include Terre des hommes Foundation, The International Rescue Committee, and Médecins du monde (France).",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 814,
+      "content_block_id": 67,
+      "answer": "Workshops from ALIAT Association help participants manage trauma by providing a space for Ukrainian adults to openly discuss the trauma of war and learn how its effects on well-being and mental health can be more easily managed.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Mental health services for refugees from Ukraine ALIAT Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 815,
+      "content_block_id": 67,
+      "answer": "Atelier Psy Clinic usually offers specialized psychological and psychiatric support including psychology, psychiatry, adult psychiatry, pediatric psychiatry, and addiction treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Atelier Psy Clinic'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 816,
+      "content_block_id": 67,
+      "answer": "Hias organizes MHPSS capacity building events for humanitarian workers, which include trainings, seminars, webinars, and supervision.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 817,
+      "content_block_id": 67,
+      "answer": "The International Organization for Migration (IOM) typically offers psychological support by referencing vulnerable individuals to needed resources, organizing psychosocial support events, mental health awareness events, mental health first aid, and providing training, workshops, and supervision.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'The International Organization for Migration (IOM)'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 818,
+      "content_block_id": 67,
+      "answer": "Terre des hommes Foundation offers psychological assistance to refugees from Ukraine, third-country nationals, the local population of Romania, pregnant/nursing women, children, LGBTIQ+ individuals, the Roma community, and unaccompanied children.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Terre des hommes Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 819,
+      "content_block_id": 67,
+      "answer": "Organization Médecins du monde (France) provides general mental health services for refugees from Ukraine and other categories of people.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Organization Médecins du monde (France)'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 820,
+      "content_block_id": 67,
+      "answer": "The AMURTEL team typically offers MHPSS support within their community center through various workshops and in individual or group sessions.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'The AMURTEL team'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 821,
+      "content_block_id": 67,
+      "answer": "The provided content states that psychological first aid (PFA) is a service offered by several organizations, but it does not specify its primary objectives.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 822,
+      "content_block_id": 67,
+      "answer": "Psychological assistance is available for survivors of gender violence through organizations like The International Rescue Committee and Necuvinte Association, who include this group among their beneficiaries. The specific forms of support beyond general psychological assistance are not detailed.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the sections under 'The International Rescue Committee' and 'Necuvinte Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

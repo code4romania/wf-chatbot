@@ -48,8 +48,7 @@ const queryError = ref(null);
 const currentAnswerIndex = ref(0);
 const sessionId = ref(null);
 const queryId = ref(null);
-const randomNumberUsed = ref(Math.random());
-const useConcatMatcher = ref(randomNumberUsed.value < 0.5);
+const useConcatMatcher = ref(true);
 
 const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed for the current session/query
 

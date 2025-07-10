@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 75,
+      "content_block_id": 46,
+      "question": "What types of medical devices are covered by health insurance?"
+    },
+    {
+      "question_id": 76,
+      "content_block_id": 46,
+      "question": "How does a patient obtain a medical device through health insurance?"
+    },
+    {
+      "question_id": 77,
+      "content_block_id": 46,
+      "question": "What is the typical application process for medical device coverage?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 46,
+      "question": "Who is responsible for issuing medical prescriptions for devices?"
+    },
+    {
+      "question_id": 79,
+      "content_block_id": 46,
+      "question": "What documents are needed to apply for a medical device?"
+    },
+    {
+      "question_id": 80,
+      "content_block_id": 46,
+      "question": "How long does it take for a medical device application to be processed?"
+    },
+    {
+      "question_id": 81,
+      "content_block_id": 46,
+      "question": "What happens if the approved funds for medical devices are exceeded?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 46,
+      "question": "How can individuals from armed conflict zones access medical devices?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 46,
+      "question": "What are the requirements for providers of medical devices?"
+    },
+    {
+      "question_id": 84,
+      "content_block_id": 46,
+      "question": "What role do health insurance houses play in the provision of medical devices?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 46,
+      "question": "How can someone determine their eligibility for medical device coverage?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 46,
+      "question": "What is the validity period for a medical prescription for a device?"
+    },
+    {
+      "question_id": 87,
+      "content_block_id": 46,
+      "question": "Which categories of medical devices are included in a basic package for recovery?"
+    },
+    {
+      "question_id": 88,
+      "content_block_id": 46,
+      "question": "What are the options for submitting medical device applications?"
+    },
+    {
+      "question_id": 89,
+      "content_block_id": 46,
+      "question": "What are the potential out-of-pocket costs for certain medical devices?"
+    }
+  ]
+}

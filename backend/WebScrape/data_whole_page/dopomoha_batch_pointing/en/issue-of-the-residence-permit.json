@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 919,
+      "content_block_id": 13,
+      "answer": "The content lists contact information for \"Regional Centre for Accommodation and Procedures for Asylum Seekers\" and \"Biroul pentru Imigrări al Județului\" (Immigration Bureaus/Services), but does not detail the specific services they offer.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 920,
+      "content_block_id": 13,
+      "answer": "Regional Centres for Accommodation and Procedures for Asylum Seekers primarily serve asylum seekers. The text does not explicitly state the primary beneficiaries for the other listed immigration offices.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 921,
+      "content_block_id": 13,
+      "answer": "An individual can identify the appropriate office or center by locating their relevant county or region within the provided geographical listings.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 922,
+      "content_block_id": 13,
+      "answer": "A Regional Centre for Accommodation and Procedures for Asylum Seekers is specifically named for asylum seekers and their procedures and accommodation, whereas a Biroul pentru Imigrări al Județului is a general county-level immigration bureau.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 923,
+      "content_block_id": 13,
+      "answer": "The regional and county-level distribution of immigration centers and bureaus provides localized access to their services across different parts of Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 924,
+      "content_block_id": 13,
+      "answer": "The provided content does not specify any preparatory steps individuals should take before contacting an immigration service or regional center.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 925,
+      "content_block_id": 13,
+      "answer": "The provided content lists multiple telephone contact numbers for certain immigration offices, but it does not explain the reason for having more than one number.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 926,
+      "content_block_id": 13,
+      "answer": "The provided content does not specify the standard operating hours for any of the listed Regional Centres for Accommodation and Procedures for Asylum Seekers or Biroul pentru Imigrări al Județului.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 927,
+      "content_block_id": 13,
+      "answer": "The provided content lists contact details for Regional Centres for Accommodation and Procedures for Asylum Seekers but does not describe how the asylum application process typically unfolds at these centers.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 928,
+      "content_block_id": 13,
+      "answer": "The provided content lists the contact information for Biroul pentru Imigrări al Județului but does not specify the types of immigration procedures they manage.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 929,
+      "content_block_id": 13,
+      "answer": "The provided email addresses serve as a direct communication channel for contacting the listed immigration offices.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 930,
+      "content_block_id": 13,
+      "answer": "The email addresses provided, such as those ending in @mai.gov.ro, suggest that the Ministry of Internal Affairs (MAI) holds oversight responsibilities for the listed immigration centers and bureaus.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 931,
+      "content_block_id": 13,
+      "answer": "The provided content lists contact information for the immigration service offices but does not describe the process individuals should follow to schedule an appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

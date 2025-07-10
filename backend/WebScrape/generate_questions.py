@@ -14,8 +14,8 @@ language_map = {
     # add more codes if needed, e.g. 'ro': 'Romanian'
 }
 
-INPUT_FOLDER = "./data_whole_page/dopomoha_parsed"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_questions"
+INPUT_FOLDER = "./data_whole_page/dopomoha_stripped"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_no_yes_no"
 QID_FILE = os.path.join(OUTPUT_ROOT, "next_qid.txt") # File to store next_qid
 FAILURES_FILE = os.path.join(OUTPUT_ROOT, "notes", "fails.json") # Path for failures log
 
@@ -58,25 +58,32 @@ def save_failures(failures):
 
 def generate_questions_for_language(scraped, code, language, page_name, verbose=False):
     questions_out = []
-    n_questions = 10
+    n_questions = 5
+    max_questions= 20
     failures = load_failures() # Load existing failures
 
     for entry in scraped:
         base_prompt = (
             f"Given content: '{entry['summary']}', "
-            f"generate {n_questions} concise, distinct questions in {language} that someone curious might naturally ask "
-            "BEFORE reading any details! "
-            "IMPORTANT: Each question MUST be fully understandable on its own, as if seen in isolation. It should not require knowledge of the content to grasp what the question is about. "
-
-            "BAD Examples that LACK CONTEXT: "
-            "  - 'What is the purpose of these measures?' (Context needed: 'these measures' is vague). "
-            "  - 'Is participation open to both adults and children?' (Context needed: 'Participation in what activity/program?'). "
-            "  - 'How can I apply?' (Context needed: 'Apply for what?'). "
-            "A GOOD question is 'What are the benefits of the new community gardening program?' or 'How can one join the new community gardening program?'. "
-            "If the question is about a specific program, event, or concept mentioned try to include that specific program, event, or concept in the question itself. "
-            "Do not include the words “this”, 'these', or “content” in your questions. "
-            f"SUPER IMPORTANT: Return only a Python list literal of exactly {n_questions} items." # Keep this instruction to the model
+            f"generate {n_questions} to {max_questions} concise, distinct, open-ended questions in {language} "
+            "that someone curious might naturally ask BEFORE reading any details. "
+            "DO NOT generate any question that can be answered with 'yes' or 'no'. "
+            "IMPORTANT: Do NOT start any question with 'Is', 'Are', 'Was', 'Were', 'Does', 'Do', 'Did', 'Can', 'Could', 'Will', 'Would', 'Should', or 'Has'. "
+            "Use open-ended question words such as 'What', 'How', 'Why', 'Which', 'Who', or 'In what way'. "
+            "Each question MUST be fully understandable on its own and should not require knowledge of the content to grasp what the question is about. "
+            "Pretend each question will be seen in isolation, as if in an FAQ. "
+            "BAD Examples that LACK CONTEXT or are yes/no: "
+            "  - 'Is participation open to both adults and children?' (Yes/no and context missing: participation in what?). "
+            "  - 'Can I apply?' (Yes/no and context missing: apply for what?). "
+            "  - 'What is the purpose of these measures?' ('these measures' is vague). "
+            "GOOD Examples: "
+            "  - 'What are the benefits of the new community gardening program?' "
+            "  - 'How can someone join the new community gardening program?' "
+            "If the question is about a specific program, event, or concept, include that specific name or concept in the question. "
+            "Do not use the words 'this', 'these', 'summary', or 'content' in your questions. "
+            f"SUPER IMPORTANT: Return only a Python list literal."
         )
+
         history = []
         questions = []
         

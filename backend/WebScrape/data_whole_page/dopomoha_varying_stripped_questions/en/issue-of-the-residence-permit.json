@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 925,
+      "content_block_id": 13,
+      "question": "What kind of official services or centers are detailed?"
+    },
+    {
+      "question_id": 926,
+      "content_block_id": 13,
+      "question": "What is the main function of the regional centers for asylum seekers?"
+    },
+    {
+      "question_id": 927,
+      "content_block_id": 13,
+      "question": "Which areas or regions of Romania are covered by the listed services?"
+    },
+    {
+      "question_id": 928,
+      "content_block_id": 13,
+      "question": "Are specific street addresses provided for each location?"
+    },
+    {
+      "question_id": 929,
+      "content_block_id": 13,
+      "question": "Is contact information, such as phone numbers and email addresses, included for the offices?"
+    },
+    {
+      "question_id": 930,
+      "content_block_id": 13,
+      "question": "Are there separate entries for county-level immigration offices?"
+    },
+    {
+      "question_id": 931,
+      "content_block_id": 13,
+      "question": "How many distinct regional centers for asylum seekers are mentioned?"
+    },
+    {
+      "question_id": 932,
+      "content_block_id": 13,
+      "question": "Does the information include details for an Immigration Directorate in Bucharest?"
+    },
+    {
+      "question_id": 933,
+      "content_block_id": 13,
+      "question": "Are there services located in the Southern part of Romania?"
+    },
+    {
+      "question_id": 934,
+      "content_block_id": 13,
+      "question": "Do entries for the Western part of Romania specify services in particular cities?"
+    },
+    {
+      "question_id": 935,
+      "content_block_id": 13,
+      "question": "What types of contact numbers are provided for the Serviciul pentru Imigrări offices?"
+    },
+    {
+      "question_id": 936,
+      "content_block_id": 13,
+      "question": "Is there information for immigration services in counties like Ilfov or Suceava?"
+    },
+    {
+      "question_id": 937,
+      "content_block_id": 13,
+      "question": "Are services available in major cities like Timișoara or Cluj-Napoca?"
+    },
+    {
+      "question_id": 938,
+      "content_block_id": 13,
+      "question": "Do all listed entities have an email address provided?"
+    }
+  ]
+}

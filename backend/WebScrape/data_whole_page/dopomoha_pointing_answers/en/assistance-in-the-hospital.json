@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "answer": "Hospital services typically include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines and sanitary materials, medical devices, accommodation, and meals. These services are provided for illnesses requiring hospitalization.\n\nTo find more detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Assistance in the hospital\".",
+      "bResponse": "Hospital services typically include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines and sanitary materials, medical devices, accommodation, and meals. These services are provided for illnesses requiring hospitalization.\n\nTo find more detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Assistance in the hospital\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "answer": "Inpatient medical services are granted based on a referral ticket issued by a family medicine doctor or an outpatient specialist. A referral note is not required for medical emergencies.\n\nYou can find this information on the website https://dopomoha.ro/en/assistance-in-the-hospital, under the main section \"Assistance in the hospital\".",
+      "bResponse": "Inpatient medical services are granted based on a referral ticket issued by a family medicine doctor or an outpatient specialist. A referral note is not required for medical emergencies.\n\nYou can find this information on the website https://dopomoha.ro/en/assistance-in-the-hospital, under the main section \"Assistance in the hospital\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "answer": "Day hospitalization has a maximum duration of 12 hours, whereas continuous hospitalization implies a duration of more than 12 hours.\n\nTo find this information on the webpage, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the main section \"Assistance in the hospital\", specifically where it defines \"day hospitalization\" and \"continuous hospitalization\".",
+      "bResponse": "Day hospitalization has a maximum duration of 12 hours, whereas continuous hospitalization implies a duration of more than 12 hours.\n\nTo find this information on the webpage, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the main section \"Assistance in the hospital\", specifically where it defines \"day hospitalization\" and \"continuous hospitalization\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "answer": "Yes, specific medical conditions can be treated through short-term (day) hospitalization, which has a maximum duration of 12 hours. Examples of conditions include anemia, respiratory infections, urinary tract infections, diabetes, and irritable bowel syndrome.\n\nTo find detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Assistance in the hospital\", specifically the paragraph that describes \"Medical services can be provided by day hospitalization\".",
+      "bResponse": "Yes, specific medical conditions can be treated through short-term (day) hospitalization, which has a maximum duration of 12 hours. Examples of conditions include anemia, respiratory infections, urinary tract infections, diabetes, and irritable bowel syndrome.\n\nTo find detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Assistance in the hospital\", specifically the paragraph that describes \"Medical services can be provided by day hospitalization\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "answer": "Yes, medical services in public hospitals are generally free for insured patients, provided the hospital has a contract with their health insurance company and the services are covered by that contract. Public hospitals are obligated to bear all necessary expenses for hospitalized insured persons and cannot collect additional payments.\n\nGo to the website dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in public health facilities\" and \"What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?\".",
+      "bResponse": "Yes, medical services in public hospitals are generally free for insured patients, provided the hospital has a contract with their health insurance company and the services are covered by that contract. Public hospitals are obligated to bear all necessary expenses for hospitalized insured persons and cannot collect additional payments.\n\nGo to the website dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in public health facilities\" and \"What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 6,
+      "content_block_id": 40,
+      "answer": "If an insured patient goes to a public hospital that does not have a contract with their health insurance company, the insured person bears the full cost of the medical services received and cannot recover that amount from their health insurance company.\n\nTo find this detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section titled \"Conditions for providing hospitalization services in public health facilities.\"",
+      "bResponse": "If an insured patient goes to a public hospital that does not have a contract with their health insurance company, the insured person bears the full cost of the medical services received and cannot recover that amount from their health insurance company.\n\nTo find this detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section titled \"Conditions for providing hospitalization services in public health facilities.\" For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 7,
+      "content_block_id": 40,
+      "answer": "Yes, private hospitals under contract with health insurance companies can charge a personal contribution from patients for hospitalization services for acute conditions. This contribution covers the difference between the rate settled by the health insurance company and the rate charged by the private hospital.\n\nTo find this detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section \"Conditions for providing hospitalization services in private health facilities\".",
+      "bResponse": "Yes, private hospitals under contract with health insurance companies can charge a personal contribution from patients for hospitalization services for acute conditions. This contribution covers the difference between the rate settled by the health insurance company and the rate charged by the private hospital.\n\nTo find this detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section \"Conditions for providing hospitalization services in private health facilities\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 8,
+      "content_block_id": 40,
+      "answer": "Before hospitalization, patients can receive an estimate of the costs for requested medical services, valid for 5 working days, particularly when opting for private health facilities that have contracts with health insurance companies.\n\nTo find detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in private health facilities\".",
+      "bResponse": "Before hospitalization, patients can receive an estimate of the costs for requested medical services, valid for 5 working days, particularly when opting for private health facilities that have contracts with health insurance companies.\n\nTo find detailed information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in private health facilities\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 9,
+      "content_block_id": 40,
+      "answer": "Yes, patients can be reimbursed for out-of-pocket expenses for medicines or supplies during hospitalization if they were entitled to receive them for free. This reimbursement applies exclusively to public hospitals and is done upon the patient's request.\n\nYou can find this detailed information on the webpage by navigating to the section titled \"What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?\" under the \"Assistance in the hospital\" article.",
+      "bResponse": "Yes, patients can be reimbursed for out-of-pocket expenses for medicines or supplies during hospitalization if they were entitled to receive them for free. This reimbursement applies exclusively to public hospitals and is done upon the patient's request.\n\nYou can find this detailed information on the webpage by navigating to the section titled \"What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?\" under the \"Assistance in the hospital\" article. For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 10,
+      "content_block_id": 40,
+      "answer": "The public hospital covers the cost for standard hotel services for companions of sick children up to 3 years old and for those of people with severe disabilities.\n\nTo find this information, go to the website and read under the section \"Conditions for providing hospitalization services in public health facilities\".",
+      "bResponse": "The public hospital covers the cost for standard hotel services for companions of sick children up to 3 years old and for those of people with severe disabilities.\n\nTo find this information, go to the website and read under the section \"Conditions for providing hospitalization services in public health facilities\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 11,
+      "content_block_id": 40,
+      "answer": "Yes, specialized treatments such as chemotherapy, dialysis, and radiotherapy are covered by health insurance, provided by health facilities that have contracts with health insurance companies for these specific services and programs.\n\nTo find detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section \"Conditions for providing hospitalization services in public health facilities.\"",
+      "bResponse": "Yes, specialized treatments such as chemotherapy, dialysis, and radiotherapy are covered by health insurance, provided by health facilities that have contracts with health insurance companies for these specific services and programs.\n\nTo find detailed information, go to the website `https://dopomoha.ro/en/assistance-in-the-hospital` and read under the section \"Conditions for providing hospitalization services in public health facilities.\" For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 12,
+      "content_block_id": 40,
+      "answer": "Private hospitals must publicly display their charged rates, the amount settled by the state, and the personal contribution amount for services contracted with health insurance companies. They are also required to provide patients with an estimate of costs before hospitalization and a statement of all expenses upon discharge.\n\nTo find this information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in private health facilities\".",
+      "bResponse": "Private hospitals must publicly display their charged rates, the amount settled by the state, and the personal contribution amount for services contracted with health insurance companies. They are also required to provide patients with an estimate of costs before hospitalization and a statement of all expenses upon discharge.\n\nTo find this information, go to the website https://dopomoha.ro/en/assistance-in-the-hospital and read under the section \"Conditions for providing hospitalization services in private health facilities\". For more details, visit https://dopomoha.ro/en/assistance-in-the-hospital",
+      "cSubject": "Whole Page Content",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

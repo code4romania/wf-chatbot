@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 274,
+      "content_block_id": 61,
+      "question": "What are the essential emergency contacts for new arrivals?"
+    },
+    {
+      "question_id": 275,
+      "content_block_id": 61,
+      "question": "Who can help new residents manage daily life in a new city?"
+    },
+    {
+      "question_id": 276,
+      "content_block_id": 61,
+      "question": "What support programs exist for accommodation and meals in a new city?"
+    },
+    {
+      "question_id": 277,
+      "content_block_id": 61,
+      "question": "How do new residents access public transportation services?"
+    },
+    {
+      "question_id": 278,
+      "content_block_id": 61,
+      "question": "Which medical services are available for urgent care?"
+    },
+    {
+      "question_id": 279,
+      "content_block_id": 61,
+      "question": "Who provides psychological support for individuals in a new environment?"
+    },
+    {
+      "question_id": 280,
+      "content_block_id": 61,
+      "question": "What educational opportunities are available for children and adolescents?"
+    },
+    {
+      "question_id": 281,
+      "content_block_id": 61,
+      "question": "Where can adults access free courses to learn the local language?"
+    },
+    {
+      "question_id": 282,
+      "content_block_id": 61,
+      "question": "Which organizations offer legal advice for new residents?"
+    },
+    {
+      "question_id": 283,
+      "content_block_id": 61,
+      "question": "What types of assistance do support organizations provide for new arrivals?"
+    },
+    {
+      "question_id": 284,
+      "content_block_id": 61,
+      "question": "How can someone find specific service providers near their location?"
+    },
+    {
+      "question_id": 285,
+      "content_block_id": 61,
+      "question": "What resources are available for women needing reproductive health services?"
+    },
+    {
+      "question_id": 286,
+      "content_block_id": 61,
+      "question": "Who offers support for victims of domestic violence?"
+    },
+    {
+      "question_id": 287,
+      "content_block_id": 61,
+      "question": "What assistance is available for accessing medical services and medicines?"
+    },
+    {
+      "question_id": 288,
+      "content_block_id": 61,
+      "question": "How can new residents receive support for job searching?"
+    },
+    {
+      "question_id": 289,
+      "content_block_id": 61,
+      "question": "Which specific services are offered for families with children?"
+    },
+    {
+      "question_id": 290,
+      "content_block_id": 61,
+      "question": "What information is crucial for understanding one's legal status in a new country?"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 61,
+      "content_block_id": 56,
+      "question": "What is the main purpose of the Dopomoha initiative?"
+    },
+    {
+      "question_id": 62,
+      "content_block_id": 56,
+      "question": "Which cities in Romania are covered by the support information?"
+    },
+    {
+      "question_id": 63,
+      "content_block_id": 56,
+      "question": "What types of assistance are available through the platform?"
+    },
+    {
+      "question_id": 64,
+      "content_block_id": 56,
+      "question": "Are there specific tools like 'Law made simple' or 'PTSD Help' offered?"
+    },
+    {
+      "question_id": 65,
+      "content_block_id": 56,
+      "question": "How can one find information about legal status?"
+    },
+    {
+      "question_id": 66,
+      "content_block_id": 56,
+      "question": "Are resources available for housing and accommodation support?"
+    },
+    {
+      "question_id": 67,
+      "content_block_id": 56,
+      "question": "Can I find information on education and school enrollment?"
+    },
+    {
+      "question_id": 68,
+      "content_block_id": 56,
+      "question": "Does the platform offer details on medical services and healthcare?"
+    },
+    {
+      "question_id": 69,
+      "content_block_id": 56,
+      "question": "Is assistance available for transportation within cities?"
+    },
+    {
+      "question_id": 70,
+      "content_block_id": 56,
+      "question": "Can I find help for psychological support or mental health?"
+    },
+    {
+      "question_id": 71,
+      "content_block_id": 56,
+      "question": "Are there resources for job searching or employment?"
+    },
+    {
+      "question_id": 72,
+      "content_block_id": 56,
+      "question": "How can I contact emergency services or support centers?"
+    },
+    {
+      "question_id": 73,
+      "content_block_id": 56,
+      "question": "Is there a specific support program for accommodation, meals, and integration?"
+    },
+    {
+      "question_id": 74,
+      "content_block_id": 56,
+      "question": "What organizations offer support services in Timișoara?"
+    },
+    {
+      "question_id": 75,
+      "content_block_id": 56,
+      "question": "Are services dedicated to victims of domestic violence or reproductive health available?"
+    },
+    {
+      "question_id": 76,
+      "content_block_id": 56,
+      "question": "Is counseling provided for people living with HIV?"
+    }
+  ]
+}

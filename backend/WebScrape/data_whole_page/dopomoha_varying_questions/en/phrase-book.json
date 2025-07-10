@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 312,
+      "content_block_id": 9,
+      "question": "What is the main purpose of the Dopomoha platform?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 9,
+      "question": "What types of support services does Dopomoha offer?"
+    },
+    {
+      "question_id": 314,
+      "content_block_id": 9,
+      "question": "Are there specific programs designed to assist refugees?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 9,
+      "question": "What is 'Law made simple'?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 9,
+      "question": "What is 'PTSD Help'?"
+    },
+    {
+      "question_id": 317,
+      "content_block_id": 9,
+      "question": "Does the platform provide any language translation or basic conversation guides?"
+    },
+    {
+      "question_id": 318,
+      "content_block_id": 9,
+      "question": "In which cities are Dopomoha's services available?"
+    },
+    {
+      "question_id": 319,
+      "content_block_id": 9,
+      "question": "How can one request or provide resources through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 320,
+      "content_block_id": 9,
+      "question": "How can one find or offer temporary accommodation via 'Un Acoperiș'?"
+    },
+    {
+      "question_id": 321,
+      "content_block_id": 9,
+      "question": "Is there a way to report errors or provide feedback on the platform?"
+    },
+    {
+      "question_id": 322,
+      "content_block_id": 9,
+      "question": "What are the legal terms and conditions for using Dopomoha?"
+    },
+    {
+      "question_id": 323,
+      "content_block_id": 9,
+      "question": "Who developed or created the Dopomoha solution?"
+    },
+    {
+      "question_id": 324,
+      "content_block_id": 9,
+      "question": "Are there other related organizations or useful links associated with Dopomoha?"
+    },
+    {
+      "question_id": 325,
+      "content_block_id": 9,
+      "question": "Can users contact a call center for assistance?"
+    },
+    {
+      "question_id": 326,
+      "content_block_id": 9,
+      "question": "What kind of transportation support is offered?"
+    }
+  ]
+}

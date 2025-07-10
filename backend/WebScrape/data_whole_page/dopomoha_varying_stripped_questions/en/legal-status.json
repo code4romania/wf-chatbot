@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 464,
+      "content_block_id": 14,
+      "question": "What are the different ways individuals can enter Romania?"
+    },
+    {
+      "question_id": 465,
+      "content_block_id": 14,
+      "question": "How does an individual's status affect their rights in Romania?"
+    },
+    {
+      "question_id": 466,
+      "content_block_id": 14,
+      "question": "Can someone apply for asylum in Romania after they have already entered the country?"
+    },
+    {
+      "question_id": 467,
+      "content_block_id": 14,
+      "question": "What is temporary protection in Romania, and who is it intended for?"
+    },
+    {
+      "question_id": 468,
+      "content_block_id": 14,
+      "question": "How long is a temporary protection permit valid in Romania, and does it require an extension?"
+    },
+    {
+      "question_id": 469,
+      "content_block_id": 14,
+      "question": "What are the requirements for Ukrainian nationals to enter Romania for a short stay?"
+    },
+    {
+      "question_id": 470,
+      "content_block_id": 14,
+      "question": "How long can Ukrainian nationals stay in Romania under a short-stay right?"
+    },
+    {
+      "question_id": 471,
+      "content_block_id": 14,
+      "question": "How is an 'asylum seeker' defined in Romania?"
+    },
+    {
+      "question_id": 472,
+      "content_block_id": 14,
+      "question": "Can an asylum seeker be deported from Romania to their home country?"
+    },
+    {
+      "question_id": 473,
+      "content_block_id": 14,
+      "question": "What is the procedure for entering Romania without identification documents?"
+    },
+    {
+      "question_id": 474,
+      "content_block_id": 14,
+      "question": "Where can individuals find support or information for entering other European countries like Poland, Moldova, Hungary, or the Slovak Republic?"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 696,
+      "content_block_id": 62,
+      "answer": "General help for newcomers in Brăila includes information on how to manage in a new city and identifying who can provide assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 697,
+      "content_block_id": 62,
+      "answer": "The essential contact number for emergency situations in Brăila is 112.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Important contacts Brăila County Immigration Office'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 698,
+      "content_block_id": 62,
+      "answer": "Information is available regarding the requirements for the support program for accommodation, meals, and integration in Brăila.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'The support program for accommodation, meals and integration in Brăila'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 699,
+      "content_block_id": 62,
+      "answer": "The website states that information is available on how and where to purchase tickets for public transport in Brăila.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Public transport in Brăila'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 700,
+      "content_block_id": 62,
+      "answer": "For medical services in Brăila, one can go to the County Emergency Clinical Hospital Brăila, or find a list of family doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 701,
+      "content_block_id": 62,
+      "answer": "A list of family doctors in Brăila can be found on the website under the 'Medical services' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 702,
+      "content_block_id": 62,
+      "answer": "The website provides information on how to enroll a child in primary education in Brăila and lists the required documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 703,
+      "content_block_id": 62,
+      "answer": "Organizations offering general support in Brăila can be found by exploring a map for service providers near the user.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 704,
+      "content_block_id": 62,
+      "answer": "Information regarding housing in Brăila is available on the website under 'Housing Info'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 705,
+      "content_block_id": 62,
+      "answer": "Resources for job support in Brăila are available on the website under 'Jobs Support'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 706,
+      "content_block_id": 62,
+      "answer": "The Women's Center in Brăila provides support in accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 707,
+      "content_block_id": 62,
+      "answer": "For people living with HIV in Romania, support includes free, anonymous, and confidential psycho-medical-social services from specialist doctors at 10 Regional HIV Centers, and expertise from Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 708,
+      "content_block_id": 62,
+      "answer": "Psycho-medical-social HIV services in Romania can be accessed through specialist doctors from 10 Regional HIV Centers and with the support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 709,
+      "content_block_id": 62,
+      "answer": "The provided content only lists the contact number and email for the Brăila County Immigration Office, but does not specify the types of support they offer.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Important contacts Brăila County Immigration Office'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 710,
+      "content_block_id": 62,
+      "answer": "Information about staying safe in Brăila is available on the website under the 'Stay safe' section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Stay safe'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

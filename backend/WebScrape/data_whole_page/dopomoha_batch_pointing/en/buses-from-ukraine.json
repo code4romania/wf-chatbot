@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 665,
+      "content_block_id": 37,
+      "answer": "Individuals traveling from Ukraine to Romania can receive fast, free, and safe transportation services, along with free medical care, water, and food if needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 666,
+      "content_block_id": 37,
+      "answer": "People travel through Moldova via daily buses that depart from the Palanca border in Moldova to Huși in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 667,
+      "content_block_id": 37,
+      "answer": "The UN Refugee Agency (UNHCR) and the International Organization for Migration (IOM) assist with transit between Ukraine and Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 668,
+      "content_block_id": 37,
+      "answer": "Anyone fleeing the war in Ukraine qualifies for free transportation services, regardless of their nationality.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 669,
+      "content_block_id": 37,
+      "answer": "The transportation services for crossing from Ukraine into Romania via Moldova are free of cost.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 670,
+      "content_block_id": 37,
+      "answer": "Transportation services originate from the Ukrainian-Moldovan border, with daily buses departing specifically from the Palanca border in Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 671,
+      "content_block_id": 37,
+      "answer": "The initial destination in Romania is the city of Huși, from where individuals can take free buses to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 672,
+      "content_block_id": 37,
+      "answer": "The journey from the Palanca border in Moldova to Huși in Romania typically takes 5-6 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 673,
+      "content_block_id": 37,
+      "answer": "During the transit process, fast, free, and safe transportation is provided, and upon reaching Huși, free medical care, water, and food are available if required.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 674,
+      "content_block_id": 37,
+      "answer": "The Romanian and Moldavian governments are involved to organize safe and free transportation for all people fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 675,
+      "content_block_id": 37,
+      "answer": "The journey utilizes the Ukrainian-Moldovan border and the Palanca border in Moldova, leading to the Romanian border.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 676,
+      "content_block_id": 37,
+      "answer": "International organizations like UNHCR and IOM support the transit by helping governments organize safe and free transportation for people fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 677,
+      "content_block_id": 37,
+      "answer": "Buses are used for transportation from Moldova to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 678,
+      "content_block_id": 37,
+      "answer": "Transportation services operate daily from Moldova to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 679,
+      "content_block_id": 37,
+      "answer": "Upon reaching Huși in Romania, travelers can receive free medical care, water, and food if required.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 680,
+      "content_block_id": 37,
+      "answer": "Travelers can arrange onward journeys by taking free buses from Huși to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

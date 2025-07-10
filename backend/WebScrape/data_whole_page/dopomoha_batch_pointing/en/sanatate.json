@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 738,
+      "content_block_id": 20,
+      "answer": "Foreign nationals from Ukraine under temporary protection benefit from medical services, supplies, medicines, and devices included in national curative health programs, similar to insured Romanian citizens, without paying social health insurance contributions or co-payment for outpatient medicines.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'My rights Temporary protection & Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 739,
+      "content_block_id": 20,
+      "answer": "Asylum seekers have the right to free basic medical assistance and treatment, emergency medical assistance in a hospital, and free medical treatment for acute/chronic illnesses that pose an immediate life risk, along with proper medical care for special medical needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 740,
+      "content_block_id": 20,
+      "answer": "The Romanian social health insurance system grants refugees from Ukraine rights to consultation of a family doctor, a narrow specialist, pregnancy monitoring, free laboratories, and dental services.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Medical assistance to refugees from Ukraine in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 741,
+      "content_block_id": 20,
+      "answer": "The Women's Center offers support in accessing reproductive health services such as contraception, breastfeeding, prevention of sexually transmitted diseases, pregnancy monitoring, and abortion, alongside support for victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 742,
+      "content_block_id": 20,
+      "answer": "Families of Ukrainian children who have cancer and need medical assistance can access support through 'Ukraine Child Cancer Help'.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Pediatric oncology'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 743,
+      "content_block_id": 20,
+      "answer": "Individuals living with HIV in Romania can find psycho-medical-social services by accessing consilierehiv.ro or by calling the Sens Pozitiv HIV treatment call center at +40 744 682 225.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 744,
+      "content_block_id": 20,
+      "answer": "People suffering from rare or chronic diseases can receive support and guidance from the National Alliance for Rare Diseases Romania and EURORDIS, with free therapy for Ukrainian children also available at the NoRo center in Zalău.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Help for people with rare or chronic diseases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 745,
+      "content_block_id": 20,
+      "answer": "More information on how to find free medical care, including specialist consultations and some medical services, for refugees from Ukraine is available online or offline.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Free medical care for people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 746,
+      "content_block_id": 20,
+      "answer": "SECS helps women and girls from Ukraine access gynecological consultations, ultrasounds, abortions, IUD insertion/removal, other gynecology services, and facilitates access to emergency contraception and birth control pills.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'The Society for Education on Contraception and Sexuality (SECS)'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 747,
+      "content_block_id": 20,
+      "answer": "Information is provided on organizing food and stocks for children's nutrition to support their well-being and immunity, and on vaccination as a means to preserve human health and life against infectious diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 748,
+      "content_block_id": 20,
+      "answer": "Parents can provide psychological comfort to their children by being close and healthy, which is the main thing to remember even amidst feelings of danger, anxiety, and constant changes.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Psychological support for children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 749,
+      "content_block_id": 20,
+      "answer": "The tips in this section recommend following hygiene rules to protect personal health and the health of children, which is important even when access to basic needs like water and heat is reduced.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Hygiene'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 750,
+      "content_block_id": 20,
+      "answer": "This chapter addresses important aspects of getting ready for emergencies for families with children with disabilities, who require more material and psychological resources during such times.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'Taking care of children with disabilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

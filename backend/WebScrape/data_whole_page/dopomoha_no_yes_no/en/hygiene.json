@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 130,
+      "content_block_id": 29,
+      "question": "What are essential hygiene practices during challenging circumstances?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 29,
+      "question": "How can individuals maintain personal cleanliness when basic resources are limited?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 29,
+      "question": "What methods prove effective for hand cleaning when soap and water are not accessible?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 29,
+      "question": "How much water does one person typically need daily for basic hygiene and consumption?"
+    },
+    {
+      "question_id": 134,
+      "content_block_id": 29,
+      "question": "Which strategies help prevent germ transmission when sharing eating utensils?"
+    },
+    {
+      "question_id": 135,
+      "content_block_id": 29,
+      "question": "What options exist for creating makeshift baby diapers?"
+    },
+    {
+      "question_id": 136,
+      "content_block_id": 29,
+      "question": "How can disposable baby diapers be repurposed for multiple uses?"
+    },
+    {
+      "question_id": 137,
+      "content_block_id": 29,
+      "question": "What considerations are important for children's hygiene in difficult conditions?"
+    },
+    {
+      "question_id": 138,
+      "content_block_id": 29,
+      "question": "Why does personal hygiene become particularly vital during emergency situations?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 29,
+      "question": "How do daily water requirements vary depending on one's living environment?"
+    }
+  ]
+}

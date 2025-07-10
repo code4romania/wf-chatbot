@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 521,
+      "content_block_id": 53,
+      "question": "What kind of services does the Red Cross offer for refugees in Bucharest?"
+    },
+    {
+      "question_id": 522,
+      "content_block_id": 53,
+      "question": "Are medical consultations available for Ukrainian refugees in Bucharest?"
+    },
+    {
+      "question_id": 523,
+      "content_block_id": 53,
+      "question": "Is there a cost for medical services at the Red Cross Health Promotion Center?"
+    },
+    {
+      "question_id": 524,
+      "content_block_id": 53,
+      "question": "What types of medical specialists are available at the Health Promotion Center?"
+    },
+    {
+      "question_id": 525,
+      "content_block_id": 53,
+      "question": "Can refugees receive psychological support at the Red Cross facility?"
+    },
+    {
+      "question_id": 526,
+      "content_block_id": 53,
+      "question": "Are translation services provided for medical consultations at the Red Cross Health Promotion Center?"
+    },
+    {
+      "question_id": 527,
+      "content_block_id": 53,
+      "question": "How can appointments be made for medical care at the Red Cross center?"
+    },
+    {
+      "question_id": 528,
+      "content_block_id": 53,
+      "question": "What are the operating hours for the Red Cross Health Promotion Center in Bucharest?"
+    },
+    {
+      "question_id": 529,
+      "content_block_id": 53,
+      "question": "Which languages are supported when making an appointment for the Health Promotion Center?"
+    },
+    {
+      "question_id": 530,
+      "content_block_id": 53,
+      "question": "Are advanced medical tests like ultrasounds or ECGs available at the Red Cross facility?"
+    },
+    {
+      "question_id": 531,
+      "content_block_id": 53,
+      "question": "Do children have access to medical care at the Red Cross Health Promotion Center?"
+    }
+  ]
+}

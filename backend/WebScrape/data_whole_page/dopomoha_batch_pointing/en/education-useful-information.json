@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 650,
+      "content_block_id": 51,
+      "answer": "Educational opportunities include enrollment in Romanian kindergartens and schools, specialized programs from organizations like JRS Romania and Angel Appeal, and free classes at the \"Ostrovok\" Educational Hub. Online learning resources such as digital textbooks and the Ukrainian Online School are also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 651,
+      "content_block_id": 51,
+      "answer": "To enroll a child in an educational institution, follow the steps provided via a link on the website. Specific organizations like JRS Romania, Angel Appeal, and Taras Shevchenko Ukrainian High School provide contact numbers or emails for registration.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 652,
+      "content_block_id": 51,
+      "answer": "Organizations providing educational support include JRS Romania, Angel Appeal Romanian Foundation, The “Ostrovok” Educational Hub, Ukrainian secondary school Taras Shevchenko, the Ministry of Education of Ukraine, and UNICEF.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 653,
+      "content_block_id": 51,
+      "answer": "Educational programs cover preschool children for kindergarten, first graders, and students from 0 to 11th grade in various schools and hubs. Online resources are available for students in grades 1-11.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 654,
+      "content_block_id": 51,
+      "answer": "Some initiatives, like JRS Romania's school, pay special attention to the study of the Romanian language. Additionally, the Taras Shevchenko Ukrainian High School offers teaching in the Ukrainian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the sections under 'Kindergarten and school from JRS Romania' and 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 655,
+      "content_block_id": 51,
+      "answer": "Free educational classes are available at the Angel Appeal Romanian Foundation's kindergarten and The \"Ostrovok\" Educational Hub in Bucharest. Additionally, digital Ukrainian textbooks and the Ukrainian Online School offer free access to learning materials.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the sections under 'Kindergarten by Angel Appeal Romanian Foundation', 'The “Ostrovok” Educational Hub in Bucharest', 'For studying by yourself: digital textbooks', and 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 656,
+      "content_block_id": 51,
+      "answer": "Ukrainian students can continue their studies online through free digital versions of Ukrainian textbooks for grades 1-11, and via the Ukrainian Online School project from the Ministry of Education and Science of Ukraine for grades 5-11. UNICEF also provides access to online learning platforms.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the sections under 'For studying by yourself: digital textbooks', 'Online school from the Ministry of Education of Ukraine', and 'UNICEF's Support for Children's Educational Journey: Access to Learning Platforms'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 657,
+      "content_block_id": 51,
+      "answer": "JRS Romania organizes a kindergarten for preschool children, and the Angel Appeal Romanian Foundation also offers a kindergarten where education is free.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the sections under 'Kindergarten and school from JRS Romania' and 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 658,
+      "content_block_id": 51,
+      "answer": "Contact methods include calling specific phone numbers provided for JRS Romania, Angel Appeal Romanian Foundation, The \"Ostrovok\" Educational Hub, and Taras Shevchenko Ukrainian High School. JRS Romania also accepts inquiries via email.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the sections under 'Kindergarten and school from JRS Romania', 'Kindergarten by Angel Appeal Romanian Foundation', 'The “Ostrovok” Educational Hub in Bucharest', and 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 659,
+      "content_block_id": 51,
+      "answer": "JRS Romania's school prepares first graders for easier adaptation to entering the 2nd grade in a Romanian school, with special attention paid to the study of the Romanian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten and school from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 660,
+      "content_block_id": 51,
+      "answer": "Ukrainian students can find free access and download digital versions of Ukrainian textbooks for grades 1-11.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'For studying by yourself: digital textbooks'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 661,
+      "content_block_id": 51,
+      "answer": "The \"Ostrovok\" Educational Hub in Bucharest offers free classes for Ukrainian refugee students in both the 2nd and 4th sectors.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'The “Ostrovok” Educational Hub in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 662,
+      "content_block_id": 51,
+      "answer": "The Ministry of Education and Science of Ukraine offers the Ukrainian Online School, a project providing free access to distance and mixed learning for students in grades 5-11. The platform includes video tutorials, tests, and self-study materials for core subjects.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 663,
+      "content_block_id": 51,
+      "answer": "UNICEF supports children's educational journeys by providing access to online platforms, which help them continue studies, develop new skills, and stay engaged, especially when traditional schooling is unavailable or limited.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'UNICEF's Support for Children's Educational Journey: Access to Learning Platforms'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 664,
+      "content_block_id": 51,
+      "answer": "Ukrainian students can find secondary education with teaching in the Ukrainian language at the Taras Shevchenko Ukrainian High School in Sighetu Marmației, Maramureș.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

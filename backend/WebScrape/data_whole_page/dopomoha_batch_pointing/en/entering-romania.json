@@ -1,0 +1,213 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 616,
+      "content_block_id": 1,
+      "answer": "The primary methods for individuals to enter Romania are with temporary protection, with the right of short-stay, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 617,
+      "content_block_id": 1,
+      "answer": "Ukrainian nationals can enter with a valid passport for short stay or without a passport by asking for asylum at the border. For minors, it is advisable to carry an identity document or a birth certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Identity documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 618,
+      "content_block_id": 1,
+      "answer": "Ukrainian nationals can enter with a valid passport or by asking for asylum without one. Non-Ukrainian nationals residing in Ukraine can obtain a transit visa on arrival for transit purposes, while Russian citizens' requirements depend on their residence status in Ukraine or origin country.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the sections under 'Identity documents', 'Non-Ukrainian nationals', and 'Russian citizens'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 619,
+      "content_block_id": 1,
+      "answer": "All children from Ukraine are accepted, and it's advisable to carry their identity document or birth certificate, though no parental approval is needed to cross the border. Unaccompanied children are picked up at the border and taken to DGASPC locations or foster carers for basic services and counseling.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 620,
+      "content_block_id": 1,
+      "answer": "There are no requirements to present a vaccination certificate or valid PCR test, nor is quarantine or filling in the Digital Form for Entering Romania required.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Covid-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 621,
+      "content_block_id": 1,
+      "answer": "Individuals can bring animals even without a valid rabies vaccination or microchip/tattoo. The owner must fill in the Pet Location Form and complete all necessary formalities after entering Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Animals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 622,
+      "content_block_id": 1,
+      "answer": "Non-Ukrainian nationals who resided in Ukraine and hold a passport can cross into Romania and obtain a transit visa on arrival for up to 90 days, but only for transit purposes. They do not need to visit a consulate first.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Non-Ukrainian nationals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 623,
+      "content_block_id": 1,
+      "answer": "From Ukraine, available border crossing points are Halmeu, Sighetu Marmației, Siret, Rădăuți-Prut, and Isaccea. Entry is also possible via the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 624,
+      "content_block_id": 1,
+      "answer": "Real-time waiting times for border crossings into Romania can be checked on the website: https://www.politiadefrontiera.ro/ro/traficonline/.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 625,
+      "content_block_id": 1,
+      "answer": "NGOs are present at border crossings to help people with food and guidance.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 626,
+      "content_block_id": 1,
+      "answer": "There is no official transport organized from the Romanian border areas at the moment, but a few voluntary initiatives are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Transport from the Romanian border'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 627,
+      "content_block_id": 1,
+      "answer": "New arrivals can find essential resources like food and clothing or request transportation via \"Sprijin de Urgență,\" and temporary accommodation through \"Un Acoperiș.\"",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the sections under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 628,
+      "content_block_id": 1,
+      "answer": "Russian citizens with a residence permit in Ukraine do not need a visa. If coming from the Russian Federation, they will need a visa, which must be applied for online first on Eviza.ro to get a Consular Section appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Russian citizens'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 629,
+      "content_block_id": 1,
+      "answer": "The provided content states that temporary protection is granted for one year and can be automatically extended for periods of 6 months, up to a maximum of one additional year, if the situation persists. No other specific benefits or rights are detailed in this content.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 630,
+      "content_block_id": 1,
+      "answer": "One can initiate an asylum application by entering Romania as an asylum seeker at the border, even without a passport or any documents. It is also possible to apply for asylum within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 631,
+      "content_block_id": 1,
+      "answer": "You can enter Romania via the Republic of Moldova. The page also lists the contact details for Romanian Consulates in the Republic of Moldova, including Chisinau, Balti, Cahul, and Ungheni.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Entering Romania through the Republic of Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 632,
+      "content_block_id": 1,
+      "answer": "For general questions about accessing Romania, one can contact the National Council for Refugees (CNRR) at +40 730 073 170.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 633,
+      "content_block_id": 1,
+      "answer": "Ukrainian men between 18 and 60 years old are allowed entry if they meet both Ukraine's exit conditions and Romania's entry conditions. Boys under 18 and men over 60 years old can leave Ukraine and enter Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Men'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 634,
+      "content_block_id": 1,
+      "answer": "Unaccompanied children are picked up at the border crossing point and taken to DGASPC locations or professional foster carers. There, they receive basic services, including psychological counseling if needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

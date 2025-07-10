@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 291,
+      "content_block_id": 9,
+      "answer": "The communication guide includes Romanian, English, Ukrainian (Latin alphabet), and Ukrainian (Cyrillic alphabet).",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 292,
+      "content_block_id": 9,
+      "answer": "The practical information is categorized into sections such as Basic conversation, Medical help, Places and directions, Transport, Documents - Money, Sprijin de Urgență, and Un Acoperiș.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 293,
+      "content_block_id": 9,
+      "answer": "Individuals can request resources, food, products, clothing, tents, transportation, or volunteers through 'Sprijin de Urgență'.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 294,
+      "content_block_id": 9,
+      "answer": "People can offer resources, food, products, clothing, tents, transportation, or volunteer services through 'Sprijin de Urgență' by requesting or providing resources.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 295,
+      "content_block_id": 9,
+      "answer": "The main purpose of the 'Un Acoperiș' initiative is to provide support in finding temporary accommodation and to allow people to offer space to help vulnerable individuals coming to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 296,
+      "content_block_id": 9,
+      "answer": "'Un Acoperiș' facilitates finding temporary accommodation by allowing users to search for or offer accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 297,
+      "content_block_id": 9,
+      "answer": "The language guide helps users navigate medical situations such as needing a doctor, feeling sick, being pregnant, having diabetes, needing insulin, or having allergies, and also includes terms for hospital, diapers, and infant formula.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Medical help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 298,
+      "content_block_id": 9,
+      "answer": "Essential phrases for basic daily conversations include greetings, asking about well-being, expressing needs, asking for help, inquiring about age, and phrases related to food, water, and family.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Basic conversation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 299,
+      "content_block_id": 9,
+      "answer": "Information about transportation options can be found in the 'Transport' section of the guide.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 300,
+      "content_block_id": 9,
+      "answer": "The guide offers phrases related to various documents like identity cards, passports, and driver's licenses, as well as terms for money, currency exchange, ATMs, and lawyers.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Documents - Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 301,
+      "content_block_id": 9,
+      "answer": "The provided content does not explicitly state why a multi-language phrasebook might be useful in an emergency.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 302,
+      "content_block_id": 9,
+      "answer": "The provided content does not explicitly state who is intended to benefit most from the phrases, but it offers translations from Romanian and English into Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 16,
+      "content_block_id": 15,
+      "answer": "Helplines offer a wide range of assistance including information on rights and services for refugees, support against human trafficking, aid for domestic violence and sexual abuse, medical support, child protection, and guidance on accommodation and immigration processes.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 17,
+      "content_block_id": 15,
+      "answer": "Individuals can access support services by calling the provided telephone numbers for each specific helpline. Some services also offer support via email or have specific operating hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 18,
+      "content_block_id": 15,
+      "answer": "Helplines are provided by a diverse range of organizations including national and international non-governmental organizations, governmental bodies, local authorities, and UN agencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 19,
+      "content_block_id": 15,
+      "answer": "Support for refugees includes information on their rights and available services, guidance for those with rare diseases, and assistance with accommodation requests and conditions of stay in Romania. Services are also available for migration and asylum issues.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 20,
+      "content_block_id": 15,
+      "answer": "National helplines are operated by Romanian government bodies, national NGOs, and city administrations. International helplines are run by UN agencies, international organizations, and governmental ministries in other countries.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 21,
+      "content_block_id": 15,
+      "answer": "Some helplines, like the Romanian Government's and Save the Children's, are available Monday to Friday during specific daytime hours. At least one, the Migration and Asylum Office in Republic of Moldova, operates 24/7.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 22,
+      "content_block_id": 15,
+      "answer": "Helplines assist with medical needs by offering support for specific conditions, such as HIV treatment or services through Sens Pozitiv. They also provide support and guidance to refugees suffering from rare diseases via The National Alliance for Rare Diseases Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Medical support' and 'The National Alliance for Rare Diseases Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 23,
+      "content_block_id": 15,
+      "answer": "For children in vulnerable situations, helplines like Save the Children offer free counseling services and provide guidance and information specifically on the protection of children coming from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Children support Save the Children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 24,
+      "content_block_id": 15,
+      "answer": "Helplines such as the Romanian Government's provide information on refugees' rights and services. The General Inspectorate for Immigration offers guidance on conditions of stay in Romania, while the Law Center of Moldova can assist with legal aspects.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-line of the Romanian Government', 'General Inspectorate for Immigration', and 'Law Center of Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 25,
+      "content_block_id": 15,
+      "answer": "Support helplines typically provide assistance in Romanian, English, and Ukrainian. Some also offer support in Russian, and specific lines are dedicated for Ukrainian speakers or provide Ukrainian language contacts.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 26,
+      "content_block_id": 15,
+      "answer": "Helplines address human trafficking through dedicated national lines and hotlines that offer anti-trafficking services and counseling for migrants. Concerns related to domestic violence and sexual abuse are handled by specific helplines like the National Agency for Equal Opportunities for Women and Men.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'National Line against Trafficking in Persons Romania', 'National Agency for Equal Opportunities for Women and Men', and 'Free national anti human trafficking hotline and counseling for migrants'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 27,
+      "content_block_id": 15,
+      "answer": "The support services cover Romania, including specific cities like Sibiu and Timișoara, with many national helplines available across the country. Additionally, helplines are listed for other countries such as the Republic of Moldova, Poland, Slovakia, and the Czech Republic.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines from cities throughout Romania' and 'Help-lines from other countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 28,
+      "content_block_id": 15,
+      "answer": "Individuals can find accommodation or housing assistance by contacting the General Inspectorate for Immigration, which provides support for accommodation requests and information regarding conditions of stay on Romanian territory.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Support for accommodation requests and information regarding the conditions of stay on the Romanian territory: General Inspectorate for Immigration'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 29,
+      "content_block_id": 15,
+      "answer": "The provided content lists various helpline telephone numbers and, in some cases, their operating hours or available languages. It does not detail specific steps individuals should take when contacting a support helpline beyond dialing the number.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 30,
+      "content_block_id": 15,
+      "answer": "Helplines specializing in medical conditions include Sens Pozitiv for HIV treatment or services, and The National Alliance for Rare Diseases Romania, which offers support and guidance for refugees suffering from rare diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Medical support Sens Pozitiv' and 'The National Alliance for Rare Diseases Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

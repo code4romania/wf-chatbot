@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 725,
+      "content_block_id": 43,
+      "answer": "Inpatient medical recovery services, including physical medicine and rehabilitation, are generally available.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 726,
+      "content_block_id": 43,
+      "answer": "Individuals can typically access medical recovery programs in sanatoriums, sanatorium wards, or spa sanatoriums, including units within hospitals.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 727,
+      "content_block_id": 43,
+      "answer": "Both children and adults can benefit from medical recovery services.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 728,
+      "content_block_id": 43,
+      "answer": "Individuals typically initiate the process by obtaining referral notes for physical medicine and rehabilitation treatment, issued by family medicine doctors or specialists who are in contractual relations with health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 729,
+      "content_block_id": 43,
+      "answer": "The suitability of a medical recovery program for an individual is determined by considering the patient's specific pathology and associated conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 730,
+      "content_block_id": 43,
+      "answer": "For spa sanatoriums, treatments can last a maximum of 14-21 days/year, divisible into up to two fractions, though shorter periods are also available. For other sanatoriums, the duration is set by specialist doctors and is not limited to a specific number of days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 731,
+      "content_block_id": 43,
+      "answer": "For spa sanatoriums, patients usually pay a personal contribution, and services extending beyond 21 days are fully covered by the patients.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 732,
+      "content_block_id": 43,
+      "answer": "Beneficiaries of Emergency Ordinance no.15/2022, concerning foreign citizens or stateless persons from the armed conflict in Ukraine, are exempt from personal contribution for medical recovery expenses.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 733,
+      "content_block_id": 43,
+      "answer": "Medical professionals, including prescribing physicians, family medicine doctors, and physical medicine and rehabilitation specialists, issue referral notes, recommend treatment, and determine the period and flow of services.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 734,
+      "content_block_id": 43,
+      "answer": "Spa sanatoriums offer services for up to 14-21 days/year with a personal contribution, while other sanatoriums provide services without a specific day limit, with durations set by their specialist doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 735,
+      "content_block_id": 43,
+      "answer": "In spa sanatoriums, physical medicine and rehabilitation services are structured to include a minimum of 4 procedures per day for at least 5 days per week.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 736,
+      "content_block_id": 43,
+      "answer": "During a medical recovery period in spa sanatoriums, the typical frequency is a minimum of 4 procedures per day for at least 5 days per week.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 737,
+      "content_block_id": 43,
+      "answer": "Inpatient medical recovery services in sanatoriums or sanatorium wards are provided for children.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

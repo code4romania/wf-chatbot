@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 93,
+      "content_block_id": 5,
+      "question": "What is Dopomoha?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 5,
+      "question": "What kind of support services does Dopomoha offer?"
+    },
+    {
+      "question_id": 95,
+      "content_block_id": 5,
+      "question": "What cities in Romania are covered by Dopomoha's services?"
+    },
+    {
+      "question_id": 96,
+      "content_block_id": 5,
+      "question": "What is 'Law made simple' and what does it do?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 5,
+      "question": "What is 'PTSD Help' and is it free?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 5,
+      "question": "What information is available about human trafficking prevention?"
+    },
+    {
+      "question_id": 99,
+      "content_block_id": 5,
+      "question": "Where can one report suspected human trafficking?"
+    },
+    {
+      "question_id": 100,
+      "content_block_id": 5,
+      "question": "Is there a guide for emergencies or war, and who created it?"
+    },
+    {
+      "question_id": 101,
+      "content_block_id": 5,
+      "question": "Where can I find a list of shelters in Romania?"
+    },
+    {
+      "question_id": 102,
+      "content_block_id": 5,
+      "question": "How can users provide feedback or report issues to Dopomoha?"
+    },
+    {
+      "question_id": 103,
+      "content_block_id": 5,
+      "question": "What are the legal terms and conditions for using the Dopomoha platform?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 5,
+      "question": "What external support organizations are linked on the Dopomoha platform?"
+    },
+    {
+      "question_id": 105,
+      "content_block_id": 5,
+      "question": "What is Commit Global's involvement with Dopomoha?"
+    },
+    {
+      "question_id": 106,
+      "content_block_id": 5,
+      "question": "How can one access information about child safety?"
+    },
+    {
+      "question_id": 107,
+      "content_block_id": 5,
+      "question": "What is the purpose of the call center mentioned?"
+    }
+  ]
+}

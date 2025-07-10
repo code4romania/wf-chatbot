@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What types of medical services are typically included in hospital care?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How does one get admitted for hospitalization?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What is the difference between short-term (day) and continuous hospitalization?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "Can specific medical conditions be treated through short-term (day) hospitalization?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "Are medical services in public hospitals always free for insured patients?"
+    },
+    {
+      "question_id": 6,
+      "content_block_id": 40,
+      "question": "What happens if an insured patient goes to a public hospital that does not have a contract with their health insurance company?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 40,
+      "question": "Can private hospitals charge patients a personal contribution for hospitalization services, even with health insurance?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 40,
+      "question": "How can patients find out the estimated costs for hospitalization services before admission?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 40,
+      "question": "Are patients reimbursed if they pay out-of-pocket for medicines or supplies during hospitalization?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 40,
+      "question": "Who covers the cost of accommodation for companions of hospitalized children or individuals with severe disabilities?"
+    },
+    {
+      "question_id": 11,
+      "content_block_id": 40,
+      "question": "Are specialized treatments like chemotherapy, dialysis, and radiotherapy covered by health insurance?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 40,
+      "question": "What information must private hospitals provide regarding their service rates and patient contributions?"
+    }
+  ]
+}

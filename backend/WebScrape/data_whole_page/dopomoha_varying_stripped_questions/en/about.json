@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 793,
+      "content_block_id": 3,
+      "question": "What is the Dopomoha platform?"
+    },
+    {
+      "question_id": 794,
+      "content_block_id": 3,
+      "question": "Who is the Dopomoha platform designed to help?"
+    },
+    {
+      "question_id": 795,
+      "content_block_id": 3,
+      "question": "What kind of information does the Dopomoha platform provide?"
+    },
+    {
+      "question_id": 796,
+      "content_block_id": 3,
+      "question": "In what languages is the Dopomoha platform available?"
+    },
+    {
+      "question_id": 797,
+      "content_block_id": 3,
+      "question": "How can individuals access the Dopomoha platform?"
+    },
+    {
+      "question_id": 798,
+      "content_block_id": 3,
+      "question": "Does Dopomoha offer information about entry requirements for Romania?"
+    },
+    {
+      "question_id": 799,
+      "content_block_id": 3,
+      "question": "Does Dopomoha provide guidance on the asylum seeking process in Romania?"
+    },
+    {
+      "question_id": 800,
+      "content_block_id": 3,
+      "question": "What specific rights and obligations for asylum seekers are covered by Dopomoha?"
+    },
+    {
+      "question_id": 801,
+      "content_block_id": 3,
+      "question": "Are there useful resources for staying in Romania available on Dopomoha?"
+    },
+    {
+      "question_id": 802,
+      "content_block_id": 3,
+      "question": "Which organizations are partners in the Dopomoha project?"
+    },
+    {
+      "question_id": 803,
+      "content_block_id": 3,
+      "question": "Who created the Dopomoha project?"
+    },
+    {
+      "question_id": 804,
+      "content_block_id": 3,
+      "question": "Is the information on the Dopomoha platform regularly updated?"
+    },
+    {
+      "question_id": 805,
+      "content_block_id": 3,
+      "question": "From what sources is the information on Dopomoha verified?"
+    },
+    {
+      "question_id": 806,
+      "content_block_id": 3,
+      "question": "Who supports the Code for Romania War Task Force?"
+    }
+  ]
+}

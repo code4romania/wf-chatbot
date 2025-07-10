@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 635,
+      "content_block_id": 26,
+      "question": "What is the primary purpose of vaccination?"
+    },
+    {
+      "question_id": 636,
+      "content_block_id": 26,
+      "question": "How do vaccinations protect individuals from infectious diseases?"
+    },
+    {
+      "question_id": 637,
+      "content_block_id": 26,
+      "question": "What types of infectious diseases can be prevented through vaccination?"
+    },
+    {
+      "question_id": 638,
+      "content_block_id": 26,
+      "question": "Who should receive vaccinations, including children and adults?"
+    },
+    {
+      "question_id": 639,
+      "content_block_id": 26,
+      "question": "When should infants typically begin their vaccination schedule?"
+    },
+    {
+      "question_id": 640,
+      "content_block_id": 26,
+      "question": "How can someone catch up on missed vaccinations?"
+    },
+    {
+      "question_id": 641,
+      "content_block_id": 26,
+      "question": "Where can individuals access vaccination services?"
+    },
+    {
+      "question_id": 642,
+      "content_block_id": 26,
+      "question": "What common reactions or side effects might occur after vaccination?"
+    },
+    {
+      "question_id": 643,
+      "content_block_id": 26,
+      "question": "How do vaccinations interact with or affect the immune system?"
+    },
+    {
+      "question_id": 644,
+      "content_block_id": 26,
+      "question": "What specific considerations apply to vaccinating premature babies?"
+    },
+    {
+      "question_id": 645,
+      "content_block_id": 26,
+      "question": "Why is it important for adults to also get vaccinated?"
+    },
+    {
+      "question_id": 646,
+      "content_block_id": 26,
+      "question": "What are the advantages of receiving multiple vaccines on the same day?"
+    },
+    {
+      "question_id": 647,
+      "content_block_id": 26,
+      "question": "What pre-vaccination tests are usually required?"
+    },
+    {
+      "question_id": 648,
+      "content_block_id": 26,
+      "question": "How do chronic health conditions influence vaccination recommendations?"
+    },
+    {
+      "question_id": 649,
+      "content_block_id": 26,
+      "question": "What steps should be taken immediately following a vaccination?"
+    }
+  ]
+}

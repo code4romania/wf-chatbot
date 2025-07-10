@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 99,
+      "content_block_id": 10,
+      "question": "What is dopomoha.ro?"
+    },
+    {
+      "question_id": 100,
+      "content_block_id": 10,
+      "question": "What kind of information does dopomoha.ro provide?"
+    },
+    {
+      "question_id": 101,
+      "content_block_id": 10,
+      "question": "Where can I find materials to share about dopomoha.ro?"
+    },
+    {
+      "question_id": 102,
+      "content_block_id": 10,
+      "question": "What is the purpose of the shared materials from dopomoha.ro?"
+    },
+    {
+      "question_id": 103,
+      "content_block_id": 10,
+      "question": "Is there a guide for common Romanian phrases available?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 10,
+      "question": "What languages are included in the Romanian phrase guide?"
+    },
+    {
+      "question_id": 105,
+      "content_block_id": 10,
+      "question": "What services does Sprijin de Urgență offer?"
+    },
+    {
+      "question_id": 106,
+      "content_block_id": 10,
+      "question": "Can I request resources like food or clothing through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 107,
+      "content_block_id": 10,
+      "question": "Can I offer resources or volunteer through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 108,
+      "content_block_id": 10,
+      "question": "What is Un Acoperiș?"
+    },
+    {
+      "question_id": 109,
+      "content_block_id": 10,
+      "question": "How does Un Acoperiș help people find temporary accommodation?"
+    },
+    {
+      "question_id": 110,
+      "content_block_id": 10,
+      "question": "Can I offer a space for temporary accommodation through Un Acoperiș?"
+    }
+  ]
+}

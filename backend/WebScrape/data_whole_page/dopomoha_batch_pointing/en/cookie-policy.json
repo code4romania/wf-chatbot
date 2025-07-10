@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 552,
+      "content_block_id": 65,
+      "answer": "A website cookie is a small file, a succession of letters and numbers, that is stored on any terminal with Internet access upon a request from a server to a browser. These cookies do not contain software programs, viruses, or spyware and cannot access information on the user’s hard drive.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 553,
+      "content_block_id": 65,
+      "answer": "A cookie consists of a name and content with a limited existence, which a webserver can access again when a user returns to the associated website. It contains information that connects users to a specific website, allowing the browser to read stored data and react accordingly.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 554,
+      "content_block_id": 65,
+      "answer": "Websites use cookies to provide users with a better browsing experience and services tailored to their needs and interests. They facilitate access by personalizing settings and help operators make their websites more effective and easier to access.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 555,
+      "content_block_id": 65,
+      "answer": "Cookies store information in a small text file that allows a website to recognize a browser and improve the Internet browsing experience, such as an order number for a donation. They do not request personal information nor do they personally identify internet users.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What type of information is stored and accessed through cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 556,
+      "content_block_id": 65,
+      "answer": "Cookies can be used as a form of Spyware because they store information about users' preferences and browsing history across multiple sites. Many anti-spyware products are aware of this and often mark cookies for deletion during scanning procedures.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 557,
+      "content_block_id": 65,
+      "answer": "If an attacker intercepts data transmission between the browser and website, the information in the cookie can be compromised, especially over unencrypted networks. Attackers can also exploit vulnerabilities if a website does not require encrypted channels, tricking browsers into sending information over unsecured channels to gain unauthorized access.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Other security aspects related to cookies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 558,
+      "content_block_id": 65,
+      "answer": "Users can customize their browser's cookie settings to reflect a comfortable level of security or configure their browser to delete individual browsing data upon closing. All modern browsers offer the possibility to change these settings, usually found in the 'options' or 'preferences' menu.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'How can I stop cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 559,
+      "content_block_id": 65,
+      "answer": "The content states that disabling cookies will not allow user access to widespread and used sites, including Youtube, Gmail, and Yahoo.",
+      "instruction": "Go to website https://dopopoha.ro/en/cookie-policy and read the section under 'Tips for safe and responsible browsing, based on cookies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 560,
+      "content_block_id": 65,
+      "answer": "Disabling or refusing to receive cookies may make certain websites impractical, difficult to visit, or even unusable. While you will still receive online advertising, it will no longer be able to take into account your preferences and interests based on your browsing behavior.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'How can I stop cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 561,
+      "content_block_id": 65,
+      "answer": "The length of a cookie's existence is limited, and for persistent cookies, this is a predetermined length of time. Session cookies are stored until the user leaves the website or closes the browser window, while permanent cookies are retained but can be deleted by the user at any time.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is the lifespan of a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 562,
+      "content_block_id": 65,
+      "answer": "Third-party cookies are placed by a different website than the one the user is currently visiting, unlike cookies placed by the website owner. They can be anonymously used to track a user’s interests for more relevant ads and are subject to the third-party providers' privacy policies.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are cookies placed by third parties?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 563,
+      "content_block_id": 65,
+      "answer": "Cookies help generate a user-friendly browsing experience tailored to individual preferences and interests by connecting users to a specific website. They allow the browser to read stored information and react accordingly upon subsequent visits, improving overall internet navigation.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are the advantages of cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 564,
+      "content_block_id": 65,
+      "answer": "Cookies help make online advertising more effective and can anonymously track user interests, allowing them to receive ads more relevant to their preferences. However, rejecting or deactivating cookies means online advertising will no longer be able to consider your browsing behavior for personalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 565,
+      "content_block_id": 65,
+      "answer": "Cookies can be used for negative purposes, such as a form of Spyware, because they store information about users' preferences and browsing history across multiple sites. Additionally, cookie information can be intercepted by attackers during data transmission, especially over unencrypted networks, or through missetting cookies on servers.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 566,
+      "content_block_id": 65,
+      "answer": "Individuals can browse safely by customizing their browser cookie settings to a comfortable security level, installing and constantly updating antispyware applications, and ensuring their browser is always up to date.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Tips for safe and responsible browsing, based on cookies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 327,
+      "content_block_id": 7,
+      "question": "What is asylum and who can apply for it?"
+    },
+    {
+      "question_id": 328,
+      "content_block_id": 7,
+      "question": "What are the specific reasons someone might seek asylum in Romania?"
+    },
+    {
+      "question_id": 329,
+      "content_block_id": 7,
+      "question": "How does one apply for asylum in Romania?"
+    },
+    {
+      "question_id": 330,
+      "content_block_id": 7,
+      "question": "Where can an asylum application be submitted in Romania?"
+    },
+    {
+      "question_id": 331,
+      "content_block_id": 7,
+      "question": "What documents are needed to apply for asylum?"
+    },
+    {
+      "question_id": 332,
+      "content_block_id": 7,
+      "question": "What happens immediately after someone applies for asylum?"
+    },
+    {
+      "question_id": 333,
+      "content_block_id": 7,
+      "question": "Are interviews part of the asylum application process?"
+    },
+    {
+      "question_id": 334,
+      "content_block_id": 7,
+      "question": "Is translation provided during asylum interviews?"
+    },
+    {
+      "question_id": 335,
+      "content_block_id": 7,
+      "question": "Can asylum seekers request legal assistance or representation?"
+    },
+    {
+      "question_id": 336,
+      "content_block_id": 7,
+      "question": "Is the information shared during the asylum process kept confidential?"
+    },
+    {
+      "question_id": 337,
+      "content_block_id": 7,
+      "question": "How long does the asylum application process typically take in Romania?"
+    },
+    {
+      "question_id": 338,
+      "content_block_id": 7,
+      "question": "Are asylum seekers protected from deportation to their country of origin?"
+    },
+    {
+      "question_id": 339,
+      "content_block_id": 7,
+      "question": "What kind of identification is provided to asylum seekers?"
+    },
+    {
+      "question_id": 340,
+      "content_block_id": 7,
+      "question": "What kind of support does Sprijin de Urgență offer?"
+    },
+    {
+      "question_id": 341,
+      "content_block_id": 7,
+      "question": "How does Un Acoperiș assist with finding temporary accommodation?"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 108,
+      "content_block_id": 10,
+      "question": "What is the primary mission of Dopomoha?"
+    },
+    {
+      "question_id": 109,
+      "content_block_id": 10,
+      "question": "Who is Commit Global?"
+    },
+    {
+      "question_id": 110,
+      "content_block_id": 10,
+      "question": "What types of support does Dopomoha provide for individuals?"
+    },
+    {
+      "question_id": 111,
+      "content_block_id": 10,
+      "question": "Are there specific programs to help with understanding legal rights?"
+    },
+    {
+      "question_id": 112,
+      "content_block_id": 10,
+      "question": "Does Dopomoha offer assistance for managing Post Traumatic Stress Disorder?"
+    },
+    {
+      "question_id": 113,
+      "content_block_id": 10,
+      "question": "How can one request or offer emergency resources through 'Sprijin de Urgență'?"
+    },
+    {
+      "question_id": 114,
+      "content_block_id": 10,
+      "question": "What is 'Un Acoperiș' and how does it help with accommodation?"
+    },
+    {
+      "question_id": 115,
+      "content_block_id": 10,
+      "question": "In which languages is the Dopomoha website available?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 10,
+      "question": "Are there resources for learning common Romanian phrases?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 10,
+      "question": "Which cities in Romania are covered by Dopomoha's services?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 10,
+      "question": "How can someone provide feedback or report issues to Dopomoha?"
+    },
+    {
+      "question_id": 119,
+      "content_block_id": 10,
+      "question": "Where can one find the legal status or terms and conditions for Dopomoha?"
+    },
+    {
+      "question_id": 120,
+      "content_block_id": 10,
+      "question": "How can individuals promote Dopomoha's initiatives?"
+    },
+    {
+      "question_id": 121,
+      "content_block_id": 10,
+      "question": "Does Dopomoha provide a call center service?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 10,
+      "question": "What organizations are linked with Dopomoha's efforts?"
+    }
+  ]
+}

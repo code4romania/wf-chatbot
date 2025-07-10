@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 848,
+      "content_block_id": 30,
+      "answer": "Ensuring a child's security involves preparing a safety backpack, teaching them safety rules and essential information, having a plan of action for different occasions, knowing how to react if a child is lost or found unaccompanied, and creating a safe home environment.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 849,
+      "content_block_id": 30,
+      "answer": "Parents can prepare children by assembling a \"safety backpack\" with essential items, teaching them crucial safety rules and personal information, and establishing a plan of action for different occasions, including a meeting place if lost.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the sections under 'Assemble a backpack for your child with a minimal set of things' and 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 850,
+      "content_block_id": 30,
+      "answer": "A child's personal safety kit should contain a photo with contact details, water, food items like chocolate and dried fruits, necessary drugs and first aid supplies, wipes, hygiene items, a flashlight, favorite toys, a set of clothes, and optionally a phone and some money.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 851,
+      "content_block_id": 30,
+      "answer": "Children should memorize their full name, the names of close relatives, parents' or relatives' phone numbers, their home address or a relative's address, and the emergency line numbers 112 and 119.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 852,
+      "content_block_id": 30,
+      "answer": "If a child is lost, parents should remain calm, recall where they last saw the child, call them if they have a phone, ask someone to stay at the last known location, inquire with people around, make an advertisement if possible, and report to the police or call 112 or 119.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'If the child is lost. Parents’ actions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 853,
+      "content_block_id": 30,
+      "answer": "If an unaccompanied child is encountered, one should ensure they are truly alone, ask people nearby if they know the child, learn the child's name and origin, find out when they last saw an adult, take them to a warm and safe place with other adults nearby, and contact 112, 119, or the police.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'If you see a child without adults'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 854,
+      "content_block_id": 30,
+      "answer": "To create a secure home environment, keep doors and windows closed, store hazardous items like glassware, medicines, and chemicals out of reach, secure electrical outlets and wires, lock interior doors, make stairs inaccessible, apply protective tape to glass doors, shorten curtain cords, secure heavy furniture, and use soft pads on sharp corners.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 855,
+      "content_block_id": 30,
+      "answer": "It is recommended for children to carry a photo with parents, including relatives' phone numbers, full address, child's name, and blood type on the back. Additionally, a tag or note with the child's name and parent/relative contacts can be sewn onto clothes or placed in a pocket.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the sections under 'Assemble a backpack for your child with a minimal set of things' and 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 856,
+      "content_block_id": 30,
+      "answer": "While the text does not explicitly state why, it is implied that knowing emergency contact numbers like 112 and 119 is crucial for children to be able to call for help themselves if they get lost.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 857,
+      "content_block_id": 30,
+      "answer": "Favorite toys play a role in a child's emergency preparedness by providing minimum psychological comfort during stressful situations.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 858,
+      "content_block_id": 30,
+      "answer": "Parents can safeguard against household dangers by keeping hazardous items out of reach, securing electrical outlets and wires, locking interior doors, making stairs inaccessible, applying protective tape to glass, shortening curtain cords, securing heavy furniture, and padding sharp furniture corners.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 859,
+      "content_block_id": 30,
+      "answer": "When a child travels in a car, it is important that they are always fastened in a special car seat appropriate for their age.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

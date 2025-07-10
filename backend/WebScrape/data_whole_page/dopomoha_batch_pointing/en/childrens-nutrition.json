@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 31,
+      "content_block_id": 25,
+      "answer": "A child's nutrition is crucial because both their well-being and immunity depend on a balanced diet or continued breastfeeding.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Children’s nutrition'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 32,
+      "content_block_id": 25,
+      "answer": "Parents can ensure optimal nutrition by organizing food and food stocks more efficiently, as the information provided aims to help with this, particularly through guidance on breastfeeding, formula, and emergency food supplies.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 33,
+      "content_block_id": 25,
+      "answer": "For the baby, breastfeeding strengthens immunity and is the most convenient and safest way to feed. For the mother, it enhances her sense of peace and security through physical contact and hormone production.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the sections under 'Breastfeeding' and 'Why it is especially important to continue breastfeeding in an emergency'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 34,
+      "content_block_id": 25,
+      "answer": "Stressful situations, anxiety, or panic do not affect milk production or change milk quality, though stress may rarely slow down the flow of milk.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 35,
+      "content_block_id": 25,
+      "answer": "Experts recommend feeding the baby on demand, as often as the child wants and for as long as the child wants, but at least 8-12 times a day.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 36,
+      "content_block_id": 25,
+      "answer": "Continuing breastfeeding in emergencies helps a child feel safe, enhances the mother's sense of peace, protects the child's immune system which may be weakened, and can sustain a child under two if no other food is available.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Why it is especially important to continue breastfeeding in an emergency'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 37,
+      "content_block_id": 25,
+      "answer": "If separated from her baby, a mother should continue to drain milk with her hands or a breast pump as often as the child would eat, but at least 8 times a day, to maintain lactation.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 38,
+      "content_block_id": 25,
+      "answer": "To restore milk supply, a mother should frequently put the baby to the breast, drink more water, massage the neck area, get enough rest, take a warm shower if possible, and eat well including something sweet.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'What to do if you cannot continue breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 39,
+      "content_block_id": 25,
+      "answer": "Commercial infant formula should be considered for babies under 6 months if a mother cannot restore lactation. For dry formula, water must be boiled above 70 degrees Celsius to kill bacteria, and formula should not be prepared in advance.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'If you can not restore lactation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 40,
+      "content_block_id": 25,
+      "answer": "Children older than six months can be fed animal milk (cow's or goat's, including ultra-pasteurized) and complementary foods, such as instant cereals, ready meals like mashed meat, fish, and vegetables.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the sections under 'If you can not restore lactation' and 'Nutrition for small children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 41,
+      "content_block_id": 25,
+      "answer": "Families should create a 2-3-day supply of drinking water in advance, store it in closed containers, disinfect it if stored for a long time, and avoid drinking from untested sources to ensure safety.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Water'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 42,
+      "content_block_id": 25,
+      "answer": "Recommended non-perishable emergency food items include bread, cookies, crackers, canned foods, nuts, seeds, dried fruits, chocolate, energy bars, salt, sugar, fats, instant cereals, and ready meals like mashed meat, fish, or vegetables.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Food on the go'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 43,
+      "content_block_id": 25,
+      "answer": "Mothers can find support and counseling for breastfeeding challenges or prenatal education through the 'Support for refugee women program' or by seeking information on the 'Women Center platform'.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the sections under 'Difficulties with breastfeeding?' and 'More helpful information about breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 44,
+      "content_block_id": 25,
+      "answer": "The Romanian Association of Consultants in Lactation and the Association of Independent Midwives provide specialized assistance to refugee pregnant women, breastfeeding women, and mothers with infants or children from Ukraine in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'IMPORTANT'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 100,
+      "content_block_id": 10,
+      "answer": "Dopomoha.ro aims to connect people needing resources, food, products, clothing, tents, transportation, or volunteers with those who can offer them, and to facilitate temporary accommodation for vulnerable people arriving in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 101,
+      "content_block_id": 10,
+      "answer": "Individuals can contribute by downloading and displaying posters in visible, crowded places or by downloading and sharing flyers containing general information wherever they go.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Share the dopomoha.ro content where it is most needed'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 102,
+      "content_block_id": 10,
+      "answer": "Sprijin de Urgență offers assistance in the form of resources, food, products, clothing, tents, transportation, and volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 103,
+      "content_block_id": 10,
+      "answer": "Someone can request help through Sprijin de Urgență by using the 'Request or provide resources' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 104,
+      "content_block_id": 10,
+      "answer": "To provide resources for Sprijin de Urgență, someone should use the 'Request or provide resources' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 105,
+      "content_block_id": 10,
+      "answer": "Vulnerable people who are currently coming to Romania are eligible to receive support from Un Acoperiș.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 106,
+      "content_block_id": 10,
+      "answer": "Someone can offer accommodation through Un Acoperiș by accessing the initiative and selecting the 'Search or offer accommodation' option.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 107,
+      "content_block_id": 10,
+      "answer": "The phrase book includes translations for common expressions in Romanian, English, and Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Click here for the phrase book'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 108,
+      "content_block_id": 10,
+      "answer": "The provided content does not explicitly state why the phrase book is an important resource, only that it contains common expressions translated into English and Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 109,
+      "content_block_id": 10,
+      "answer": "The general dopomoha.ro flyer contains general information from DOPOMOHA.RO.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Download the flyer from here'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 110,
+      "content_block_id": 10,
+      "answer": "The dopomoha.ro flyer can be shared wherever individuals go, including in stores, means of transport, and parks.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Download the flyer from here'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 111,
+      "content_block_id": 10,
+      "answer": "Dopomoha.ro posters are recommended for display in crowded places visible to people, such as storefronts and apartment buildings.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Download the poster here'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 112,
+      "content_block_id": 10,
+      "answer": "Un Acoperiș facilitates temporary housing by helping people find accommodation and allowing others to provide a space, using options to search or offer accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 113,
+      "content_block_id": 10,
+      "answer": "The key objectives of the Sprijin de Urgență initiative are to help individuals request resources like food, clothing, or transportation, and to allow others to offer such items or volunteer services.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 114,
+      "content_block_id": 10,
+      "answer": "The Romanian language guide covers common expressions translated into English and Ukrainian, but the specific expressions are not listed in the provided content.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Click here for the phrase book'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

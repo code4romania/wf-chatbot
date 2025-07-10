@@ -1,0 +1,75 @@
+{
+  "questions": [
+
+    {
+      "question_id": 377,
+      "content_block_id": 7,
+      "question": "Who is Dopomoha intended to help?"
+    },
+    {
+      "question_id": 378,
+      "content_block_id": 7,
+      "question": "What types of support services does Dopomoha provide?"
+    },
+    {
+      "question_id": 379,
+      "content_block_id": 7,
+      "question": "What is the definition of asylum in Romania?"
+    },
+    {
+      "question_id": 380,
+      "content_block_id": 7,
+      "question": "Who is eligible to apply for asylum in Romania?"
+    },
+    {
+      "question_id": 381,
+      "content_block_id": 7,
+      "question": "What is the general process for applying for asylum in Romania?"
+    },
+    {
+      "question_id": 382,
+      "content_block_id": 7,
+      "question": "What is the \"Law made simple\" solution?"
+    },
+    {
+      "question_id": 383,
+      "content_block_id": 7,
+      "question": "What is \"PTSD Help\"?"
+    },
+    {
+      "question_id": 384,
+      "content_block_id": 7,
+      "question": "What kind of resources are available through \"Sprijin de Urgență\"?"
+    },
+    {
+      "question_id": 385,
+      "content_block_id": 7,
+      "question": "How can one find or offer temporary accommodation using \"Un Acoperiș\"?"
+    },
+    {
+      "question_id": 386,
+      "content_block_id": 7,
+      "question": "In which Romanian cities are Dopomoha's services available?"
+    },
+    {
+      "question_id": 387,
+      "content_block_id": 7,
+      "question": "What organizations are partners in the Dopomoha initiative?"
+    },
+    {
+      "question_id": 388,
+      "content_block_id": 7,
+      "question": "How can feedback or errors be reported for Dopomoha?"
+    },
+    {
+      "question_id": 389,
+      "content_block_id": 7,
+      "question": "Is there a contact call center available for Dopomoha?"
+    },
+    {
+      "question_id": 390,
+      "content_block_id": 7,
+      "question": "Where can legal status information for Dopomoha be found?"
+    }
+  ]
+}

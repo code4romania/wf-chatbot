@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 726,
+      "content_block_id": 20,
+      "question": "Who is eligible for medical assistance in Romania?"
+    },
+    {
+      "question_id": 727,
+      "content_block_id": 20,
+      "question": "What types of medical services are available for foreign nationals from Ukraine?"
+    },
+    {
+      "question_id": 728,
+      "content_block_id": 20,
+      "question": "Are there any costs associated with medical services for Ukrainian nationals?"
+    },
+    {
+      "question_id": 729,
+      "content_block_id": 20,
+      "question": "Is a referral needed to access specialized outpatient healthcare?"
+    },
+    {
+      "question_id": 730,
+      "content_block_id": 20,
+      "question": "What medical support is provided to asylum seekers?"
+    },
+    {
+      "question_id": 731,
+      "content_block_id": 20,
+      "question": "Are there services for reproductive health or support for victims of domestic violence?"
+    },
+    {
+      "question_id": 732,
+      "content_block_id": 20,
+      "question": "Where can families of Ukrainian children with cancer find medical assistance?"
+    },
+    {
+      "question_id": 733,
+      "content_block_id": 20,
+      "question": "Are there services available for people living with HIV in Romania?"
+    },
+    {
+      "question_id": 734,
+      "content_block_id": 20,
+      "question": "What support is available for individuals with rare or chronic diseases?"
+    },
+    {
+      "question_id": 735,
+      "content_block_id": 20,
+      "question": "Can women and girls from Ukraine access gynecology medical services in Bucharest?"
+    },
+    {
+      "question_id": 736,
+      "content_block_id": 20,
+      "question": "What information is available regarding children's nutrition and breastfeeding?"
+    },
+    {
+      "question_id": 737,
+      "content_block_id": 20,
+      "question": "Are there resources about vaccination for children?"
+    },
+    {
+      "question_id": 738,
+      "content_block_id": 20,
+      "question": "Where can one find psychological support for children?"
+    },
+    {
+      "question_id": 739,
+      "content_block_id": 20,
+      "question": "What hygiene guidelines are provided for families?"
+    },
+    {
+      "question_id": 740,
+      "content_block_id": 20,
+      "question": "Is there support for families with children with disabilities?"
+    }
+  ]
+}

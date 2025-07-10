@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question_id": 835,
+      "content_block_id": 47,
+      "question": "What medical services and medicines are covered for COVID-19 treatment in Romania?"
+    },
+    {
+      "question_id": 836,
+      "content_block_id": 47,
+      "question": "Who qualifies for covered COVID-19 medical services and medicines in Romania?"
+    },
+    {
+      "question_id": 837,
+      "content_block_id": 47,
+      "question": "How can individuals in Romania with COVID-19 symptoms access remote consultations?"
+    },
+    {
+      "question_id": 838,
+      "content_block_id": 47,
+      "question": "What criteria determine eligibility for medical services in COVID-19 evaluation centers?"
+    },
+    {
+      "question_id": 839,
+      "content_block_id": 47,
+      "question": "What is the purpose of the \"Post-Covid-19 Syndrome Evaluation\" service?"
+    },
+    {
+      "question_id": 840,
+      "content_block_id": 47,
+      "question": "How can patients access the \"Post-Covid-19 Syndrome Evaluation\" service?"
+    },
+    {
+      "question_id": 841,
+      "content_block_id": 47,
+      "question": "Who qualifies for a continuous oxygen administration device after COVID-19?"
+    },
+    {
+      "question_id": 842,
+      "content_block_id": 47,
+      "question": "What is the process for obtaining continuous oxygen administration devices or noninvasive ventilation devices?"
+    },
+    {
+      "question_id": 843,
+      "content_block_id": 47,
+      "question": "What types of therapy and counseling are available for post-COVID-19 conditions?"
+    },
+    {
+      "question_id": 844,
+      "content_block_id": 47,
+      "question": "How are physical therapy, psychological counseling, and psychotherapy for post-COVID-19 conditions covered by health insurance?"
+    },
+    {
+      "question_id": 845,
+      "content_block_id": 47,
+      "question": "Which medical specialties can recommend therapy and counseling for post-COVID-19 conditions?"
+    },
+    {
+      "question_id": 846,
+      "content_block_id": 47,
+      "question": "Where can individuals get COVID-19 vaccinations in Bucharest?"
+    },
+    {
+      "question_id": 847,
+      "content_block_id": 47,
+      "question": "How can someone find a list of family medicine offices offering COVID-19 vaccination in Bucharest?"
+    }
+  ]
+}

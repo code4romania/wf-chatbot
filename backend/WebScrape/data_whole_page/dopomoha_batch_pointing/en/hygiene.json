@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 130,
+      "content_block_id": 29,
+      "answer": "Essential hygiene practices include frequent hand washing with soap, using individual or thoroughly washed dishes, and managing diaper needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 131,
+      "content_block_id": 29,
+      "answer": "Individuals can maintain personal cleanliness by washing hands frequently, using hand sanitizer or wet wipes when soap and water are unavailable, and making makeshift diapers if store-bought ones are scarce.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 132,
+      "content_block_id": 29,
+      "answer": "When soap and water are not accessible, effective methods for hand cleaning include using a hand sanitizer with at least 60% alcohol, or using alcohol or antibacterial wet wipes.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'What to do if there is no or limited access to soap and water'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 133,
+      "content_block_id": 29,
+      "answer": "One person typically needs about 7.5 litres of water per day for body washing, cooking, drinking, and washing dishes if they are in an apartment/house during a crisis.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 134,
+      "content_block_id": 29,
+      "answer": "To prevent germ transmission when sharing eating utensils, it's best to use individual or disposable dishes, or if sharing, thoroughly wash the common glass or mug, especially the edges, with detergents.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Use of utensils'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 135,
+      "content_block_id": 29,
+      "answer": "Makeshift baby diapers can be created from gauze, folded into layers and a triangle, or from a piece of cloth, folded and shaped to form a gasket.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Diapers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 136,
+      "content_block_id": 29,
+      "answer": "Disposable baby diapers can be repurposed by soaking them to swell the gel, making an incision to remove the gel and contents, rinsing and drying them, and then inserting a new gauze or cloth pad.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'How to use disposable diapers several times'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 137,
+      "content_block_id": 29,
+      "answer": "Important considerations for children's hygiene in difficult conditions include teaching them frequent hand washing, ensuring they use their own or thoroughly cleaned shared utensils, and managing diaper needs by making or repurposing them.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 138,
+      "content_block_id": 29,
+      "answer": "Personal hygiene becomes particularly vital during emergency situations because following hygiene rules helps protect the health of individuals and their children when access to basic needs is reduced.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 139,
+      "content_block_id": 29,
+      "answer": "Daily water requirements vary significantly; approximately 7.5 litres are needed in an apartment/house, while in a bomb shelter, the need decreases to about 1.5 litres of drinking water and 0.5-1 litres of technical water per person.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

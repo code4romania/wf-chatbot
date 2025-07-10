@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 410,
+      "content_block_id": 45,
+      "answer": "Compensated medicines are those reimbursed by the Health Fund and covered by the National Health and Welfare Fund, issued based on an electronic medical prescription or a medical prescription with a special regime.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 411,
+      "content_block_id": 45,
+      "answer": "Patients qualify for compensated medicines if they are covered by the National Health and Welfare Fund, have a valid medical prescription, and the drugs are included in the List of compensated drugs approved by Government Decision.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 412,
+      "content_block_id": 45,
+      "answer": "Compensated medicines cover conditions found in the \"Summary of product characteristics\" approved by the National Agency of Medicines and Medical Devices in Romania, conditions specified in therapeutic protocols for restricted drugs, and confirmed chronic diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 413,
+      "content_block_id": 45,
+      "answer": "Compensated medicines can be prescribed by family medicine doctors or specialist doctors who are under contract with a health insurance house, though certain drugs restricted by therapeutic protocols can only be prescribed by a specialist doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 414,
+      "content_block_id": 45,
+      "answer": "Patients can obtain compensated medicines from any community pharmacy in the country that has a contract with health insurance houses, excluding medicines subject to cost-volume-result contracts.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 415,
+      "content_block_id": 45,
+      "answer": "A doctor issues an electronic or special medical prescription, hands a copy to the patient for submission to the pharmacy, or for remote consultations, the patient can print the electronic document or send it online to the pharmacy.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 416,
+      "content_block_id": 45,
+      "answer": "The percentage of medicine cost covered by health insurance varies depending on the drug's classification, ranging from 20% to 100% of the prescribed price.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 417,
+      "content_block_id": 45,
+      "answer": "Prescriptions are valid for a maximum of 48 hours for acute/subacute conditions, 30 days for chronic conditions from the date of issuing, and up to 92 days for long-term chronic prescriptions issued in installments.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 418,
+      "content_block_id": 45,
+      "answer": "Health insurance houses contract with pharmacies and doctors to facilitate the dispensing and prescribing of compensated medicines, and they determine the maximum reimbursement amount for drugs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 419,
+      "content_block_id": 45,
+      "answer": "Different categories of drugs, identified by International Common Names (ICN) in sublists A, B, C, or D, determine their compensation percentage, which can be 90%, 50%, 100%, or 20% respectively.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 420,
+      "content_block_id": 45,
+      "answer": "Therapeutic protocols influence the prescription of certain drugs by restricting them to be prescribed only by specialist doctors and by defining the conditions under which these drugs can be prescribed and covered.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 421,
+      "content_block_id": 45,
+      "answer": "To receive compensated medicines, an electronic medical prescription or a medical prescription with a special regime is needed; additionally, a document from the hospital may be required if the patient is hospitalized and receiving drugs not available there.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 422,
+      "content_block_id": 45,
+      "answer": "People fleeing the war in Ukraine are exempted from paying personal contributions for medicines given in outpatient treatment, as stated in the “Guide on the rights of people from the armed conflict zone in Ukraine”.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 423,
+      "content_block_id": 45,
+      "answer": "If a hospitalized patient needs compensated drugs not available in the hospital, family doctors or doctors from specialized outpatient clinics can issue a prescription for them, provided the patient presents a document from the hospital confirming their hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 424,
+      "content_block_id": 45,
+      "answer": "Electronic medical prescriptions are issued by doctors, and for remote consultations, the patient or their representative can print the document sent by the doctor or send it online to the pharmacy for printing and dispensing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

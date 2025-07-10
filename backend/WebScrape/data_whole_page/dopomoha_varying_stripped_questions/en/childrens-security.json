@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 851,
+      "content_block_id": 30,
+      "question": "What items are recommended for a child's emergency safety backpack?"
+    },
+    {
+      "question_id": 852,
+      "content_block_id": 30,
+      "question": "What personal identification information should be included in a child's safety kit?"
+    },
+    {
+      "question_id": 853,
+      "content_block_id": 30,
+      "question": "What essential information should children know in case they get lost?"
+    },
+    {
+      "question_id": 854,
+      "content_block_id": 30,
+      "question": "Which emergency contact numbers are crucial for a child to remember?"
+    },
+    {
+      "question_id": 855,
+      "content_block_id": 30,
+      "question": "How can parents prepare children for a situation where they might get separated?"
+    },
+    {
+      "question_id": 856,
+      "content_block_id": 30,
+      "question": "What immediate actions should parents take if their child is lost?"
+    },
+    {
+      "question_id": 857,
+      "content_block_id": 30,
+      "question": "Who should parents contact if their child goes missing in public?"
+    },
+    {
+      "question_id": 858,
+      "content_block_id": 30,
+      "question": "What steps should someone take if they find a child alone without an adult?"
+    },
+    {
+      "question_id": 859,
+      "content_block_id": 30,
+      "question": "Where should an unaccompanied child be taken for safety?"
+    },
+    {
+      "question_id": 860,
+      "content_block_id": 30,
+      "question": "How can a safe home environment be established for children?"
+    },
+    {
+      "question_id": 861,
+      "content_block_id": 30,
+      "question": "What household hazards should be secured to protect children?"
+    },
+    {
+      "question_id": 862,
+      "content_block_id": 30,
+      "question": "What precautions are needed for electrical outlets and appliances around children?"
+    },
+    {
+      "question_id": 863,
+      "content_block_id": 30,
+      "question": "How can furniture and stairs be made safer for children?"
+    },
+    {
+      "question_id": 864,
+      "content_block_id": 30,
+      "question": "What safety measures apply to children interacting with pets or riding in vehicles?"
+    }
+  ]
+}

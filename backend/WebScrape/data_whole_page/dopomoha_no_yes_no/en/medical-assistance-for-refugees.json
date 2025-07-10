@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question_id": 199,
+      "content_block_id": 50,
+      "question": "What are the eligibility criteria for refugees from Ukraine to receive medical assistance?"
+    },
+    {
+      "question_id": 200,
+      "content_block_id": 50,
+      "question": "How can refugees from Ukraine access healthcare services?"
+    },
+    {
+      "question_id": 201,
+      "content_block_id": 50,
+      "question": "What services does a family doctor typically provide?"
+    },
+    {
+      "question_id": 202,
+      "content_block_id": 50,
+      "question": "How does one go about using the services of a family doctor?"
+    },
+    {
+      "question_id": 203,
+      "content_block_id": 50,
+      "question": "Where can one find free laboratories for medical examinations?"
+    },
+    {
+      "question_id": 204,
+      "content_block_id": 50,
+      "question": "What are the standard procedures for conducting laboratory analyses and imaging investigations?"
+    },
+    {
+      "question_id": 205,
+      "content_block_id": 50,
+      "question": "How can one obtain a consultation with a medical specialist?"
+    },
+    {
+      "question_id": 206,
+      "content_block_id": 50,
+      "question": "What types of services are included in the basic package provided by a narrow specialist?"
+    },
+    {
+      "question_id": 207,
+      "content_block_id": 50,
+      "question": "Who is responsible for paying for hospitalization services?"
+    },
+    {
+      "question_id": 208,
+      "content_block_id": 50,
+      "question": "Under what conditions are hospitalization services provided in public and private institutions?"
+    },
+    {
+      "question_id": 209,
+      "content_block_id": 50,
+      "question": "What is the cost of dental treatment for various categories of patients in Romania?"
+    },
+    {
+      "question_id": 210,
+      "content_block_id": 50,
+      "question": "Which dental services are included in the basic dental medicine package in Romania?"
+    },
+    {
+      "question_id": 211,
+      "content_block_id": 50,
+      "question": "What procedures are typically involved in outpatient medical recovery and physical medicine services?"
+    },
+    {
+      "question_id": 212,
+      "content_block_id": 50,
+      "question": "In what ways can one receive medical recovery through treatment in hospitals or sanatoriums?"
+    },
+    {
+      "question_id": 213,
+      "content_block_id": 50,
+      "question": "Which medical professionals are authorized to prescribe compensated medicines?"
+    },
+    {
+      "question_id": 214,
+      "content_block_id": 50,
+      "question": "What types of medicines are covered by the Health Fund's compensation lists?"
+    },
+    {
+      "question_id": 215,
+      "content_block_id": 50,
+      "question": "How does one go about obtaining medical devices?"
+    },
+    {
+      "question_id": 216,
+      "content_block_id": 50,
+      "question": "What provisions are in place for the treatment of patients with Covid-19 in Romania?"
+    },
+    {
+      "question_id": 217,
+      "content_block_id": 50,
+      "question": "What medical services are specifically available for pregnant women?"
+    },
+    {
+      "question_id": 218,
+      "content_block_id": 50,
+      "question": "What types of assistance are provided at a Women's center?"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 552,
+      "content_block_id": 65,
+      "question": "What exactly are website cookies?"
+    },
+    {
+      "question_id": 553,
+      "content_block_id": 65,
+      "question": "How do website cookies function?"
+    },
+    {
+      "question_id": 554,
+      "content_block_id": 65,
+      "question": "Why do websites use cookies?"
+    },
+    {
+      "question_id": 555,
+      "content_block_id": 65,
+      "question": "What types of information do cookies store?"
+    },
+    {
+      "question_id": 556,
+      "content_block_id": 65,
+      "question": "What privacy implications arise from using website cookies?"
+    },
+    {
+      "question_id": 557,
+      "content_block_id": 65,
+      "question": "How can website cookies impact online security?"
+    },
+    {
+      "question_id": 558,
+      "content_block_id": 65,
+      "question": "What steps can users take to manage website cookie settings?"
+    },
+    {
+      "question_id": 559,
+      "content_block_id": 65,
+      "question": "Which common websites rely on cookies for functionality?"
+    },
+    {
+      "question_id": 560,
+      "content_block_id": 65,
+      "question": "What happens when someone chooses to disable website cookies?"
+    },
+    {
+      "question_id": 561,
+      "content_block_id": 65,
+      "question": "Who determines the lifespan of a website cookie?"
+    },
+    {
+      "question_id": 562,
+      "content_block_id": 65,
+      "question": "In what ways do third-party cookies differ from other website cookies?"
+    },
+    {
+      "question_id": 563,
+      "content_block_id": 65,
+      "question": "What advantages do website cookies offer to users?"
+    },
+    {
+      "question_id": 564,
+      "content_block_id": 65,
+      "question": "How does online advertising relate to website cookies?"
+    },
+    {
+      "question_id": 565,
+      "content_block_id": 65,
+      "question": "What are the potential risks associated with website cookies?"
+    },
+    {
+      "question_id": 566,
+      "content_block_id": 65,
+      "question": "How can individuals browse safely when website cookies are present?"
+    }
+  ]
+}

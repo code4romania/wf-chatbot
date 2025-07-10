@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 368,
+      "content_block_id": 39,
+      "answer": "Specialized medical assistance generally includes specialist consultations and specialized ambulatory medical assistance, encompassing services like emergency care, treatment for acute and chronic conditions, family planning, palliative care, and diagnostic services.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 369,
+      "content_block_id": 39,
+      "answer": "Individuals can typically receive specialized ambulatory medical assistance in medical practices, health units, specialized and integrated outpatient clinics within hospitals, diagnostic and treatment medical centers, and palliative care clinics.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 370,
+      "content_block_id": 39,
+      "answer": "The content implies that individuals usually obtain a specialist consultation by presenting a referral ticket, as it specifies situations where this ticket is not mandatory.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 371,
+      "content_block_id": 39,
+      "answer": "Specialist consultations without a referral ticket are allowed for people coming from the war zones of Ukraine, and for remote consultations concerning chronic conditions or diseases with endemo-epidemic potential requiring isolation.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 372,
+      "content_block_id": 39,
+      "answer": "Patients with chronic conditions can receive a maximum of 4 consultations per quarter, or a maximum of 2 consultations per month, for services including evaluation, laboratory investigations, treatment prescription, and disease follow-up.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 373,
+      "content_block_id": 39,
+      "answer": "Day hospitalization services involve a combination of clinical medical services and investigations, lasting less than 12 hours, and can be provided for diagnostic purposes or services like pregnancy monitoring and early detection of precancerous lesions.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 374,
+      "content_block_id": 39,
+      "answer": "Medical services that can be delivered remotely include consultations for chronic conditions or endemo-epidemic diseases requiring isolation, psychiatric therapies, psychological counseling, psychotherapy, and services provided by a speech therapist.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 375,
+      "content_block_id": 39,
+      "answer": "After consultations, a specialist doctor can establish therapeutic conduct, prescribe treatment, recommend medical/palliative care at home, suggest medical devices, conduct assessments for chronic conditions, issue referral tickets for other specialties, and issue medical leave certificates.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 376,
+      "content_block_id": 39,
+      "answer": "Patients can access services from a psychologist or physiotherapist if recommended by specialist doctors, provided the outpatient clinic has qualified staff or a contract with a service provider, or specifically for post-COVID-19 conditions through recommendations from cardiology and pneumology doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 377,
+      "content_block_id": 39,
+      "answer": "Services offered by a psychologist include psychological counseling, psychotherapy, and special psychopedagogical counseling, which can also be provided through a speech therapist.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 378,
+      "content_block_id": 39,
+      "answer": "Services offered by a physiotherapist include individual or group physiotherapy, and physiotherapy utilizing special devices like mechanical, electromechanical, or robotic devices.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 379,
+      "content_block_id": 39,
+      "answer": "Consultations are offered free of charge to insured individuals with a confirmed diagnosis upon leaving the hospital for tracking treatment evolution, performing therapeutic procedures, wound care (e.g., thread/cast removal), and recommendations for necessary paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
