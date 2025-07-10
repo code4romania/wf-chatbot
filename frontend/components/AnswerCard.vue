@@ -4,7 +4,7 @@
     <p class="prompt-text">{{ answer.matched_prompt }}</p>
 
     <h4>Response:</h4>
-    <p class="response-text">{{ answer.response }}</p>
+    <p class="response-text">{{ answer.response }} {{ answer.instruction }}</p>
 
     <div class="answer-meta">
       <p>Score: <strong>{{ answer.score.toFixed(4) }}</strong> ({{ answer.metric }})</p>

@@ -25,6 +25,11 @@ prompt_matcher_concat: Optional[PromptMatcher] = None
 prompt_matcher_no_concat: Optional[PromptMatcher] = None
 
 
+CITY_LIST = [
+        "braila", "brasov", "cluj-napoca", "constanta", "galati",
+        "iasi", "oradea", "sibiu", "suceava", "timisoara"
+]
+
 # --- FastAPI App Setup ---
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -36,18 +41,18 @@ async def lifespan(app: FastAPI):
     logging.info("Starting up API...")
     try:
         logging.info(f"Initializing PromptMatcher (concat=True) with data path: {BASE_DATA_PATH}")
-        prompt_matcher_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=True)
-        if prompt_matcher_concat.df is None or prompt_matcher_concat.df.empty:
+        prompt_matcher_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=True, city_names= CITY_LIST)
+        if prompt_matcher_concat.full_df is None or prompt_matcher_concat.full_vectors is None:
             logging.warning("PromptMatcher (concat=True) initialized but no data was loaded. Check data path and files.")
         else:
-            logging.info(f"PromptMatcher (concat=True) successfully loaded {len(prompt_matcher_concat.df)} data entries.")
+            logging.info(f"PromptMatcher (concat=True) successfully loaded {len(prompt_matcher_concat.full_df)} data entries.")
 
         logging.info(f"Initializing PromptMatcher (concat=False) with data path: {BASE_DATA_PATH}")
-        prompt_matcher_no_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=False)
-        if prompt_matcher_no_concat.df is None or prompt_matcher_no_concat.df.empty:
+        prompt_matcher_no_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=False, city_names= CITY_LIST)
+        if prompt_matcher_concat.full_df is None or prompt_matcher_concat.full_vectors is None:
             logging.warning("PromptMatcher (concat=False) initialized but no data was loaded. Check data path and files.")
         else:
-            logging.info(f"PromptMatcher (concat=False) successfully loaded {len(prompt_matcher_no_concat.df)} data entries.")
+            logging.info(f"PromptMatcher (concat=False) successfully loaded {len(prompt_matcher_no_concat.full_df)} data entries.")
 
     except FileNotFoundError as e:
         logging.error(f"Failed to initialize PromptMatcher: {e}. Please check BASE_DATA_PATH.")
@@ -110,6 +115,7 @@ class QueryRequest(BaseModel):
 class MatchedResponse(BaseModel):
     matched_prompt: str
     response: str
+    instruction: str
     score: float
     metric: str
     question_id: int
@@ -155,7 +161,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
         current_prompt_matcher = prompt_matcher_no_concat
         concat_option_active = False
 
-    if current_prompt_matcher is None or current_prompt_matcher.df is None or current_prompt_matcher.df.empty:
+    if current_prompt_matcher is None or current_prompt_matcher.full_df is None or current_prompt_matcher.full_vectors is None:
         raise HTTPException(
             status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
             detail="Selected PromptMatcher is not initialized or data is not loaded yet. Please try again later.",
