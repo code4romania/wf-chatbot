@@ -2,8 +2,6 @@
   <div class="container">
     <h1 class="text-center">Dopomoha Smart FAQ</h1>
 
-    <p class="text-center">Is Concat Matcher Active? {{ useConcatMatcher }}</p>
-
     <div class="query-section">
       <input type="text" v-model="userQuery" placeholder="Enter your query..." @keyup.enter="sendQuery" />
       <button @click="sendQuery" :disabled="loading">Search</button>
@@ -115,10 +113,9 @@ const sendQuery = async () => {
         top_k: topK.value,
         metric: 'cosine',
         session_id: sessionId.value,
-        use_concat_matcher: useConcatMatcher.value, // Pass the selected option
+        use_concat_matcher: false, // Pass the selected option
       }),
     });
-    console.log(useConcatMatcher.value)
 
     if (!response.ok) {
       const errorData = await response.json();
@@ -151,18 +148,6 @@ const handleReviewSubmitted = (reviewData) => {
   }
 };
 
-// Expose a global function to toggle the concat option from the browser console
-onMounted(() => {
-  window.change = () => {
-    useConcatMatcher.value = !useConcatMatcher.value;
-    console.log(`Concat option changed to: ${useConcatMatcher.value}`);
-    alert(`Concat option for new queries will now be: ${useConcatMatcher.value ? 'concatenated' : 'separate'}`);
-  };
-
-  // --- NEW: Log the random number and concat selection on mount ---
-  console.log(`Initial random number: ${randomNumberUsed.value}`);
-  console.log(`Concat selection on start/refresh: ${useConcatMatcher.value ? 'concatenated' : 'separate'}`);
-});
 </script>
 
 <style>

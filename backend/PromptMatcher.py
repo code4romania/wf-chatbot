@@ -94,7 +94,10 @@ class PromptMatcher:
             for city in self.city_names:
                 if file_name_stem == f"dopomoha-{city}":
                     city_name_for_file = city.lower() # Ensure lowercase for consistency
+                    print("City detected!!!!!!! ", city_name_for_file)
                     break
+                
+            print("CITY: ",file_name_stem, city_name_for_file)
             
             # Load questions from this file
             questions_in_file: Dict[int, Dict[str, Union[str, None]]] = {}
@@ -198,6 +201,7 @@ class PromptMatcher:
         self._current_df_subset = self.full_df[mask].copy()
         self._current_vectors_subset = self.full_vectors[mask] # NumPy directly accepts boolean arrays for indexing
         
+        print("NANI SKİM", len(self._current_df_subset))
         if self._current_df_subset.empty:
             logger.warning("No data in the selected corpus subset. This might indicate an issue with your data or city detection.")
             self._current_vectors_subset = np.array([]) # Ensure it's an empty array if df is empty
