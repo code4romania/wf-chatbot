@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question_id": 690,
+      "content_block_id": 70,
+      "question": "What is the PTSD Help app's main purpose?"
+    },
+    {
+      "question_id": 691,
+      "content_block_id": 70,
+      "question": "What resources does the PTSD Help app provide?"
+    },
+    {
+      "question_id": 692,
+      "content_block_id": 70,
+      "question": "How does the PTSD Help app assist with symptoms?"
+    },
+    {
+      "question_id": 693,
+      "content_block_id": 70,
+      "question": "What crisis support contacts does the PTSD Help app list?"
+    },
+    {
+      "question_id": 694,
+      "content_block_id": 70,
+      "question": "What professional treatments does the PTSD Help app detail?"
+    },
+    {
+      "question_id": 695,
+      "content_block_id": 70,
+      "question": "How was the PTSD Help app developed?"
+    },
+    {
+      "question_id": 696,
+      "content_block_id": 70,
+      "question": "What platforms is the PTSD Help app available on?"
+    },
+    {
+      "question_id": 697,
+      "content_block_id": 70,
+      "question": "What vulnerable people is the PTSD Help app for?"
+    }
+  ]
+}

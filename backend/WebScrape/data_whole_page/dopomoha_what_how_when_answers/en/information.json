@@ -1,0 +1,224 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 520,
+      "content_block_id": 21,
+      "answer": "If you have Ukrainian citizenship, you can enter Romania with a short stay status by presenting your biometric or simple passport at the Romanian border crossing point.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Who and how can enter Romania? What documents do I need to present at the border crossing in order to enter Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 521,
+      "content_block_id": 21,
+      "answer": "Ukrainian men between 18 and 60 are allowed access if they meet conditions for leaving Ukraine and entering Romania, while boys under 18 and men over 60 can enter freely.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Are Ukrainian men allowed into Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 522,
+      "content_block_id": 21,
+      "answer": "Pets must be microchipped, vaccinated against rabies (at least 21 days prior and after 12 weeks of age), and tested for rabies antibodies 30 days post-vaccination and less than 3 months before travel, with results attached to a health certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Can I bring along an animal without a vaccination certificate?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 523,
+      "content_block_id": 21,
+      "answer": "Third-country nationals who resided in Ukraine can enter Romania with a valid passport for transit purposes, obtaining a Romanian transit visa for up to 90 days on arrival at the border point.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What if I am fleeing the war in Ukraine, but I am not an Ukrainian national?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 524,
+      "content_block_id": 21,
+      "answer": "Temporary protection is a special form of protection offered by EU Member States for people fleeing the conflict in Ukraine, granting beneficiaries protection by the Romanian state and access to social and economic rights.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What is temporary protection?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 525,
+      "content_block_id": 21,
+      "answer": "Temporary protection is granted by the General Inspectorate for Immigration; to apply, contact the Immigration Office or a Regional Center for Procedures and Accommodation for Asylum Seekers in the county where you are located.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How is temporary protection granted in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 526,
+      "content_block_id": 21,
+      "answer": "Beneficiaries have rights including a residence permit, written information about protection terms, access to employment and education, financial support if needed, and free primary and emergency medical care. Children under 18 also have free access to the national educational system.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What are my rigthts as a beneficiary of temporary protection?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 527,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens can stay in Romania for 90 days without a visa.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'I am Ukrainian; do I need a visa to be able to stay in the country or register with the authorities?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 528,
+      "content_block_id": 21,
+      "answer": "Unaccompanied minors can receive help from government authorities, DGASPC, UNHCR, or IOM to find safe accommodation and care, and can also call the national child protection hotline 119.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'I’m staying in Romania without my parents or family members. What kind of help can I get?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 529,
+      "content_block_id": 21,
+      "answer": "To enroll a child, you must go to the School Inspectorate, which will assign your child to a school where there are resources for learning in the Ukrainian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I enroll my child in a school in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 530,
+      "content_block_id": 21,
+      "answer": "Children in Romania have the right to stay, be legally safe, receive help with accommodation, food, transport, health, and schooling, and have special rights including staying with family, going to school, playing, receiving help if hurt, and having their views taken seriously.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'I’m under 18, what do I need to know about my rights here?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 531,
+      "content_block_id": 21,
+      "answer": "Foreign nationals from Ukraine can access free medical services, supplies, and treatments through the national health system, similar to insured Romanian citizens, without needing a referral for specialized outpatient care. Medicover also offers specific free services and a dedicated helpline for Ukrainian refugee women.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Do I have access to medical services in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 532,
+      "content_block_id": 21,
+      "answer": "The ACCEPT Association provides various forms of support, including relocation, transport, accommodation, food, counseling, and psychological services. Other organizations include ACT-Q ROMANIA Association, Associatia PRIDE, Equal from Romania, Eu sunt! Tu?, Identity.Education, and MozaiQ LGBT.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Are there organizations that help the LGBTQIA + community?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 533,
+      "content_block_id": 21,
+      "answer": "Ukrainian hryvnia (UAH) can be exchanged to Romanian lei (RON) at BCR (Romanian Commercial Bank) branches at the BNR exchange rate, up to 1,000 lei per Ukrainian passport.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I exchange UAH to RON?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 534,
+      "content_block_id": 21,
+      "answer": "Beneficiaries of temporary protection in Romania may be eligible for a monthly lump sum to cover accommodation expenses for up to three consecutive months, starting from their entry date into Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Conditions of the financial support program for beneficiaries of temporary protection'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 535,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens who entered Romania legally and have not requested protection can work without a job permit or visa, under the same conditions as Romanian citizens. If lacking documents, a statement of training or experience can be provided, valid for 12 months.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What procedure do I have to follow to get a job in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 536,
+      "content_block_id": 21,
+      "answer": "Asylum applications are submitted in person by foreigners in Romania or at a border crossing point, by going to one of the six Regional Centers for Housing and Procedures for Asylum Seekers or competent authorities like the General Inspectorate for Immigration.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can I make a claim for asylum in Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 537,
+      "content_block_id": 21,
+      "answer": "Asylum seekers have rights including information about procedures, confidentiality, a temporary identity document, accommodation, free healthcare, and access to the labor market after three months, plus financial aid of approximately 20 RON per day.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'What are my rights as an asylum seeker?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 538,
+      "content_block_id": 21,
+      "answer": "Temporary protection ends when its maximum duration is reached, or at any time by a decision of the Council of the European Union. Currently, permits for existing beneficiaries are automatically valid until April 3, 2024.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Temporary protection'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 20,
+      "question_id": 539,
+      "content_block_id": 21,
+      "answer": "From Ukraine, you can cross at Halmeu, Sighetu Marmației, Siret, and Isaccea. From the Republic of Moldova, you can use Rădăuți Prut, Albita, Sculeni, Stânca, and Galați border points.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Which border points can be used to cross into Romania?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 516,
+      "content_block_id": 65,
+      "question": "What is a cookie and how does it facilitate internet access?"
+    },
+    {
+      "question_id": 517,
+      "content_block_id": 65,
+      "question": "How are cookies categorized based on their storage duration?"
+    },
+    {
+      "question_id": 518,
+      "content_block_id": 65,
+      "question": "What are third-party cookies, and how do they function on websites?"
+    },
+    {
+      "question_id": 519,
+      "content_block_id": 65,
+      "question": "What benefits do cookies offer for a user's online browsing experience?"
+    },
+    {
+      "question_id": 520,
+      "content_block_id": 65,
+      "question": "When does a cookie's lifespan typically end or how can it be terminated?"
+    },
+    {
+      "question_id": 521,
+      "content_block_id": 65,
+      "question": "What specific types of information can be stored and accessed through cookies?"
+    },
+    {
+      "question_id": 522,
+      "content_block_id": 65,
+      "question": "How do cookies contribute to the overall efficiency of the Internet?"
+    },
+    {
+      "question_id": 523,
+      "content_block_id": 65,
+      "question": "What are the potential privacy and security concerns associated with cookies?"
+    },
+    {
+      "question_id": 524,
+      "content_block_id": 65,
+      "question": "How can users adjust their browser settings to control cookie acceptance?"
+    },
+    {
+      "question_id": 525,
+      "content_block_id": 65,
+      "question": "What happens to a user's online experience if cookies are rejected or disabled?"
+    },
+    {
+      "question_id": 526,
+      "content_block_id": 65,
+      "question": "How can cookies be used for visitor analysis on a website?"
+    },
+    {
+      "question_id": 527,
+      "content_block_id": 65,
+      "question": "What precautions should users take to ensure safe browsing when using cookies?"
+    }
+  ]
+}

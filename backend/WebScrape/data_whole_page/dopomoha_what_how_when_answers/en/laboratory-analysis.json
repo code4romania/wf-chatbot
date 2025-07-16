@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 888,
+      "content_block_id": 38,
+      "answer": "Refugees from Ukraine can get free medical tests by having a referral ticket from a family medicine doctor or specialist doctor contracted with a health insurance company, and by going to a laboratory that also has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 889,
+      "content_block_id": 38,
+      "answer": "Available medical tests include hematological, serum, urine, immunological, microbiological analyses, examination of sampled tissues, the Papanicolaou test, and imaging investigations like radiology, ultrasounds, doppler, CT, MRI, scintigraphy, and angiography.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'Patients can benefit from different categories of laboratory analyses, such as:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 890,
+      "content_block_id": 38,
+      "answer": "To benefit from free medical investigations, patients must have a referral ticket from a family medicine doctor or specialist doctor who has a contract with a health insurance company, and they must go to a laboratory that also has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 891,
+      "content_block_id": 38,
+      "answer": "A referral ticket for medical tests can be obtained from a family medicine doctor or a specialist doctor who has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 892,
+      "content_block_id": 38,
+      "answer": "Referral tickets are issued by a family medicine doctor or a specialist doctor who has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 893,
+      "content_block_id": 38,
+      "answer": "One can find laboratories contracting with health insurance by accessing the CNAS website (www.cnas.ro) and navigating through the 'Informații Furnizori' menu to 'Rapoarte online furnizori' and then 'Raportare paraclinic – vezi mai mult', or by checking the web pages of health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 894,
+      "content_block_id": 38,
+      "answer": "The CNAS website provides contact details of medical providers, a list of laboratories that have contracts with health insurance companies, and the funds available for each laboratory.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 895,
+      "content_block_id": 38,
+      "answer": "A referral ticket for laboratory investigations is valid for 30 days, but for chronic diseases or analyses involving tissue collection, its validity extends up to 90 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 896,
+      "content_block_id": 38,
+      "answer": "If investigations cannot be carried out right away, the laboratory has an obligation to schedule the patient during the validity period of the referral ticket.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 897,
+      "content_block_id": 38,
+      "answer": "If a patient refuses a scheduled appointment, the laboratory returns the referral ticket so the patient can present it to another investigation laboratory.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 898,
+      "content_block_id": 38,
+      "answer": "Priority investigations are for patients with COVID-19 (after leaving hospital or ending isolation), oncological diseases, diabetes, rare diseases, cardiovascular diseases, cerebrovascular diseases, and neurological diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 899,
+      "content_block_id": 38,
+      "answer": "Investigations are covered even if the contract value is exceeded for monitoring patients with specific chronic conditions (if specified on the referral note) and for preventive consultations recommended by a family medicine doctor for patients over 40 years old.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

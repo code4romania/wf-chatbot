@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 798,
+      "content_block_id": 11,
+      "question": "What are these regional centers?"
+    },
+    {
+      "question_id": 799,
+      "content_block_id": 11,
+      "question": "How do regional centers function?"
+    },
+    {
+      "question_id": 800,
+      "content_block_id": 11,
+      "question": "What services do regional centers offer?"
+    },
+    {
+      "question_id": 801,
+      "content_block_id": 11,
+      "question": "What are the addresses of regional centers?"
+    },
+    {
+      "question_id": 802,
+      "content_block_id": 11,
+      "question": "How can regional centers be contacted by phone?"
+    },
+    {
+      "question_id": 803,
+      "content_block_id": 11,
+      "question": "What are the email addresses for regional centers?"
+    },
+    {
+      "question_id": 804,
+      "content_block_id": 11,
+      "question": "When are regional centers available for public contact?"
+    },
+    {
+      "question_id": 805,
+      "content_block_id": 11,
+      "question": "What areas do regional centers serve?"
+    },
+    {
+      "question_id": 806,
+      "content_block_id": 11,
+      "question": "How does one reach regional centers by fax?"
+    },
+    {
+      "question_id": 807,
+      "content_block_id": 11,
+      "question": "What is the purpose of regional centers?"
+    }
+  ]
+}

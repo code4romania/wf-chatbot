@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 371,
+      "content_block_id": 45,
+      "answer": "Compensated medicines are those reimbursed by the Health Fund and covered by the National Health and Welfare Fund, issued based on an electronic medical prescription or a special regime medical prescription.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 372,
+      "content_block_id": 45,
+      "answer": "Medicines are reimbursed by the Health Fund as they are covered by the National Health and Welfare Fund and issued based on an electronic or special regime medical prescription.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 373,
+      "content_block_id": 45,
+      "answer": "Medicines require an electronic medical prescription or a medical prescription with a special regime, such as green or yellow forms for psychotropic and narcotic drugs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 374,
+      "content_block_id": 45,
+      "answer": "Only drugs included in the List of compensated drugs, which is approved through a Government’s Decision, can be prescribed and financially covered.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 375,
+      "content_block_id": 45,
+      "answer": "Compensated medicines can only be dispensed by community pharmacies that have contracts with health insurance houses, and patients can pick them up from any such pharmacy in the country.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 376,
+      "content_block_id": 45,
+      "answer": "Compensated medicines can be prescribed by the family medicine doctor or a specialist doctor under contract with a health insurance house, though certain drugs are restricted to specialist doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 377,
+      "content_block_id": 45,
+      "answer": "An electronic medical prescription for chronic conditions is valid for a maximum of 30 days from its issuance, while for acute and subacute conditions it is valid for a maximum of 48 hours. Prescriptions issued for 90/91/92 days online have a maximum validity of 92 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 378,
+      "content_block_id": 45,
+      "answer": "The percentage of compensation applied to the set price for medicines depends on the calculation in which the medicinal product prescribed by the attending physician is located.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 379,
+      "content_block_id": 45,
+      "answer": "The compensation percentages are 90% for sublist A, 50% for sublist B, 100% for sublist C, and 20% for sublist D, corresponding to different International Common Names (ICN).",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 380,
+      "content_block_id": 45,
+      "answer": "Medicines can be picked up from any pharmacy in the country that has a contract with health insurance houses, except for those subject to cost-volume-result contracts.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 381,
+      "content_block_id": 45,
+      "answer": "Hospitalized patients can benefit from compensated drugs for chronic diseases even if the hospital doesn't have them, with prescriptions issued by family or specialist doctors upon presentation of a document proving hospitalization. Hospitals must also publish their list of available medicines.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 382,
+      "content_block_id": 45,
+      "answer": "For electronic prescriptions from remote consultations, the patient or collector can print the document sent by the doctor or send it online to the pharmacy for printing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 383,
+      "content_block_id": 45,
+      "answer": "A medical prescription for acute conditions is valid for a maximum of 48 hours from the date of its issuing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 384,
+      "content_block_id": 45,
+      "answer": "Compensated drugs can be covered for conditions found in the \"Summary of product characteristics\" approved by the National Agency of Medicines and Medical Devices in Romania, or as per therapeutic protocols for restricted drugs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 385,
+      "content_block_id": 45,
+      "answer": "People fleeing the war in Ukraine are exempt from paying the personal contribution for medicines given in outpatient treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

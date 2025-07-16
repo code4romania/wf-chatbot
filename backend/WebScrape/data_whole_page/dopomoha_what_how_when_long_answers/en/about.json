@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 737,
+      "content_block_id": 3,
+      "answer": "Dopomoha (Help) is a web support and information platform designed for migrants fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 738,
+      "content_block_id": 3,
+      "answer": "Dopomoha supports migrants by providing reliable, timely, and straightforward information regarding safely entering Romania and navigating a new country.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 739,
+      "content_block_id": 3,
+      "answer": "Users can find information on entry requirements at the border, asylum procedures in Romania, their rights and obligations as asylum seekers, and useful resources for their stay.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 740,
+      "content_block_id": 3,
+      "answer": "Dopomoha is available in Romanian, Ukrainian, English, and Russian.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 741,
+      "content_block_id": 3,
+      "answer": "The Dopomoha platform is updated regularly with verified information obtained from official sources.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 742,
+      "content_block_id": 3,
+      "answer": "Key partners in the Dopomoha project include Code for Romania, the Department for Emergency Situations (DSU), The UN Refugee Agency, International Organization for Migration (OIM), and the National Romanian Council for Refugees (CNRR).",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 743,
+      "content_block_id": 3,
+      "answer": "Individuals can share information about Dopomoha by downloading the DOPOMOHA poster and sharing it where it matters most.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 744,
+      "content_block_id": 3,
+      "answer": "Displaced people can access information through Dopomoha at any time, as it can be accessed through a browser from any device.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 745,
+      "content_block_id": 3,
+      "answer": "Code for Romania War Task Force is supported by ING Bank.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

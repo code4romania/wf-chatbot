@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 121,
+      "content_block_id": 29,
+      "answer": "The essential rules of hygiene during a crisis include frequent hand washing, proper management of water for various needs, careful use of utensils to prevent pathogen spread, and improvising diapers if store-bought ones are unavailable.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 122,
+      "content_block_id": 29,
+      "answer": "Following hygiene rules can help protect your health and the health of your child by preventing the spread of pathogens, for example, through proper hand washing and careful use of shared utensils.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hygiene War'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 123,
+      "content_block_id": 29,
+      "answer": "Hands should be washed often with soap after visiting the toilet, being on public transport, touching surfaces outside the house including money, before cooking and eating, after contact with a pet, and before any self-care or child-care procedures.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 124,
+      "content_block_id": 29,
+      "answer": "To wash hands properly, open the tap, soap your palms, carefully rub the inside and back, wash off the soap, and then close the tap; in public places, it's best to open and close the faucet with a paper towel.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'How to wash your hands properly?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 125,
+      "content_block_id": 29,
+      "answer": "If soap and water are not accessible, one can use a hand sanitizer containing at least 60% alcohol, rubbing it for 20-30 seconds, or use alcohol or antibacterial wet wipes to clean hands.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'What to do if there is no or limited access to soap and water'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 126,
+      "content_block_id": 29,
+      "answer": "In times of crisis, a person mostly not in a shelter but in an apartment or house needs about 7.5 litres of water per day for body washing, cooking, drinking, and washing dishes.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 127,
+      "content_block_id": 29,
+      "answer": "In a bomb shelter, daily water needs decrease to 1.5 litres of drinking water and 0.5-1 litres of technical water for hygiene per person, whereas in an apartment or house, it's about 7.5 litres per day.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 128,
+      "content_block_id": 29,
+      "answer": "To prevent the spread of pathogens, children should use individual or disposable dishes, and if sharing, common glasses or mugs must be thoroughly washed with detergents, especially the edges, before use.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Use of utensils'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 129,
+      "content_block_id": 29,
+      "answer": "Shared glasses or mugs should be thoroughly washed with detergents before drinking, paying special attention to the edges that touch the lips to prevent pathogen transfer.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Use of utensils'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 130,
+      "content_block_id": 29,
+      "answer": "To make a gauze diaper, fold one piece of gauze into 3-4 layers as a paddle, then make a triangle from another cut and place the paddle on it. Position the baby on the triangle with the paddle reaching the middle of the back, fold the triangle like panties, and carefully trim the edges.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'How to make a diaper out of gauze'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 131,
+      "content_block_id": 29,
+      "answer": "To make a cloth diaper, fold the cloth in four and bend it towards you, then place a finger between the folds while holding the tip to push its end and make a triangle. Finally, turn the cloth triangle upside down and fold the remaining residue into two layers to form a gasket in the middle.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'How to make a diaper from a piece of cloth'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 132,
+      "content_block_id": 29,
+      "answer": "Disposable diapers can be reused by soaking them in water to swell the gel, making a horizontal incision to remove the gel and contents, then rinsing and drying them. Afterward, insert a gauze or cloth pad into the dry diaper's pocket and change it as needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'How to use disposable diapers several times'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

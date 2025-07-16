@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 77,
+      "content_block_id": 46,
+      "answer": "Medical devices are given to patients for a fixed or indefinite period, based on a medical prescription issued by a doctor in contractual relation with the health insurance house.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 78,
+      "content_block_id": 46,
+      "answer": "Medical prescriptions for devices lose their validity if they are not submitted to the health insurance company within 30 days from the date of issue.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 79,
+      "content_block_id": 46,
+      "answer": "Medical devices are issued to patients only by providers who are under contract with the health insurance house, by purchasing or renting them.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 80,
+      "content_block_id": 46,
+      "answer": "Patients may have to cover an amount of money for certain medical devices if their prices are higher than the ones settled by CNAS for that category of device.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 81,
+      "content_block_id": 46,
+      "answer": "The basic package includes ENT prosthetic devices, ostomy prosthetic devices, urinary retention/incontinence devices, limb prostheses, spine/limb orthoses, footwear orthopedics, devices for visual impairment, oxygen therapy/non-invasive ventilation equipment, aerosol therapy devices, walking devices, and external breast prostheses.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The basic package for medical devices intended for the recovery of organic or functional deficiencies on an outpatient basis includes:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 82,
+      "content_block_id": 46,
+      "answer": "An application for medical devices can be submitted to the health insurance house by the patient, a first or second-degree relative, spouse, or legal representative, either in person, by post, or online.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 83,
+      "content_block_id": 46,
+      "answer": "Required documents include a copy of ID, the medical prescription, and, if applicable, a disability classification certificate; for children up to 14, a medical prescription specifying the child's address and a birth certificate copy are needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 84,
+      "content_block_id": 46,
+      "answer": "The health insurance house is obligated to analyze and decide on the acceptance or rejection of the application within no more than 3 working days from the date of its registration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 85,
+      "content_block_id": 46,
+      "answer": "A medical device approval decision is issued by the health insurance house upon acceptance of an application, allowing for the procurement or rental of the device within the limit of the fund approved for this purpose.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 86,
+      "content_block_id": 46,
+      "answer": "In the event that requests for devices exceed the approved monthly fund, priority lists are established by device category.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 87,
+      "content_block_id": 46,
+      "answer": "To get the device, the patient or their representative contacts a contracted provider during the decision's validity period, presenting the health insurance house's decision and the medical prescription, which can also be sent by post/courier.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 88,
+      "content_block_id": 46,
+      "answer": "To get medical devices from providers, one needs the decision issued by the health insurance house and the medical prescription.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 89,
+      "content_block_id": 46,
+      "answer": "Beneficiaries of Emergency Ordinance no.15/2022, coming from the armed conflict area in Ukraine, are not requested any personal contribution for medical devices.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 90,
+      "content_block_id": 46,
+      "answer": "Medical devices are given to patients for a fixed or indefinite period based on a medical prescription, and are issued only by providers who are under contract with the health insurance house, by purchasing or renting them.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

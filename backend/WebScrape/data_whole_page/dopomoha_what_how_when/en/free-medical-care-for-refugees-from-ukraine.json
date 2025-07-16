@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question_id": 154,
+      "content_block_id": 33,
+      "question": "What free medical care does IOM Romania provide?"
+    },
+    {
+      "question_id": 155,
+      "content_block_id": 33,
+      "question": "How can refugees receive free medical care from IOM Romania?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 33,
+      "question": "When are IOM Romania's medical services available?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 33,
+      "question": "Where is the IOM medical assistance center located?"
+    },
+    {
+      "question_id": 158,
+      "content_block_id": 33,
+      "question": "What types of doctors are available through IOM Romania?"
+    },
+    {
+      "question_id": 159,
+      "content_block_id": 33,
+      "question": "How does one get an appointment with an IOM doctor?"
+    },
+    {
+      "question_id": 160,
+      "content_block_id": 33,
+      "question": "What language support is offered for IOM medical care?"
+    }
+  ]
+}

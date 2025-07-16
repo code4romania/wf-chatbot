@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 891,
+      "content_block_id": 38,
+      "answer": "Covered laboratory analyses include hematological, serum, urine, immunological, microbiological tests, examination of sampled tissues, and the Papanicolaou test.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 892,
+      "content_block_id": 38,
+      "answer": "To benefit from free services, patients must have a referral ticket from a family medicine doctor or specialist doctor with a health insurance contract, and go to a laboratory that also has a contract with a health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 893,
+      "content_block_id": 38,
+      "answer": "Included imaging investigations are radiology analyses, ultrasounds, doppler, and high-performance investigations such as CT, MRI, scintigraphy, and angiography.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 894,
+      "content_block_id": 38,
+      "answer": "Patients can locate laboratories by accessing the CNAS website (www.cnas.ro) under the 'Informații Furnizori' menu, 'Rapoarte online furnizori' section, then 'Raportare paraclinic – vezi mai mult,' or by checking the web pages of health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 895,
+      "content_block_id": 38,
+      "answer": "A referral ticket for laboratory investigations is valid for 30 days, but for chronic diseases or analyses involving tissue collection, its validity extends up to 90 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 896,
+      "content_block_id": 38,
+      "answer": "If investigations cannot be performed immediately, the laboratory must schedule the patient within the referral ticket's validity, noting the appointment dates on the ticket; if the patient refuses, the ticket is returned for use at another lab.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 897,
+      "content_block_id": 38,
+      "answer": "Investigations for patients with COVID-19, oncological, diabetes, rare, cardiovascular, cerebrovascular, or neurological diseases must be carried out within 5 days and are covered even if exceeding contract value, provided the doctor specifies monitoring. For all chronic diseases, referral notes are valid for up to 90 days, and preventive consultations for patients over 40 are covered even if contract value is exceeded.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 898,
+      "content_block_id": 38,
+      "answer": "The text states that patients must have a referral ticket from a family medicine doctor or a specialist doctor who has a contract with the health insurance company. It does not detail the process of obtaining it.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 899,
+      "content_block_id": 38,
+      "answer": "Providers are obligated to carry out investigations within 5 calendar days for monitoring patients with COVID-19, oncological diseases, diabetes, rare diseases, cardiovascular, cerebrovascular, or neurological diseases, provided the prescribing physician specifies monitoring on the referral note.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 900,
+      "content_block_id": 38,
+      "answer": "The text mentions the 'Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system' as the source for information regarding the validity period of referral notes for laboratory investigations. It does not provide further details about the guide itself or other information it contains.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

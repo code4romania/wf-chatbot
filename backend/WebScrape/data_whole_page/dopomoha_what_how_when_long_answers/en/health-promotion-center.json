@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 507,
+      "content_block_id": 53,
+      "answer": "The Red Cross Romania Health Promotion Center offers free medical consultations, access to various medical services, and psychological support for refugees from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 508,
+      "content_block_id": 53,
+      "answer": "Medical specialists available at the center include pediatricians, cardiologists, diabetologists, ophthalmologists, and dentists.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Consultations are offered by specialists of various profiles'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 509,
+      "content_block_id": 53,
+      "answer": "Specific medical tests available include ultrasound (by doctor's recommendation), ECG, blood pressure measurement, and blood glucose level checks.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'It is possible to do an ultrasound according to the doctor's recommendation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 510,
+      "content_block_id": 53,
+      "answer": "The Red Cross Romania Health Promotion Center offers psychological support for refugees of any age.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'They also offer psychological support for refugees of any age'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 511,
+      "content_block_id": 53,
+      "answer": "For communication with doctors, translation help is offered in English, Russian, or Ukrainian. Appointments can be made in Romanian, Russian, Ukrainian, or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Red Cross offers help with translation in English, Russian or Ukrainian languages'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 512,
+      "content_block_id": 53,
+      "answer": "Refugees from Ukraine can access medical services by making appointments via phone.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Appointments can be made by calling the following phone numbers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 513,
+      "content_block_id": 53,
+      "answer": "Appointments can be made by calling 0747 278 486 or 0748 185 714, with support available in Romanian, Russian, Ukrainian, or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Appointments can be made by calling the following phone numbers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 514,
+      "content_block_id": 53,
+      "answer": "The Red Cross Romania Health Promotion Center assists with language barriers by offering translation help in English, Russian, or Ukrainian for better communication with doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Red Cross offers help with translation in English, Russian or Ukrainian languages'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 515,
+      "content_block_id": 53,
+      "answer": "The Red Cross Romania Health Promotion Center is open Monday to Friday from 10:00 to 18:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the section under 'Working hours: Monday to Friday from 10.00 to 18.00'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

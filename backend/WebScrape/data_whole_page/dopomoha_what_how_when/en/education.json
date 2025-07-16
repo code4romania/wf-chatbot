@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 356,
+      "content_block_id": 17,
+      "question": "What rights do Ukrainian students have in Romania?"
+    },
+    {
+      "question_id": 357,
+      "content_block_id": 17,
+      "question": "How can I enroll a child in school or kindergarten?"
+    },
+    {
+      "question_id": 358,
+      "content_block_id": 17,
+      "question": "How do I enroll a child in extracurricular activities?"
+    },
+    {
+      "question_id": 359,
+      "content_block_id": 17,
+      "question": "What psycho-pedagogical assistance is available for children?"
+    },
+    {
+      "question_id": 360,
+      "content_block_id": 17,
+      "question": "How can Ukrainian children learn Romanian?"
+    },
+    {
+      "question_id": 361,
+      "content_block_id": 17,
+      "question": "How can Ukrainian students continue university studies?"
+    },
+    {
+      "question_id": 362,
+      "content_block_id": 17,
+      "question": "What is the process for foreign diploma recognition?"
+    },
+    {
+      "question_id": 363,
+      "content_block_id": 17,
+      "question": "When will diploma recognition results be available?"
+    },
+    {
+      "question_id": 364,
+      "content_block_id": 17,
+      "question": "What support is available for Ukrainian minors?"
+    },
+    {
+      "question_id": 365,
+      "content_block_id": 17,
+      "question": "How can Ukrainian students get integration assistance?"
+    },
+    {
+      "question_id": 366,
+      "content_block_id": 17,
+      "question": "What Ukrainian schools are available in Romania?"
+    },
+    {
+      "question_id": 367,
+      "content_block_id": 17,
+      "question": "What free courses are available for refugees?"
+    },
+    {
+      "question_id": 368,
+      "content_block_id": 17,
+      "question": "When are school holidays in Romania?"
+    },
+    {
+      "question_id": 369,
+      "content_block_id": 17,
+      "question": "How can I contact the County Schools Inspectorate?"
+    },
+    {
+      "question_id": 370,
+      "content_block_id": 17,
+      "question": "What documents are needed for studies equivalence?"
+    }
+  ]
+}

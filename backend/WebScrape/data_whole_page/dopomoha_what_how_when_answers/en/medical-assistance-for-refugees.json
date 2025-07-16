@@ -1,0 +1,191 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 176,
+      "content_block_id": 50,
+      "answer": "Medical assistance for refugees from Ukraine includes the right to receive medical care, along with information about health, vaccination, and assistance for HIV-infected individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical assistance for refugees from Ukraine Eligibility for health care and other useful information'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 177,
+      "content_block_id": 50,
+      "answer": "Information on how to use the services of a family doctor is provided, including details for patients with chronic diseases, preventive services, and home consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Family doctor and a basic package of services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 178,
+      "content_block_id": 50,
+      "answer": "The basic package of services from a family doctor includes information for patients with chronic diseases, preventive services, and home consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Family doctor and a basic package of services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 179,
+      "content_block_id": 50,
+      "answer": "A list of free laboratories for refugees is available under the section detailing laboratory analyses and imaging investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Laboratory analyzes and imaging investigations'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 180,
+      "content_block_id": 50,
+      "answer": "A narrow specialist provides services that are part of their basic package.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 181,
+      "content_block_id": 50,
+      "answer": "Information on where and how to obtain medical advice from a specialist is provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 182,
+      "content_block_id": 50,
+      "answer": "Information regarding who pays for hospitalization treatment is available under the section on hospitalization services in public and private institutions.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Hospitalization services in public and private institutions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 183,
+      "content_block_id": 50,
+      "answer": "The basic dental medicine package includes dentist consultation and treatment, with a complete list of dental services available.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Dentistry in Romania: basic dental medicine package'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 184,
+      "content_block_id": 50,
+      "answer": "Outpatient physical medicine and rehabilitation services are provided in health resorts, including a list of procedures and their duration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical recovery, physical medicine and rehabilitation services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 185,
+      "content_block_id": 50,
+      "answer": "Medical recovery in hospitals and sanatoriums occurs through treatment, encompassing medical services in physical medicine and rehabilitation.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 186,
+      "content_block_id": 50,
+      "answer": "Medical consultations at home are available, in addition to the services provided in the minimum package.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical consultations at home and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 187,
+      "content_block_id": 50,
+      "answer": "Medicines covered by the Health Fund are those listed on the compensation lists.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medicines reimbursed by the Health Fund'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 188,
+      "content_block_id": 50,
+      "answer": "The procedure for obtaining medical devices is detailed, along with a list of products included in the basic package of medical products.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 189,
+      "content_block_id": 50,
+      "answer": "Medical services are provided for Covid-19 patients, including free treatment for insured, uninsured, and other individuals in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Information for patients with Covid-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 190,
+      "content_block_id": 50,
+      "answer": "Medical services for pregnant women include primary care, observation of normal pregnancies, and supervision of high-risk pregnancies.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical services for pregnant women'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 191,
+      "content_block_id": 50,
+      "answer": "Information on how to obtain treatment and a list of programs are available under the National Health Program package.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'National curative health programs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 192,
+      "content_block_id": 50,
+      "answer": "A Women's center offers assistance with reproductive health services like contraception, breastfeeding, STD prevention, pregnancy monitoring, and abortions, as well as services for victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Get help at a Women's center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

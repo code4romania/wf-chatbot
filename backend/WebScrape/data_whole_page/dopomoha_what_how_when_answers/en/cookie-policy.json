@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 505,
+      "content_block_id": 65,
+      "answer": "A cookie is a small file, a succession of letters and numbers, that is stored on any terminal with Internet access and installed upon a request from a server to a browser.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 506,
+      "content_block_id": 65,
+      "answer": "Cookies facilitate access and delivery of services by personalizing settings, help make websites more effective and easier to access, and make online advertising more effective.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 507,
+      "content_block_id": 65,
+      "answer": "The different types of cookies are Session cookies, which are temporary, and Persistent Cookies, which are stored for a predetermined length of time and include third-party cookies.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 508,
+      "content_block_id": 65,
+      "answer": "Cookies offer the benefit of connecting users to a specific website, allowing the web server to react accordingly upon return, and generating a user-friendly browsing experience tailored to preferences.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are the advantages of cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 509,
+      "content_block_id": 65,
+      "answer": "Cookies can last for a single session, being deleted after the user leaves the website, or be permanent, retained and reused every time the user returns until deleted.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is the lifespan of a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 510,
+      "content_block_id": 65,
+      "answer": "Third-party cookies are placed by a different website than the one currently being visited, often through content or services like banners, and are not placed by the owner of the respective website.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are cookies placed by third parties?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 511,
+      "content_block_id": 65,
+      "answer": "Websites utilize cookies for visitor analysis by generating a user analytics cookie that tracks unique users and their visit frequency for statistical purposes, without identifying individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Cookies for visitor analysis'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 512,
+      "content_block_id": 65,
+      "answer": "Cookies store information in a small text file that allows a website to recognize a browser and improve the Internet browsing experience, such as an order number for a donation.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What type of information is stored and accessed through cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 513,
+      "content_block_id": 65,
+      "answer": "Cookies are important because they are central to the efficient functioning of the Internet, helping to generate a user-friendly browsing experience tailored to each user's preferences and interests.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Why are cookies important to the Internet?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 514,
+      "content_block_id": 65,
+      "answer": "Cookies can be used as a form of spyware by storing browsing history, and information contained within them can be intercepted if transmitted over an unencrypted network. Missetting cookies on servers can also allow attackers to gain unauthorized access.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 515,
+      "content_block_id": 65,
+      "answer": "Users can browse safely by customizing browser cookie settings, deleting browsing data when sharing computers, installing and updating antispyware applications, and ensuring their browser is always up to date.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Tips for safe and responsible browsing, based on cookies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 516,
+      "content_block_id": 65,
+      "answer": "One can stop or manage cookies by setting the browser not to accept them, or to accept them from a specific site, as all modern browsers offer the possibility to change cookie settings.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'How can I stop cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 517,
+      "content_block_id": 65,
+      "answer": "Session cookies are deleted when the user leaves the website or closes the browser window.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 518,
+      "content_block_id": 65,
+      "answer": "Persistent cookies are stored for a predetermined length of time on a computer hard drive and can include third-party cookies used anonymously to track user interests for relevant advertising.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 519,
+      "content_block_id": 65,
+      "answer": "Third-party cookies differ because they are not placed by the owner of the website being visited but by external third-party providers.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are cookies placed by third parties?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 181,
+      "content_block_id": 50,
+      "question": "What medical assistance is available for refugees from Ukraine?"
+    },
+    {
+      "question_id": 182,
+      "content_block_id": 50,
+      "question": "How can one use the services of a family doctor?"
+    },
+    {
+      "question_id": 183,
+      "content_block_id": 50,
+      "question": "What are the rules for conducting laboratory analyses and imaging investigations?"
+    },
+    {
+      "question_id": 184,
+      "content_block_id": 50,
+      "question": "How can one get medical advice from a specialist?"
+    },
+    {
+      "question_id": 185,
+      "content_block_id": 50,
+      "question": "What are the conditions for receiving hospitalization services?"
+    },
+    {
+      "question_id": 186,
+      "content_block_id": 50,
+      "question": "What dental services are included in the basic dental medicine package in Romania?"
+    },
+    {
+      "question_id": 187,
+      "content_block_id": 50,
+      "question": "What physical medicine and rehabilitation services are provided on an outpatient basis?"
+    },
+    {
+      "question_id": 188,
+      "content_block_id": 50,
+      "question": "What medical recovery services are provided in hospitals and sanatoriums?"
+    },
+    {
+      "question_id": 189,
+      "content_block_id": 50,
+      "question": "How can one access medical consultations at home or self-medical transportation?"
+    },
+    {
+      "question_id": 190,
+      "content_block_id": 50,
+      "question": "What medicines are reimbursed by the Health Fund?"
+    },
+    {
+      "question_id": 191,
+      "content_block_id": 50,
+      "question": "How can one obtain medical devices?"
+    },
+    {
+      "question_id": 192,
+      "content_block_id": 50,
+      "question": "What medical services are provided for patients with Covid-19?"
+    },
+    {
+      "question_id": 193,
+      "content_block_id": 50,
+      "question": "What medical services are available for pregnant women?"
+    },
+    {
+      "question_id": 194,
+      "content_block_id": 50,
+      "question": "How can one get treatment through national curative health programs?"
+    },
+    {
+      "question_id": 195,
+      "content_block_id": 50,
+      "question": "What services are offered at a Women's center?"
+    }
+  ]
+}

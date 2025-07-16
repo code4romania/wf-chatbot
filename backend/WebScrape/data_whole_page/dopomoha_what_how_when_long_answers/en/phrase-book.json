@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 269,
+      "content_block_id": 9,
+      "answer": "The guide includes Romanian, English, Ukrainian (Latin alphabet), and Ukrainian (Cyrillic alphabet).",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 270,
+      "content_block_id": 9,
+      "answer": "The phrases can help someone express that they need a doctor, feel sick, are pregnant, have specific medical conditions like diabetes or allergies, or need items like diapers or infant formula, and locate a hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Medical help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 271,
+      "content_block_id": 9,
+      "answer": "The guide covers places like police, ambulance, firefighters, pharmacy, church, and shop, along with directions like \"Where is…?\", \"There\", and \"Here\".",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Places and directions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 272,
+      "content_block_id": 9,
+      "answer": "While there isn't a direct question phrase for \"how to get to\", the guide provides vocabulary for various transport options such as car, bus, airport, train station, train, and ferry-boat.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 273,
+      "content_block_id": 9,
+      "answer": "The guide provides terms for documents such as identity card, passport, and driver's license, as well as financial terms like money, currency exchange, and ATM. It also includes \"Lawyer\".",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Documents - Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 274,
+      "content_block_id": 9,
+      "answer": "Through the Sprijin de Urgență initiative, one can request or offer resources, food, products, clothing, tents, transportation, or volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 275,
+      "content_block_id": 9,
+      "answer": "Individuals can access support in finding temporary accommodation or provide a space to help vulnerable people through the Un Acoperiș program by searching or offering accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 276,
+      "content_block_id": 9,
+      "answer": "Someone might use the basic conversation phrases when greeting others, asking for or offering help, identifying themselves, inquiring about basic needs like food or water, or asking for directions or time.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Basic conversation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 277,
+      "content_block_id": 9,
+      "answer": "The guide includes family-related terms such as family, children, daughter, son, sister, brother, and friend.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Basic conversation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 278,
+      "content_block_id": 9,
+      "answer": "To express hunger, one can say \"I am hungry,\" and to express thirst, one can say \"I am thirsty.\" The guide also provides words for \"Food\" and \"Water.\"",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Basic conversation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

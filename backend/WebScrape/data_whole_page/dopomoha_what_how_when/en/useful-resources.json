@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question_id": 915,
+      "content_block_id": 8,
+      "question": "How can I share dopomoha.ro content effectively?"
+    },
+    {
+      "question_id": 916,
+      "content_block_id": 8,
+      "question": "What languages are in the common expressions guide?"
+    },
+    {
+      "question_id": 917,
+      "content_block_id": 8,
+      "question": "How does the phrase book help communication?"
+    },
+    {
+      "question_id": 918,
+      "content_block_id": 8,
+      "question": "What resources can Sprijin de Urgență provide?"
+    },
+    {
+      "question_id": 919,
+      "content_block_id": 8,
+      "question": "How can I request resources from Sprijin de Urgență?"
+    },
+    {
+      "question_id": 920,
+      "content_block_id": 8,
+      "question": "What kind of support does Un Acoperiș offer?"
+    },
+    {
+      "question_id": 921,
+      "content_block_id": 8,
+      "question": "How can I offer accommodation through Un Acoperiș?"
+    },
+    {
+      "question_id": 922,
+      "content_block_id": 8,
+      "question": "When should I access Un Acoperiș for housing help?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 121,
+      "content_block_id": 29,
+      "question": "What are the essential rules of hygiene during a crisis?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 29,
+      "question": "How can following hygiene rules protect health?"
+    },
+    {
+      "question_id": 123,
+      "content_block_id": 29,
+      "question": "When should hands be washed to ensure proper hygiene?"
+    },
+    {
+      "question_id": 124,
+      "content_block_id": 29,
+      "question": "How should hands be properly washed with soap and water?"
+    },
+    {
+      "question_id": 125,
+      "content_block_id": 29,
+      "question": "What alternatives are available for hand washing if soap and water are not accessible?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 29,
+      "question": "What are the daily water requirements for a person in a crisis situation?"
+    },
+    {
+      "question_id": 127,
+      "content_block_id": 29,
+      "question": "How do water needs change when a person is in a bomb shelter versus an apartment?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 29,
+      "question": "What precautions should be taken when using utensils to prevent the spread of pathogens?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 29,
+      "question": "How should shared glasses or mugs be cleaned before use?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 29,
+      "question": "How can a diaper be made from gauze?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 29,
+      "question": "What steps are involved in making a diaper from a piece of cloth?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 29,
+      "question": "How can disposable diapers be reused multiple times?"
+    }
+  ]
+}

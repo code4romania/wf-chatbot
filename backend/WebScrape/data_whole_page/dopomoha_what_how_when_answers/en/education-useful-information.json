@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 602,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugees can find out the steps needed to enroll their child in kindergarten, school, or after-school classes by following the link provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Information on how to enroll your child in an educational institution'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 603,
+      "content_block_id": 51,
+      "answer": "JRS Romania offers a kindergarten program for preschool children and a school program for first graders.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten and school from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 604,
+      "content_block_id": 51,
+      "answer": "Children can enroll in Angel Appeal kindergarten by calling +40723293769 (Camelia Raita) or +40770560741 (Oana Pasalan).",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 605,
+      "content_block_id": 51,
+      "answer": "Angel Appeal kindergarten is open from Monday to Friday, from 10:00 to 17:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 606,
+      "content_block_id": 51,
+      "answer": "The Ostrovok Educational Hub offers classes for students from 0 to 11th grade in Sector 2 and from 0 to 6th grade in Sector 4.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'The “Ostrovok” Educational Hub in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 607,
+      "content_block_id": 51,
+      "answer": "Students can access free classes at the Ostrovok Educational Hub by contacting the respective phone numbers for Sector 2 (021 252 5700) or Sector 4 (021 335 5705).",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'The “Ostrovok” Educational Hub in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 608,
+      "content_block_id": 51,
+      "answer": "The Taras Shevchenko Ukrainian High School in Maramureș offers teaching in the Ukrainian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 609,
+      "content_block_id": 51,
+      "answer": "Students can find free access and download digital versions of Ukrainian textbooks for grades 1-11 from the link provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'For studying by yourself: digital textbooks'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 610,
+      "content_block_id": 51,
+      "answer": "The Ukrainian Online School serves students in grades 5-11.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 611,
+      "content_block_id": 51,
+      "answer": "One can access the Ukrainian Online School platform through the link provided in its section, which offers free access to education, video tutorials, tests, and self-study materials.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 612,
+      "content_block_id": 51,
+      "answer": "UNICEF provides access to online platforms that support children's education, helping them continue studies, develop new skills, and stay engaged.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'UNICEF's Support for Children's Educational Journey: Access to Learning Platforms'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

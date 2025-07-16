@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 859,
+      "content_block_id": 6,
+      "answer": "Ukrainians in Romania can get assistance from CNRR (0040 730 073 170), UNHCR (+40723653651), IOM Romania (021 210 3050), and the National Line against Trafficking in Persons Romania (0 800 800 678 / +4021.313.31.00).",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Ukrainians fleeing war at home are welcomed to Romania Help-lines'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 860,
+      "content_block_id": 6,
+      "answer": "Ukrainians with a valid passport can enter Romania and stay up to 90 days, or they can enter as an asylum seeker if they do not have documents of any kind. Asylum can also be applied for within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 861,
+      "content_block_id": 6,
+      "answer": "Ukrainians can use Halmeu, Sighetu Marmației, Siret, and Isaccea border points to cross into Romania from Ukraine. They can also reach Romania through the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Border points you can use to cross into Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 862,
+      "content_block_id": 6,
+      "answer": "Ukrainians with a biometric passport do not need a visa to travel to the EU. It is recommended to contact the embassy of the destination country to find out the specific travel conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Traveling to other Member States of the European Union'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 863,
+      "content_block_id": 6,
+      "answer": "The General Directorates for Social Assistance and Child Protection (DGASPC) from each county are the authorized institutions to care for unaccompanied minors.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Minors entering Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 864,
+      "content_block_id": 6,
+      "answer": "One should call 119, the unique national telephone number for child abuse cases, if they suspect they are a victim or are witnessing a child abuse case.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Minors entering Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 865,
+      "content_block_id": 6,
+      "answer": "To find support in finding temporary accommodation or to provide a space for vulnerable people, one can access 'Un Acoperiș'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 866,
+      "content_block_id": 6,
+      "answer": "BCR allows UAH-RON exchange up to 2,000 lei per person at the BNR exchange rate, offers 0 lei costs for transactions made at POS and ATM with cards issued in Ukraine, and provides 0 lei commission for opening and administering current accounts, along with 0 fees for inter and intra bank payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 867,
+      "content_block_id": 6,
+      "answer": "One can offer resources such as food, products, clothing, tents, transportation, or volunteers on 'Sprijin de Urgență'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Emergency help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 868,
+      "content_block_id": 6,
+      "answer": "The Regional Centers for Procedures and Accommodation for Asylum Seekers are located in Rădăuți, Maramureș, Galați, București, Timișoara, and Giurgiu.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Regional Centers for Procedures and Accommodation for Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 214,
+      "content_block_id": 12,
+      "answer": "Someone can request or offer resources, food, products, clothing, tents, transportation, or volunteers on Sprijin de Urgență.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 215,
+      "content_block_id": 12,
+      "answer": "Individuals can reserve a spot on the evacuation buses from Odessa to Palanca by contacting Anna directly at +380633643318.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Evacuation buses from Odessa to Palanka from ICF Gloria and Adra Ukraine Organization'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 216,
+      "content_block_id": 12,
+      "answer": "The evacuation buses from Odessa to Palanca run every Monday and Thursday.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Evacuation buses from Odessa to Palanka from ICF Gloria and Adra Ukraine Organization'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 217,
+      "content_block_id": 12,
+      "answer": "The United Nations Refugee Agency (UNHCR) and the International Organization for Migration (IOM) are responsible for the free transfer service from Ukraine to Romania via Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Free transfer from Ukraine to Romania via Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 218,
+      "content_block_id": 12,
+      "answer": "Upon arrival in Huși, travelers can receive first aid, hot drinks, and food, and volunteers will assist them with transfers to buses bound for Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Free transfer from Ukraine to Romania via Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 219,
+      "content_block_id": 12,
+      "answer": "Rescue 4x4 provides free services to bring a vehicle to a road from where it can be driven, or to remove a vehicle from a public road's carriageway to avoid disturbing or blocking traffic.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 220,
+      "content_block_id": 12,
+      "answer": "The provided content indicates a \"Request help\" option for the Rescue 4x4 service, but does not specify the direct method for requesting assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 221,
+      "content_block_id": 12,
+      "answer": "Primary sources for finding train routes and timetables in Romania include data directly from major railway operators like CFR Călători, Transferoviar Călători, Regio Călători, Interregional Călători, and Astra Trans Carpatic, accessible via websites like cfrcalatori.ro and mersultrenurilor.infofer.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 222,
+      "content_block_id": 12,
+      "answer": "One can purchase international train tickets in Romania through cfrcalatori.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 223,
+      "content_block_id": 12,
+      "answer": "The main platforms for finding bus and maxi taxi routes and timetables in Romania are autogari.ro and mersulautobuzelor.ro, which provide data directly from the largest operators.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 224,
+      "content_block_id": 12,
+      "answer": "A long-term bus travel card can be acquired at the ticket office near the bus stop, and existing cards can be topped up online at online.stbsa.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 225,
+      "content_block_id": 12,
+      "answer": "To purchase a bus pass in Romania, a passport or other identity documents are necessary.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 226,
+      "content_block_id": 12,
+      "answer": "For taxi services in major cities in Romania, it is recommended to use ride-hailing applications such as Free Now, Uber, or Bolt.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Taxi'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 227,
+      "content_block_id": 12,
+      "answer": "Travelers can pay for subway transportation in Romania by purchasing a ticket at the metro station's ticket office or by paying directly at the turnstile with a bank card.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Traveling by subway'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 228,
+      "content_block_id": 12,
+      "answer": "The Romanian government does not cover public transportation costs for individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 47,
+      "content_block_id": 18,
+      "answer": "UNHCR's financial cash assistance program in Romania provides cash for four months to meet expenses of eligible Ukrainians and third-country nationals displaced due to the ongoing conflict.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'What is UNHCR’s financial cash assistance programme in Romania?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 48,
+      "content_block_id": 18,
+      "answer": "Individuals can fill out a form to schedule an appointment for an interview, which is the first step to enroll. However, at this time, there is no financial assistance program available for registration.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 49,
+      "content_block_id": 18,
+      "answer": "Eligibility requires being displaced from Ukraine, having temporary protection status in Romania for at least 30 days, living in Romania for at least 30 days before UNHCR registration, and not receiving other significant cash assistance. Additionally, the family must meet at least one of several vulnerability categories.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 50,
+      "content_block_id": 18,
+      "answer": "UNHCR provides a one-time cash assistance of 720 lei per person to cover expenses related to the winter period.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'How much money is provided as cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 51,
+      "content_block_id": 18,
+      "answer": "Enrollment points are located in Bucharest, Brasov, Galati, Iasi, and Suceava. They are open Monday to Friday from 9:00 am to 5:00 pm, and closed on weekends.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Where are UNHCR’s Cash Enrolment Points? When are they open?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 52,
+      "content_block_id": 18,
+      "answer": "All family members must be present, and for each, identification documents such as passports, identity cards, birth certificates for children, or tax numbers are needed. Additionally, proof of entry date into Romania and an active Romanian or Ukrainian mobile phone number are required.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'What should I bring to my enrolment appointment?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 53,
+      "content_block_id": 18,
+      "answer": "Funds can be delivered through MoneyGram, Smith&Smith, or directly to a Romanian bank account. For MoneyGram and Smith&Smith, a pick-up code, Proof of Enrolment, and identification are required, while bank transfers require a Romanian bank account and identification.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Do I need a Proof of Enrolment document for picking up assistance from MoneyGram, a bank or Smith &Smith?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 54,
+      "content_block_id": 18,
+      "answer": "To update a phone number or change family composition details, all affected family members must physically visit the nearest UNHCR enrolment center with supporting documentation.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'What should I do if I want to change my family composition (birth of babies, marriages and divorces, death of family members) or family focal point?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 55,
+      "content_block_id": 18,
+      "answer": "UNHCR collects fingerprints to protect unique access to financial cash assistance and guard against fraud, ensuring that no one else can pretend to be the recipient. This data is stored securely and is only for humanitarian assistance purposes, not for refugee registration or status determination.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Why do I need to provide my fingerprints to receive cash assistance from UNHCR?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 56,
+      "content_block_id": 18,
+      "answer": "Recipients must provide their Romanian bank account's IBAN number and the date the account was opened. Bank accounts from Ukraine or other countries are not accepted.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'What documents do I need to provide about my bank account?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 57,
+      "content_block_id": 18,
+      "answer": "Recipients have a total of 20 days from the time they receive the SMS with their MoneyGram pickup code to retrieve the cash from any MoneyGram branch.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'How much time do I have for picking up the cash assistance when sent through MoneyGram?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 58,
+      "content_block_id": 18,
+      "answer": "For support, individuals can contact UNHCR at +4021 201 7873 or CNRR at 0040 730 073 170 or via email at office@cnrr.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 59,
+      "content_block_id": 18,
+      "answer": "Applicants will receive a text message to their mobile phone within a maximum of 15 days, indicating the date, time, and location of their appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

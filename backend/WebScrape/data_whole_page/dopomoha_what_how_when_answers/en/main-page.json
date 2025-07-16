@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 900,
+      "content_block_id": 19,
+      "answer": "Ukrainians fleeing war can enter Romania through any of the official border crossings.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 901,
+      "content_block_id": 19,
+      "answer": "The provided content states that Ukrainians can enter through any of the official border crossings, but it does not list specific ones.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 902,
+      "content_block_id": 19,
+      "answer": "The platform is a website where civilians fleeing the war in Ukraine can find all relevant information about seeking protection in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 903,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find legal status information, including 'Law made simple', on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info Law made simple'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 904,
+      "content_block_id": 19,
+      "answer": "Information about support services, including Housing, Call center, Education, Health, Transport, Jobs, Stay safe, and PTSD Help, is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 905,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find information about housing assistance on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Housing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 906,
+      "content_block_id": 19,
+      "answer": "Information regarding educational opportunities for Ukrainians in Romania is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 907,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find relevant information about accessing health services in Romania on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 908,
+      "content_block_id": 19,
+      "answer": "Information about transport options for Ukrainians in Romania is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 909,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find information about jobs and employment opportunities in Romania on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Jobs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 910,
+      "content_block_id": 19,
+      "answer": "Information regarding PTSD help for Ukrainians is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'PTSD Help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 911,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find information on how to 'Stay safe' in Romania on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Stay safe'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 912,
+      "content_block_id": 19,
+      "answer": "The platform was created by Code for Romania in partnership with the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration, and the Romanian National Council for Refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 913,
+      "content_block_id": 19,
+      "answer": "The provided content states that Ukrainians can find relevant information about seeking protection in Romania on the platform, but it does not specify the exact times or dates of access.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 914,
+      "content_block_id": 19,
+      "answer": "Information regarding call center assistance for Ukrainians is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Call center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

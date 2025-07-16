@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 546,
+      "content_block_id": 48,
+      "question": "What are the different levels of medical services provided to pregnant women?"
+    },
+    {
+      "question_id": 547,
+      "content_block_id": 48,
+      "question": "How frequently are consultations provided for monitoring pregnancy evolution under primary medical assistance?"
+    },
+    {
+      "question_id": 548,
+      "content_block_id": 48,
+      "question": "What specific paraclinical medical services are included in the basic package for specialized ambulatory assistance?"
+    },
+    {
+      "question_id": 549,
+      "content_block_id": 48,
+      "question": "What mandatory services are part of the supervision of a normal pregnancy for diagnostic purposes?"
+    },
+    {
+      "question_id": 550,
+      "content_block_id": 48,
+      "question": "When is prenatal screening typically performed during pregnancy, and what does it include?"
+    },
+    {
+      "question_id": 551,
+      "content_block_id": 48,
+      "question": "What specific high-risk pregnancy conditions are covered, and what mandatory services are provided for their surveillance?"
+    },
+    {
+      "question_id": 552,
+      "content_block_id": 48,
+      "question": "How are health units contracted to provide services for the supervision of a normal pregnancy or prenatal screening?"
+    },
+    {
+      "question_id": 553,
+      "content_block_id": 48,
+      "question": "What types of high-risk pregnancy monitoring are included in the basic package of hospital medical care?"
+    },
+    {
+      "question_id": 554,
+      "content_block_id": 48,
+      "question": "What invasive procedures, such as amniocentesis, are covered during day hospitalization for pregnant women?"
+    },
+    {
+      "question_id": 555,
+      "content_block_id": 48,
+      "question": "When can day hospitalization medical services transition to continuous hospitalization for patients?"
+    },
+    {
+      "question_id": 556,
+      "content_block_id": 48,
+      "question": "What support services does the Women's Center provide related to reproductive health and navigating the health system?"
+    }
+  ]
+}

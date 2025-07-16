@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 788,
+      "content_block_id": 30,
+      "answer": "A child's safety backpack should include a photo with contact information, water, food like chocolate and dried fruits, necessary drugs and first aid, wipes, hygiene items, a flashlight, favorite toys, and a set of clothes. A phone and some money can also be added if the child knows how to use them.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 789,
+      "content_block_id": 30,
+      "answer": "The safety backpack provides necessary resources such as water, food, and medical supplies. It also offers psychological comfort through one or two of the child's favorite toys.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 790,
+      "content_block_id": 30,
+      "answer": "If lost, a child should know their full name, the names and phone numbers of parents or close relatives, and their home address or the address of close relatives.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 791,
+      "content_block_id": 30,
+      "answer": "A child should know and use emergency line numbers if they are lost. The emergency numbers available throughout Romania are 112 and 119, with 119 being specifically for children.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 792,
+      "content_block_id": 30,
+      "answer": "Parents should stay calm, remember where they last saw the child, and call their phone if they have one. They should also ask an acquaintance to stay at the spot, ask people around for sightings, and report to the nearest police station or call 112 or 119.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'If the child is lost. Parents’ actions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 793,
+      "content_block_id": 30,
+      "answer": "An adult should first confirm the child is truly unaccompanied, then ask people nearby if they know the child and try to get the child's name and last known adult contact. The child should be taken to a warm, safe place with other adults, near where they were found, and 112 or 119 should be called or the police station reported to.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'If you see a child without adults'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 794,
+      "content_block_id": 30,
+      "answer": "To establish a safe living environment, it is important to create conditions where nothing interferes with the child's physical safety. This involves securing the premises and managing potential hazards within the living space.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 795,
+      "content_block_id": 30,
+      "answer": "To childproof a living space, keep doors and windows closed, store dangerous items like glassware, hot objects, medicines, chemicals, and small parts out of reach. Also, close access to sockets and electrical appliances, secure battery compartments, lock interior doors, make stairs inaccessible, and apply protective tape to glass doors or mirrors.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 796,
+      "content_block_id": 30,
+      "answer": "It is most important to ensure a child is always fastened in a special car seat appropriate for their age whenever they travel in a car.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 797,
+      "content_block_id": 30,
+      "answer": "To make furniture and fixtures safer, lock interior doors or install stoppers, make stairs inaccessible, apply protective tape to glass doors, trim or tie curtain cords out of reach, secure heavy furniture to prevent falling, lock drawers, and place soft pads on sharp furniture corners.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

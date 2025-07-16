@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 775,
+      "content_block_id": 47,
+      "question": "What medical services are covered for COVID-19 treatment in Romania?"
+    },
+    {
+      "question_id": 776,
+      "content_block_id": 47,
+      "question": "How do people with COVID-19 symptoms get remote consultations?"
+    },
+    {
+      "question_id": 777,
+      "content_block_id": 47,
+      "question": "What medical services are provided in COVID-19 evaluation centers?"
+    },
+    {
+      "question_id": 778,
+      "content_block_id": 47,
+      "question": "What is the \"Post-Covid-19 Syndrome Evaluation\" service?"
+    },
+    {
+      "question_id": 779,
+      "content_block_id": 47,
+      "question": "How can patients obtain oxygen administration devices after COVID-19?"
+    },
+    {
+      "question_id": 780,
+      "content_block_id": 47,
+      "question": "What post-COVID-19 conditions benefit from physical therapy and counseling?"
+    },
+    {
+      "question_id": 781,
+      "content_block_id": 47,
+      "question": "How are post-COVID-19 physical therapy services covered?"
+    },
+    {
+      "question_id": 782,
+      "content_block_id": 47,
+      "question": "Where can one get a COVID-19 vaccination in Bucharest?"
+    },
+    {
+      "question_id": 783,
+      "content_block_id": 47,
+      "question": "What guide contains information about social health insurance rights?"
+    }
+  ]
+}

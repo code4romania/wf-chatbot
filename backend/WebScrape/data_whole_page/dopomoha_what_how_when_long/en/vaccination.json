@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 595,
+      "content_block_id": 26,
+      "question": "What are the primary reasons for getting vaccinations?"
+    },
+    {
+      "question_id": 596,
+      "content_block_id": 26,
+      "question": "How do vaccinations protect children from infectious diseases?"
+    },
+    {
+      "question_id": 597,
+      "content_block_id": 26,
+      "question": "What infectious diseases can be prevented through vaccination?"
+    },
+    {
+      "question_id": 598,
+      "content_block_id": 26,
+      "question": "When should newborns receive their first vaccinations?"
+    },
+    {
+      "question_id": 599,
+      "content_block_id": 26,
+      "question": "How can parents make up for missed vaccination doses for their children?"
+    },
+    {
+      "question_id": 600,
+      "content_block_id": 26,
+      "question": "What specific vaccinations are recommended for premature babies?"
+    },
+    {
+      "question_id": 601,
+      "content_block_id": 26,
+      "question": "When is it recommended for adults to get vaccinated against COVID-19?"
+    },
+    {
+      "question_id": 602,
+      "content_block_id": 26,
+      "question": "What are common reactions one might experience after receiving a vaccination?"
+    },
+    {
+      "question_id": 603,
+      "content_block_id": 26,
+      "question": "How does vaccination affect a child's immune system?"
+    },
+    {
+      "question_id": 604,
+      "content_block_id": 26,
+      "question": "What steps should be taken if a child has a chronic illness before vaccination?"
+    },
+    {
+      "question_id": 605,
+      "content_block_id": 26,
+      "question": "How can one access free vaccinations?"
+    },
+    {
+      "question_id": 606,
+      "content_block_id": 26,
+      "question": "What vaccinations are available or recommended for children from the age of two months?"
+    },
+    {
+      "question_id": 607,
+      "content_block_id": 26,
+      "question": "How can multiple vaccinations be administered effectively in one day?"
+    },
+    {
+      "question_id": 608,
+      "content_block_id": 26,
+      "question": "What vaccinations are important to consider if traveling abroad?"
+    },
+    {
+      "question_id": 609,
+      "content_block_id": 26,
+      "question": "When should children be vaccinated against measles, mumps, and rubella?"
+    },
+    {
+      "question_id": 610,
+      "content_block_id": 26,
+      "question": "What is the significance of vaccinating against polio, especially in light of recent outbreaks?"
+    }
+  ]
+}

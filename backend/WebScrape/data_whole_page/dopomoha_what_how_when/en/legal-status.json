@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 444,
+      "content_block_id": 14,
+      "question": "What are the main ways to enter Romania?"
+    },
+    {
+      "question_id": 445,
+      "content_block_id": 14,
+      "question": "How do rights in Romania depend on status?"
+    },
+    {
+      "question_id": 446,
+      "content_block_id": 14,
+      "question": "When can someone apply for asylum within Romania?"
+    },
+    {
+      "question_id": 447,
+      "content_block_id": 14,
+      "question": "How does one apply for asylum at the border?"
+    },
+    {
+      "question_id": 448,
+      "content_block_id": 14,
+      "question": "What is temporary protection for people fleeing war?"
+    },
+    {
+      "question_id": 449,
+      "content_block_id": 14,
+      "question": "When is a temporary protection permit valid until?"
+    },
+    {
+      "question_id": 450,
+      "content_block_id": 14,
+      "question": "What are the requirements for a short stay in Romania?"
+    },
+    {
+      "question_id": 451,
+      "content_block_id": 14,
+      "question": "How long can someone stay with a short-stay right?"
+    },
+    {
+      "question_id": 452,
+      "content_block_id": 14,
+      "question": "What is an asylum seeker's protection in Romania?"
+    },
+    {
+      "question_id": 453,
+      "content_block_id": 14,
+      "question": "How can someone find support in Poland?"
+    },
+    {
+      "question_id": 454,
+      "content_block_id": 14,
+      "question": "What hotlines offer support in other European countries?"
+    }
+  ]
+}

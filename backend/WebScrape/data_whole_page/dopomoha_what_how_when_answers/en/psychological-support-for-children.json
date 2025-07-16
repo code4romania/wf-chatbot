@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 836,
+      "content_block_id": 27,
+      "answer": "Psychological support for children addresses the stress, fear, anxiety, and discomfort caused by war, constant changes, and movements. It aims to provide comfort when parents are close and healthy.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Psychological support for children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 837,
+      "content_block_id": 27,
+      "answer": "Parents can provide psychological comfort by hugging, explaining, and distracting their child, remembering that calm parents lead to calm children. It's important for parents to be close and healthy.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Psychological support for children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 838,
+      "content_block_id": 27,
+      "answer": "Important self-care tips for parents include prioritizing sleep, food, and communication, and generally taking care of their own physical and mental health. Parents cannot effectively help their children if they feel unwell.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 839,
+      "content_block_id": 27,
+      "answer": "Parents should explain their sadness truthfully, stating \"I'm sad, I'm upset. Mom needs to be a little sad now,\" and offer the child a hug or permission to play. This helps the child understand that various emotions are normal for parents.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Psychological support for children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 840,
+      "content_block_id": 27,
+      "answer": "To help children feel protected in an emergency, parents should surround them with love and care, maintain daily routines, and understand that misbehavior may express uncommunicated feelings. Tactile contact helps young children feel protected, and parents must also take care of their own health.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under '5 useful tips: how to help children feel more protected in an emergency'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 841,
+      "content_block_id": 27,
+      "answer": "Parents should save the daily routine as much as possible, as recreating the sequence of the day provides a sense of control. They can speak and reproduce the day's sequence from morning until evening, perhaps by bending fingers.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under '5 useful tips: how to help children feel more protected in an emergency' and 'How can parents support a child?' point 5.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 842,
+      "content_block_id": 27,
+      "answer": "Parents should acknowledge and validate a child's difficult feelings by saying \"I see / I understand you're scared / angry,\" rather than dismissing them. Allowing children to play or draw \"war\" helps them express, shout, voice, and draw out emotions, reducing anxiety and stress.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?' point 3.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 843,
+      "content_block_id": 27,
+      "answer": "To help a child out of a stupor, parents should aim to restore verbal response and activity by asking three questions with clear answers, such as verifying their name or what they are wearing. Additionally, massaging fingertips or earlobes, offering a game, giving a task, or providing water, tea, food, and a hug can help.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?' point 2.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 844,
+      "content_block_id": 27,
+      "answer": "Parents can create an action plan with their child by defining several routes to a shelter and deciding the sequence of actions using short, clear phrases. It's helpful to draw a map of the shelter, showing locations, how it works, entrances, exits, and where family members will be.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?' point 1.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 845,
+      "content_block_id": 27,
+      "answer": "Physical contact, such as hugging, helps reduce stress and calms children. Young children specifically feel protected and loved through tactile contact like gentle hugs, reading together, or being lulled to bed.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under '5 useful tips: how to help children feel more protected in an emergency' and 'How can parents support a child?' point 4.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 846,
+      "content_block_id": 27,
+      "answer": "To restore stable breathing, children can try inhaling through the nose and slowly exhaling through the mouth, potentially with \"A\" or \"O\" sounds. They should also breathe several times into their abdomen.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?' point 4.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 847,
+      "content_block_id": 27,
+      "answer": "Parents should ask for help whenever they need support for their own well-being, as it is not shameful to seek assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Tips for parents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 848,
+      "content_block_id": 27,
+      "answer": "Parents can talk about their emotions by communicating with important people, discussing their feelings and experiences, and calling family members. Hearing the voices of others helps provide a sense of connection.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Tips for parents' and 'How can parents support a child?' point 6.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

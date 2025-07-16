@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 555,
+      "content_block_id": 2,
+      "question": "What legal statuses are available in Romania?"
+    },
+    {
+      "question_id": 556,
+      "content_block_id": 2,
+      "question": "How can one obtain temporary protection in Romania?"
+    },
+    {
+      "question_id": 557,
+      "content_block_id": 2,
+      "question": "What document confirms temporary protection status?"
+    },
+    {
+      "question_id": 558,
+      "content_block_id": 2,
+      "question": "How can temporary protection beneficiaries work in Romania?"
+    },
+    {
+      "question_id": 559,
+      "content_block_id": 2,
+      "question": "What education rights do Ukrainian children have in Romania?"
+    },
+    {
+      "question_id": 560,
+      "content_block_id": 2,
+      "question": "How can Ukrainian students access higher education?"
+    },
+    {
+      "question_id": 561,
+      "content_block_id": 2,
+      "question": "What medical services are available to Ukrainian citizens?"
+    },
+    {
+      "question_id": 562,
+      "content_block_id": 2,
+      "question": "How can separated families be reunited in Romania?"
+    },
+    {
+      "question_id": 563,
+      "content_block_id": 2,
+      "question": "What social services are provided in accommodation camps?"
+    },
+    {
+      "question_id": 564,
+      "content_block_id": 2,
+      "question": "What financial support is available for accommodation hosts?"
+    },
+    {
+      "question_id": 565,
+      "content_block_id": 2,
+      "question": "How can Ukrainian citizens receive a pension from abroad?"
+    },
+    {
+      "question_id": 566,
+      "content_block_id": 2,
+      "question": "How can short-stay individuals obtain a work permit?"
+    },
+    {
+      "question_id": 567,
+      "content_block_id": 2,
+      "question": "What legal counseling is available for asylum seekers?"
+    },
+    {
+      "question_id": 568,
+      "content_block_id": 2,
+      "question": "When can asylum seekers begin working in Romania?"
+    },
+    {
+      "question_id": 569,
+      "content_block_id": 2,
+      "question": "How can one request resources on Sprijin de Urgență?"
+    },
+    {
+      "question_id": 570,
+      "content_block_id": 2,
+      "question": "What support does Un Acoperiș offer for accommodation?"
+    }
+  ]
+}

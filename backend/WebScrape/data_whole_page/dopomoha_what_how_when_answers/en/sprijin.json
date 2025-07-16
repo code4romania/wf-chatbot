@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 129,
+      "content_block_id": 16,
+      "answer": "One can offer support by helping with food, products, clothing, transportation, or by volunteering to assist vulnerable people arriving in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Offer support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 130,
+      "content_block_id": 16,
+      "answer": "If you suffer from a chronic condition, you can find specialized medical assistance and ask for help.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 131,
+      "content_block_id": 16,
+      "answer": "One can find support in finding temporary accommodation or provide a space to help vulnerable people by accessing \"Un Acoperiș!\".",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Housing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 132,
+      "content_block_id": 16,
+      "answer": "You can find suitable job opportunities by learning how and where to search for them.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Jobs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 133,
+      "content_block_id": 16,
+      "answer": "Ukrainian children in Romania have rights to education, with information available on how to enroll them in school, kindergarten, or extracurricular activities, including details on Ukrainian schools.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 134,
+      "content_block_id": 16,
+      "answer": "Specialized call-centers are available to provide access to resources, information, and dedicated support for various issues, depending on your needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Call-center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 135,
+      "content_block_id": 16,
+      "answer": "Pro bono legal help is offered to Ukrainian refugees in Romania and other countries.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Legal help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 136,
+      "content_block_id": 16,
+      "answer": "If you need transportation or technical assistance for your vehicle in an emergency, you can find out how to get help.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 137,
+      "content_block_id": 16,
+      "answer": "Free language courses and activities are available for Ukrainian refugees in Romania, suitable for both children and adults.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Language courses and activities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 138,
+      "content_block_id": 16,
+      "answer": "If you have used drugs and need help, you can look for accessible support services.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Support for drug users'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 139,
+      "content_block_id": 16,
+      "answer": "You can seek mental health support to talk openly about war trauma and manage its effects on your well-being and mental health.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Mental health services for refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 140,
+      "content_block_id": 16,
+      "answer": "An online map created by UNHCR can help you find a list of organizations that provide various kinds of assistance to refugees from Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Map of organizations helping refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 141,
+      "content_block_id": 16,
+      "answer": "You can learn more about the process of integrating refugees from Ukraine into Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Integration of refugees from Ukraine to Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 142,
+      "content_block_id": 16,
+      "answer": "On Sprijin de Urgență, one can offer resources, food, products, clothing, tents, transportation, or volunteer services.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

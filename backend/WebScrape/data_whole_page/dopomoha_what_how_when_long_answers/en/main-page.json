@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 901,
+      "content_block_id": 19,
+      "answer": "Ukrainians fleeing war are welcomed to Romania and can enter through any of the official border crossings.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 902,
+      "content_block_id": 19,
+      "answer": "Civilians fleeing the war can find all relevant information about seeking protection, including legal status, simplified law information, support, housing, call center details, education, health, transport, jobs, safety tips, and PTSD help.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 903,
+      "content_block_id": 19,
+      "answer": "The platform was created by Code for Romania in partnership with the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration, and the Romanian National Council for Refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 904,
+      "content_block_id": 19,
+      "answer": "The platform provides information on legal status and simplified law to help Ukrainians obtain protection in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 905,
+      "content_block_id": 19,
+      "answer": "The platform offers information regarding available support and housing options for Ukrainians in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 906,
+      "content_block_id": 19,
+      "answer": "Ukrainians can find information on the platform about accessing education and health services in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 907,
+      "content_block_id": 19,
+      "answer": "The platform provides information on transport options and job opportunities for Ukrainians in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 908,
+      "content_block_id": 19,
+      "answer": "Information on how to stay safe and receive help for PTSD is available on the platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Stay safe'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 909,
+      "content_block_id": 19,
+      "answer": "The platform indicates the availability of a call center for assistance, but the provided content does not specify its operating hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Call center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

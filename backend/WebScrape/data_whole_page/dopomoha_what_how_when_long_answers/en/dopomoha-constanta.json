@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 816,
+      "content_block_id": 57,
+      "answer": "If you have just arrived in Constanța and need help, you should find information on how to manage in the new city and identify who can assist you.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 817,
+      "content_block_id": 57,
+      "answer": "You can contact the Immigration Service of Constanța county by calling +40241 502 307 or +40241 611 364.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 818,
+      "content_block_id": 57,
+      "answer": "The content states that information is required for the accommodation, board, and integration support program, but it does not specify what exact information is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'The support program for accommodation, meals and integration in Constanța'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 819,
+      "content_block_id": 57,
+      "answer": "To travel within the city of Constanța, you can use the bus system and should check the lines that interest you via the provided link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 820,
+      "content_block_id": 57,
+      "answer": "The Constanța Emergency County Clinical Hospital Sf Apostol Andrei provides general medical services, and its Pediatric Clinical Department offers help for children.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 821,
+      "content_block_id": 57,
+      "answer": "Individuals can find the list of family doctors from Constanța county directly on the website, as indicated under the medical services section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 822,
+      "content_block_id": 57,
+      "answer": "World Vision Romania offers psychological support in Russian and Ukrainian languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 823,
+      "content_block_id": 57,
+      "answer": "The Terre des hommes Foundation provides psychological assistance by referring vulnerable individuals to information resources, organizing community-based and targeted psychosocial support activities, specialized HCWSP services, mental health awareness, psychological first aid, and capacity building for humanitarian workers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 824,
+      "content_block_id": 57,
+      "answer": "Psychological support from the International Organization for Migration (IOM) is available in Russian, Ukrainian, Romanian, and English.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 825,
+      "content_block_id": 57,
+      "answer": "The Constanța County School Inspectorate provides information on the enrollment of Ukrainian students in Romanian pre-university education units and on the study of the Romanian language and civilization; specific documents and more details can be found on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 826,
+      "content_block_id": 57,
+      "answer": "The provided content lists contact information for CNRR but does not specify the types of support they offer.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 827,
+      "content_block_id": 57,
+      "answer": "AIDRom offers social and legal advice and information, social assistance (vouchers for food, hygiene, medicine), medical consultations, coverage of national education system costs, and support for labor market access and cultural integration.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 828,
+      "content_block_id": 57,
+      "answer": "The ROUA Center Constanța provides information and counselling, legal, psychosocial, and economic assistance, Romanian language courses, and integration support to address immediate needs, improve refugee situations, and prevent exploitation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 829,
+      "content_block_id": 57,
+      "answer": "The provided content lists the address and contact numbers for the Constanta Regional Integration Center (JRS Romania Association) but does not specify how they assist individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 830,
+      "content_block_id": 57,
+      "answer": "The Sensiblu Foundation offers social counseling, face-to-face or online psychotherapy, legal advice and court representation, a support network for women and girls, forensic medical certificates, and referrals to mediation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 831,
+      "content_block_id": 57,
+      "answer": "The Novapolis Association offers help on the ground at border areas, including Constanța and Isaccea, by providing services such as transport, accommodation, translation, clothes, information, and logistics.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 832,
+      "content_block_id": 57,
+      "answer": "The Women's Center offers support for accessing reproductive health services, navigating the health system, and services specifically dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 833,
+      "content_block_id": 57,
+      "answer": "Individuals living with HIV can receive free, anonymous, and confidential psycho-medical-social services from specialist doctors at 10 Regional HIV Centers in Romania, with the expertise and support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

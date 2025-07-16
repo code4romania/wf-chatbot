@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 613,
+      "content_block_id": 37,
+      "answer": "Fast free track transfer and safe, free transportation via Moldova are available from the Ukrainian-Moldovan border to the Romanian border, primarily by buses to Huși.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 614,
+      "content_block_id": 37,
+      "answer": "The free track transfer operates via Moldova, with daily buses departing from the Palanca border in Moldova to the city Huși in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 615,
+      "content_block_id": 37,
+      "answer": "Anyone fleeing the war in Ukraine can use the free transportation services, regardless of their nationality.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 616,
+      "content_block_id": 37,
+      "answer": "The free transportation is supported by the UN Refugee Agency (UNHCR), the International Organization for Migration (IOM), and the Romanian and Moldavian governments.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 617,
+      "content_block_id": 37,
+      "answer": "Daily buses depart from the Palanca border in Moldova to the city Huși in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 618,
+      "content_block_id": 37,
+      "answer": "Free buses depart daily from the Palanca border in Moldova for Huși in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 619,
+      "content_block_id": 37,
+      "answer": "The travel time for the free transportation journey from Palanca border to Huși is 5-6 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 620,
+      "content_block_id": 37,
+      "answer": "Upon arrival in Huși, if required, travelers can receive free medical care, water, and food.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 621,
+      "content_block_id": 37,
+      "answer": "From Huși, travelers can continue their journey within Romania by taking free buses to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
