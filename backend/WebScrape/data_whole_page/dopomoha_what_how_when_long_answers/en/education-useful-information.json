@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 611,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugees can find out the steps needed to enroll their child in an educational institution by following the link provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Information on how to enroll your child in an educational institution'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 612,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugee students who wish to continue their studies in Romania can find out the necessary steps by following the link provided on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Information on how to enroll your child in an educational institution'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 613,
+      "content_block_id": 51,
+      "answer": "The JRS Romania kindergarten serves preschool children, and their school is for first graders.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten and school from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 614,
+      "content_block_id": 51,
+      "answer": "A child can be registered for classes at JRS Romania by calling 0744 405 657 or by sending an email to jrsromania@gmail.com.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten and school from JRS Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 615,
+      "content_block_id": 51,
+      "answer": "The Angel Appeal Romanian Foundation offers various activities for children and a kindergarten, where education is free.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 616,
+      "content_block_id": 51,
+      "answer": "The Angel Appeal Romanian Foundation kindergarten is open from Monday to Friday, from 10:00 to 17:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 617,
+      "content_block_id": 51,
+      "answer": "One can sign up for the Angel Appeal Romanian Foundation kindergarten by calling +40723293769 (Camelia Raita) or +40770560741 (Oana Pasalan).",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Kindergarten by Angel Appeal Romanian Foundation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 618,
+      "content_block_id": 51,
+      "answer": "The “Ostrovok” Educational Hub in Bucharest covers grades 0 to 11th in Sector 2 and grades 0 to 6th in Sector 4.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'The “Ostrovok” Educational Hub in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 619,
+      "content_block_id": 51,
+      "answer": "The “Ostrovok” Educational Hub in Bucharest offers free classes for refugee students from Ukraine in the 2nd and 4th sectors.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'The “Ostrovok” Educational Hub in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 620,
+      "content_block_id": 51,
+      "answer": "The Ukrainian secondary school Taras Shevchenko in Maramureș is unique because it is one of the few secondary schools in Romania that offers teaching in the Ukrainian language.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 621,
+      "content_block_id": 51,
+      "answer": "Parents can get information on how to enroll a child at the Taras Shevchenko Ukrainian High School by contacting +40262 317 164.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Ukrainian secondary school Taras Shevchenko in Maramureș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 622,
+      "content_block_id": 51,
+      "answer": "Students can access and download free digital versions of Ukrainian textbooks for grades 1-11 for self-study via a link provided on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'For studying by yourself: digital textbooks'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 623,
+      "content_block_id": 51,
+      "answer": "The Ukrainian Online School from the Ministry of Education of Ukraine caters to students in grades 5-11.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 624,
+      "content_block_id": 51,
+      "answer": "The Ukrainian Online School provides free access to education for students and teachers from Ukraine through a platform that includes video tutorials, tests, and self-study materials for core subjects.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'Online school from the Ministry of Education of Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 625,
+      "content_block_id": 51,
+      "answer": "UNICEF provides access to online platforms to support children's education, helping them continue their studies, develop new skills, and stay engaged in a structured environment.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the section under 'UNICEF's Support for Children's Educational Journey: Access to Learning Platforms'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

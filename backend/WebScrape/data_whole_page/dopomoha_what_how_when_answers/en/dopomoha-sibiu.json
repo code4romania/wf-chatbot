@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 484,
+      "content_block_id": 66,
+      "answer": "New arrivals in Sibiu can find information on managing in the city, important contacts, support for accommodation, meals, integration, public transport, medical services, psychological support, education, and services from various organizations.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 485,
+      "content_block_id": 66,
+      "answer": "You can contact the Sibiu County Immigration Office by calling 0269 208 482 or 0269 208 553, or by emailing sb.igi@mai.gov.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Important contacts Sibiu County Immigration Office'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 486,
+      "content_block_id": 66,
+      "answer": "The website states that information is required for the accommodation, board, and integration support program, but it does not specify what exact information is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'The support program for accommodation, meals and integration in Sibiu'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 487,
+      "content_block_id": 66,
+      "answer": "You can find out how and where to buy public transport tickets in Sibiu by checking the 'More information' link under the Public transport section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Public transport in Sibiu'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 488,
+      "content_block_id": 66,
+      "answer": "For general medical services, you can go to the County Emergency Clinical Hospital Sibiu. Sus Inima offers access to therapies and medical services, the Women's Center provides support for reproductive health, and Sens Pozitiv offers psycho-medical-social HIV services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 489,
+      "content_block_id": 66,
+      "answer": "A.L.E.G. Association offers free psychosocial support to Ukrainian refugee women at Infocenter Ukraine (st. Mitropolii, 17), and the International Rescue Committee provides psychological assistance; contact Katarina Mitic at katarina.mitic@rescue.org for IRC services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 490,
+      "content_block_id": 66,
+      "answer": "You can find information on how to enroll your child in primary education and the required documents by clicking the 'More information' link under the Education section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 491,
+      "content_block_id": 66,
+      "answer": "Sus Inima offers refugees access to free basic food and hygiene products, therapies, medical services, Romanian and English language courses, temporary accommodation, a day center for Ukrainian children, and educational infrastructure.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 492,
+      "content_block_id": 66,
+      "answer": "The Women's Center provides support for accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 493,
+      "content_block_id": 66,
+      "answer": "You can receive free, anonymous, and confidential psycho-medical-social HIV services from specialist doctors at 10 Regional HIV Centers in Romania, with the expertise and support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

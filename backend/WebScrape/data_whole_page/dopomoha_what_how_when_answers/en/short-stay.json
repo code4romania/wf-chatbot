@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 341,
+      "content_block_id": 23,
+      "answer": "There are several ways to enter Romania, including with temporary protection, with the right of short-stay, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 342,
+      "content_block_id": 23,
+      "answer": "Ukrainian nationals with a valid passport can enter Romania and stay for up to 90 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 343,
+      "content_block_id": 23,
+      "answer": "One can apply for asylum within Romania at a later point after entering.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 344,
+      "content_block_id": 23,
+      "answer": "During temporary accommodation, social services include food, clothing, personal hygiene products, primary and emergency medical care, and the right to be included in national public health programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 345,
+      "content_block_id": 23,
+      "answer": "If you need resources like food, products, or clothing, you can register your request on the Sprijin de Urgență website.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 346,
+      "content_block_id": 23,
+      "answer": "You have the right to work in Romania, and if you do not request temporary protection, you need to apply for a work permit at the General Inspectorate for Immigration.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 347,
+      "content_block_id": 23,
+      "answer": "Documents needed for a residence permit for work purposes include an application request, border crossing document, proof of legal ownership of living space, labor contract, employee register picture, registered salary, medical certificate, and tax.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 348,
+      "content_block_id": 23,
+      "answer": "The content states that you do not need to have a work permit or visa if you do not have the necessary documents (diplomas, certifications, attestations) but can provide a statement of training or experience and no criminal record.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 349,
+      "content_block_id": 23,
+      "answer": "The National Agency for Employment (ANOFM) offers free services.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 350,
+      "content_block_id": 23,
+      "answer": "Children and young refugees from Ukraine can enroll in the Romanian education system if they have legal residence in Romania, either through temporary protection or asylum.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 351,
+      "content_block_id": 23,
+      "answer": "Foreign nationals from the conflict zone in Ukraine benefit from medical services, supplies, medicines, and devices included in national health programs, similar to insured Romanian citizens, without paying social health insurance contributions, personal contributions for outpatient medicines, or co-payment.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 352,
+      "content_block_id": 23,
+      "answer": "Foreign nationals can receive medical services in specialized outpatient healthcare without needing a referral from a doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 353,
+      "content_block_id": 23,
+      "answer": "There is currently no direct financial support for renting a home for individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 354,
+      "content_block_id": 23,
+      "answer": "Individuals and legal entities hosting people from the conflict zone in Ukraine benefit from the reimbursement of daily accommodation and food expenses.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 355,
+      "content_block_id": 23,
+      "answer": "If you need support in finding temporary accommodation, you can access Un Acoperiș to search for or offer accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

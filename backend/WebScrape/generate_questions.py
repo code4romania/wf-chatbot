@@ -15,7 +15,7 @@ language_map = {
 }
 
 INPUT_FOLDER = "./data_whole_page/dopomoha_stripped"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_no_yes_no"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_what_how_when_long"
 QID_FILE = os.path.join(OUTPUT_ROOT, "next_qid.txt") # File to store next_qid
 FAILURES_FILE = os.path.join(OUTPUT_ROOT, "notes", "fails.json") # Path for failures log
 
@@ -67,22 +67,24 @@ def generate_questions_for_language(scraped, code, language, page_name, verbose=
             f"Given content: '{entry['summary']}', "
             f"generate {n_questions} to {max_questions} concise, distinct, open-ended questions in {language} "
             "that someone curious might naturally ask BEFORE reading any details. "
-            "DO NOT generate any question that can be answered with 'yes' or 'no'. "
-            "IMPORTANT: Do NOT start any question with 'Is', 'Are', 'Was', 'Were', 'Does', 'Do', 'Did', 'Can', 'Could', 'Will', 'Would', 'Should', or 'Has'. "
-            "Use open-ended question words such as 'What', 'How', 'Why', 'Which', 'Who', or 'In what way'. "
-            "Each question MUST be fully understandable on its own and should not require knowledge of the content to grasp what the question is about. "
-            "Pretend each question will be seen in isolation, as if in an FAQ. "
-            "BAD Examples that LACK CONTEXT or are yes/no: "
-            "  - 'Is participation open to both adults and children?' (Yes/no and context missing: participation in what?). "
-            "  - 'Can I apply?' (Yes/no and context missing: apply for what?). "
-            "  - 'What is the purpose of these measures?' ('these measures' is vague). "
-            "GOOD Examples: "
-            "  - 'What are the benefits of the new community gardening program?' "
-            "  - 'How can someone join the new community gardening program?' "
-            "If the question is about a specific program, event, or concept, include that specific name or concept in the question. "
+            "IMPORTANT: Only generate questions starting with 'What', 'How', or 'When'. "
+            "Each question must be open-ended and cannot be answered with 'yes' or 'no'. "
+            "Do NOT start questions with any other words (such as 'Is', 'Are', 'Was', etc.). "
+            "Each question must be fully understandable on its own and not require knowledge of the content to grasp the topic. "
+            "Make sure every question directly mentions the specific topic, program, event, or concept from the content. "
             "Do not use the words 'this', 'these', 'summary', or 'content' in your questions. "
-            f"SUPER IMPORTANT: Return only a Python list literal."
+            "Ensure the set of questions together covers all key points or sections of the content. "
+            "BAD Examples: "
+            "  - 'Is it important?' (Yes/no) "
+            "  - 'Can you apply?' (Yes/no and lacks context) "
+            "  - 'What is its purpose?' (Vague) "
+            "GOOD Examples: "
+            "  - 'What are the main goals of the city’s recycling initiative?' "
+            "  - 'How can I get temporary protection?' "
+            "  - 'When will the recycling initiative begin in the city?' "
+            "SUPER IMPORTANT: Return only a valid Python list literal of the questions."
         )
+
 
         history = []
         questions = []

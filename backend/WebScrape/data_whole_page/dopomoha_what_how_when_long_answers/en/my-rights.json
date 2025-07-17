@@ -1,0 +1,224 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 557,
+      "content_block_id": 2,
+      "answer": "The primary ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 558,
+      "content_block_id": 2,
+      "answer": "Rights in Romania differ based on an individual's status, which can be temporary protection, short-stay right, or asylum seeker. Each status grants specific rights and obligations outlined in the relevant sections.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 559,
+      "content_block_id": 2,
+      "answer": "Individuals with temporary protection can find employment in Romania by being hired on the basis of a residence permit. No notice of employment or visa is required for them.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 560,
+      "content_block_id": 2,
+      "answer": "If beneficiaries of temporary protection lack documents like diplomas, they can provide a statement of training/experience and no criminal record. However, those in medicine, dentistry, veterinary medicine, pharmacy, architecture, or any liberal profession must have the necessary documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 561,
+      "content_block_id": 2,
+      "answer": "Individuals benefiting from temporary protection can access employment incentives and protection within the unemployment insurance system by registering with county employment agencies or the Bucharest municipality.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 562,
+      "content_block_id": 2,
+      "answer": "Ukrainian children can access early, primary, and secondary education in Romanian schools under the same conditions as Romanian citizens. This includes free accommodation in boarding schools, food, resources, health examinations, free transport for eligible students, and free Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right for education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 563,
+      "content_block_id": 2,
+      "answer": "Ukrainian citizens can continue higher education in Romania under the same conditions as Romanian citizens, regardless of their Ukrainian study documents. They must submit a written request to their desired university, which will evaluate the application and, if positive, issue a Letter of acceptance of academic mobility.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Higher Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 564,
+      "content_block_id": 2,
+      "answer": "Ukrainian citizens pursuing higher education in Romania can benefit from the Romanian state's funding to pay the tuition fee.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Higher Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 565,
+      "content_block_id": 2,
+      "answer": "Foreign nationals from Ukraine's conflict zone receive medical services, supplies, medicines, and devices included in national health programs, similar to insured Romanian citizens, without social health insurance contributions, personal contribution for outpatient medicines, or co-payment. Specialized outpatient healthcare services also do not require a doctor's referral.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 566,
+      "content_block_id": 2,
+      "answer": "Families separated across different Member States can be reunited in Romania if family members have temporary protection in different states or if those not yet in Romania need protection. Reunification can be requested for a spouse, unmarried minor children, or the parents/responsible adult of a minor and unmarried beneficiary.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Reuniting families'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 567,
+      "content_block_id": 2,
+      "answer": "Temporary accommodation camps in Romania provide food, clothing, personal hygiene products, primary and emergency medical care, free medical treatment for life-threatening diseases, and inclusion in national public health programs for contagious disease prevention.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 568,
+      "content_block_id": 2,
+      "answer": "Individuals and legal entities hosting people from the conflict zone in Ukraine can receive reimbursement for daily accommodation and food expenses.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 569,
+      "content_block_id": 2,
+      "answer": "Ukrainian citizens living abroad can receive a pension in Romania by undergoing remote verification via the Dіya online service or the Pension Fund's call center, or by confirming residence through a consular officer at the Ukrainian Embassy. They can also apply for a remote pension via the web services portal of the Pension Fund of Ukraine, and receive payments by international transfers through Ukrposhta if they previously received cash pensions in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Pension'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 570,
+      "content_block_id": 2,
+      "answer": "To obtain a work permit in Romania for someone with a short-stay right, it is necessary to apply at the General Inspectorate for Immigration. Required documents include an application request, border crossing document, proof of legal living space, labor contract, picture from the general register of employees, registered salary, medical certificate, and a tax of approximately 250 Euro.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Work' within 'My rights having a short stay status'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 571,
+      "content_block_id": 2,
+      "answer": "Children and young refugees with a short-stay status can enroll in the Romanian education system if they have legal residence in Romania, meaning they must benefit from temporary protection or asylum.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Education' within 'My rights having a short stay status'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 572,
+      "content_block_id": 2,
+      "answer": "Asylum seekers in Romania have the right to legal counseling, including assistance by a lawyer during the asylum procedure, contact and assistance from an NGO or UNHCR, a free translator, and information in a language they understand. They can also call the Romanian National Council for Refugees (CNRR) for counseling.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Legal counseling, information' within 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 573,
+      "content_block_id": 2,
+      "answer": "Asylum seekers can access accommodation and residence support by receiving a temporary identification document, being accommodated in a Regional Reception Center if they lack financial resources, and remaining in Romania throughout the asylum procedure.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Accommodation and residence' within 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 574,
+      "content_block_id": 2,
+      "answer": "Asylum seekers in Romania can begin working under the same conditions as Romanian citizens after acquiring refugee status or three months after submitting their asylum application, if no decision has been made by then.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Work' within 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 575,
+      "content_block_id": 2,
+      "answer": "Someone can request resources like food, products, clothing, tents, transportation, or volunteers through Sprijin de Urgență by accessing their platform and selecting to \"Request or provide resources.\"",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 20,
+      "question_id": 576,
+      "content_block_id": 2,
+      "answer": "Un Acoperiș offers support in finding temporary accommodation for vulnerable people coming to Romania, and also allows individuals to offer a space for accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

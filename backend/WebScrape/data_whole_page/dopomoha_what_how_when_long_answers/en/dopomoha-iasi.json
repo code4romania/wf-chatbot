@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 251,
+      "content_block_id": 61,
+      "answer": "The Iași County Immigration Service can be contacted via email at is.igi@mai.gov.ro or by phone at 0232 302 315 and 0232 302 322.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 252,
+      "content_block_id": 61,
+      "answer": "For urgent medical services, individuals can contact the County Emergency Clinical Hospital \"Sf. Spiridon\" Iași, or the Emergency Clinical Hospital for Children \"Sf. Maria\" Iași for child-related emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 253,
+      "content_block_id": 61,
+      "answer": "The provided information states that details are required for the accommodation, board, and integration support program, but it does not specify what information is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'The support program for accommodation, meals and integration in Iași'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 254,
+      "content_block_id": 61,
+      "answer": "Details about public transport ticket costs, payment methods, and public transport areas in Iași can be found via a link mentioned on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 255,
+      "content_block_id": 61,
+      "answer": "Organizations in Iași offer various psychological support services, including general psychological assistance, psychosocial support events, mental health awareness, first aid, training, workshops, supervision, and mental health consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 256,
+      "content_block_id": 61,
+      "answer": "The International Organization for Migration (IOM) provides psychological support by referencing vulnerable individuals to resources, organizing psychosocial and mental health awareness events, and offering training. Project HOPE provides a variety of psychological assistance with consultations available in multiple languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 257,
+      "content_block_id": 61,
+      "answer": "The multi-service center for children and adolescents organizes a kindergarten with an extended program, school preparation for students, a Ukrainian language school for grades 1-11, and an integration program into the Romanian education system through creative lessons and sport activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 258,
+      "content_block_id": 61,
+      "answer": "Free Romanian language courses in Iași are offered by Inspectoratul Școlar Județean Iași, Centrul de Asistență Umanitară și Socială pentru Refugiați CTR Nicolina, Crucea Roșie, and Caritas.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 259,
+      "content_block_id": 61,
+      "answer": "After completing the Romanian language program and passing an evaluation offered by Inspectoratul Școlar Județean Iași, one can obtain a language certificate attesting their knowledge and skills.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 260,
+      "content_block_id": 61,
+      "answer": "The CTR Nicolina Refugee Center provides accommodation, products, food, medical assistance, psychological counseling, Romanian language courses, and organizes a kindergarten and educational activities for children.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 261,
+      "content_block_id": 61,
+      "answer": "The Romanian National Council for Refugees (CNRR) offers legal advice and information on topics such as the asylum procedure, child protection, and integration.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 262,
+      "content_block_id": 61,
+      "answer": "The ICAR Foundation offers support for accessing medical services and medicines, in addition to socio-cultural activities, information, integration, and psychological support.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 263,
+      "content_block_id": 61,
+      "answer": "The Women's Center in Iași offers support for accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 264,
+      "content_block_id": 61,
+      "answer": "Individuals arriving in Romania who need HIV psycho-medical-social services can access them by visiting consilierehiv.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 265,
+      "content_block_id": 61,
+      "answer": "Justiție pentru minori provides accommodation and meals for mothers and children, along with mediation services, legal advice for family reunification, and support for accessing medical and other needed services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 266,
+      "content_block_id": 61,
+      "answer": "AIDRom offers support for accessing medical services, legal assistance, and reimbursements for legalized translation services, in addition to psychological counseling and socio-cultural activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 267,
+      "content_block_id": 61,
+      "answer": "The National Anti-Traffic Hotline Romania can be contacted at 0800 800 678 or 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 268,
+      "content_block_id": 61,
+      "answer": "Refugees can access free family medicine services in Iași through a list provided on the website, which is not directly included in this text.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

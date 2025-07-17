@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question_id": 698,
+      "content_block_id": 54,
+      "question": "What free medical care is available for Ukrainian refugees?"
+    },
+    {
+      "question_id": 699,
+      "content_block_id": 54,
+      "question": "How can refugees access IOM Romania medical assistance?"
+    },
+    {
+      "question_id": 700,
+      "content_block_id": 54,
+      "question": "When can people get free medical care from IOM Romania?"
+    },
+    {
+      "question_id": 701,
+      "content_block_id": 54,
+      "question": "What free consultations does MedZirka clinic offer online?"
+    },
+    {
+      "question_id": 702,
+      "content_block_id": 54,
+      "question": "How do you apply for MedZirka clinic medical services?"
+    },
+    {
+      "question_id": 703,
+      "content_block_id": 54,
+      "question": "What medical services does the Red Cross Health Promotion Center provide?"
+    },
+    {
+      "question_id": 704,
+      "content_block_id": 54,
+      "question": "When is the Red Cross Health Promotion Center open for refugees?"
+    }
+  ]
+}

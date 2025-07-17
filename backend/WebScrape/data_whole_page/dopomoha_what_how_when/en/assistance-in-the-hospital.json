@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What hospital services are typically provided?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How does one access hospital services?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "When is a referral note not required?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "What is day hospitalization?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "What conditions are treated in day hospitalization?"
+    },
+    {
+      "question_id": 6,
+      "content_block_id": 40,
+      "question": "How do public hospitals cover medical services?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 40,
+      "question": "What expenses do public hospitals bear?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 40,
+      "question": "When did chemotherapy services become covered?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 40,
+      "question": "How do private hospitals charge for services?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 40,
+      "question": "When did private hospitals start charging contributions?"
+    },
+    {
+      "question_id": 11,
+      "content_block_id": 40,
+      "question": "What is a personal contribution in private hospitals?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 40,
+      "question": "What is the estimate for medical services?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 40,
+      "question": "How are cost changes handled during hospitalization?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 40,
+      "question": "How does a patient get reimbursed for medicines?"
+    }
+  ]
+}

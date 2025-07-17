@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question_id": 328,
+      "content_block_id": 39,
+      "question": "What is specialist medical assistance?"
+    },
+    {
+      "question_id": 329,
+      "content_block_id": 39,
+      "question": "Where is specialist medical assistance provided?"
+    },
+    {
+      "question_id": 330,
+      "content_block_id": 39,
+      "question": "What services are in the basic package?"
+    },
+    {
+      "question_id": 331,
+      "content_block_id": 39,
+      "question": "How do Ukraine war zone people get consultations?"
+    },
+    {
+      "question_id": 332,
+      "content_block_id": 39,
+      "question": "What is the maximum for chronic condition consultations?"
+    },
+    {
+      "question_id": 333,
+      "content_block_id": 39,
+      "question": "What follow-up services are offered after hospitalization?"
+    },
+    {
+      "question_id": 334,
+      "content_block_id": 39,
+      "question": "What conditions allow for remote specialist consultations?"
+    },
+    {
+      "question_id": 335,
+      "content_block_id": 39,
+      "question": "What day hospitalization services are provided?"
+    },
+    {
+      "question_id": 336,
+      "content_block_id": 39,
+      "question": "What can a specialist doctor decide after consultations?"
+    },
+    {
+      "question_id": 337,
+      "content_block_id": 39,
+      "question": "What services can a psychologist provide?"
+    },
+    {
+      "question_id": 338,
+      "content_block_id": 39,
+      "question": "How can patients access physiotherapist services?"
+    },
+    {
+      "question_id": 339,
+      "content_block_id": 39,
+      "question": "How are psychiatric therapies provided remotely?"
+    },
+    {
+      "question_id": 340,
+      "content_block_id": 39,
+      "question": "What services benefit COVID-19 patients?"
+    }
+  ]
+}

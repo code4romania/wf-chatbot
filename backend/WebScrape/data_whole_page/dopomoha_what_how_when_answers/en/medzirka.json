@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 418,
+      "content_block_id": 52,
+      "answer": "MedZirka offers cost-free medical services online and offline, including free consultations, medical prescriptions, referrals, sick leave, vaccination certificates, and referrals for laboratory testing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 419,
+      "content_block_id": 52,
+      "answer": "One can access MedZirka's cost-free medical services after submitting the declaration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 420,
+      "content_block_id": 52,
+      "answer": "MedZirka provides free consultations from a family doctor, therapist, or pediatrician.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 421,
+      "content_block_id": 52,
+      "answer": "MedZirka's medical services are delivered both online and offline.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 422,
+      "content_block_id": 52,
+      "answer": "The content states that services are available 'After submitting the declaration', but does not specify what type of declaration is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 423,
+      "content_block_id": 52,
+      "answer": "MedZirka can provide a medical prescription, sick leave, and a vaccination certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 424,
+      "content_block_id": 52,
+      "answer": "MedZirka can issue referrals to a specialist and referrals for laboratory testing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 425,
+      "content_block_id": 52,
+      "answer": "MedZirka addresses a wide range of health conditions including flu, cold, SARS, respiratory, circulatory, digestive, kidney, blood, endocrine, heart, and joint diseases, as well as chronic diseases of various etiologies.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 426,
+      "content_block_id": 52,
+      "answer": "MedZirka addresses conditions such as flu, cold, SARS, bronchitis, pneumonia, bronchial asthma, hypertension, coronary heart disease, gastritis, peptic ulcer, pyelonephritis, anemia, diabetes mellitus, osteoarthritis, and gout, among others.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 427,
+      "content_block_id": 52,
+      "answer": "MedZirka addresses chronic diseases of various etiologies.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 428,
+      "content_block_id": 52,
+      "answer": "One can contact MedZirka by calling 0 800 330 553 or by writing on Viber/Telegram following the links on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 429,
+      "content_block_id": 52,
+      "answer": "The provided content does not specify when MedZirka's contact lines are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

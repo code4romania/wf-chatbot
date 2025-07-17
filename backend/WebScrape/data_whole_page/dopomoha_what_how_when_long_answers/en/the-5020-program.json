@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 289,
+      "content_block_id": 32,
+      "answer": "As of July 1, 2024, the support program for Ukrainians in Romania changed to a new financial support program called the Monthly Lump Sum for Accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Monthly Lump Sum for Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 290,
+      "content_block_id": 32,
+      "answer": "The new financial support program for beneficiaries of temporary protection in Romania is the Monthly Lump Sum for Accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Monthly Lump Sum for Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 291,
+      "content_block_id": 32,
+      "answer": "Beneficiaries can receive the monthly lump sum for accommodation for up to 3 consecutive months, with the period starting from their date of entry into Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Monthly Lump Sum for Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 292,
+      "content_block_id": 32,
+      "answer": "Beneficiaries of temporary protection in Romania are eligible unless they are receiving international protection, residing in government-provided temporary accommodation camps, or have previously received accommodation benefits under previous regulations.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Exclusions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 293,
+      "content_block_id": 32,
+      "answer": "The standard monthly lump sum for accommodation for a single individual in Romania is 750 RON per month.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Amount'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 294,
+      "content_block_id": 32,
+      "answer": "The standard monthly lump sum for accommodation for families in Romania is 2,000 RON per month.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Amount'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 295,
+      "content_block_id": 32,
+      "answer": "For special cases, the monthly lump sum is 500 RON per month for individuals and 1,500 RON per month for families.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Special Cases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 296,
+      "content_block_id": 32,
+      "answer": "Required documents include a valid temporary protection permit, passports for each family member, bank account details for a Romanian bank in RON, and any other documents requested by local authorities.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Required Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 297,
+      "content_block_id": 32,
+      "answer": "Beneficiaries must submit their application to their local administrative-territorial unit (e.g., town hall), filling out the application form, providing personal details including CNP numbers, proof of temporary protection, a bank account statement, and indicating they are not residing in a temporary accommodation camp.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Application Process'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 298,
+      "content_block_id": 32,
+      "answer": "The application for the first month's payment of the lump sum should be submitted within the first 5 working days of that month.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Notes'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 299,
+      "content_block_id": 32,
+      "answer": "You cannot benefit from the accommodation support program if you are a Romanian citizen, reside in a university dormitory as a student, or have a work permit or student residence permit in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Exclusions for Rent Payment Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 300,
+      "content_block_id": 32,
+      "answer": "After the monthly lump sum period ends, beneficiaries may apply for a Minimum Inclusion Income, provided in accordance with Law No. 196/2016.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 301,
+      "content_block_id": 32,
+      "answer": "Detailed information on applying for Minimum Inclusion Income can be obtained by following the links to the official websites of specific sectors or cities in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 302,
+      "content_block_id": 32,
+      "answer": "Ukrainian citizens facing application difficulties can ask for help from Romanian/English speakers, contact NGOs with relevant language speakers, or reach out to call centers with Ukrainian-Russian-Romanian speakers.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 303,
+      "content_block_id": 32,
+      "answer": "For assistance, you can call the government call center at 021.3456789, UNHCR Romania at +40 723 653 651, or CNRR at +40 730 073 170.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 304,
+      "content_block_id": 32,
+      "answer": "Individuals needing help finding free accommodation in Romania can use the 'Un Acoperiș (A Roof)' platform, where central authorities and international organizations coordinate assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Assistance in finding housing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 869,
+      "content_block_id": 71,
+      "answer": "Ukrainian refugees under temporary protection in Romania may be eligible for various social benefits, including support for mothers with newborns, childcare allowance for single parents, accommodation and allowances for minors, services for persons with disabilities, state allowance for children, and unemployment benefits.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 870,
+      "content_block_id": 71,
+      "answer": "Ukrainian refugees access social benefits in Romania by following specific application processes for each type of support, which generally involve submitting required documents to relevant local or county agencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 871,
+      "content_block_id": 71,
+      "answer": "Mothers who gave birth after April 12, 2024, are eligible for a social voucher worth 2,000 RON, provided electronically. Applications must be submitted no later than 3 months after the child's birth.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Support for mothers with newborns'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 872,
+      "content_block_id": 71,
+      "answer": "Applications for newborn support, along with copies of the required documents, should be submitted to the Social Assistance Directorate of the city where the mother resides.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Support for mothers with newborns'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 873,
+      "content_block_id": 71,
+      "answer": "Required documents for newborn support include an application form, a self-declaration of minor maintenance certification, a temporary residence permit with address, the child’s birth certificate, and a marriage certificate if applicable.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Support for mothers with newborns'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 874,
+      "content_block_id": 71,
+      "answer": "The childcare allowance for single parents or guardians caring for a child up to 2 years old, or up to 3 years old if the child has a disability, is equal to the minimum level of the child-raising allowance specified by Emergency Ordinance No. 111/2010.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Monthly Childcare Support Allowance for Single Parents or Guardians'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 875,
+      "content_block_id": 71,
+      "answer": "Applications for childcare allowance must be submitted to the county agency for payments and social inspection or the Bucharest municipality agency, depending on where the residence is registered, either in person or electronically.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Monthly Childcare Support Allowance for Single Parents or Guardians'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 876,
+      "content_block_id": 71,
+      "answer": "The childcare allowance is granted starting from the month after the application is submitted and continues until the child turns 2 years old, or 3 years old in the case of a child with a disability.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Monthly Childcare Support Allowance for Single Parents or Guardians'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 877,
+      "content_block_id": 71,
+      "answer": "Eligible Ukrainian minors have the right to free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Accommodation and Allowances for Ukrainian Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 878,
+      "content_block_id": 71,
+      "answer": "Applications for accommodation and allowances for Ukrainian minors should be submitted to the local Social Assistance Directorate (Direcția de Asistență Socială), and the school where the minor is enrolled might also assist.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Accommodation and Allowances for Ukrainian Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 879,
+      "content_block_id": 71,
+      "answer": "Adults with disabilities can benefit from social services in various centers, including care and assistance centers, rehabilitation centers, and sheltered housing, with accompanying carers also eligible for support such as accommodation, food, and health assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Protection of the Rights of Persons with Disabilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 880,
+      "content_block_id": 71,
+      "answer": "Disabled individuals access social services by establishing legal status with the General Inspectorate for Immigration, registering at the General Directorate of Social Assistance and Child Protection (DGASPC), undergoing an evaluation, and submitting required documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Protection of the Rights of Persons with Disabilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 881,
+      "content_block_id": 71,
+      "answer": "The state allowance for Ukrainian children is 719 RON per month for children under 2, children under 3 with a disability, or children aged 3-18 with disabilities, and 292 RON per month for children aged 2-18 or youth over 18 enrolled in pre-university education.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'State Allowance for Children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 882,
+      "content_block_id": 71,
+      "answer": "Parents apply for the state child allowance by submitting applications and supporting documents to the administrative-territorial unit where the address listed on their temporary residence permit is located.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'State Allowance for Children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 883,
+      "content_block_id": 71,
+      "answer": "Parents or representatives must submit a declaration confirming their residence every 3 months, starting from the month the application is submitted, to the county or Bucharest municipality agency responsible for the allowance payment.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'State Allowance for Children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 884,
+      "content_block_id": 71,
+      "answer": "Unemployment benefits provide financial support for eligible refugees under temporary protection in Romania who have lost their jobs or are unable to find employment, with a minimum amount of 660 RON per month for up to 6 months.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 885,
+      "content_block_id": 71,
+      "answer": "Refugees apply for unemployment benefits by submitting the application to the local Employment Agency (ANOFM) in the area where they are residing based on their temporary protection permit.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 886,
+      "content_block_id": 71,
+      "answer": "Required documents for unemployment benefits include an application form, temporary protection permit, a declaration of no medical restrictions for employment, employment history documentation, and documents related to the termination of employment.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 887,
+      "content_block_id": 71,
+      "answer": "Unemployment benefit applications must be submitted within 12 months of employment termination.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

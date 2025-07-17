@@ -1,0 +1,103 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 910,
+      "content_block_id": 8,
+      "answer": "The dopomoha.ro website offers information via a concise flyer, a guide with common Romanian expressions translated into English and Ukrainian, and platforms like Sprijin de Urgență and Un Acoperiș for resources and accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 911,
+      "content_block_id": 8,
+      "answer": "Posters can be printed and displayed in crowded places like storefronts and apartment buildings, while flyers can be shared wherever you go, including stores, means of transport, and parks.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 912,
+      "content_block_id": 8,
+      "answer": "Through Sprijin de Urgență, users can request or offer resources such as food, products, clothing, tents, transportation, or volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 913,
+      "content_block_id": 8,
+      "answer": "To provide or receive support using Sprijin de Urgență, individuals can request or offer resources.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 914,
+      "content_block_id": 8,
+      "answer": "Un Acoperiș offers support in finding temporary accommodation for vulnerable people who are coming to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 915,
+      "content_block_id": 8,
+      "answer": "Individuals can provide a space to help vulnerable people by accessing Un Acoperiș and selecting the option to offer accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 916,
+      "content_block_id": 8,
+      "answer": "The Romanian phrase book includes common expressions translated into English and Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 917,
+      "content_block_id": 8,
+      "answer": "Someone can access the guide with common expressions by clicking on the provided link for the phrase book.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 918,
+      "content_block_id": 8,
+      "answer": "Posters should be displayed in crowded places visible to people, such as storefronts and apartment buildings, while flyers can be shared wherever you go, including stores, means of transport, and parks.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 333,
+      "content_block_id": 39,
+      "answer": "The basic package includes medical services for emergency situations, curative services for acute conditions, consultations for chronic diseases, detection of endemic-epidemic diseases, family planning services, palliative care, diagnostic and therapeutic services, pregnancy surveillance, and medical services for diagnostic purposes.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 334,
+      "content_block_id": 39,
+      "answer": "Specialized ambulatory medical assistance is typically provided in medical practices, health units, specialized and integrated outpatient clinics within hospitals, diagnostic and treatment medical centers, and palliative care clinics.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 335,
+      "content_block_id": 39,
+      "answer": "Individuals from the war zones of Ukraine can access specialist medical services without presenting a referral ticket or a prescription from a family doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 336,
+      "content_block_id": 39,
+      "answer": "Patients with chronic conditions can receive a maximum of 4 consultations per quarter, with a limit of 2 consultations per month.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 337,
+      "content_block_id": 39,
+      "answer": "Consultations for chronic conditions or diseases with potential endemo-epidemic that require isolation can be offered remotely by any means of communication.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 338,
+      "content_block_id": 39,
+      "answer": "Insured individuals with a confirmed diagnosis after hospitalization can receive up to two free consultations for tracking condition evolution, performing therapeutic procedures, wound/thread/cast removal, and recommendations for paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 339,
+      "content_block_id": 39,
+      "answer": "Examples of day hospitalization services include monitoring normal and high-risk pregnancies, prenatal screening, and early detection and diagnosis of precancerous lesions of the breast and dysplastic lesions of the cervix.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 340,
+      "content_block_id": 39,
+      "answer": "Day hospitalization services typically have a duration of less than 12 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 341,
+      "content_block_id": 39,
+      "answer": "After consultations, a specialist doctor can establish therapeutic conduct, prescribe treatment, recommend home care or medical devices, assess and monitor chronic conditions, release referral tickets for other specialties, and issue medical leave certificates.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 342,
+      "content_block_id": 39,
+      "answer": "A specialist doctor can monitor the evolution of patients with chronic conditions quarterly or, as needed, monthly.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 343,
+      "content_block_id": 39,
+      "answer": "A psychologist can provide psychological counseling and psychotherapy, as well as special psychopedagogical counseling, including through a speech therapist.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 344,
+      "content_block_id": 39,
+      "answer": "Insured people can be recommended for psychologist or physiotherapist services by doctors with certain specializations, provided the outpatient clinic has qualified staff or a contract with a service provider.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 345,
+      "content_block_id": 39,
+      "answer": "A physiotherapist offers individual or group physiotherapy, including physiotherapy with special devices like mechanical, electromechanical, or robotic devices.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 346,
+      "content_block_id": 39,
+      "answer": "Psychiatric therapies, psychological counseling, psychotherapy, and services provided by a speech therapist can all be offered remotely through any means of communication.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 347,
+      "content_block_id": 39,
+      "answer": "Patients with conditions or aggravations after COVID-19 can benefit from physical therapy, psychological counseling, and psychotherapy, based on a recommendation from cardiology and pneumology doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

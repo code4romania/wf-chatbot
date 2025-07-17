@@ -1,0 +1,114 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 279,
+      "content_block_id": 44,
+      "answer": "These services include transport upon leaving the hospital for patients with severe cognitive disorders, transport of immobile patients to recovery health units, round-trip transport to specialist offices, and round-trip transport to laboratories for paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 280,
+      "content_block_id": 44,
+      "answer": "Patients can qualify for unassisted medical transport activities if they are in specific situations, such as having severe cognitive disorders, being immobile with certain conditions requiring hospitalization, or being bedridden for specialist consultations or laboratory investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 281,
+      "content_block_id": 44,
+      "answer": "A patient is eligible for transport upon leaving the hospital if they have severe cognitive disorders, including dementia of different etiologies, autistic spectrum disorders, or severe or profound mental retardation.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 282,
+      "content_block_id": 44,
+      "answer": "Immobile patients with tetraparesis or motor insufficiency of the lower limb are transported to the hospital for hospitalization in recovery health units based on a hospitalization note.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 283,
+      "content_block_id": 44,
+      "answer": "Bedridden patients with severe cognitive disorders (dementia, autistic spectrum, severe/profound mental retardation), hemiparesis, or moderately severe paraparesis are eligible for round-trip transport to a specialist office for consultation regarding chronic conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 284,
+      "content_block_id": 44,
+      "answer": "Bedridden patients can receive round-trip transport to a laboratory for paraclinical investigations when these are recommended by family medicine doctors or specialist doctors from outpatient clinics under contract with health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 285,
+      "content_block_id": 44,
+      "answer": "Emergency consultations at home and unassisted medical transport services are carried out by private ambulances that have contractual relations with health insurance companies, facilitated through the 112 emergency service.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 286,
+      "content_block_id": 44,
+      "answer": "A patient or their relative can call the emergency service 112 if the patient is in one of the situations described as eligible for these services.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 287,
+      "content_block_id": 44,
+      "answer": "The 112 emergency service dispatcher analyzes the described situation and decides which type of ambulance to send for home consultations or self-medical transportation.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 288,
+      "content_block_id": 44,
+      "answer": "Hospital staff can call the emergency service 112 for patient transport upon leaving the hospital when it is necessary to transport the patient after discharge.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

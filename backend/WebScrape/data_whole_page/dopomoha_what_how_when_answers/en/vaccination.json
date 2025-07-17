@@ -1,0 +1,169 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 587,
+      "content_block_id": 26,
+      "answer": "The main purpose of vaccination is to preserve human health and life by protecting against infectious diseases and preventing dangerous complications.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Vaccination'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 588,
+      "content_block_id": 26,
+      "answer": "Vaccination protects against infectious diseases such as measles, rubella, polio, diphtheria, haemophilus influenza type b (Hib), tuberculosis, pertussis, tetanus, hepatitis B, mumps, rotavirus, pneumococci, meningococcus, flu, and COVID-19.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Vaccination'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 589,
+      "content_block_id": 26,
+      "answer": "Vaccination protects human health and life by being the only way to prevent dangerous complications from infectious diseases. Vaccines use weakened viruses that do not overload the immune system but prepare it to fight off infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Vaccination'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 590,
+      "content_block_id": 26,
+      "answer": "Newborns should receive hepatitis B and tuberculosis (BCG) vaccines immediately if available at birth, or as soon as possible if not. Hepatitis B vaccination can start when the child weighs 2 kilograms or is 1 month old, and other vaccines like diphtheria, tetanus, pertussis, and polio begin at two months.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 591,
+      "content_block_id": 26,
+      "answer": "The text does not provide a specific, detailed calendar for mandatory vaccinations in Romania. Instead, it advises getting hepatitis B and tuberculosis (BCG) vaccines immediately after birth, starting hepatitis B at 2kg or 1 month old, and other vaccines like diphtheria, tetanus, pertussis, and polio from two months of age.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 592,
+      "content_block_id": 26,
+      "answer": "Parents can get free vaccinations for their child by contacting their nearest County Department for Public Health or a healthcare provider.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 593,
+      "content_block_id": 26,
+      "answer": "Adults are recommended to be vaccinated against diseases that can be avoided, specifically mentioning COVID-19.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 594,
+      "content_block_id": 26,
+      "answer": "If a child misses a vaccination, parents should make up for the schedule as soon as possible and schedule the next vaccines with their doctor, ensuring to follow the intervals of doses for maximum effectiveness. It is not necessary to restart all vaccinations from the beginning for that infection.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 595,
+      "content_block_id": 26,
+      "answer": "Vaccination does not weaken or overload the immune system; instead, vaccine viruses are weakened and only involve a tiny fraction of the immune system, leading to a much lower load compared to an actual infection.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 596,
+      "content_block_id": 26,
+      "answer": "Common reactions after vaccination include fever or muscle aches, which are considered normal.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 597,
+      "content_block_id": 26,
+      "answer": "Several vaccines can be given in one day, which is a common international practice and reduces the number of injections while providing protection against multiple infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 598,
+      "content_block_id": 26,
+      "answer": "Chronic illnesses such as asthma or diabetes are not contraindications for vaccination; in fact, children with these conditions have a higher risk of severe infections that vaccination can protect against.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 599,
+      "content_block_id": 26,
+      "answer": "Poliomyelitis is a dangerous disease that carries the risk of irreversible paralysis.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 600,
+      "content_block_id": 26,
+      "answer": "In most cases, premature babies should be vaccinated at the same age and on the same vaccination schedule as full-term babies, regardless of their birth weight.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 601,
+      "content_block_id": 26,
+      "answer": "Children can be protected from rubella outbreaks by vaccinating them with the first dose of the MMR (measles-mumps-rubella) vaccine at 12 months.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 808,
+      "content_block_id": 31,
+      "answer": "Families with children with disabilities need more material and psychological resources during times of war and emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 809,
+      "content_block_id": 31,
+      "answer": "Families can best prepare by assembling an emergency suitcase with essential items and by preparing children with autism or mental disorders for situations like explosions or bomb shelters.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 810,
+      "content_block_id": 31,
+      "answer": "An emergency suitcase for a child with a disability should include a strategic first aid kit for 3-4 weeks, special food, hygiene products for toilet difficulties, and special equipment like wheelchairs if possible.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 811,
+      "content_block_id": 31,
+      "answer": "Enough specialized food or infant formula should be taken to have a reserve if a child has a special diet or eating disorder.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 812,
+      "content_block_id": 31,
+      "answer": "Critical hygiene products for children with toilet difficulties include diapers, disposable diapers, and remedies for bedsores and intertrigo.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 813,
+      "content_block_id": 31,
+      "answer": "Special equipment like wheelchairs or stretchers should be taken during evacuation if they are required and it is possible to do so.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 814,
+      "content_block_id": 31,
+      "answer": "Children with autism spectrum disorders can be prepared by teaching them to take cover in a makeshift \"hut\", using headphones for sensitive hearing, and by parents maintaining calmness and routine.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 815,
+      "content_block_id": 31,
+      "answer": "A parent's calmness is crucial because children with autism react strongly to adult emotions, while adhering to a daily routine provides stability and is very important during a crisis.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

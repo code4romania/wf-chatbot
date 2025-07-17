@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 400,
+      "content_block_id": 22,
+      "answer": "There are several ways to enter Romania, including with temporary protection, with the right of short-stay, or as an asylum seeker. You can also apply for asylum within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 401,
+      "content_block_id": 22,
+      "answer": "Temporary protection applies to Ukrainian citizens who lived in Ukraine before 24.02.2022, non-Ukrainian nationals or stateless persons who received international or similar national protection before 24.02.2022, and their family members. It also applies to non-Ukrainian nationals or stateless persons with legal permanent residency in Ukraine who cannot return safely to their country of origin.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Who can benefit from temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 402,
+      "content_block_id": 22,
+      "answer": "Temporary protection is granted if you are on Romanian territory or at a border crossing point and contact the authorities in charge. When presenting yourself, your facial photo will be taken and specific personal data will be recorded.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'How is temporary protection granted?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 403,
+      "content_block_id": 22,
+      "answer": "Beneficiaries have the right to receive a document granting stay, written information about temporary protection, engage in employment or educational activities, and receive necessary financial support if lacking means. They also have rights to free primary and emergency medical care, adequate medical care for special needs, and access to the national educational system for those under 18.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What are my rigthts as a beneficiary of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 404,
+      "content_block_id": 22,
+      "answer": "Beneficiaries of temporary protection can be hired based on a residence permit without needing an employment notice or visa. If they lack necessary documents, they can provide a statement about their training, experience, and lack of criminal record, unless working in professions like medicine, dentistry, or architecture which require specific documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'The right to work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 405,
+      "content_block_id": 22,
+      "answer": "Ukrainian children benefit from the right to education in Romanian schools under the same conditions as Romanians, including free accommodation in boarding schools, food, supplies, health examinations, vaccination, and free Romanian language courses. Specific provisions for free transport apply to orphaned students, students with special educational needs, and those with a special protection measure.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'The right for education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 406,
+      "content_block_id": 22,
+      "answer": "Any person on the territory of Romania who benefits from temporary protection must respect the legislation in force, including the legislation regarding the legal status of foreigners.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What are my obligations as a beneficiary of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 407,
+      "content_block_id": 22,
+      "answer": "The EU Council decided to extend temporary protection for people fleeing Russia’s war against Ukraine from March 4, 2024, to March 4, 2025.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What is the validity period of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 408,
+      "content_block_id": 22,
+      "answer": "You are excluded from temporary protection if there are strong reasons to consider you have committed serious crimes against peace, war crimes, crimes against humanity, or other serious crimes outside Romania before entry, or acts against United Nations principles. Exclusion also applies if you are considered a danger to Romania's security or a threat to public order due to a very serious crime conviction.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'The exclusion from the temporary protection:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 409,
+      "content_block_id": 22,
+      "answer": "To waive temporary protection in Romania, you can contact the General Inspectorate for Immigration, or the Romanian diplomatic mission if you are in another country. After requesting the waiver, you will need to submit your document and will be issued a certificate confirming the refusal.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Waiver of temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 410,
+      "content_block_id": 22,
+      "answer": "Beneficiaries of temporary protection must register their residence in Romania. If residence is proven with documents, details from the document will be mentioned on the residence permit; if only declared, only the locality and county (or sector in Bucharest) will be noted.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Residence Permit'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 411,
+      "content_block_id": 22,
+      "answer": "Documents needed to prove residence include a title deed, a rental contract registered with the tax administration, a comodat contract concluded in authentic form, or other documents proving the acquisition of a housing right. A written statement from a care institution representative is also accepted for those housed in such institutions.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Residence Permit'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 412,
+      "content_block_id": 22,
+      "answer": "If you ask to be returned to your country of origin, Romanian authorities will provide support during the procedure. As long as temporary protection has not expired and circumstances in your country of origin continue, you may request re-admittance into Romanian territory and benefit from the temporary protection status until its granted expiration.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'May I return to my country of origin?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 413,
+      "content_block_id": 22,
+      "answer": "Family members enjoying temporary protection in different Member States will be reunited, taking into account their wishes. If one or more family members are not yet in Romania, reunification may be requested if they need protection, covering spouses, unmarried minors, and parents or responsible adults for minor beneficiaries.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Reuniting families'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 414,
+      "content_block_id": 22,
+      "answer": "Within temporary accommodation and humanitarian assistance camps or other established locations, social services include food, clothing, personal hygiene products, primary health care, emergency medical care, and inclusion in national public health programs for contagious diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 415,
+      "content_block_id": 22,
+      "answer": "Foreign nationals or stateless persons from the armed conflict area in Ukraine benefit from medical services, supplies, medicines, and devices included in national curative health programs, similar to insured Romanian citizens, without paying contributions or co-payment for outpatient medicines. Medical services in specialized outpatient healthcare are provided without needing a doctor's referral.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 416,
+      "content_block_id": 22,
+      "answer": "Sprijin de Urgență is a platform where individuals can register requests for resources such as food, products, clothing, tents, transportation, or volunteers, or offer any of these items.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 417,
+      "content_block_id": 22,
+      "answer": "Un Acoperiș provides support in finding temporary accommodation for vulnerable people coming to Romania. It also allows individuals to offer a space to help house those in need.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

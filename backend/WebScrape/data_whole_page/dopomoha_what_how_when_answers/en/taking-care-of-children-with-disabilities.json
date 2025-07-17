@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 808,
+      "content_block_id": 31,
+      "answer": "Children with disabilities need more material and psychological resources during times of war and emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 809,
+      "content_block_id": 31,
+      "answer": "Families can prepare by getting ready an emergency suitcase with necessary items and by preparing children, especially those with autism spectrum disorders, for situations like explosions and bomb shelters.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 810,
+      "content_block_id": 31,
+      "answer": "An emergency suitcase should contain a strategic first aid kit with medicines, special food, hygiene products for toilet difficulties, and special equipment like wheelchairs if possible.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 811,
+      "content_block_id": 31,
+      "answer": "Enough special food should be packed to have a reserve, especially if the child has a special diet or eating disorder.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 812,
+      "content_block_id": 31,
+      "answer": "Crucial hygiene products for children with toilet difficulties include diapers, disposable diapers, and remedies for bedsores and intertrigo.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 813,
+      "content_block_id": 31,
+      "answer": "Special equipment like special beds, stretchers, and wheelchairs can help children with disabilities during evacuation, if required and possible.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 814,
+      "content_block_id": 31,
+      "answer": "Medicines, especially those the child needs regularly, should be packed as part of a strategic first aid kit for 3-4 weeks.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 815,
+      "content_block_id": 31,
+      "answer": "Children with autism can be prepared by building a 'hut' for practicing taking cover, using headphones, and by adults remaining calm and following daily routines.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 816,
+      "content_block_id": 31,
+      "answer": "Using headphones for sensitive children or teaching them to use headphones helps children with autism cope with emergency sounds.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 817,
+      "content_block_id": 31,
+      "answer": "Adult behavior significantly impacts children with autism, as they react strongly to the mood, behavior, and words of adults; therefore, adults must remain calm, confident, and avoid excessive emotions.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 818,
+      "content_block_id": 31,
+      "answer": "Daily routine is maintained for children with autism by continuing usual activities like cooking, cleaning, and reading books when there is no need to go to the bomb shelter.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

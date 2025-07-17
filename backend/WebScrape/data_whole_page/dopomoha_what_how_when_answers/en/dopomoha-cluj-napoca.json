@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 298,
+      "content_block_id": 60,
+      "answer": "New arrivals can find information on how to manage in a new city and who can help them.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'CLUJ-NAPOCA'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 299,
+      "content_block_id": 60,
+      "answer": "You can contact the Immigration Service for Cluj County via email at cj.igi@mai.gov.ro or by phone at 0264 555 656 or 0264 432 727.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 300,
+      "content_block_id": 60,
+      "answer": "The emergency call number in Romania is 112.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 301,
+      "content_block_id": 60,
+      "answer": "You can contact the National Anti-Traffic Hotline in Romania by calling 0800 800 678 or 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 302,
+      "content_block_id": 60,
+      "answer": "The support program offers accommodation, meals, and integration support in Cluj-Napoca.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'The support program for accommodation, meals and integration in Cluj-Napoca'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 303,
+      "content_block_id": 60,
+      "answer": "You can access the support program application by clicking on the provided 'Access the application' link.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'The support program for accommodation, meals and integration in Cluj-Napoca'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 304,
+      "content_block_id": 60,
+      "answer": "In Cluj-Napoca, you can contact the Clinical Emergency Hospital if you need medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 305,
+      "content_block_id": 60,
+      "answer": "You can find a list of family doctors in Oradea by accessing the link provided under the medical services section.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 306,
+      "content_block_id": 60,
+      "answer": "The provided content indicates that more information about healthcare in Romania can be found via a dedicated link. No specific details about healthcare itself are given.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 307,
+      "content_block_id": 60,
+      "answer": "IOM provides psychological support by referencing vulnerable individuals to resources, organizing psychosocial and mental health awareness events, first aid training, workshops, and supervision. They offer support in Russian, Ukrainian, Romanian, and English.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 308,
+      "content_block_id": 60,
+      "answer": "World Vision Romania offers psychological support specifically in Russian and Ukrainian languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 309,
+      "content_block_id": 60,
+      "answer": "The Sensiblu Foundation offers social counseling, psychotherapy, legal advice, representation in court, a support network for women and girls, forensic medical certificates, and referral to mediation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 310,
+      "content_block_id": 60,
+      "answer": "The Ukrainian Home - Protection and Support Center, offered by PATRIR, is a comprehensive program in Cluj-Napoca for Ukrainian refugees focused on protection, information, well-being, and inclusiveness through support centers, psychosocial support, injury assistance, and verified information.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 311,
+      "content_block_id": 60,
+      "answer": "In Cluj, you can use the public transportation system for free, but you must be prepared to show an ID if checked.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 312,
+      "content_block_id": 60,
+      "answer": "The Women's Center provides support in accessing reproductive health services, navigating the health system, and offers services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 313,
+      "content_block_id": 60,
+      "answer": "In Romania, you can access free, anonymous, and confidential psycho-medical-social HIV services through specialist doctors at 10 Regional HIV Centers and with the support of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

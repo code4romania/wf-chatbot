@@ -11,9 +11,9 @@ language_map = {
     'en': 'English',
 }
 
-QUESTIONS_ROOT = "./data_whole_page/dopomoha_no_yes_no/"
+QUESTIONS_ROOT = "./data_whole_page/dopomoha_what_how_when_long/"
 SOURCE_FOLDER = "./data_whole_page/dopomoha_stripped/"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_batch_pointing/"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_what_how_when_long_answers/"
 
 os.makedirs(OUTPUT_ROOT, exist_ok=True)
 

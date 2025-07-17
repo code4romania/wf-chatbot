@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 31,
+      "content_block_id": 25,
+      "question": "What benefits does breastfeeding offer babies?"
+    },
+    {
+      "question_id": 32,
+      "content_block_id": 25,
+      "question": "How does stress affect breast milk production?"
+    },
+    {
+      "question_id": 33,
+      "content_block_id": 25,
+      "question": "How often should a baby be breastfed?"
+    },
+    {
+      "question_id": 34,
+      "content_block_id": 25,
+      "question": "How can mothers maintain lactation when separated from baby?"
+    },
+    {
+      "question_id": 35,
+      "content_block_id": 25,
+      "question": "What steps can restore breast milk supply?"
+    },
+    {
+      "question_id": 36,
+      "content_block_id": 25,
+      "question": "What types of infant formula are recommended for babies?"
+    },
+    {
+      "question_id": 37,
+      "content_block_id": 25,
+      "question": "How should dry infant formula be prepared safely?"
+    },
+    {
+      "question_id": 38,
+      "content_block_id": 25,
+      "question": "How can formula be fed to a baby without bottles?"
+    },
+    {
+      "question_id": 39,
+      "content_block_id": 25,
+      "question": "What foods are suitable for children older than six months?"
+    },
+    {
+      "question_id": 40,
+      "content_block_id": 25,
+      "question": "How should drinking water be stored for emergencies?"
+    },
+    {
+      "question_id": 41,
+      "content_block_id": 25,
+      "question": "What types of food are good for emergencies?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 25,
+      "question": "How does the Support for refugee women program help?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 25,
+      "question": "What consultation services do lactation associations provide?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 25,
+      "question": "What contact number provides lactation support in Romania?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 25,
+      "question": "When should a baby be fed exclusively breast milk?"
+    }
+  ]
+}

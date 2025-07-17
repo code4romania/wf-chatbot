@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question_id": 400,
+      "content_block_id": 22,
+      "question": "What are the ways to enter Romania?"
+    },
+    {
+      "question_id": 401,
+      "content_block_id": 22,
+      "question": "Who can benefit from temporary protection?"
+    },
+    {
+      "question_id": 402,
+      "content_block_id": 22,
+      "question": "How is temporary protection granted in Romania?"
+    },
+    {
+      "question_id": 403,
+      "content_block_id": 22,
+      "question": "What are the rights under temporary protection?"
+    },
+    {
+      "question_id": 404,
+      "content_block_id": 22,
+      "question": "How can temporary protection beneficiaries work in Romania?"
+    },
+    {
+      "question_id": 405,
+      "content_block_id": 22,
+      "question": "What educational rights do children have in Romania?"
+    },
+    {
+      "question_id": 406,
+      "content_block_id": 22,
+      "question": "What are temporary protection obligations in Romania?"
+    },
+    {
+      "question_id": 407,
+      "content_block_id": 22,
+      "question": "When does temporary protection expire in Romania?"
+    },
+    {
+      "question_id": 408,
+      "content_block_id": 22,
+      "question": "What excludes someone from temporary protection?"
+    },
+    {
+      "question_id": 409,
+      "content_block_id": 22,
+      "question": "How can temporary protection be waived?"
+    },
+    {
+      "question_id": 410,
+      "content_block_id": 22,
+      "question": "How is residence registered in Romania?"
+    },
+    {
+      "question_id": 411,
+      "content_block_id": 22,
+      "question": "What documents prove residence in Romania?"
+    },
+    {
+      "question_id": 412,
+      "content_block_id": 22,
+      "question": "How can one return to their country of origin?"
+    },
+    {
+      "question_id": 413,
+      "content_block_id": 22,
+      "question": "How are families reunited under temporary protection?"
+    },
+    {
+      "question_id": 414,
+      "content_block_id": 22,
+      "question": "What social services are provided in Romania?"
+    },
+    {
+      "question_id": 415,
+      "content_block_id": 22,
+      "question": "What medical care is available with temporary protection?"
+    },
+    {
+      "question_id": 416,
+      "content_block_id": 22,
+      "question": "What is Sprijin de Urgență for?"
+    },
+    {
+      "question_id": 417,
+      "content_block_id": 22,
+      "question": "How does Un Acoperiș help with accommodation?"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "question_id": 661,
+      "content_block_id": 43,
+      "question": "What medical recovery services are provided in sanatoriums?"
+    },
+    {
+      "question_id": 662,
+      "content_block_id": 43,
+      "question": "How are medical recovery services structured in hospitals?"
+    },
+    {
+      "question_id": 663,
+      "content_block_id": 43,
+      "question": "How many days of spa sanatorium recovery are allowed?"
+    },
+    {
+      "question_id": 664,
+      "content_block_id": 43,
+      "question": "What procedures are included in spa sanatorium recovery?"
+    },
+    {
+      "question_id": 665,
+      "content_block_id": 43,
+      "question": "When are shorter medical recovery periods provided?"
+    },
+    {
+      "question_id": 666,
+      "content_block_id": 43,
+      "question": "What personal contribution applies to spa sanatorium services?"
+    },
+    {
+      "question_id": 667,
+      "content_block_id": 43,
+      "question": "What exemption applies to humanitarian support beneficiaries?"
+    },
+    {
+      "question_id": 668,
+      "content_block_id": 43,
+      "question": "How are medical services beyond 21 days covered?"
+    },
+    {
+      "question_id": 669,
+      "content_block_id": 43,
+      "question": "How are referral notes for spa treatment issued?"
+    },
+    {
+      "question_id": 670,
+      "content_block_id": 43,
+      "question": "What criteria determine eligibility for spa sanatorium treatment?"
+    },
+    {
+      "question_id": 671,
+      "content_block_id": 43,
+      "question": "How is the flow of medical recovery services determined?"
+    },
+    {
+      "question_id": 672,
+      "content_block_id": 43,
+      "question": "What medical recovery services are offered in non-spa sanatoriums?"
+    },
+    {
+      "question_id": 673,
+      "content_block_id": 43,
+      "question": "How long can recovery last in non-spa sanatoriums?"
+    }
+  ]
+}

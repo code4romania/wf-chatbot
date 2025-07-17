@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 60,
+      "content_block_id": 56,
+      "answer": "The website provides information on how to manage in a new city and identifies who can offer assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 61,
+      "content_block_id": 56,
+      "answer": "The provided content only lists contact information for the Immigration Bureau of the County Timiș, not the specific services they offer.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 62,
+      "content_block_id": 56,
+      "answer": "The provided content only lists contact information for the Timișoara for Ukraine Support Center, not the specific ways they assist individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 63,
+      "content_block_id": 56,
+      "answer": "The provided content only lists contact information for the National Anti-Traffic Hotline Romania, not its specific purpose.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 64,
+      "content_block_id": 56,
+      "answer": "The provided content indicates that information is required for the accommodation, board, and integration support program, but does not list the specific details.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'The support program for accommodation, meals and integration in Timișoara'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 65,
+      "content_block_id": 56,
+      "answer": "Individuals can contact the Emergency Municipal Clinical Hospital for general services, the Louis Țurcanu Children's Emergency Clinical Hospital for children, or find a list of family doctors in Timișoara.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 66,
+      "content_block_id": 56,
+      "answer": "The Plan International Organization offers psychological assistance for adults and children of refugees from Ukraine in various cities across Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 67,
+      "content_block_id": 56,
+      "answer": "Individuals can use the public transport system (STPT) in Timișoara for free, provided they show an ID if requested.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 68,
+      "content_block_id": 56,
+      "answer": "Options for education in Ukrainian language in Timiș County include several listed kindergartens, secondary schools, middle schools, high schools, an inclusive education center, and the British International School.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 69,
+      "content_block_id": 56,
+      "answer": "Organizations offering support in Timișoara include The LOGS Association, The Timiș County Youth Foundation (FITT), Save the Children Timiș, The Union of Ukrainians in Romania, and SCOP organization.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 70,
+      "content_block_id": 56,
+      "answer": "The LOGS Association provides social and legal counseling, financial support, medical assistance, Romanian language courses, and facilitates access to jobs for immigrants.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 71,
+      "content_block_id": 56,
+      "answer": "The Timiș County Youth Foundation (FITT) supports Ukrainians in Timiș by offering psychological support, help in finding a job, and Romanian and English language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 72,
+      "content_block_id": 56,
+      "answer": "Save the Children Timiș offers English language classes for children, a part-time kindergarten program for children over 4 years old, and other activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 73,
+      "content_block_id": 56,
+      "answer": "The fundamental goal of the Union of Ukrainians in Romania is to protect the rights to express and promote the ethnic, linguistic, cultural, and religious identity of the Ukrainian minority, revive national unity, protect members' rights, and strengthen Romanian-Ukrainian collaboration.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 74,
+      "content_block_id": 56,
+      "answer": "Through the \"ASSIST\" program, SCOP provides assistance and support to children and parents in Ukraine, along with courses for children aged 6 and older and language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 75,
+      "content_block_id": 56,
+      "answer": "Individuals can find support for legal status, housing, and jobs by navigating to the respective sections on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the sections under 'Legal status', 'Housing Info', and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 76,
+      "content_block_id": 56,
+      "answer": "The Women's Center provides support for accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 77,
+      "content_block_id": 56,
+      "answer": "Individuals can access free, anonymous, and confidential psycho-medical-social HIV services from specialist doctors at 10 Regional HIV Centers in Romania, with support from Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 196,
+      "content_block_id": 55,
+      "answer": "New arrivals in Brașov can find information on how to manage in the city, along with important contacts, medical services, psychological support, education, accommodation, and transportation assistance. Various organizations also offer support for legal status, housing, jobs, and specific needs like reproductive health or HIV services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 197,
+      "content_block_id": 55,
+      "answer": "The Integration Center for Migrants Brașov can be contacted via email at migrantbrasov@gmail.com or contact@migrantbrasov.ro, from Monday to Friday, 09:00 - 17:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 198,
+      "content_block_id": 55,
+      "answer": "The Brașov County Immigration Service can be contacted via email at bv.igi@mai.gov.ro or by phone at 0268-409956, 0268-409955, 0268-409759, 0268-409953, or 0268-409957.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 199,
+      "content_block_id": 55,
+      "answer": "The CATTIA Community Center offers around-the-clock services for Ukrainian refugees, including information, food, transport to accommodation, counseling, and general assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'CATTIA Community Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 200,
+      "content_block_id": 55,
+      "answer": "The provided text states that information is required for the accommodation, board, and integration support program, but it does not specify what exact information is needed.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'The support program for accommodation, meals and integration in Brașov'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 201,
+      "content_block_id": 55,
+      "answer": "For general medical services, individuals can contact Brașov Emergency Clinical Hospital, and for children's medical help, they can go to Brașov Children's Emergency Clinical Hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 202,
+      "content_block_id": 55,
+      "answer": "A list of primary healthcare providers working under contract with CASJ Brașov is available, offering medical services to uninsured people.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 203,
+      "content_block_id": 55,
+      "answer": "Free medical services include dialysis through Fresenius Medical Care Romania and mobility equipment like wheelchairs, walking frames, or crutches for refugees with locomotor disabilities from The Motivation Foundation Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Free medical services in Brașov'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 204,
+      "content_block_id": 55,
+      "answer": "Organizations providing psychological support in Brașov include Swiss Solidarity, Terre des hommes Foundation, World Vision Romania, the International Organization for Migration (IOM), Plan International Organization, Red Cross Romania, and the AMURTEL team.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 205,
+      "content_block_id": 55,
+      "answer": "The International Organization for Migration (IOM) offers psychological support consultations in Russian, Ukrainian, Romanian, and English languages.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 206,
+      "content_block_id": 55,
+      "answer": "Enrollment applications for Ukrainian preschoolers and pupils in Brașov County can be submitted physically at the Brașov County School Inspectorate or online via email at info@isjbrasov.ro, with forms available in Romanian, English, and Ukrainian.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 207,
+      "content_block_id": 55,
+      "answer": "Participation in educational events for children and adults at the CATTIA center with Worldvision support requires filling out a form, with priority given to children whose parents are working.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 208,
+      "content_block_id": 55,
+      "answer": "The NGO Terre des Hommes offers psychological help, including referring vulnerable individuals to resources, community-based and targeted psychosocial support, mental health awareness, and psychological first aid.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 209,
+      "content_block_id": 55,
+      "answer": "The Agapedia organization runs the 'Safe Space for Women' project, offering medical consultations on family planning, basic psychosocial services, and assistance in identifying needs with referrals to other healthcare facilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 210,
+      "content_block_id": 55,
+      "answer": "Public libraries in Brașov organize programs for groups of Romanian and Ukrainian children and provide Romanian language courses for Ukrainians.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 211,
+      "content_block_id": 55,
+      "answer": "New arrivals can use the public transport system (RATBV) for free in Brașov by showing an ID if requested.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 212,
+      "content_block_id": 55,
+      "answer": "The Women's Center offers support in accessing reproductive health services, navigating the health system, and provides services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 213,
+      "content_block_id": 55,
+      "answer": "Individuals can receive free, anonymous, and confidential psycho-medical-social HIV services by getting support from specialist doctors at 10 Regional HIV Centers in Romania and through the expertise of Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

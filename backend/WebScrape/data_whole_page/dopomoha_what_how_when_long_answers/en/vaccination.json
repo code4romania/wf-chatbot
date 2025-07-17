@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 595,
+      "content_block_id": 26,
+      "answer": "Vaccinations are crucial to prevent the rapid spread of infectious diseases among children and adults, especially in conditions with large crowds, poor hygiene, and limited access to clean water, thereby preserving human health and life.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 596,
+      "content_block_id": 26,
+      "answer": "Vaccinations protect children by introducing weakened vaccine viruses that enable the immune system to build protection against infectious diseases without overloading it, preventing dangerous complications.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 597,
+      "content_block_id": 26,
+      "answer": "Vaccinations can prevent infectious diseases such as measles, rubella, polio, diphtheria, haemophilus influenza type b (Hib), tuberculosis, pertussis, tetanus, hepatitis B, mumps, rotavirus, pneumococcal infection, flu, meningococcus, and COVID-19.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 598,
+      "content_block_id": 26,
+      "answer": "Newborns should receive hepatitis B and tuberculosis (BCG) vaccines immediately if available at birth, or as soon as possible thereafter, with Hepatitis B vaccination starting when the child weighs 2 kilograms or is 1 month old.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 599,
+      "content_block_id": 26,
+      "answer": "If a child misses vaccinations, parents should make up for the schedule as soon as possible by scheduling the next vaccines with their doctor, ensuring to follow the intervals of doses for maximum effectiveness.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 600,
+      "content_block_id": 26,
+      "answer": "Premature babies should generally follow the same vaccination schedule as full-term babies, with Hepatitis B vaccination starting when the child weighs 2 kilograms or is 1 month old.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 601,
+      "content_block_id": 26,
+      "answer": "Adults should get vaccinated against COVID-19 to protect themselves from the disease, especially if they do not have a full course of vaccination.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 602,
+      "content_block_id": 26,
+      "answer": "Common reactions after vaccination include fever or muscle aches, which are considered normal.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 603,
+      "content_block_id": 26,
+      "answer": "Vaccination does not weaken the immune system; instead, vaccine viruses are weakened so they do not overload or negatively affect the immune system, involving only a small fraction of its capacity.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 604,
+      "content_block_id": 26,
+      "answer": "If a child has a chronic illness, it is not a contraindication to vaccination; instead, vaccination is recommended because the child has a higher risk of severe infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 605,
+      "content_block_id": 26,
+      "answer": "One can access free vaccinations by contacting their nearest County Department for Public Health or a healthcare provider.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 606,
+      "content_block_id": 26,
+      "answer": "From the age of two months, children are recommended to be vaccinated against diphtheria, tetanus, pertussis, polio, fungal infections, pneumococcus, rotavirus, and meningococcus.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 607,
+      "content_block_id": 26,
+      "answer": "Multiple vaccinations can be administered effectively in one day, as it is common international practice, and multicomponent vaccines can reduce injections while protecting against several infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 608,
+      "content_block_id": 26,
+      "answer": "The text advises not to refuse or delay any vaccinations offered when traveling abroad, but does not specify particular ones.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 609,
+      "content_block_id": 26,
+      "answer": "Children should receive their first dose of the MMR (measles-mumps-rubella) vaccine at 12 months.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 610,
+      "content_block_id": 26,
+      "answer": "Vaccinating against polio is significant because an outbreak occurred in Ukraine, and poliomyelitis is a dangerous disease that can result in irreversible paralysis, requiring at least two IPV doses for protection.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

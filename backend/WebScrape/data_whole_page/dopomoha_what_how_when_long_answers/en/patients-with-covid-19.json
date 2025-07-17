@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 777,
+      "content_block_id": 47,
+      "answer": "All medical services and medicines necessary for the treatment of COVID-19 are covered by the FNUASS for insured, uninsured, and other persons diagnosed in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Patients with COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 778,
+      "content_block_id": 47,
+      "answer": "People in Romania showing COVID-19 symptoms can access remote consultations offered by their family doctor or a specialist doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Patients with COVID-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 779,
+      "content_block_id": 47,
+      "answer": "To receive medical services in evaluation centers, individuals must have confirmed infection via a rapid antigen or NAAT/RT-PCR test on the Corona Forms platform, not require oxygen therapy, have mild or moderate COVID-19 symptoms, and possess at least 2 risk factors, without needing a referral note.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Measures for patients with COVID - 19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 780,
+      "content_block_id": 47,
+      "answer": "The 'Post-Covid-19 Syndrome Evaluation' service, available during day hospitalization, helps patients who continue to experience symptoms for a long period, even after a mild form of the disease.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Post-Covid-19 Syndrome Evaluation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 781,
+      "content_block_id": 47,
+      "answer": "Patients with moderate or severe respiratory insufficiency after COVID-19, or those who passed through a SARS-CoV-2 triage system, can benefit from a continuous oxygen administration device like an oxygen concentrator. Details on obtaining these devices are in the 'Medical devices chapter'.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Medical devices chapter'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 782,
+      "content_block_id": 47,
+      "answer": "Patients with certain unspecified conditions may benefit from noninvasive ventilation after COVID-19.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Medical devices chapter'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 783,
+      "content_block_id": 47,
+      "answer": "Patients with post-COVID-19 conditions can benefit from physical therapy, psychological counseling, and psychotherapy, provided they have a recommendation from cardiology and pneumology doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Patients with post-COVID-19 conditions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 784,
+      "content_block_id": 47,
+      "answer": "Post-COVID-19 physical therapy and psychological counseling services are covered by the health insurance system if the doctors providing them work in clinics contracted with the health insurance house.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Patients with post-COVID-19 conditions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 785,
+      "content_block_id": 47,
+      "answer": "The procedure for accessing medical services is detailed in the 'Specialist Doctor chapter'.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Specialist Doctor chapter'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 786,
+      "content_block_id": 47,
+      "answer": "Individuals can find locations for COVID-19 vaccination in Bucharest by downloading a list of family medicine offices.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 787,
+      "content_block_id": 47,
+      "answer": "One can download the list of family medicine offices for COVID-19 vaccination in Bucharest by clicking the 'Download List' link provided on the page.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

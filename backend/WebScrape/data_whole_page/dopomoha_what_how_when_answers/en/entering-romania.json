@@ -1,0 +1,180 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 571,
+      "content_block_id": 1,
+      "answer": "There are several ways to enter Romania, including with temporary protection, with the right of short-stay, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 572,
+      "content_block_id": 1,
+      "answer": "You can enter Romania without a passport by asking for asylum at the border.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Identity documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 573,
+      "content_block_id": 1,
+      "answer": "Temporary protection is granted for a period of one year.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 574,
+      "content_block_id": 1,
+      "answer": "Temporary protection can be automatically extended for periods of 6 months, for a maximum of one year, if the generating situation persists.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 575,
+      "content_block_id": 1,
+      "answer": "All children from Ukraine are accepted into Romania, and it is advisable to carry an identity document or birth certificate for the minor. Minors do not need written approval from any parent to cross the border.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 576,
+      "content_block_id": 1,
+      "answer": "Unaccompanied children are picked up by the team at the border crossing point and taken to DGASPC locations or professional foster carers, where they receive basic services, including psychological counseling if required.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 577,
+      "content_block_id": 1,
+      "answer": "Ukrainian men between 18 and 60 years old are allowed access to Romania if they meet the conditions for leaving Ukraine and entering Romania. Boys under 18 and men over 60 can leave Ukraine and enter Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Men'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 578,
+      "content_block_id": 1,
+      "answer": "There is no requirement to present a vaccination certificate or valid PCR test, nor is quarantine or filling in the Digital Form for Entering Romania required.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Covid-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 579,
+      "content_block_id": 1,
+      "answer": "Third country nationals who resided in Ukraine and hold a passport can cross into Romania through common border points and obtain a transit visa on arrival for up to 90 days, provided they have a valid travel document and are entering for transit purposes only.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Non-Ukrainian nationals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 580,
+      "content_block_id": 1,
+      "answer": "You can bring an animal even if it is not vaccinated against rabies or identified with a microchip/tattoo. As the owner, you must fill in the Pet Location Form and complete all formalities and procedures after entering Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Animals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 581,
+      "content_block_id": 1,
+      "answer": "Russian citizens with a residence permit in Ukraine do not need a visa. If coming from the Russian Federation, they will need a visa, applied for online first on Eviza.ro to get a Consular Section appointment.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Russian citizens'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 582,
+      "content_block_id": 1,
+      "answer": "The main border crossing points from Ukraine are Halmeu, Sighetu Marmației, Siret, Rădăuți-Prut, and Isaccea. You can also reach Romania through the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 583,
+      "content_block_id": 1,
+      "answer": "You can enter Romania via the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Entering Romania through the Republic of Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 584,
+      "content_block_id": 1,
+      "answer": "There is no official transport organized from the Romanian border at the moment, but a few voluntary initiatives are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Transport from the Romanian border'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 585,
+      "content_block_id": 1,
+      "answer": "You can find accommodation support by accessing 'Un Acoperiș' to search for or offer temporary accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 586,
+      "content_block_id": 1,
+      "answer": "New arrivals can request or provide resources such as food, products, clothing, tents, transportation, or volunteers via 'Sprijin de Urgență', and find or offer temporary accommodation through 'Un Acoperiș'.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the sections under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

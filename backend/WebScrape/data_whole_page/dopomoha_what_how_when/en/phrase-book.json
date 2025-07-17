@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 264,
+      "content_block_id": 9,
+      "question": "What languages does the conversation guide include?"
+    },
+    {
+      "question_id": 265,
+      "content_block_id": 9,
+      "question": "How does the guide help with basic conversation?"
+    },
+    {
+      "question_id": 266,
+      "content_block_id": 9,
+      "question": "What essential phrases are available for medical help?"
+    },
+    {
+      "question_id": 267,
+      "content_block_id": 9,
+      "question": "How can one find places and directions using the guide?"
+    },
+    {
+      "question_id": 268,
+      "content_block_id": 9,
+      "question": "What information is provided regarding transport options?"
+    },
+    {
+      "question_id": 269,
+      "content_block_id": 9,
+      "question": "How does the guide assist with document and money questions?"
+    },
+    {
+      "question_id": 270,
+      "content_block_id": 9,
+      "question": "What resources can Sprijin de Urgență help with?"
+    },
+    {
+      "question_id": 271,
+      "content_block_id": 9,
+      "question": "How can people request or offer resources on Sprijin de Urgență?"
+    },
+    {
+      "question_id": 272,
+      "content_block_id": 9,
+      "question": "What support does Un Acoperiș offer for accommodation?"
+    },
+    {
+      "question_id": 273,
+      "content_block_id": 9,
+      "question": "How can one access or provide temporary accommodation via Un Acoperiș?"
+    },
+    {
+      "question_id": 274,
+      "content_block_id": 9,
+      "question": "When would someone use the included emergency support phrases?"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question_id": 540,
+      "content_block_id": 48,
+      "question": "What are the levels of medical services for pregnant women?"
+    },
+    {
+      "question_id": 541,
+      "content_block_id": 48,
+      "question": "How does primary medical assistance support pregnant women?"
+    },
+    {
+      "question_id": 542,
+      "content_block_id": 48,
+      "question": "When do family doctors issue the pregnancy document?"
+    },
+    {
+      "question_id": 543,
+      "content_block_id": 48,
+      "question": "What medical tests are recommended during pregnancy monitoring?"
+    },
+    {
+      "question_id": 544,
+      "content_block_id": 48,
+      "question": "What paraclinical medical services are included in the package?"
+    },
+    {
+      "question_id": 545,
+      "content_block_id": 48,
+      "question": "How are obstetrical ultrasounds covered by FNUASS?"
+    },
+    {
+      "question_id": 546,
+      "content_block_id": 48,
+      "question": "What services are provided for normal pregnancy supervision?"
+    },
+    {
+      "question_id": 547,
+      "content_block_id": 48,
+      "question": "How is prenatal screening performed for pregnant women?"
+    },
+    {
+      "question_id": 548,
+      "content_block_id": 48,
+      "question": "What services cover high-risk pregnancy surveillance?"
+    },
+    {
+      "question_id": 549,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies with coagulation disorders monitored?"
+    },
+    {
+      "question_id": 550,
+      "content_block_id": 48,
+      "question": "What specific invasive procedures are covered during pregnancy?"
+    },
+    {
+      "question_id": 551,
+      "content_block_id": 48,
+      "question": "When are chorionic villus biopsy and amniocentesis covered?"
+    },
+    {
+      "question_id": 552,
+      "content_block_id": 48,
+      "question": "How are medical services provided in day hospitalization?"
+    },
+    {
+      "question_id": 553,
+      "content_block_id": 48,
+      "question": "What types of health units provide pregnancy services?"
+    },
+    {
+      "question_id": 554,
+      "content_block_id": 48,
+      "question": "What support does the Women's Center offer?"
+    }
+  ]
+}

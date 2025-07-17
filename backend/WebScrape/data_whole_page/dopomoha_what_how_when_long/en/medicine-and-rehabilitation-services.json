@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_id": 147,
+      "content_block_id": 42,
+      "question": "What types of medical recovery, physical medicine, and rehabilitation services are offered?"
+    },
+    {
+      "question_id": 148,
+      "content_block_id": 42,
+      "question": "How are physical medicine and rehabilitation services typically delivered, as outpatient or inpatient care?"
+    },
+    {
+      "question_id": 149,
+      "content_block_id": 42,
+      "question": "What are the designated 'treatment bases' for outpatient physical medicine and rehabilitation services?"
+    },
+    {
+      "question_id": 150,
+      "content_block_id": 42,
+      "question": "What specific physical medicine and rehabilitation procedures are included in a typical series of treatments?"
+    },
+    {
+      "question_id": 151,
+      "content_block_id": 42,
+      "question": "When are specific physical medicine and rehabilitation procedures, such as mineral baths or mud wraps, exclusively performed in balneo-climatic resorts?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 42,
+      "question": "How is the duration and flow of specific physical medicine and rehabilitation procedures determined for an individual patient?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 42,
+      "question": "What is the annual maximum period for specific outpatient physical medicine and rehabilitation procedures for an insured person?"
+    },
+    {
+      "question_id": 154,
+      "content_block_id": 42,
+      "question": "How many days of specific physical medicine and rehabilitation procedures are covered annually for children aged 0-18 with cerebral palsy?"
+    },
+    {
+      "question_id": 155,
+      "content_block_id": 42,
+      "question": "How many specific physical medicine and rehabilitation procedures are typically covered per day of treatment in a series?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 42,
+      "question": "What is the role of the 'Plan of specific physical medicine and rehabilitation procedures' in a patient's care?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 42,
+      "question": "How can a patient's specific physical medicine and rehabilitation procedures be divided into multiple sessions?"
+    }
+  ]
+}

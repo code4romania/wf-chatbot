@@ -16,12 +16,16 @@ MODEL_OPTIONS: Dict[str, str] = {
     "e5-int8": "intfloat/multilingual-e5-base",           # default (quantised)
     "allmini6": "sentence-transformers/all-MiniLM-L6-v2", # small & fast (English‑only)
     "bge-base": "BAAI/bge-base-en-v1.5",
-    "e5-large": "intfloat/multilingual-e5-large"
+    "e5-large": "intfloat/multilingual-e5-large",
+    "bge-large": "BAAI/bge-large-en-v1.5"
 }
 
 MAX_LENGTH = 512
 logger = logging.getLogger("promptmatcher")
 logger.setLevel(logging.INFO)
+
+questions_path= "dopomoha_no_yes_no"
+answers_path= "dopomoha_batch_pointing"
 
 
 class PromptMatcher:
@@ -31,7 +35,7 @@ class PromptMatcher:
         self,
         base_data_path: Union[str, Path],
         language: str = "en",
-        model_choice: str = "e5-int8",
+        model_choice: str = "bge-large",
         custom_model_name: Optional[str] = None,
         device: str = "cpu",
         concat_q_and_a: bool = True,
@@ -70,37 +74,58 @@ class PromptMatcher:
     # ------------------------------------------------------------------
     # Data preparation - Load all raw data and embed upfront
     # ------------------------------------------------------------------
+    def _safe_model_name(self):
+        """Return a filesystem-safe version of the model name."""
+        return self.model_name.replace('/', '_').replace('-', '_')
+
+    def _cache_dir(self):
+        """Return the full cache directory for the current config."""
+        qna_str = "qna" if self.concat_q_and_a else "q"
+        return self.base_data_path / "_embed_cache" / self._safe_model_name() / self.language / qna_str
+
     def _process_all_data_and_embed(self):
         """
         Loads all general and city-specific Q&A data, prepares the 'embed_txt'
         and encodes all passages upfront into self.full_df and self.full_vectors.
+        Uses cache if possible. Cache path depends on model, language, and Q+A concat.
         """
-        q_dir = self.base_data_path / "dopomoha_no_yes_no" / self.language
-        a_dir = self.base_data_path / "dopomoha_batch_pointing" / self.language
+        cache_dir = self._cache_dir()
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        cache_df_path = cache_dir / "corpus_df.pkl"
+        cache_vec_path = cache_dir / "corpus_vec.npy"
+
+        # Try loading from cachej
+        if cache_df_path.exists() and cache_vec_path.exists():
+            logger.info(f"Loading embeddings from cache: {cache_dir}")
+            self.full_df = pd.read_pickle(cache_df_path)
+            self.full_vectors = np.load(cache_vec_path)
+            return
+
+        # Data directories
+        q_dir = self.base_data_path / questions_path/ self.language
+        a_dir = self.base_data_path / answers_path / self.language
 
         if not (q_dir.is_dir() and a_dir.is_dir()):
             raise FileNotFoundError(
                 f"Expected directories {q_dir} and {a_dir}. Check --base-data-path."
             )
 
-        all_linked_qa_rows: List[Dict[str, Union[str, int, None]]] = []
+        all_linked_qa_rows = []
 
         # Iterate over all JSON files in the questions directory to find Q&A pairs
         for q_fp in q_dir.glob("*.json"):
             file_name_stem = q_fp.stem
-            
+
             # Determine if this file belongs to a specific city or is general
             city_name_for_file = None
             for city in self.city_names:
                 if file_name_stem == f"dopomoha-{city}":
-                    city_name_for_file = city.lower() # Ensure lowercase for consistency
-                    print("City detected!!!!!!! ", city_name_for_file)
+                    city_name_for_file = city.lower()
+                    logger.info(f"City detected: {city_name_for_file}")
                     break
-                
-            print("CITY: ",file_name_stem, city_name_for_file)
-            
+
             # Load questions from this file
-            questions_in_file: Dict[int, Dict[str, Union[str, None]]] = {}
+            questions_in_file = {}
             with open(q_fp, encoding="utf-8", errors="replace") as fh:
                 q_payload = json.load(fh)
             for q_entry in q_payload.get("questions", []):
@@ -111,7 +136,7 @@ class PromptMatcher:
                     }
 
             # Load answers from the corresponding answer file (assuming same filename)
-            answers_in_file: Dict[int, Dict[str, Union[str, int, None]]] = {}
+            answers_in_file = {}
             a_fp = a_dir / q_fp.name
             if a_fp.is_file():
                 with open(a_fp, encoding="utf-8", errors="replace") as fh:
@@ -124,22 +149,22 @@ class PromptMatcher:
                             "answer_id": a_entry["answer_id"],
                             "city": city_name_for_file
                         }
-            
+
             # Link Q&A pairs from this specific file and add to the main list
             for q_id, q_data in questions_in_file.items():
                 if q_id in answers_in_file:
                     a_data = answers_in_file[q_id]
 
-                    # Optional: consistency check for city association (should match based on filename)
                     if q_data["city"] != a_data["city"]:
-                         logger.warning(f"City mismatch in loaded data for Q/A ID {q_id} from file {q_fp.name}: Q city={q_data['city']}, A city={a_data['city']}. Using Q's city.")
-                    
-                    # Prepare the row for the full DataFrame
+                        logger.warning(
+                            f"City mismatch in loaded data for Q/A ID {q_id} from file {q_fp.name}: Q city={q_data['city']}, A city={a_data['city']}. Using Q's city."
+                        )
+
                     row_data = {
                         "Prompt": q_data["question"],
                         "Response": a_data["answer"],
                         "Instruction": a_data["instruction"],
-                        "city": q_data["city"], # Use question's city for the row
+                        "city": q_data["city"],  # Use question's city for the row
                         "question_id": q_id,
                         "answer_id": a_data["answer_id"],
                     }
@@ -149,13 +174,13 @@ class PromptMatcher:
             raise ValueError("No linked questions/answers found across all loaded files. Cannot build corpus.")
 
         self.full_df = pd.DataFrame(all_linked_qa_rows)
-        
+
         # Prepare 'embed_txt' column for encoding
         embed_texts = []
         for _, row in self.full_df.iterrows():
             passage_parts = [row["Prompt"].strip()]
             if self.concat_q_and_a:
-                passage_parts.append(row["Response"].strip()) # Only answer is concatenated with question
+                passage_parts.append(row["Response"].strip())
             embed_texts.append(f"passage: {' '.join(passage_parts)}")
 
         self.full_df['embed_txt'] = embed_texts
@@ -163,11 +188,16 @@ class PromptMatcher:
         logger.info(f"Encoding entire corpus of {len(self.full_df)} passages…")
         self.full_vectors = self.model.encode(
             self.full_df["embed_txt"].tolist(),
-            batch_size=64, # Adjust batch size based on memory/performance
+            batch_size=64,
             normalize_embeddings=True,
             show_progress_bar=True,
-        ).astype("float32") # FAISS-friendly precision
+        ).astype("float32")
         logger.info(f"Full corpus with {len(self.full_vectors)} embeddings ready.")
+
+        # Save to cache
+        logger.info(f"Saving corpus and vectors to cache: {cache_dir}")
+        self.full_df.to_pickle(cache_df_path)
+        np.save(cache_vec_path, self.full_vectors)
 
 
     # NEW: Helper method to detect city in user query
@@ -272,22 +302,7 @@ class PromptMatcher:
 
 # helper for REPL – keeps original behaviour but now exposes args
 if __name__ == "__main__":
-    import argparse
     import asyncio
-
-    parser = argparse.ArgumentParser(description="Interactive semantic Q&A matcher (brute‑force)")
-    parser.add_argument("--base-data-path", type=str, default="./WebScrape/data_whole_page", help="Root folder holding dopomoha_questions/ and dopomoha_answers/")
-    parser.add_argument("--language", type=str, default="en", help="Language subfolder to load (e.g. 'en', 'uk')")
-
-    model_group = parser.add_mutually_exclusive_group()
-    model_group.add_argument("--model-choice", choices=MODEL_OPTIONS.keys(), default="e5-large", help="Predefined model key")
-    model_group.add_argument("--custom-model", type=str, help="Custom HuggingFace model id (overrides --model-choice)")
-
-    parser.add_argument("--no-answer", action="store_true", help="Embed question only (skip answer text)")
-    parser.add_argument("--metric", choices=["cosine", "euclidean"], default="cosine", help="Similarity metric")
-    parser.add_argument("--top-k", type=int, default=3, help="Number of hits to display")
-
-    args = parser.parse_args()
 
     # Define the list of cities from your screenshot
     CITY_LIST = [
@@ -296,21 +311,22 @@ if __name__ == "__main__":
     ]
 
     matcher = PromptMatcher(
-        base_data_path=args.base_data_path,
-        language=args.language,
-        model_choice=args.model_choice,
-        custom_model_name=args.custom_model,
-        concat_q_and_a= True, # Always concatenate Q+A for embedding
+        base_data_path="./WebScrape/data_whole_page",
+        language="en",
+        model_choice="bge-large",
+        custom_model_name=None,
+        concat_q_and_a= False, # Always concatenate Q+A for embedding
         city_names=CITY_LIST, # Pass the list of cities to the matcher
     )
-
+    metric= "cosine"
+    top_k= 3
     async def main_repl():
         try:
             while True:
                 q = input("\nAsk something (e.g., 'Kindergarten in Braila?' or 'quit'): ").strip()
                 if q.lower() == "quit":
                     break
-                hits = await matcher.query(q, metric=args.metric, top_k=args.top_k)
+                hits = await matcher.query(q, metric=metric, top_k=3)
                 print(f"\n--- Top {len(hits)} result(s) ---")
                 for rnk, hit in enumerate(hits, 1):
                     print(f"\nMatch {rnk}:")

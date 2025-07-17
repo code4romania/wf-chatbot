@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question_id": 193,
+      "content_block_id": 55,
+      "question": "What help is available for new arrivals in Brașov?"
+    },
+    {
+      "question_id": 194,
+      "content_block_id": 55,
+      "question": "How can one contact the Migrant Integration Center?"
+    },
+    {
+      "question_id": 195,
+      "content_block_id": 55,
+      "question": "What is the Brașov Immigration Service contact information?"
+    },
+    {
+      "question_id": 196,
+      "content_block_id": 55,
+      "question": "What services does the CATTIA Community Center offer?"
+    },
+    {
+      "question_id": 197,
+      "content_block_id": 55,
+      "question": "When does the CATTIA Community Center operate?"
+    },
+    {
+      "question_id": 198,
+      "content_block_id": 55,
+      "question": "What information is needed for accommodation support?"
+    },
+    {
+      "question_id": 199,
+      "content_block_id": 55,
+      "question": "How can uninsured people access medical services?"
+    },
+    {
+      "question_id": 200,
+      "content_block_id": 55,
+      "question": "How can one obtain mobility equipment in Brașov?"
+    },
+    {
+      "question_id": 201,
+      "content_block_id": 55,
+      "question": "What organizations offer psychological support in Brașov?"
+    },
+    {
+      "question_id": 202,
+      "content_block_id": 55,
+      "question": "How can children enroll in Brașov schools?"
+    },
+    {
+      "question_id": 203,
+      "content_block_id": 55,
+      "question": "What educational events are available at CATTIA?"
+    },
+    {
+      "question_id": 204,
+      "content_block_id": 55,
+      "question": "How can one learn Romanian in Brașov?"
+    },
+    {
+      "question_id": 205,
+      "content_block_id": 55,
+      "question": "What services does NGO Terre des Hommes provide?"
+    },
+    {
+      "question_id": 206,
+      "content_block_id": 55,
+      "question": "How can one use public transport for free in Brașov?"
+    },
+    {
+      "question_id": 207,
+      "content_block_id": 55,
+      "question": "How can women access reproductive health services?"
+    },
+    {
+      "question_id": 208,
+      "content_block_id": 55,
+      "question": "What support is available for people living with HIV?"
+    }
+  ]
+}

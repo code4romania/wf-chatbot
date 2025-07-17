@@ -1,0 +1,213 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 379,
+      "content_block_id": 45,
+      "answer": "Compensated medicines are those reimbursed by the Health Fund and covered by the National Health and Welfare Fund.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 380,
+      "content_block_id": 45,
+      "answer": "Patients can benefit from medicines covered by the National Health and Welfare Fund when they are issued based on an electronic medical prescription or a medical prescription with a special regime.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 381,
+      "content_block_id": 45,
+      "answer": "Electronic medical prescriptions for compensated medicines are issued by a doctor, and if from a remote consultation, the patient or collector can print the document or send it to the pharmacy online.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 382,
+      "content_block_id": 45,
+      "answer": "Compensated medicines can be prescribed by family medicine doctors or specialist doctors who are under contract with a health insurance house.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 383,
+      "content_block_id": 45,
+      "answer": "Special regime prescriptions, specifically the green or yellow forms, are used for psychotropic and narcotic drugs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 384,
+      "content_block_id": 45,
+      "answer": "The List of compensated drugs is approved through a Government’s Decision for financial coverage within the social health insurance system.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 385,
+      "content_block_id": 45,
+      "answer": "Only community pharmacies that have contracts with health insurance houses can dispense medicines covered by the National Health and Welfare Fund.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 386,
+      "content_block_id": 45,
+      "answer": "Patients can receive compensated drugs for chronic diseases while hospitalized by having family doctors or doctors from specialized outpatient clinics issue medical prescriptions upon presentation of a hospital document confirming hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 387,
+      "content_block_id": 45,
+      "answer": "Hospitals have the obligation to publish on their website the list of medicines available in that hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 388,
+      "content_block_id": 45,
+      "answer": "After a remote consultation, the patient or person collecting medicines can print the electronic medical prescription sent by the doctor or send it to the pharmacy online for printing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 389,
+      "content_block_id": 45,
+      "answer": "Compensated drugs are covered for conditions found in the \"Summary of product characteristics\" approved by the National Agency of Medicines and Medical Devices in Romania or under therapeutic protocols for restricted drugs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'The prescribing doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 390,
+      "content_block_id": 45,
+      "answer": "The maximum validity period for an electronic prescription for acute conditions is 48 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 391,
+      "content_block_id": 45,
+      "answer": "The maximum validity period for an electronic prescription for chronic conditions is 30 days from the date of its issuing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 392,
+      "content_block_id": 45,
+      "answer": "For patients with stabilized chronic diseases and a stable therapeutic regimen, drugs can be prescribed for a period of up to 90, 91, or 92 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 393,
+      "content_block_id": 45,
+      "answer": "Prescriptions for compensated drugs issued for 90/91/92 days, prescribed online and signed with an extended electronic signature, can be issued in installments for 30/31/32 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 394,
+      "content_block_id": 45,
+      "answer": "The maximum amount covered by health insurance companies for compensated medicines is determined by applying the drug reimbursement percentage to the prescribed price.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 395,
+      "content_block_id": 45,
+      "answer": "The percentages of compensation applied are 90% for sublist A, 50% for sublist B, 100% for sublist C, and 20% for sublist D, corresponding to different International Common Names (ICN).",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 396,
+      "content_block_id": 45,
+      "answer": "Patients can pick up compensated medicines from any pharmacy in the country that has a contract with health insurance houses, except for those subject to cost-volume-result contracts.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 19,
+      "question_id": 397,
+      "content_block_id": 45,
+      "answer": "People fleeing the war in Ukraine are exempted from paying the personal contribution for compensated medicines given in outpatient treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Dispensing medicines in the pharmacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

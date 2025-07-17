@@ -1,0 +1,125 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 444,
+      "content_block_id": 14,
+      "answer": "The main ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 445,
+      "content_block_id": 14,
+      "answer": "Your rights in Romania depend on your status.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 446,
+      "content_block_id": 14,
+      "answer": "Someone can apply for asylum within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 447,
+      "content_block_id": 14,
+      "answer": "If you cannot present any documents upon entering Romania, you will need to apply for asylum at the border.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 448,
+      "content_block_id": 14,
+      "answer": "Temporary protection is a special form of protection for people fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 449,
+      "content_block_id": 14,
+      "answer": "A temporary protection permit is automatically valid until 03/04/2026, and beneficiaries do not need to apply for an extension.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 450,
+      "content_block_id": 14,
+      "answer": "Ukrainian nationals need to present a valid passport at the border crossing to enter Romania for a short stay.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 451,
+      "content_block_id": 14,
+      "answer": "Someone with a short-stay right can stay up to 90 days in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 452,
+      "content_block_id": 14,
+      "answer": "Asylum is a form of protection that allows a foreigner who cannot return to their country of origin to remain in Romania, and they cannot be removed (deported) to their country of origin.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 453,
+      "content_block_id": 14,
+      "answer": "In Poland, support can be found by calling the hotline +48 47 721 75 75 or by visiting www.ua.gov.pl and https://pomagamukrainie.gov.pl/.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 454,
+      "content_block_id": 14,
+      "answer": "Hotlines offering support in other European countries include Poland (+48 47 721 75 75), Moldova (0 8000 15 27), Hungary (+36 1 463 9292), and The Slovak Republic (+421 513 816 111 and +421 259 765 111).",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

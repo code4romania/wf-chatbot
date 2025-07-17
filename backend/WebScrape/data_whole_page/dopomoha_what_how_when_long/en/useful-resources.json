@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question_id": 910,
+      "content_block_id": 8,
+      "question": "What information is available on dopomoha.ro?"
+    },
+    {
+      "question_id": 911,
+      "content_block_id": 8,
+      "question": "How can posters and flyers from dopomoha.ro be shared effectively?"
+    },
+    {
+      "question_id": 912,
+      "content_block_id": 8,
+      "question": "What types of resources can be requested or offered through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 913,
+      "content_block_id": 8,
+      "question": "How does one provide or receive support using Sprijin de Urgență?"
+    },
+    {
+      "question_id": 914,
+      "content_block_id": 8,
+      "question": "What kind of accommodation assistance does Un Acoperiș offer?"
+    },
+    {
+      "question_id": 915,
+      "content_block_id": 8,
+      "question": "How can individuals provide a space for vulnerable people through Un Acoperiș?"
+    },
+    {
+      "question_id": 916,
+      "content_block_id": 8,
+      "question": "What common expressions are included in the Romanian phrase book?"
+    },
+    {
+      "question_id": 917,
+      "content_block_id": 8,
+      "question": "How can someone access the guide with common expressions?"
+    },
+    {
+      "question_id": 918,
+      "content_block_id": 8,
+      "question": "When should the dopomoha.ro posters and flyers be displayed?"
+    }
+  ]
+}

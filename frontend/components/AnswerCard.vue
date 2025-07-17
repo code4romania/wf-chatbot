@@ -18,14 +18,14 @@
       </div>
       <div class="review-buttons">
         <button
-          v-for="n in 5"
+          v-for="n in 4"
           :key="n"
           @click="selectReview(n)"
           :disabled="reviewDisabled || submittingReview" :class="{
             'selected': selectedReviewCode === n,
             'btn-good': n === 1,
             'btn-okay': n === 2,
-            'btn-bad': n >= 3,
+            'btn-bad': n === 3 || n === 4,
             'text-white': n !== 2
           }"
         >
@@ -82,8 +82,7 @@ const reviewMessage = ref(null);
 const reviewError = ref(false);
 
 // FastAPI Backend URL
-const config = useRuntimeConfig();
-const API_BASE_URL = config.public.baseAPI;
+const API_BASE_URL = 'http://localhost:8000';
 
 // Watch for changes in the 'answer' prop to reset the form
 watch(() => props.answer, () => {
@@ -93,11 +92,10 @@ watch(() => props.answer, () => {
 // Functions for review submission
 const getReviewButtonText = (code) => {
   switch (code) {
-    case 1: return 'Good';
-    case 2: return 'Okay';
-    case 3: return 'Bad';
-    case 4: return 'Very Bad';
-    case 5: return 'Worst';
+    case 1: return 'Perfect';
+    case 2: return 'Useful';
+    case 3: return 'Irrelevant';
+    case 4: return 'Incorrect';
     default: return '';
   }
 };
@@ -350,4 +348,4 @@ textarea:disabled { /* Styling for disabled textarea */
   border-color: #ffeeba;
   margin-bottom: 20px;
 }
-</style>A
+</style>

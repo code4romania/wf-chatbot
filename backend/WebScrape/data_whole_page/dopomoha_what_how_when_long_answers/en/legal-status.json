@@ -1,0 +1,147 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 450,
+      "content_block_id": 14,
+      "answer": "The main ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'The main ways to enter Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 451,
+      "content_block_id": 14,
+      "answer": "A person's rights in Romania depend on their status.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 452,
+      "content_block_id": 14,
+      "answer": "Temporary protection is a special form of protection for people fleeing the war in Ukraine.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 453,
+      "content_block_id": 14,
+      "answer": "If you are a beneficiary of temporary protection, your permit is automatically valid until 03/04/2026.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 454,
+      "content_block_id": 14,
+      "answer": "Ukrainian nationals can enter Romania with a short-stay right by presenting a valid passport at the border crossing.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 455,
+      "content_block_id": 14,
+      "answer": "Ukrainian nationals can stay up to 90 days in Romania with a short-stay right.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 456,
+      "content_block_id": 14,
+      "answer": "Asylum is a form of protection that allows a foreigner who cannot return to their country of origin to remain in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 457,
+      "content_block_id": 14,
+      "answer": "One can apply for asylum within Romania at a later point, either in writing or verbally.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 458,
+      "content_block_id": 14,
+      "answer": "If someone cannot present any documents upon entering Romania, they will need to apply for asylum at the border.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 459,
+      "content_block_id": 14,
+      "answer": "For support in Poland, one can call the hotline at +48 47 721 75 75 or visit www.ua.gov.pl and https://pomagamukrainie.gov.pl/.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 460,
+      "content_block_id": 14,
+      "answer": "For support in Moldova, one can call the hotline at 0 8000 15 27 or visit https://igm.gov.md/en/temporary-protection/.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 461,
+      "content_block_id": 14,
+      "answer": "For support in Hungary, one can call the hotline at +36 1 463 9292 or visit http://www.bmbah.hu/index.php?option=com_k2&view=item&id=1736:2022-03-04-12-25-49&lang=hu.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 462,
+      "content_block_id": 14,
+      "answer": "In the Slovak Republic, support is available via the Slovak Interior Ministry hotlines for Ukrainian-speakers at +421 513 816 111 and +421 259 765 111, and through the website https://www.mic.iom.sk/sk/novinky/760-informatsiya-ukrayina.html.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

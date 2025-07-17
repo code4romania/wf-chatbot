@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question_id": 275,
+      "content_block_id": 44,
+      "question": "What are home consultations and self-medical transportation services?"
+    },
+    {
+      "question_id": 276,
+      "content_block_id": 44,
+      "question": "How do patients access emergency medical transport services?"
+    },
+    {
+      "question_id": 277,
+      "content_block_id": 44,
+      "question": "What types of patients qualify for medical transport services?"
+    },
+    {
+      "question_id": 278,
+      "content_block_id": 44,
+      "question": "What specific transport services are offered to immobile patients?"
+    },
+    {
+      "question_id": 279,
+      "content_block_id": 44,
+      "question": "How are hospital discharge transports arranged for patients?"
+    },
+    {
+      "question_id": 280,
+      "content_block_id": 44,
+      "question": "When can patients receive transport to specialist appointments?"
+    },
+    {
+      "question_id": 281,
+      "content_block_id": 44,
+      "question": "What role do health insurance companies play in medical transport?"
+    },
+    {
+      "question_id": 282,
+      "content_block_id": 44,
+      "question": "How are bedridden patients transported for laboratory investigations?"
+    },
+    {
+      "question_id": 283,
+      "content_block_id": 44,
+      "question": "What is the purpose of the medical transport guide?"
+    },
+    {
+      "question_id": 284,
+      "content_block_id": 44,
+      "question": "How does the 112 emergency service manage transport requests?"
+    }
+  ]
+}

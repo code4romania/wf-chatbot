@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question_id": 316,
+      "content_block_id": 7,
+      "question": "What is asylum in Romania?"
+    },
+    {
+      "question_id": 317,
+      "content_block_id": 7,
+      "question": "Who can apply for asylum in Romania?"
+    },
+    {
+      "question_id": 318,
+      "content_block_id": 7,
+      "question": "What types of situations might lead someone to seek asylum in Romania?"
+    },
+    {
+      "question_id": 319,
+      "content_block_id": 7,
+      "question": "How can someone apply for asylum in Romania?"
+    },
+    {
+      "question_id": 320,
+      "content_block_id": 7,
+      "question": "When can someone apply for asylum in Romania?"
+    },
+    {
+      "question_id": 321,
+      "content_block_id": 7,
+      "question": "What documents are needed to apply for asylum in Romania?"
+    },
+    {
+      "question_id": 322,
+      "content_block_id": 7,
+      "question": "What kind of identification document is issued to asylum seekers in Romania?"
+    },
+    {
+      "question_id": 323,
+      "content_block_id": 7,
+      "question": "What happens during the asylum interviews in Romania?"
+    },
+    {
+      "question_id": 324,
+      "content_block_id": 7,
+      "question": "How are asylum interviews conducted in Romania?"
+    },
+    {
+      "question_id": 325,
+      "content_block_id": 7,
+      "question": "How is confidentiality maintained during the asylum process in Romania?"
+    },
+    {
+      "question_id": 326,
+      "content_block_id": 7,
+      "question": "What support is available for asylum seekers during interviews in Romania?"
+    },
+    {
+      "question_id": 327,
+      "content_block_id": 7,
+      "question": "How long does it typically take to process an asylum application in Romania?"
+    },
+    {
+      "question_id": 328,
+      "content_block_id": 7,
+      "question": "What kind of resources can be requested through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 329,
+      "content_block_id": 7,
+      "question": "How can someone offer resources through Sprijin de Urgență?"
+    },
+    {
+      "question_id": 330,
+      "content_block_id": 7,
+      "question": "What is the purpose of Un Acoperiș?"
+    },
+    {
+      "question_id": 331,
+      "content_block_id": 7,
+      "question": "How can someone find temporary accommodation through Un Acoperiș?"
+    },
+    {
+      "question_id": 332,
+      "content_block_id": 7,
+      "question": "How can someone provide accommodation through Un Acoperiș?"
+    }
+  ]
+}

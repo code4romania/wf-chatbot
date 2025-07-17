@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_id": 888,
+      "content_block_id": 38,
+      "question": "How can refugees from Ukraine get free medical tests?"
+    },
+    {
+      "question_id": 889,
+      "content_block_id": 38,
+      "question": "What medical tests are available for refugees from Ukraine?"
+    },
+    {
+      "question_id": 890,
+      "content_block_id": 38,
+      "question": "What are the conditions for free medical investigations?"
+    },
+    {
+      "question_id": 891,
+      "content_block_id": 38,
+      "question": "How does one obtain a referral ticket for medical tests?"
+    },
+    {
+      "question_id": 892,
+      "content_block_id": 38,
+      "question": "What kind of doctor issues referral tickets?"
+    },
+    {
+      "question_id": 893,
+      "content_block_id": 38,
+      "question": "How can one find laboratories contracting with health insurance?"
+    },
+    {
+      "question_id": 894,
+      "content_block_id": 38,
+      "question": "What information is available on the CNAS website?"
+    },
+    {
+      "question_id": 895,
+      "content_block_id": 38,
+      "question": "How long is a referral ticket for laboratory investigations valid?"
+    },
+    {
+      "question_id": 896,
+      "content_block_id": 38,
+      "question": "When must a laboratory schedule an appointment?"
+    },
+    {
+      "question_id": 897,
+      "content_block_id": 38,
+      "question": "What happens if a patient refuses a scheduled appointment?"
+    },
+    {
+      "question_id": 898,
+      "content_block_id": 38,
+      "question": "What medical conditions receive priority for investigations?"
+    },
+    {
+      "question_id": 899,
+      "content_block_id": 38,
+      "question": "When are investigations covered even if contract value is exceeded?"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 429,
+      "content_block_id": 52,
+      "answer": "MedZirka offers cost-free medical services online and offline, including consultations with various doctors and providing medical prescriptions, referrals, sick leave, vaccination certificates, and laboratory test referrals.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 430,
+      "content_block_id": 52,
+      "answer": "Individuals can access cost-free medical services from MedZirka after submitting the declaration.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 431,
+      "content_block_id": 52,
+      "answer": "At MedZirka, individuals can benefit from free consultations with a family doctor, therapist, or pediatrician.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 432,
+      "content_block_id": 52,
+      "answer": "MedZirka can provide a medical prescription, a referral to a specialist, sick leave, a vaccination certificate, and a referral for laboratory testing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 433,
+      "content_block_id": 52,
+      "answer": "MedZirka doctors can discuss conditions such as flu, cold, SARS, respiratory diseases, circulatory system diseases, digestive system diseases, kidney diseases, blood disorders, endocrine system disorders, heart and blood vessel diseases, joint diseases, and various chronic diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 434,
+      "content_block_id": 52,
+      "answer": "For more information, someone can call MedZirka at 0 800 330 553 or write on Viber/Telegram following the links on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 435,
+      "content_block_id": 52,
+      "answer": "The provided content does not specify when MedZirka's cost-free medical services are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question_id": 429,
+      "content_block_id": 52,
+      "question": "What kind of medical services does MedZirka offer?"
+    },
+    {
+      "question_id": 430,
+      "content_block_id": 52,
+      "question": "How can individuals access cost-free medical services from MedZirka?"
+    },
+    {
+      "question_id": 431,
+      "content_block_id": 52,
+      "question": "What types of doctors are available for consultations at MedZirka?"
+    },
+    {
+      "question_id": 432,
+      "content_block_id": 52,
+      "question": "What specific medical documents or referrals can MedZirka provide?"
+    },
+    {
+      "question_id": 433,
+      "content_block_id": 52,
+      "question": "What range of medical conditions can be discussed with MedZirka doctors?"
+    },
+    {
+      "question_id": 434,
+      "content_block_id": 52,
+      "question": "How can someone contact MedZirka for more information?"
+    },
+    {
+      "question_id": 435,
+      "content_block_id": 52,
+      "question": "When are MedZirka's cost-free medical services available?"
+    }
+  ]
+}

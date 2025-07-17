@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What kind of services are typically provided during a hospital stay?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How does one typically gain access to hospital services?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What is the difference between day hospitalization and continuous hospitalization?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "What types of medical conditions can be treated through one-day hospitalization?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "How do public hospitals provide free medical services to patients?"
+    },
+    {
+      "question_id": 6,
+      "content_block_id": 40,
+      "question": "What expenses are covered by public hospitals for insured patients?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 40,
+      "question": "When did specific services like chemotherapy, dialysis, and radiotherapy become covered under certain conditions?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 40,
+      "question": "What happens if a patient chooses a public hospital that does not have a contract with their health insurance company?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 40,
+      "question": "How are private hospitals able to charge patients a personal contribution for hospitalization services?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 40,
+      "question": "What information must private hospitals display regarding their rates and personal contributions?"
+    },
+    {
+      "question_id": 11,
+      "content_block_id": 40,
+      "question": "How are cost estimates provided to patients before hospitalization in private facilities?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 40,
+      "question": "What is the process for patients to be reimbursed by public hospitals if they paid for entitled medical items?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 40,
+      "question": "How do public hospitals manage the reimbursement process for patient-borne expenses?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 40,
+      "question": "What is the source of information for patient rights related to social health insurance?"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 209,
+      "content_block_id": 12,
+      "answer": "Sprijin de Urgență provides resources, food, products, clothing, tents, transportation, and volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 210,
+      "content_block_id": 12,
+      "answer": "One can request help on Sprijin de Urgență by requesting resources.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 211,
+      "content_block_id": 12,
+      "answer": "ICF Gloria from Odessa, Ukraine, in partnership with Adra Ukraine, organizes evacuation buses from Odessa.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Evacuation buses from Odessa to Palanka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 212,
+      "content_block_id": 12,
+      "answer": "Evacuation buses from Odessa operate every Monday and Thursday.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Evacuation buses from Odessa to Palanka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 213,
+      "content_block_id": 12,
+      "answer": "The United Nations Refugee Agency (UNHCR) and the International Organization for Migration (IOM) offer free transfer to Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Free transfer from Ukraine to Romania via Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 214,
+      "content_block_id": 12,
+      "answer": "Buses depart from the Palanca border in Moldova to Huși in Romania, where aid is available, and volunteers assist with transfers to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Free transfer from Ukraine to Romania via Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 215,
+      "content_block_id": 12,
+      "answer": "Rescue 4x4 provides free public service for rescue, recovery, and emergency interventions, including bringing vehicles to a usable road or removing them from public carriageways.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 216,
+      "content_block_id": 12,
+      "answer": "The content indicates a general option to 'Request help' for Rescue 4x4 services.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 217,
+      "content_block_id": 12,
+      "answer": "Transport options in Romania include trains, buses/maxi taxis, taxis, and the subway.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Transport in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 218,
+      "content_block_id": 12,
+      "answer": "The Romanian government does not cover transportation costs.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Transport in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 219,
+      "content_block_id": 12,
+      "answer": "One can find Romanian train routes and timetables from major railway operators via their websites such as cfrcalatori.ro and mersultrenurilor.infofer.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 220,
+      "content_block_id": 12,
+      "answer": "Romanian train tickets can be bought via websites like cfrcalatori.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 221,
+      "content_block_id": 12,
+      "answer": "One can find Romanian bus and maxitaxi routes and timetables from major operators via websites such as autogari.ro and mersulautobuzelor.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 222,
+      "content_block_id": 12,
+      "answer": "To buy a Romanian bus pass, one needs a passport or other identity documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Bus/maxi taxi info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 15,
+      "question_id": 223,
+      "content_block_id": 12,
+      "answer": "It is recommended not to hail a cab but instead use apps like Free Now, Uber, or Bolt to take a ride in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Taxi'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 16,
+      "question_id": 224,
+      "content_block_id": 12,
+      "answer": "Available taxi apps in Romania include Free Now, Uber, and Bolt.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Taxi'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 17,
+      "question_id": 225,
+      "content_block_id": 12,
+      "answer": "One can pay for Romanian subway travel by buying a ticket at the metro station ticket office or by paying with a bank card directly at the turnstile.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Traveling by subway'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 18,
+      "question_id": 226,
+      "content_block_id": 12,
+      "answer": "One can top up transport cards online via online.stbsa.ro.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

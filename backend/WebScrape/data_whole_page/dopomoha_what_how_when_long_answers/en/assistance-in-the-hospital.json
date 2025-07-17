@@ -1,0 +1,158 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "answer": "Hospital services typically include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "answer": "Inpatient medical services are typically granted based on a referral ticket from a family medicine doctor or outpatient specialist, though a referral note is not required for medical emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "answer": "Day hospitalization has a maximum duration of 12 hours, while continuous hospitalization implies a duration of more than 12 hours.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "answer": "Examples of conditions treatable by one-day hospitalization include anemia, respiratory and urinary tract infections, viral or bacterial intestinal infections, irritable bowel syndrome, gastro-oesophageal reflux disease, and certain heart or liver conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "answer": "Public hospitals provide free medical services only if they have concluded supply contracts for hospitalization services with health insurance companies.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 6,
+      "question_id": 6,
+      "content_block_id": 40,
+      "answer": "Public hospitals cover all necessary expenses for hospitalized insured persons, including medicines, sanitary materials, laboratory and imaging investigations. They also bear the cost for standard hotel services for companions of sick children up to 3 years old and people with severe disabilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 7,
+      "question_id": 7,
+      "content_block_id": 40,
+      "answer": "Chemotherapy services with monitoring, dialysis services, and radiotherapy services became covered starting with April 1, 2022, under specific conditions related to their provision by health facilities in contractual relations with health insurance companies or running national programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 8,
+      "question_id": 8,
+      "content_block_id": 40,
+      "answer": "If an insured person goes to a public hospital that does not have a contract with their health insurance company, they must bear the full cost of the medical services and cannot recover that amount from the health insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 9,
+      "question_id": 9,
+      "content_block_id": 40,
+      "answer": "Starting July 1, 2021, private hospitals under contract with health insurance companies can charge a personal contribution for hospitalization services for acute conditions, with funding according to diagnostic groups (DRG system). This contribution represents the difference between the rate settled by the health insurance company and the rate charged by the private hospital.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 10,
+      "question_id": 10,
+      "content_block_id": 40,
+      "answer": "Private hospitals under contract with a health insurance company must publicly display, at their headquarters and on their webpage, the rates charged, the amount settled by the state, and the amount of the personal contribution for contracted services.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 11,
+      "question_id": 11,
+      "content_block_id": 40,
+      "answer": "Before hospitalization, patients in private facilities receive an estimate of the costs of the requested medical services, which is valid for 5 working days. Any subsequent cost changes require the written consent of the patient or their legal guardian.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 12,
+      "question_id": 12,
+      "content_block_id": 40,
+      "answer": "If a doctor recommends certain medicines, sanitary materials, or laboratory investigations that the patient pays for but was entitled to receive for free, the public hospital reimburses the patient the value of these expenses upon the insured's request.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 13,
+      "question_id": 13,
+      "content_block_id": 40,
+      "answer": "Public hospitals, exclusively, reimburse these expenses from their own revenues and create a methodology for this, which is made available to the health insurance company and known to patients upon hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 14,
+      "question_id": 14,
+      "content_block_id": 40,
+      "answer": "Information regarding patient rights in the social health insurance system is contained in the “Guide on the rights of people from the armed conflict zone in Ukraine in the social health insurance system,” published by the National Health Insurance House.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
