@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 60,
+      "content_block_id": 33,
+      "question": "What kind of assistance is being offered?"
+    },
+    {
+      "question_id": 61,
+      "content_block_id": 33,
+      "question": "How can someone access these services?"
+    },
+    {
+      "question_id": 62,
+      "content_block_id": 33,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 63,
+      "content_block_id": 33,
+      "question": "What medical services are provided?"
+    },
+    {
+      "question_id": 64,
+      "content_block_id": 33,
+      "question": "Who is eligible for this assistance?"
+    }
+  ]
+}

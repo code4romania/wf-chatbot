@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 16,
+      "content_block_id": 18,
+      "question": "What help is available for refugees?",
+      "answer": "UNHCR provides financial cash assistance for four months to cover expenses for eligible displaced Ukrainians and third-country nationals. This includes a one-time winter cash assistance of 720 lei per person.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Information about UNHCR’s Cash Programme in Romania'.",
+      "read_instruction": "read the section under 'Information about UNHCR’s Cash Programme in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 17,
+      "content_block_id": 18,
+      "question": "How can refugees get this help?",
+      "answer": "Refugees can get this help by filling out a form to schedule an appointment for an interview, which is the first step to enroll. An SMS with the date, time, and location of the appointment will be sent within 15 days, which must be shown at the enrolment center.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "read_instruction": "read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 18,
+      "content_block_id": 18,
+      "question": "What are the requirements to receive assistance?",
+      "answer": "To receive assistance, individuals must be displaced from Ukraine, have temporary protection status in Romania for at least 30 days, and have lived in Romania for at least 30 days before UNHCR registration. They must not be receiving other multi-purpose cash assistance or vouchers of RON 600 or more from other sources. Additionally, the family must meet at least one specific vulnerability category.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "read_instruction": "read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 19,
+      "content_block_id": 18,
+      "question": "When is this assistance available?",
+      "answer": "There is no financial assistance program available at this time. Individuals are advised to check back on the page later for updates.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 20,
+      "content_block_id": 18,
+      "question": "How does the application process work?",
+      "answer": "The application process involves filling out a form to schedule an interview appointment, followed by receiving an SMS confirmation. All family members must be present at the enrolment center with identification documents, proof of entry into Romania, an active Romanian or Ukrainian mobile number, and Romanian bank account details. Fingerprints will also be enrolled for security.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

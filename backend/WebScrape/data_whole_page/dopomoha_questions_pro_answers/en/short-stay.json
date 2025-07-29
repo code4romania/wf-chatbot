@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 130,
+      "content_block_id": 23,
+      "question": "What support is available for refugees from Ukraine in Romania?",
+      "answer": "Under short-stay status, social services include food, clothing, personal hygiene products, primary and emergency medical care, and free treatment for life-threatening diseases. You can register requests for resources like food and clothing on sprijindeurgenta.ro. While there is no direct financial support for renting a home, entities hosting people from Ukraine can be reimbursed for daily accommodation and food expenses. Support for finding temporary accommodation is also available via \"Un Acoperiș\".",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'My rights having a short stay status Social services', 'Accommodation', 'Sprijin de Urgență', and 'Un Acoperiș'.",
+      "read_instruction": "read the sections under 'My rights having a short stay status Social services', 'Accommodation', 'Sprijin de Urgență', and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 131,
+      "content_block_id": 23,
+      "question": "How can someone from Ukraine enter Romania?",
+      "answer": "Individuals can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. Ukrainian nationals presenting a valid passport at the border crossing can enter and stay up to 90 days. It is also possible to apply for asylum within Romania at a later point.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 132,
+      "content_block_id": 23,
+      "question": "What are the options for work and education for Ukrainian refugees in Romania?",
+      "answer": "You have the right to work in Romania, even without temporary protection, though a work permit may be required in some cases. Documents like a passport, labor contract, and medical certificate are needed for a residence permit for work purposes. Free employment services are offered by county employment agencies. For education, children and young refugees can enroll in the Romanian system if they have legal residence, such as through temporary protection or asylum.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'Work' and 'Education'.",
+      "read_instruction": "read the sections under 'Work' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 133,
+      "content_block_id": 23,
+      "question": "How can someone access healthcare and accommodation in Romania as a refugee?",
+      "answer": "Foreign nationals from Ukraine benefit from medical services, supplies, and medicines like insured Romanian citizens, without paying contributions or co-payment, and do not need a referral for specialized outpatient care. Primary health care, emergency medical care, and free treatment for acute or chronic life-threatening diseases are also ensured. For accommodation, there is no direct financial support for renting, but host entities can be reimbursed for daily expenses, and support for finding temporary accommodation is available via Un Acoperiș.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'Medical assistance' and 'Accommodation'.",
+      "read_instruction": "read the sections under 'Medical assistance' and 'Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 134,
+      "content_block_id": 23,
+      "question": "When can refugees from Ukraine expect to receive aid in Romania?",
+      "answer": "The provided information details the types of aid available and how to request resources, but it does not specify a timeline for when refugees can expect to receive aid after making a request. Social services within temporary accommodation are ensured during the period of stay.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

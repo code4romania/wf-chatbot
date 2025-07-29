@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 96,
+      "content_block_id": 61,
+      "answer": "Iași offers a wide range of assistance including accommodation, meals, integration support, transportation details, medical and psychological services, and educational programs like kindergarten, school, and Romanian language courses. Additionally, various organizations provide legal advice, social and educational activities, and support for accessing healthcare and other essential services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 97,
+      "content_block_id": 61,
+      "answer": "Support services can be accessed by contacting specific organizations or individuals via phone, email, or WhatsApp, as listed under each service category. For some services, direct visits to specified addresses are required, while others may offer online registration or services at transit points.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 98,
+      "content_block_id": 61,
+      "answer": "For healthcare, urgent medical services are available at specific hospitals, and there's a list for free family medicine. Various organizations provide extensive psychological support, and some offer help with accessing medical services, medicines, reproductive health, and HIV counseling. In terms of education, there are multi-service centers for children offering kindergarten and school programs, including Ukrainian language. Multiple organizations also provide free Romanian language courses for adults and teenagers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 99,
+      "content_block_id": 61,
+      "answer": "Refugees can find information about legal status through the Romanian National Council for Refugees (CNRR), AIDRom, and Justiție pentru minori, who offer legal advice and information on asylum, child protection, integration, and family reunification. For housing, there's a support program for accommodation, and the CTR Nicolina Refugee Center and Justiție pentru minori also provide accommodation services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the sections under 'The support program for accommodation, meals and integration in Iași' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 100,
+      "content_block_id": 61,
+      "answer": "The provided content does not specify general operating hours for most services. However, emergency services are available via the 112 call number and urgent medical care can be accessed at designated hospitals. Some Romanian language courses are held \"every week.\"",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

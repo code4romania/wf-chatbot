@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 135,
+      "content_block_id": 17,
+      "question": "How can Ukrainian children continue their education in Romania?",
+      "answer": "Ukrainian children can enroll in Romanian schools or extracurricular activities by contacting the County Schools Inspectorates. Students can also continue their studies at a university based on a statement of responsibility. Additionally, there are Ukrainian online or part-time kindergartens and schools available in different cities.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 136,
+      "content_block_id": 17,
+      "question": "What support is available for Ukrainian children in Romanian schools?",
+      "answer": "Ukrainian children can receive psycho-pedagogical assistance and counseling, and County School Inspectorates will facilitate Romanian language learning. Minors under temporary protection are eligible for free accommodation in school dormitories, daily food allowances, and financial support for school supplies, bedding, clothing, and footwear. For enrollment and integration inquiries, Maricica Ciubara at the Bucharest School Inspectorate can be contacted.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 137,
+      "content_block_id": 17,
+      "question": "What are the steps to enroll a child in school or extracurriculars in Romania?",
+      "answer": "First, contact the County Schools Inspectorates. Second, fill out the application for enrollment, which can be downloaded or obtained physically, and submit it in person or via e-mail. Third, the application will be analyzed within one day, and you will be contacted by the responsible Commission to decide where your child will be assigned.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'How to enroll a child in school, kindergarten or extracurricular activities'.",
+      "read_instruction": "read the section under 'How to enroll a child in school, kindergarten or extracurricular activities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 138,
+      "content_block_id": 17,
+      "question": "How can Ukrainian refugees get their prior education recognized in Romania?",
+      "answer": "To get prior education recognized, contact CNRED (National Center for Diploma Recognition and Equivalence). You must submit a file containing required documents, such as diplomas and personal identification, either online, physically, or by mail. CNRED will evaluate the file and issue a certificate of recognition within a maximum of 30 working days.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Equivalence of studies' and 'I have completed my studies'.",
+      "read_instruction": "read the section under 'Equivalence of studies' and 'I have completed my studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 139,
+      "content_block_id": 17,
+      "question": "When is the Romanian school year and what are the holidays?",
+      "answer": "The content mentions that the structure of the 2024-2025 school year and a list of days off in Romanian educational institutions can be found under the \"Calendar of holidays in schools and kindergartens in Romania\" section. However, the specific dates for the school year and holidays are not detailed in the provided text.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Calendar of holidays in schools and kindergartens in Romania'.",
+      "read_instruction": "read the section under 'Calendar of holidays in schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 41,
+      "content_block_id": 49,
+      "question": "What kinds of health services are covered by national curative health programs?",
+      "answer": "National curative health programs cover medicine, sanitary materials, medical devices, and specific services such as radiotherapy and dialysis. They also include specific investigations like glycosylated hemoglobin dosage and PET-CT. For chronic renal failure patients, non-medicalized transport and transport of peritoneal dialysis materials are additionally provided.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 42,
+      "content_block_id": 49,
+      "question": "How can someone access these national health programs?",
+      "answer": "Patients can access these programs if a specialist doctor decides to enroll them based on their condition, health state, and eligibility criteria. To benefit, individuals must contact a specialist doctor who works in a health unit that runs the specific program. A list of these health facilities can be found on the web pages of health insurance companies.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program'.",
+      "read_instruction": "read the section under 'Enrollment of patients in a national curative health program'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 43,
+      "content_block_id": 49,
+      "question": "What medical conditions are addressed by these programs?",
+      "answer": "These programs address a wide range of medical conditions including cardiovascular diseases, oncology, deafness, diabetes, neurological diseases, hemophilia, thalassemia, and rare diseases. They also cover mental health, endocrine diseases, orthopedics, organ transplantation, chronic renal and liver failure, and diagnosis with advanced PET-CT equipment.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 44,
+      "content_block_id": 49,
+      "question": "How do these programs work with health insurance?",
+      "answer": "The national curative health programs are run by the National Health Insurance House. Their purpose is to ensure specific treatment for diseases with a major public health impact. Within these programs, only medicines included in the List of compensated medicines approved by Government Decision are provided.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 45,
+      "content_block_id": 49,
+      "question": "When might someone be eligible for these programs?",
+      "answer": "A person might be eligible for a national curative health program if they have a disease with a major impact on public health. Eligibility is determined by a specialist doctor, who will decide on enrollment based on the patient's condition, state of health, and specific eligibility criteria.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program'.",
+      "read_instruction": "read the section under 'Enrollment of patients in a national curative health program'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

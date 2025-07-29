@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 60,
+      "content_block_id": 33,
+      "question": "What kind of assistance is being offered?",
+      "answer": "The International Organization for Migration in Romania (IOM Romania) offers free medical care.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 61,
+      "content_block_id": 33,
+      "question": "How can someone access these services?",
+      "answer": "To access these services, you must first make an appointment with the IOM representatives at their office located in RomExpo.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 62,
+      "content_block_id": 33,
+      "question": "When are these services available?",
+      "answer": "These services are available Monday through Friday, from 9:00 AM to 5:00 PM.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 63,
+      "content_block_id": 33,
+      "question": "What medical services are provided?",
+      "answer": "Free consultations are provided by a family doctor, psychologist, and gynecologist.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 64,
+      "content_block_id": 33,
+      "question": "Who is eligible for this assistance?",
+      "answer": "Ukrainians and refugees from other countries are eligible for this free medical care.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

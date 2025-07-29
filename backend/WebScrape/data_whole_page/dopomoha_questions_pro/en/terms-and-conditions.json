@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 90,
+      "content_block_id": 64,
+      "question": "What is the purpose of the dopomoha.ro website?"
+    },
+    {
+      "question_id": 91,
+      "content_block_id": 64,
+      "question": "How does the website handle personal data?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 64,
+      "question": "What rights do users of the website have?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 64,
+      "question": "How can someone contact the organization behind the website?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 64,
+      "question": "When can the terms and conditions of the website change?"
+    }
+  ]
+}

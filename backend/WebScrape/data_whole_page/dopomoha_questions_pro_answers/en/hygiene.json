@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 46,
+      "content_block_id": 29,
+      "question": "What are some basic hygiene practices to follow, especially during a crisis?",
+      "answer": "Basic hygiene practices include frequent hand washing with soap, especially after visiting the toilet, being on public transport, or before cooking and eating. It is also important for children to use individual dishes, or if not possible, thoroughly wash shared utensils, particularly the edges. Avoid drinking water from the tap by putting lips on it.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 47,
+      "content_block_id": 29,
+      "question": "How can limited resources affect hygiene routines?",
+      "answer": "Limited resources can affect hygiene routines by reducing access to water, heat, food, and hygiene supplies. This may necessitate using less water for daily needs, relying on hand sanitizers or wet wipes when soap and water are unavailable, and finding alternative solutions like making homemade diapers or reusing disposable ones.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 48,
+      "content_block_id": 29,
+      "question": "What are some ways to maintain hygiene when regular supplies are unavailable?",
+      "answer": "If soap and water are unavailable, use a hand sanitizer with at least 60% alcohol, rubbing it into hands for 20-30 seconds, or use alcohol or antibacterial wet wipes. In situations where diapers cannot be bought, they can be made from gauze or a piece of cloth, or disposable diapers can be reused by cleaning them and inserting a new pad.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 49,
+      "content_block_id": 29,
+      "question": "How can you ensure proper hygiene for babies when resources are scarce?",
+      "answer": "To ensure proper hygiene for babies when resources are scarce, make sure they use their own individual or disposable dishes; if sharing is unavoidable, thoroughly wash common glasses, especially the edges. For diapering, you can make diapers from gauze or a piece of cloth, or reuse disposable ones by cleaning them and inserting a new gauze or cloth pad.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

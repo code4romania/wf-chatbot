@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 240,
+      "content_block_id": 28,
+      "answer": "Pro bono legal help, free legal and humanitarian assistance, and complimentary legal counseling are available for Ukrainian refugees. This assistance covers issues like obtaining refugee status and resolving various civil or administrative legal issues during their stay in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 241,
+      "content_block_id": 28,
+      "answer": "Lawyers willing to offer support to Ukrainian refugees can be matched with those in need through UA.SUPPORT. They can also be part of the National Association of the Romanian Bars' campaign for free legal and humanitarian assistance, or be included in UNHCR's compiled list of lawyers helping refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the section under 'UA.SUPPORT'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 242,
+      "content_block_id": 28,
+      "answer": "Refugees might encounter legal issues such as obtaining refugee status or for resolving various civil or administrative legal issues during their stay in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the section under 'ACTEDO'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 243,
+      "content_block_id": 28,
+      "answer": "Refugees can ask for help through UA.SUPPORT or ACTEDO. They can also access a list of lawyers by scanning a QR code from UNHCR, or contact CNRR directly via their hotline, WhatsApp, Telegram, or Viber.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 244,
+      "content_block_id": 28,
+      "answer": "The complimentary legal counseling service offered by CNRR is available Monday to Friday, from 8:00 AM to 10:00 PM. The operating hours for other legal assistance services are not specified in the provided content.",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the section under 'Free Legal Counseling for Refugees and Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ from datetime import datetime
 #from DeepSeek import DeepSeek
 from Gemini import GeminiChat
 
-chat = GeminiChat()
+chat = GeminiChat(model="gemini-1.5-pro-latest")
 
 # Languages to process
 language_map = {
@@ -15,8 +15,8 @@ language_map = {
 }
 
 INPUT_FOLDER = "./data_whole_page/dopomoha_stripped"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_what_how_when_long"
-QID_FILE = os.path.join(OUTPUT_ROOT, "next_qid.txt") # File to store next_qid
+OUTPUT_ROOT = "./data_whole_page/dopomoha_questions_pro"
+QID_FILE = os.path.join(OUTPUT_ROOT, "next_qid.txt")
 FAILURES_FILE = os.path.join(OUTPUT_ROOT, "notes", "fails.json") # Path for failures log
 
 # Ensure output directories exist
@@ -58,32 +58,28 @@ def save_failures(failures):
 
 def generate_questions_for_language(scraped, code, language, page_name, verbose=False):
     questions_out = []
-    n_questions = 5
-    max_questions= 20
+    n_questions = 3
+    max_questions= 5
     failures = load_failures() # Load existing failures
 
     for entry in scraped:
         base_prompt = (
             f"Given content: '{entry['summary']}', "
-            f"generate {n_questions} to {max_questions} concise, distinct, open-ended questions in {language} "
-            "that someone curious might naturally ask BEFORE reading any details. "
-            "IMPORTANT: Only generate questions starting with 'What', 'How', or 'When'. "
-            "Each question must be open-ended and cannot be answered with 'yes' or 'no'. "
-            "Do NOT start questions with any other words (such as 'Is', 'Are', 'Was', etc.). "
-            "Each question must be fully understandable on its own and not require knowledge of the content to grasp the topic. "
-            "Make sure every question directly mentions the specific topic, program, event, or concept from the content. "
-            "Do not use the words 'this', 'these', 'summary', or 'content' in your questions. "
-            "Ensure the set of questions together covers all key points or sections of the content. "
+            f"generate {n_questions} to {max_questions} concise, open-ended questions in {language} "
+            "that someone curious might naturally ask *before* reading any details. Use simple, everyday language. "
+            "The questions must be answerable based on the content, but should not reference or rely on specific phrases from it. "
+            "IMPORTANT: Focus on the MAIN TOPICS of the page — do not ask overly specific questions. "
+            "Only generate questions that begin with 'What', 'How', or 'When'. "
+            "Do NOT start questions with words like 'Is', 'Are', 'Was', etc. "
+            "Each question must make complete sense on its own and be fully understandable without context. "
+            "Avoid using vague terms like 'this', 'these', 'summary', or 'content' in the question. "
             "BAD Examples: "
-            "  - 'Is it important?' (Yes/no) "
-            "  - 'Can you apply?' (Yes/no and lacks context) "
-            "  - 'What is its purpose?' (Vague) "
-            "GOOD Examples: "
-            "  - 'What are the main goals of the city’s recycling initiative?' "
-            "  - 'How can I get temporary protection?' "
-            "  - 'When will the recycling initiative begin in the city?' "
+            "  - 'Is it important?' (yes/no and unclear) "
+            "  - 'Can you apply?' (lacks context) "
+            "  - 'What is its purpose?' (too vague) "
             "SUPER IMPORTANT: Return only a valid Python list literal of the questions."
         )
+
 
 
         history = []

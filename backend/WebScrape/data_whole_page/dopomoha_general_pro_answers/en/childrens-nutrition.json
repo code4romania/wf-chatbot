@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 11,
+      "content_block_id": 25,
+      "answer": "For babies under two, breastfeeding is highly recommended, ideally on demand, at least 8-12 times a day. If breastfeeding is not possible, babies under 6 months can be fed ready-to-use commercial or generic formula, while children older than 6 months can have animal milk and complementary foods. Generally, it is essential for children to eat a balanced diet, and in emergencies, parents should prioritize clean drinking water and a stock of non-perishable, ready-to-eat foods.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Children’s nutrition'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 12,
+      "content_block_id": 25,
+      "answer": "During emergencies, parents should prioritize continued breastfeeding for babies, as it provides immunity and essential nutrients even if the mother's diet is unbalanced. For all children, ensuring access to clean drinking water is crucial, and a 2-3 day supply should be created. Parents should also stock ready-to-eat, non-perishable foods like bread, canned goods, nuts, dried fruits, and instant cereals, checking expiration dates carefully.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Nutrition for small children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 13,
+      "content_block_id": 25,
+      "answer": "Breastfeeding strengthens a child's immunity, which can be weakened during anxiety and stress, and is the most convenient and safest feeding method, especially in war time. In emergencies, direct physical contact during breastfeeding helps the child feel safe, and hormones produced enhance the mother's sense of peace. Importantly, milk quality does not change due to stress, and mothers can breastfeed effectively even with an unbalanced diet.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 14,
+      "content_block_id": 25,
+      "answer": "If a baby is temporarily separated or cannot breastfeed, mothers should continue to drain milk with hands or a pump as often as the baby would eat, at least 8 times a day, to maintain lactation and prevent complications. If breastfeeding cannot be continued, mothers should try to restore milk flow by frequently putting the baby to the breast, drinking more water, massaging the neck, getting enough rest, taking a warm shower, and eating well. Support services are also available for difficulties.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 15,
+      "content_block_id": 25,
+      "answer": "Alternative feeding methods should be considered for babies under 6 months if a mother cannot restore lactation, in which case ready-to-use commercial or generic infant formula is recommended. For children older than 6 months, if breastfeeding is not possible, animal milk (cow's or goat's) and complementary foods can be introduced, as formula is not needed for this age group. In cases of total food absence or allergic reactions, seeking help from a maternity or children's hospital is advised.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'If you can not restore lactation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

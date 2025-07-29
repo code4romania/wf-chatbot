@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 55,
+      "content_block_id": 24,
+      "question": "What kind of help can someone get for drug use?"
+    },
+    {
+      "question_id": 56,
+      "content_block_id": 24,
+      "question": "How can individuals find assistance for drug-related issues?"
+    },
+    {
+      "question_id": 57,
+      "content_block_id": 24,
+      "question": "What are the typical costs for drug support services?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 95,
+      "content_block_id": 61,
+      "question": "What kind of help is available in Iași for newcomers?"
+    },
+    {
+      "question_id": 96,
+      "content_block_id": 61,
+      "question": "How can I get medical assistance in Iași?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 61,
+      "question": "What resources are there for education and learning Romanian?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 61,
+      "question": "How can I find housing and other support services?"
+    },
+    {
+      "question_id": 99,
+      "content_block_id": 61,
+      "question": "What are some organizations that offer help to people in Iași?"
+    }
+  ]
+}

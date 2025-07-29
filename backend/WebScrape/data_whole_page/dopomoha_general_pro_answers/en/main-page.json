@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 339,
+      "content_block_id": 19,
+      "answer": "The platform provides information on various types of support, including housing, access to a call center, education, health services, transport, and job opportunities. It also offers information on staying safe and help for PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Support Housing Call center Education Health Transport Jobs Stay safe PTSD Help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 340,
+      "content_block_id": 19,
+      "answer": "Individuals fleeing a war zone are welcomed to Romania and can enter through any official border crossing. The platform also provides information on how to stay safe and assistance for PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Stay safe PTSD Help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 341,
+      "content_block_id": 19,
+      "answer": "The platform offers relevant information about seeking protection in Romania, including details on legal status and simplified explanations of the law.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the section under 'Legal status Info Law made simple'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 342,
+      "content_block_id": 19,
+      "answer": "The provided content describes the types of information and support available to refugees but does not specify when they can expect to receive assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 343,
+      "content_block_id": 19,
+      "answer": "The provided content does not contain information on how people can contribute to helping refugees. It focuses on the services and information available to those seeking protection.",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

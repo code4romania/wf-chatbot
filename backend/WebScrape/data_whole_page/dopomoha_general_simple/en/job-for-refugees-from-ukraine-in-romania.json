@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 222,
+      "content_block_id": 34,
+      "question": "How can Ukrainian citizens find work opportunities in Romania?"
+    },
+    {
+      "question_id": 223,
+      "content_block_id": 34,
+      "question": "What resources are available to help with job integration?"
+    },
+    {
+      "question_id": 224,
+      "content_block_id": 34,
+      "question": "What steps are involved in securing employment for foreign citizens?"
+    }
+  ]
+}

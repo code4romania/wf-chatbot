@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 85,
+      "content_block_id": 41,
+      "question": "What dental services are available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 41,
+      "question": "How much do these dental services cost for refugees?"
+    },
+    {
+      "question_id": 87,
+      "content_block_id": 41,
+      "question": "What age groups are covered by this dental program?"
+    },
+    {
+      "question_id": 88,
+      "content_block_id": 41,
+      "question": "How can refugees find participating dentists?"
+    },
+    {
+      "question_id": 89,
+      "content_block_id": 41,
+      "question": "When are these dental services available?"
+    }
+  ]
+}

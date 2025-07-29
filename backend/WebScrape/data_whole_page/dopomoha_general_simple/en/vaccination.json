@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 184,
+      "content_block_id": 26,
+      "question": "How does vaccination help protect human health?"
+    },
+    {
+      "question_id": 185,
+      "content_block_id": 26,
+      "question": "When are vaccinations typically recommended for children and adults?"
+    },
+    {
+      "question_id": 186,
+      "content_block_id": 26,
+      "question": "What types of infectious diseases can be prevented by vaccination?"
+    },
+    {
+      "question_id": 187,
+      "content_block_id": 26,
+      "question": "What important considerations should people know about vaccination?"
+    }
+  ]
+}

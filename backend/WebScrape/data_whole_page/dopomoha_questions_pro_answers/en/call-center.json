@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 6,
+      "content_block_id": 15,
+      "question": "What kind of help is available?",
+      "answer": "Help is available for refugees, including information on rights and services, accommodation requests, and support for specific groups like children, individuals with rare diseases, or those needing HIV treatment. There are also helplines for issues such as human trafficking, domestic violence, and general counseling.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 7,
+      "content_block_id": 15,
+      "question": "How can I contact support services?",
+      "answer": "You can contact support services primarily by calling the various help-lines provided. These include numbers for national organizations, government agencies, and specific city or country-based services.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 8,
+      "content_block_id": 15,
+      "question": "What are the different ways to get assistance?",
+      "answer": "Assistance can be obtained by calling specific help-lines dedicated to various needs, such as refugee support from UNHCR or IOM, medical support from Sens Pozitiv, or children's support from Save the Children. There are also hotlines for anti-trafficking, domestic violence, and general information.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 9,
+      "content_block_id": 15,
+      "question": "When are these services available?",
+      "answer": "Some services have specific operating hours, such as the Romanian Government help-line available Monday-Friday from 8:00 a.m. to 4:00 p.m., and Save the Children's guidance line from 9:00 a.m. to 5:00 p.m., Monday to Friday. The Migration and Asylum Office in Republic of Moldova operates 24/7. Other services do not specify their availability.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 10,
+      "content_block_id": 15,
+      "question": "How can I find help in different locations?",
+      "answer": "Help can be found in different locations within Romania, such as Sibiu and Timișoara, by contacting their respective city hall help-lines. Additionally, support is available in other countries like Republic of Moldova, Poland, Slovakia, and Czech Republic, each with their own specific help-line numbers.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the sections under 'Help-lines from cities throughout Romania:' and 'Help-lines from other countries:'.",
+      "read_instruction": "read the sections under 'Help-lines from cities throughout Romania:' and 'Help-lines from other countries:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

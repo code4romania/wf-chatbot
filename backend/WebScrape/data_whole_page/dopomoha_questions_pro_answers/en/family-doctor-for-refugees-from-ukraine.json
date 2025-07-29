@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 145,
+      "content_block_id": 36,
+      "question": "What healthcare services are available to Ukrainian refugees in Romania?",
+      "answer": "Ukrainian refugees benefit from the basic service package, which includes medical assistance, medicines, and medical devices, similar to Romanian insured persons. This package covers curative, preventive, and prophylactic services, home medical services, and medication administration. Medical services in specialized ambulatory medical assistance for clinical specialties are also granted without the need for a referral ticket for those in special situations.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 146,
+      "content_block_id": 36,
+      "question": "How can Ukrainian refugees access healthcare in Romania?",
+      "answer": "Ukrainian refugees access healthcare by being registered by providers in an IT application from the National Health Insurance House when they request medical services for the first time. This process assigns them an identification number, and a printed document with this number is provided for use at any medical unit in Romania. The family doctor serves as the first point of contact and provides services from the basic package without requiring registration on their specific list.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "read_instruction": "read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 147,
+      "content_block_id": 36,
+      "question": "What does the basic healthcare package in Romania include?",
+      "answer": "The basic service package in Romania includes medical services, medicines, and medical devices provided by a family doctor or specialist, in ambulatory or hospital settings. Specifically, for primary medical care, it covers curative, preventive, and prophylactic medical services, home medical services, and medication administration. It also encompasses additional diagnostic and therapeutic services like spirometry, ECG, various treatments, and minor surgeries.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The basic service package'.",
+      "read_instruction": "read the section under 'The basic service package'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 148,
+      "content_block_id": 36,
+      "question": "How do Ukrainian refugees register for healthcare in Romania?",
+      "answer": "Ukrainian refugees register for healthcare in Romania when they first request medical services. Providers register them in an IT application from the National Health Insurance House to assign an identification number. After registration, the data is printed and given to the beneficiary, and this document can be used at any medical unit in Romania without needing further identification number generation.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "read_instruction": "read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 149,
+      "content_block_id": 36,
+      "question": "When can Ukrainian refugees receive home or remote medical consultations in Romania?",
+      "answer": "Home medical consultations can be received by people who cannot move, patients with chronic diseases or acute conditions preventing travel to the office, children aged 0-1 years, and children 0-18 years with infectious-contagious diseases; one home consultation per month is granted for chronic patients. Remote consultations are available for patients with chronic diseases and those with diseases of endemo-epidemic potential requiring isolation.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Counseling at home or remotely'.",
+      "read_instruction": "read the section under 'Counseling at home or remotely'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 106,
+      "content_block_id": 44,
+      "answer": "The available services include emergency consultations at home and unassisted medical transport. This encompasses transport upon leaving the hospital for patients with severe cognitive disorders, transport of immobile patients to the hospital for hospitalization, and round-trip transport to specialist offices or laboratories for specific patient conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 107,
+      "content_block_id": 44,
+      "answer": "Patients can access these services by calling the 112 emergency service, provided they are in one of the eligible situations described. The dispatcher will analyze the situation and decide which type of ambulance to send. For transport upon leaving the hospital, 112 can be called by the patient, relatives, or hospital staff.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 108,
+      "content_block_id": 44,
+      "answer": "Someone might need these services for transport upon leaving the hospital if they have severe cognitive disorders, or if they are immobile patients requiring hospitalization. They may also need round-trip transport to a specialist or laboratory if they are bedridden, have severe cognitive disorders, hemiparesis, or paraparesis, for consultations, monitoring, treatment, or paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 109,
+      "content_block_id": 44,
+      "answer": "Eligibility for these services depends on the patient's medical condition and mobility. This includes patients with severe cognitive disorders, immobile patients with tetraparesis or motor insufficiency, bedridden patients, or those with hemiparesis or paraparesis who require transport for hospitalization, specialist consultations, or paraclinical investigations.",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the section under 'Home consultations and self-medical transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

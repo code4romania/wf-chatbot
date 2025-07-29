@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 235,
+      "content_block_id": 62,
+      "question": "What kind of assistance is available for newcomers to this city?"
+    },
+    {
+      "question_id": 236,
+      "content_block_id": 62,
+      "question": "How can someone access essential services like healthcare and transportation?"
+    },
+    {
+      "question_id": 237,
+      "content_block_id": 62,
+      "question": "What resources are there for families and children?"
+    },
+    {
+      "question_id": 238,
+      "content_block_id": 62,
+      "question": "How can people find information about legal and housing matters?"
+    },
+    {
+      "question_id": 239,
+      "content_block_id": 62,
+      "question": "What support services are available for vulnerable groups?"
+    }
+  ]
+}

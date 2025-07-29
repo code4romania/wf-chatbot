@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 120,
+      "content_block_id": 7,
+      "answer": "Asylum is a form of protection that allows a foreigner who cannot return to their country of origin to remain in Romania. It is granted to those who fear persecution, serious human rights violations, or armed conflict in their home country.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 121,
+      "content_block_id": 7,
+      "answer": "Someone can seek asylum by asking for it either in writing or verbally. Applications can be made directly at a border crossing point or, if already in Romania as a migrant, anywhere within the country.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 122,
+      "content_block_id": 7,
+      "answer": "As an asylum seeker, you will receive an application form to fill, submit relevant documents, and then receive a temporary identity document. You will be scheduled for preliminary and secondary interviews by the General Inspectorate for Immigration (IGI) to determine a form of protection. These interviews are confidential, conducted with a translator, and your statements are evaluated by the IGI.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 123,
+      "content_block_id": 7,
+      "answer": "Someone can apply for asylum directly at a border crossing point or, if they have entered Romania as a migrant, they can apply later anywhere in Romania. You cannot apply for asylum in Romania if you are outside its territory.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 124,
+      "content_block_id": 7,
+      "answer": "Asylum applications in Romania are normally processed within one to two months. All applications are evaluated and resolved by the General Inspectorate for Immigration.",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

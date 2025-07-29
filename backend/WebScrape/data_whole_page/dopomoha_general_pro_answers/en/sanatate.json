@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 250,
+      "content_block_id": 20,
+      "answer": "Refugees from Ukraine can access a wide range of medical support services, including general medical care, specialized outpatient services, and free medical care for those fleeing the war. Specific assistance is available for women's reproductive health, pediatric oncology, counseling for people with HIV, and support for rare or chronic diseases. Additionally, the website provides important health information for children covering nutrition, vaccination, psychological support, hygiene, and care for children with disabilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 251,
+      "content_block_id": 20,
+      "answer": "Refugees can access specialized outpatient healthcare without needing a referral from a doctor. For specific needs, they can contact organizations like the Women's Center, Ukraine Child Cancer Help, consilierehiv.ro, the National Alliance for Rare Diseases Romania, and the NoRo center. The Society for Education on Contraception and Sexuality (SECS) team also facilitates access to gynecology services by assisting with appointments, clinic visits, translation, and consultation settlement.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 252,
+      "content_block_id": 20,
+      "answer": "Foreign nationals under temporary protection from Ukraine have the right to medical services, supplies, medicines, and devices included in national health programs, similar to insured Romanian citizens, without paying social health insurance contributions, personal contribution for outpatient medicines, and with co-payment exemption. Asylum seekers have the right to free basic and emergency medical assistance, treatment for acute/chronic illnesses that pose an immediate life risk, and proper medical care for special medical needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the sections under 'My rights Temporary protection & Short stay' and 'Asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 253,
+      "content_block_id": 20,
+      "answer": "The provided content does not specify exact times or conditions for when refugees can access services. It details who is eligible, such as those with temporary protection, asylum seekers, and people fleeing the war, and outlines the types of medical assistance available, implying access once eligibility is established.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 254,
+      "content_block_id": 20,
+      "answer": "For rare or chronic illnesses, refugees can seek help from the National Alliance for Rare Diseases Romania and the NoRo center, which offers support, guidance, and free therapy for children. For childcare concerns, resources are available on children's nutrition, vaccination, psychological support, and hygiene, as well as specific assistance for children with disabilities and pediatric oncology support via Ukraine Child Cancer Help.",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the sections under 'Help for people with rare or chronic diseases', 'Pediatric oncology', and 'Children’s health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

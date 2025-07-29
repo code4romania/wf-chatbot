@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 174,
+      "content_block_id": 59,
+      "question": "What kind of help is available in Suceava?",
+      "answer": "In Suceava, help includes important contacts for immigration and asylum, temporary protection registration, free local public transport, medical services, psychological support, and education with Ukrainian language teaching. Various organizations also offer material support, legal aid, social counseling, and specific services for vulnerable groups.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 175,
+      "content_block_id": 59,
+      "question": "How can someone access different services like medical care or education?",
+      "answer": "For medical services, you can contact the Suceava Emergency Hospital or its Pediatric Department for children. Regarding education, several schools in Suceava county offer Ukrainian language teaching, and more information about the education system in Romania is available.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Medical services' and 'Education'.",
+      "read_instruction": "read the section under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 176,
+      "content_block_id": 59,
+      "question": "What support is offered for refugees?",
+      "answer": "Refugees can register for temporary protection at the CRCPSA Rădăuți and the Immigration Office of Suceava County, and benefit from free local public transport. Psychological support is offered by multiple organizations including World Vision Romania, Terre des hommes Foundation, and Save the Children. Educational activities, direct services at border points, material support, and legal aid are also provided.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the sections on 'Temporary protection in Suceava county', 'Transportation', 'Psychological support', and 'Organisations offering their support'.",
+      "read_instruction": "read the sections on 'Temporary protection in Suceava county', 'Transportation', 'Psychological support', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 177,
+      "content_block_id": 59,
+      "question": "How can people find housing and jobs?",
+      "answer": "The provided text lists \"Housing Info\" and \"Jobs\" as categories. However, it does not contain specific details or contact information on how to find housing or jobs.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 178,
+      "content_block_id": 59,
+      "question": "What organizations are providing assistance?",
+      "answer": "Organizations offering assistance include The Immigration Office, The Regional Center for Procedures and Accommodation for Asylum Seekers, World Vision Romania, Positive Progress psychological Solutions, Terre des hommes Foundation, Plan International Organization, Save the Children, CNRR, eLiberare, AMURTEL, JRS, ICAR Foundation, The Bucovina Institute Association, and The Sensiblu Foundation. Sens Pozitiv also offers support for people living with HIV.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support' and other relevant service sections.",
+      "read_instruction": "read the section under 'Organisations offering their support' and other relevant service sections.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

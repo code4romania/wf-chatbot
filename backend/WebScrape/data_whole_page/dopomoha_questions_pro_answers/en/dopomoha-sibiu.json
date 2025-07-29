@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 179,
+      "content_block_id": 66,
+      "question": "What kind of help is available in Sibiu for newcomers?",
+      "answer": "Newcomers in Sibiu can find important contacts for the Immigration Office and emergency services. There is also a support program for accommodation, meals, and integration, along with information on public transport, medical services, and psychological support. Additionally, resources are available for education, legal status, housing, job support, and specific services for women and people living with HIV.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 180,
+      "content_block_id": 66,
+      "question": "What services are offered for refugees in Sibiu?",
+      "answer": "Psychological support is available for Ukrainian refugee women through A.L.E.G. Association and for Ukrainian refugees and others through the International Rescue Committee. Sus Inima offers refugees access to free basic food and hygiene products, therapies, medical services, language courses, temporary accommodation, and educational infrastructure for children.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Psychological support' and 'Organisations offering their support'.",
+      "read_instruction": "read the sections under 'Psychological support' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 181,
+      "content_block_id": 66,
+      "question": "How can I get involved with supporting refugees in Sibiu?",
+      "answer": "The provided information describes services available to refugees and newcomers but does not include details on how individuals can get involved in supporting them.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 182,
+      "content_block_id": 66,
+      "question": "What resources are available regarding education and healthcare in Sibiu?",
+      "answer": "For healthcare, individuals can go to the County Emergency Clinical Hospital Sibiu, with more information available about healthcare in Romania. Education resources include guidance on enrolling children in primary education and details about the education system. Sus Inima also provides access to therapies, medical services, and educational infrastructure for Ukrainian children.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Medical services' and 'Education'.",
+      "read_instruction": "read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 183,
+      "content_block_id": 66,
+      "question": "How can someone find housing and job support in Sibiu?",
+      "answer": "A support program for accommodation, meals, and integration is available in Sibiu. The page also lists 'Housing Info' and 'Jobs Support' as dedicated sections. Additionally, Sus Inima provides temporary accommodation for refugees.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'The support program for accommodation, meals and integration in Sibiu', 'Housing Info', and 'Jobs Support'.",
+      "read_instruction": "read the sections under 'The support program for accommodation, meals and integration in Sibiu', 'Housing Info', and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

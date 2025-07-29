@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 110,
+      "content_block_id": 32,
+      "question": "What support is available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 111,
+      "content_block_id": 32,
+      "question": "How can Ukrainian refugees access financial assistance in Romania?"
+    },
+    {
+      "question_id": 112,
+      "content_block_id": 32,
+      "question": "What are the requirements for receiving aid in Romania?"
+    },
+    {
+      "question_id": 113,
+      "content_block_id": 32,
+      "question": "When do these support programs begin and end?"
+    },
+    {
+      "question_id": 114,
+      "content_block_id": 32,
+      "question": "How can someone find housing assistance in Romania?"
+    }
+  ]
+}

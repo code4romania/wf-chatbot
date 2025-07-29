@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 170,
+      "content_block_id": 68,
+      "question": "What are some common risks faced by people fleeing war?"
+    },
+    {
+      "question_id": 171,
+      "content_block_id": 68,
+      "question": "How can people protect themselves in vulnerable situations?"
+    },
+    {
+      "question_id": 172,
+      "content_block_id": 68,
+      "question": "What support services are available to refugees and displaced persons?"
+    },
+    {
+      "question_id": 173,
+      "content_block_id": 68,
+      "question": "How can bystanders help someone who might be at risk?"
+    },
+    {
+      "question_id": 174,
+      "content_block_id": 68,
+      "question": "When should someone seek help in a crisis?"
+    }
+  ]
+}

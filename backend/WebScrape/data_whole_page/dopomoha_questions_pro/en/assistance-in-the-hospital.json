@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What hospital services are covered by insurance?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How can I get hospital services?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the differences between public and private hospitals regarding insurance coverage?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "How are costs handled for hospital stays?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "When can I expect to receive a cost estimate for hospital services?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 160,
+      "content_block_id": 58,
+      "question": "What kind of assistance is available in Galați?"
+    },
+    {
+      "question_id": 161,
+      "content_block_id": 58,
+      "question": "How can someone find help navigating a new city?"
+    },
+    {
+      "question_id": 162,
+      "content_block_id": 58,
+      "question": "What resources are there for healthcare and education?"
+    },
+    {
+      "question_id": 163,
+      "content_block_id": 58,
+      "question": "How can refugees access psychological support?"
+    },
+    {
+      "question_id": 164,
+      "content_block_id": 58,
+      "question": "When are these services available?"
+    }
+  ]
+}

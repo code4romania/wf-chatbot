@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 240,
+      "content_block_id": 43,
+      "question": "What medical recovery services are available?",
+      "answer": "Inpatient medical recovery services are provided in sanatoriums or sanatorium wards, which may have a spa profile, for both children and adults. These include physical medicine and rehabilitation medical services, available in spa sanatoriums, and also services provided in sanatoriums other than spas and preventive sanatoriums.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 241,
+      "content_block_id": 43,
+      "question": "How can someone access these medical recovery services?",
+      "answer": "Services are accessed based on referral notes for physical medicine and rehabilitation treatment in spa sanatoriums. These notes are issued by family medicine doctors or specialists in ambulatory and hospital settings who have contractual relations with health insurance companies, considering the patient's specific pathology and associated conditions.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 242,
+      "content_block_id": 43,
+      "question": "What are the costs associated with medical recovery?",
+      "answer": "Patients typically pay a personal contribution for services in spa sanatoriums or spa sanatorium units in hospitals. Services extending beyond a 21-day hospitalization period are fully covered by the patients. However, beneficiaries of Emergency Ordinance no.15/2022 are exempt from personal contributions.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 243,
+      "content_block_id": 43,
+      "question": "When are these services available?",
+      "answer": "For spa sanatoriums, services include a minimum of 4 procedures per day for a minimum of 5 days per week. The text specifies the duration of treatment periods rather than general operational hours or days of availability for the facilities themselves.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 244,
+      "content_block_id": 43,
+      "question": "How long do these recovery services typically last?",
+      "answer": "For spa sanatoriums, services typically last a maximum of 14-21 days per year, which can be split into two fractions, or less than 14 days. For sanatoriums other than spas and preventive sanatoriums, the periods are established by specialist doctors and are not limited to a certain number of days.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

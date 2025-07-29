@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "content_block_id": 49,
+      "question": "What are national curative health programs?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 49,
+      "question": "How do national health programs work?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 49,
+      "question": "What conditions are typically covered by these programs?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 49,
+      "question": "When might someone need to access a national curative health program?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 49,
+      "question": "How can someone enroll in a national curative health program?"
+    }
+  ]
+}

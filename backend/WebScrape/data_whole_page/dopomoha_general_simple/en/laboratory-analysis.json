@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 276,
+      "content_block_id": 38,
+      "question": "How can individuals obtain free medical tests?"
+    },
+    {
+      "question_id": 277,
+      "content_block_id": 38,
+      "question": "What types of medical investigations are covered?"
+    },
+    {
+      "question_id": 278,
+      "content_block_id": 38,
+      "question": "How can one find approved medical testing facilities?"
+    },
+    {
+      "question_id": 279,
+      "content_block_id": 38,
+      "question": "When are medical referrals valid for an extended period?"
+    },
+    {
+      "question_id": 280,
+      "content_block_id": 38,
+      "question": "What obligations do medical laboratories have regarding scheduling?"
+    }
+  ]
+}

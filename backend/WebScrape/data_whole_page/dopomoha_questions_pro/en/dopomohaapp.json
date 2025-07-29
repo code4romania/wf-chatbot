@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 312,
+      "content_block_id": 6,
+      "question": "What help is available for Ukrainians arriving in Romania?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 6,
+      "question": "How can Ukrainians enter Romania?"
+    },
+    {
+      "question_id": 314,
+      "content_block_id": 6,
+      "question": "What should Ukrainians know about traveling to other EU countries from Romania?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 6,
+      "question": "When can Ukrainians exchange hryvnia for Romanian lei?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 6,
+      "question": "How can people offer help or resources to Ukrainians in Romania?"
+    }
+  ]
+}

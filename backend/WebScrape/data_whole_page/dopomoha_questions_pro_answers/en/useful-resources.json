@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 331,
+      "content_block_id": 8,
+      "question": "What kind of help is being offered?",
+      "answer": "Help is offered for resources, food, products, clothing, tents, transportation, and volunteers through Sprijin de Urgență. Support is also available for finding or providing temporary accommodation via Un Acoperiș. A phrase book with common Romanian expressions translated into English and Ukrainian is also provided.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 332,
+      "content_block_id": 8,
+      "question": "How can I get involved in sharing this information?",
+      "answer": "You can get involved by downloading, printing, and displaying posters in crowded, visible places like storefronts and apartment buildings. You can also download and share flyers, which contain concise information and a QR code, wherever you go, including stores, transport, and parks.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 333,
+      "content_block_id": 8,
+      "question": "What resources are available?",
+      "answer": "Available resources include food, products, clothing, tents, transportation, and volunteers through Sprijin de Urgență. Support for finding temporary accommodation is available via Un Acoperiș. Additionally, a guide with common Romanian expressions translated into English and Ukrainian is provided as a phrase book.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 334,
+      "content_block_id": 8,
+      "question": "How can I find or offer housing assistance?",
+      "answer": "You can find or offer housing assistance through \"Un Acoperiș\". This platform allows you to search for or provide temporary accommodation for vulnerable people who are now coming to Romania.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "read_instruction": "read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

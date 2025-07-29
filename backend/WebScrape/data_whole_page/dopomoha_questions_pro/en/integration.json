@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 278,
+      "content_block_id": 69,
+      "question": "What kind of help is available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 279,
+      "content_block_id": 69,
+      "question": "What job resources exist for Ukrainians in Romania?"
+    },
+    {
+      "question_id": 280,
+      "content_block_id": 69,
+      "question": "How can Ukrainian refugees get involved in Romanian culture and society?"
+    },
+    {
+      "question_id": 281,
+      "content_block_id": 69,
+      "question": "What support is there for Ukrainian businesses in Romania?"
+    },
+    {
+      "question_id": 282,
+      "content_block_id": 69,
+      "question": "How can I learn more about Romanian culture and customs?"
+    }
+  ]
+}

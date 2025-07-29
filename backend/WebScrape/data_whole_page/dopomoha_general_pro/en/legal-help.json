@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 240,
+      "content_block_id": 28,
+      "question": "What kind of help is available for refugees?"
+    },
+    {
+      "question_id": 241,
+      "content_block_id": 28,
+      "question": "How can lawyers get involved in assisting refugees?"
+    },
+    {
+      "question_id": 242,
+      "content_block_id": 28,
+      "question": "What legal issues might refugees encounter?"
+    },
+    {
+      "question_id": 243,
+      "content_block_id": 28,
+      "question": "How can refugees access legal advice and support?"
+    },
+    {
+      "question_id": 244,
+      "content_block_id": 28,
+      "question": "When are legal assistance services available?"
+    }
+  ]
+}

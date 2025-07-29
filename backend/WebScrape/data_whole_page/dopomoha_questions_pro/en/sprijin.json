@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 50,
+      "content_block_id": 16,
+      "question": "What kind of help is available for refugees?"
+    },
+    {
+      "question_id": 51,
+      "content_block_id": 16,
+      "question": "How can I support refugees coming to Romania?"
+    },
+    {
+      "question_id": 52,
+      "content_block_id": 16,
+      "question": "What resources are available for finding jobs and housing?"
+    },
+    {
+      "question_id": 53,
+      "content_block_id": 16,
+      "question": "How can I access education and healthcare services?"
+    },
+    {
+      "question_id": 54,
+      "content_block_id": 16,
+      "question": "What are the transportation options available?"
+    }
+  ]
+}

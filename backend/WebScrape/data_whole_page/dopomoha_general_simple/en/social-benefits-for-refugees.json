@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 272,
+      "content_block_id": 71,
+      "question": "What types of social benefits are available for refugees?"
+    },
+    {
+      "question_id": 273,
+      "content_block_id": 71,
+      "question": "How can individuals apply for various support programs?"
+    },
+    {
+      "question_id": 274,
+      "content_block_id": 71,
+      "question": "What are the eligibility requirements for different forms of assistance?"
+    },
+    {
+      "question_id": 275,
+      "content_block_id": 71,
+      "question": "When do beneficiaries receive their payments or support?"
+    }
+  ]
+}

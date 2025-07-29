@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 26,
+      "content_block_id": 46,
+      "answer": "The basic package for medical devices includes ENT and ostomy prosthetic devices, urinary retention and/or incontinence devices, limb prostheses, spine or limb orthoses, footwear orthopedics, and devices for visual impairment. It also covers equipment for oxygen therapy and non-invasive ventilation, devices for aerosol therapy, walking devices, and external breast prostheses.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The basic package for medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 27,
+      "content_block_id": 46,
+      "answer": "To obtain medical devices, a patient or their representative first submits an application with required documents to the health insurance house. If approved, an approval decision is issued, which is then used along with the medical prescription to contact a contracted device provider.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 28,
+      "content_block_id": 46,
+      "answer": "The application process involves the patient or a representative submitting an application to the health insurance house with a copy of their ID, the medical prescription, and a classification certificate if applicable. For children under 14, a birth certificate and the prescription specifying the child's address are needed. Documents can be submitted by post or online.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 29,
+      "content_block_id": 46,
+      "answer": "Medical prescriptions lose their validity if they are not submitted to the health insurance company within 30 days from their date of issue.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 30,
+      "content_block_id": 46,
+      "answer": "For some medical devices priced higher than the CNAS-settled amount, the insured person might need to cover an additional sum. However, foreign citizens or stateless persons from the armed conflict zone in Ukraine, who are beneficiaries of Emergency Ordinance no.15/2022, are exempt from any personal contribution.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'Medical devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

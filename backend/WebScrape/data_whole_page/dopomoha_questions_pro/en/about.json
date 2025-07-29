@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 268,
+      "content_block_id": 3,
+      "question": "What kind of help is being offered?"
+    },
+    {
+      "question_id": 269,
+      "content_block_id": 3,
+      "question": "How can people access this help?"
+    },
+    {
+      "question_id": 270,
+      "content_block_id": 3,
+      "question": "Who is providing this assistance?"
+    },
+    {
+      "question_id": 271,
+      "content_block_id": 3,
+      "question": "What information is available?"
+    },
+    {
+      "question_id": 272,
+      "content_block_id": 3,
+      "question": "When will this help be available?"
+    }
+  ]
+}

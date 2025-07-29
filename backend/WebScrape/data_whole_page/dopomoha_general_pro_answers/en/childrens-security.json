@@ -1,0 +1,48 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 295,
+      "content_block_id": 30,
+      "answer": "To ensure a child's safety, one should assemble a \"safety backpack\" with essential items and information. It is also crucial to teach the child safety rules for when they are lost, including contact information and emergency numbers. Parents should also have a clear plan of action if a child goes missing and create a physically safe living environment.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 296,
+      "content_block_id": 30,
+      "answer": "To create a safe environment, keep doors and windows closed, and store dangerous items like glassware, medicines, and chemicals out of reach. Ensure hot food and liquids are inaccessible, cover electrical sockets, and secure heavy furniture to prevent falls. Additionally, make stairs inaccessible, apply protective tape to glass doors, and supervise interactions between children and animals.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 297,
+      "content_block_id": 30,
+      "answer": "In case a child gets lost, they should know their full name, the names of close relatives, and phone numbers of parents or close relatives. They should also know their home address or the address of close relatives. Additionally, the child should be familiar with the emergency line numbers 112 and 119, which are available throughout Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 298,
+      "content_block_id": 30,
+      "answer": "It is important to have a safety plan for a child, especially in crisis situations, to prepare them for different scenarios and help them stay safe even when parents are not around. This plan includes assembling a safety backpack and discussing a clear plan of action for various occasions.",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

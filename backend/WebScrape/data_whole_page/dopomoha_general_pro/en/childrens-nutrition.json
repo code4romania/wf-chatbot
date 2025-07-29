@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 11,
+      "content_block_id": 25,
+      "question": "What are the recommended nutritional practices for children in different circumstances?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 25,
+      "question": "How can parents ensure adequate nutrition for their children during emergencies or times of limited resources?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 25,
+      "question": "What are the benefits of breastfeeding, especially in challenging situations?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 25,
+      "question": "How can breastfeeding be maintained or supported if it is interrupted?"
+    },
+    {
+      "question_id": 15,
+      "content_block_id": 25,
+      "question": "When should alternative feeding methods for infants be considered?"
+    }
+  ]
+}

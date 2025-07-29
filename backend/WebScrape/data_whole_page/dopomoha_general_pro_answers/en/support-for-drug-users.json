@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 66,
+      "content_block_id": 24,
+      "answer": "If you have used drugs and now need help, you should contact the centers of the National Anti-Drug Agency. They provide confidential and free services from doctors, psychologists, and social workers.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What should you do if you used drugs and now you need help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 67,
+      "content_block_id": 24,
+      "answer": "Available services include medical (evaluation, counseling, treatment, substitution), psychological (assessment, individual/group counseling), and social (counseling, guidance). Specific services like counseling for juvenile users, substitute treatment, and disintoxication for both minors and adults are also offered, along with overdose treatment and assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 68,
+      "content_block_id": 24,
+      "answer": "Drug users can access support services by contacting the National Anti-Drug Agency via their provided phone numbers or by visiting their centers. A map is available on the ANA website to find contact details for centers in specific counties.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 69,
+      "content_block_id": 24,
+      "answer": "Someone should seek help if they have used drugs and now require assistance. In the event of an overdose, the emergency phone number 112 should be called immediately.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 70,
+      "content_block_id": 24,
+      "answer": "To find local resources, individuals can use the map provided on the National Anti-Drug Agency's website (http://ana.gov.ro/despre-institutie/reteaua-nationala/) to locate centers and their contact details in their specific county. Additionally, specific addresses and contact information for various services are listed for Bucharest.",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

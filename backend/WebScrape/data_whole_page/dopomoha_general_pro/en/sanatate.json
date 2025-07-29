@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 250,
+      "content_block_id": 20,
+      "question": "What support services are available for refugees?"
+    },
+    {
+      "question_id": 251,
+      "content_block_id": 20,
+      "question": "How can refugees access healthcare services?"
+    },
+    {
+      "question_id": 252,
+      "content_block_id": 20,
+      "question": "What are the healthcare rights of refugees?"
+    },
+    {
+      "question_id": 253,
+      "content_block_id": 20,
+      "question": "When can refugees access these services?"
+    },
+    {
+      "question_id": 254,
+      "content_block_id": 20,
+      "question": "How can refugees get help with specific health concerns like childcare or chronic illnesses?"
+    }
+  ]
+}

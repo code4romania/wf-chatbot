@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 210,
+      "content_block_id": 1,
+      "answer": "There are several ways to enter Romania, including with temporary protection, with the right of short-stay, or as an asylum seeker. You can also apply for asylum within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 211,
+      "content_block_id": 1,
+      "answer": "You can enter Romania from Ukraine using the Halmeu, Sighetu Marmației, Siret, Rădăuți-Prut, and Isaccea border points. Alternatively, you can also reach Romania through the Republic of Moldova.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing From Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 212,
+      "content_block_id": 1,
+      "answer": "Ukrainian nationals can enter Romania on a short stay status by presenting a valid passport. If you do not have a passport, you can still enter by asking for asylum at the border. For minors, it is advisable to carry an identity document or a birth certificate.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Identity documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 213,
+      "content_block_id": 1,
+      "answer": "NGOs are present at border crossings to help people with food and guidance. For questions about access into Romania, you can also call the National Council for Refugees (CNRR) at +40 730 073 170.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 214,
+      "content_block_id": 1,
+      "answer": "You can bring your animal to Romania even if it is not vaccinated against rabies or not identified with a microchip/tattoo. As the owner, you must fill in the Pet Location Form and complete all necessary formalities after entering Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Animals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

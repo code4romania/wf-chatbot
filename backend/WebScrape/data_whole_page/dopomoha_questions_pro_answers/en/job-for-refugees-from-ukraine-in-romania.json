@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 258,
+      "content_block_id": 34,
+      "question": "How can Ukrainian refugees find jobs in Romania?",
+      "answer": "Ukrainian refugees can find jobs by registering with employment agencies and utilizing their counseling services, or by finding an employer directly. They can also use online platforms like Jobs4Ukraine and Adecco, or seek assistance from non-governmental organizations such as Ateliere Fără Frontiere.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 259,
+      "content_block_id": 34,
+      "question": "What kind of help is available for Ukrainians seeking employment in Romania?",
+      "answer": "Ukrainians seeking employment in Romania can access free counseling and professional information services from employment agencies. Additionally, organizations provide assistance with job searching, resume writing, and consultations on labor rights and legislation.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 260,
+      "content_block_id": 34,
+      "question": "What resources exist to help Ukrainians integrate into the Romanian workforce?",
+      "answer": "Resources for integration include free services from the National Agency for Employment (NAE), an Employment Guide from the NAE, and a Guidance on access to the labor market. These guides offer advice on creating resumes, preparing for interviews, understanding legal aspects, and navigating the Romanian employment system.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 261,
+      "content_block_id": 34,
+      "question": "How can Ukrainians learn about Romanian work laws and regulations?",
+      "answer": "Ukrainians can learn about Romanian work laws and regulations through the 'Guidance on access to the labor market' which provides an understanding of legal aspects for finding a job. They can also receive consultations on labor rights and legislation from organizations listed by UNHCR.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 262,
+      "content_block_id": 34,
+      "question": "What organizations are supporting Ukrainian refugees in finding jobs?",
+      "answer": "Organizations supporting Ukrainian refugees in finding jobs include the National Agency for Employment (NAE), the Adecco platform, and Ateliere Fără Frontiere (AFF). UNHCR in Romania has also compiled a list of various organizations ready to assist with employment and integration into the job market.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

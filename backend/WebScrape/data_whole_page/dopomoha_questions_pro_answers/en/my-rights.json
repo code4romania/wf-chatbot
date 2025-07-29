@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 203,
+      "content_block_id": 2,
+      "question": "What support is available for people arriving in Romania?",
+      "answer": "People arriving in Romania, including those with temporary protection or short-stay status, can receive food, clothing, personal hygiene products, and primary or emergency medical care in temporary accommodation camps. Those with temporary protection may also get assistance for maintenance if they lack material means. Accommodation support is available through reimbursement for hosts, and resources can be requested via sprijindeurgenta.ro or unacoperis.ro.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 204,
+      "content_block_id": 2,
+      "question": "How can someone work in Romania?",
+      "answer": "If you have temporary protection, you can be hired with a residence permit, and no work permit or visa is required. If you have a short-stay status, you must apply for a work permit and a residence permit for work purposes. Asylum seekers can work after acquiring refugee status or three months after their asylum application if no decision has been taken.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right to work' or 'Work'.",
+      "read_instruction": "read the section under 'The right to work' or 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 205,
+      "content_block_id": 2,
+      "question": "What are the education options for children arriving in Romania?",
+      "answer": "Children under 18 with temporary protection or asylum seeker status have the right to access the state education system under the same conditions as Romanian citizens, including kindergarten and school. They can receive free accommodation in boarding schools, food, supplies, and free Romanian language courses. Children with a short-stay status need to obtain temporary protection or asylum to enroll in the Romanian education system.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'The right for education' or 'Education'.",
+      "read_instruction": "read the section under 'The right for education' or 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 206,
+      "content_block_id": 2,
+      "question": "What medical care is available?",
+      "answer": "Foreign nationals from the armed conflict in Ukraine, including those with temporary protection or short-stay status, receive medical services, supplies, and medicines within national health programs, similar to insured Romanian citizens, without paying contributions or co-payments for outpatient treatment. Asylum seekers receive free basic, emergency, and life-threatening acute/chronic illness treatments. Those with special medical needs across all statuses are entitled to proper medical care.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Medical assistance'.",
+      "read_instruction": "read the section under 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 207,
+      "content_block_id": 2,
+      "question": "How can families stay together in Romania?",
+      "answer": "Families can be reunited in Romania if members enjoying temporary protection are separated across different Member States, or if family members of a beneficiary of temporary protection are not yet in Romania and need protection. This reunification may be requested for spouses, unmarried minor children (including adopted), and the father or mother or another adult responsible for a minor and unmarried beneficiary.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the section under 'Reuniting families'.",
+      "read_instruction": "read the section under 'Reuniting families'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

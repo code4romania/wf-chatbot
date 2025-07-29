@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 125,
+      "content_block_id": 39,
+      "question": "What medical services are available?",
+      "answer": "The basic package includes services for emergency situations, acute conditions, chronic diseases, endemic-epidemic disease detection, family planning, palliative care, diagnostic and therapeutic services, and pregnancy surveillance. Additionally, day hospitalization services, such as monitoring pregnancies and early detection of precancerous lesions, are available.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation' and 'What other services can be provided'.",
+      "read_instruction": "read the section under 'Specialist consultation' and 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 126,
+      "content_block_id": 39,
+      "question": "How can someone access these services?",
+      "answer": "Specialized medical services are generally provided with a referral ticket from a family doctor or other specialist. However, people from Ukraine's war zones can access services without a referral ticket, and consultations for chronic or endemic-epidemic conditions can be offered remotely without one.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 127,
+      "content_block_id": 39,
+      "question": "What support is offered for people from Ukraine?",
+      "answer": "People from Ukraine's war zones can receive specialized medical services for clinical specialties included in the basic package without needing a referral ticket. This means they can get a consultation from a specialist without a prescription from a family doctor.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "read_instruction": "read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 128,
+      "content_block_id": 39,
+      "question": "When can someone receive remote consultations?",
+      "answer": "Remote consultations are available for chronic conditions and diseases with potential endemo-epidemic that require isolation, without a mandatory referral ticket. Additionally, psychiatric therapies, psychological counseling, psychotherapy, and services from a speech therapist can also be provided remotely.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 129,
+      "content_block_id": 39,
+      "question": "What additional services are available beyond standard consultations?",
+      "answer": "Beyond standard consultations, day hospitalization services (less than 12 hours) are provided for services like pregnancy monitoring and early detection of lesions. Specialist doctors can also establish therapeutic conduct, recommend home care or medical devices, assess chronic conditions, issue referral tickets for other specialties, and release medical leave certificates. Services from psychologists (counseling, psychotherapy) and physiotherapists (individual/group, with devices) can also be recommended.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

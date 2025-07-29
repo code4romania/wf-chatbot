@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 236,
+      "content_block_id": 28,
+      "question": "What kind of help is available for Ukrainian refugees?",
+      "answer": "Pro bono legal help is available for Ukrainian refugees in Romania and other countries, encompassing free legal and humanitarian assistance. This includes legal assistance for obtaining refugee status, resolving various civil or administrative legal issues, and general legal counseling.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 237,
+      "content_block_id": 28,
+      "question": "How can refugees access legal assistance?",
+      "answer": "Refugees can access legal assistance by checking the list on UA.SUPPORT, asking for help from ACTEDO, or scanning a QR code for a UNHCR compiled phone list of lawyers. Additionally, they can contact CNRR directly via their dedicated hotline, WhatsApp, Telegram, or Viber.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 238,
+      "content_block_id": 28,
+      "question": "What are the ways lawyers can help refugees?",
+      "answer": "Lawyers can offer free legal and humanitarian assistance to Ukrainian refugees, including support for obtaining refugee status or resolving various civil or administrative legal issues. They can also provide complimentary legal counseling and be matched with refugees seeking help.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 239,
+      "content_block_id": 28,
+      "question": "When can refugees get legal help?",
+      "answer": "Refugees can get legal help from CNRR through their hotline, WhatsApp, Telegram, and Viber from Monday to Friday, 8:00 AM to 10:00 PM. The operating hours for other services are not specified.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the section under 'Free Legal Counseling for Refugees and Asylum Seekers'.",
+      "read_instruction": "read the section under 'Free Legal Counseling for Refugees and Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

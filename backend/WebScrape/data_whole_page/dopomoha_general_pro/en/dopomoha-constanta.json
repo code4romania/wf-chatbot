@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 309,
+      "content_block_id": 57,
+      "question": "What kind of support is available for newcomers to Constanța?"
+    },
+    {
+      "question_id": 310,
+      "content_block_id": 57,
+      "question": "How can someone get around in Constanța?"
+    },
+    {
+      "question_id": 311,
+      "content_block_id": 57,
+      "question": "What resources are available regarding healthcare and education in Constanța?"
+    },
+    {
+      "question_id": 312,
+      "content_block_id": 57,
+      "question": "How can people find additional assistance from organizations in Constanța?"
+    },
+    {
+      "question_id": 313,
+      "content_block_id": 57,
+      "question": "What should someone do in case of an emergency in Constanța?"
+    }
+  ]
+}

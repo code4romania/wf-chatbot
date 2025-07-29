@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 155,
+      "content_block_id": 52,
+      "question": "What kind of medical services are offered?"
+    },
+    {
+      "question_id": 156,
+      "content_block_id": 52,
+      "question": "How can I access these medical services?"
+    },
+    {
+      "question_id": 157,
+      "content_block_id": 52,
+      "question": "What common health concerns can be addressed?"
+    },
+    {
+      "question_id": 158,
+      "content_block_id": 52,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 159,
+      "content_block_id": 52,
+      "question": "How can I learn more about the offered services?"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 270,
+      "content_block_id": 35,
+      "answer": "Ukrainian refugees can access free language courses in Romanian and English, various activities like art therapy, music, yoga, history, chess, and drawing. They can also receive social and legal consultations, and children are offered educational, developmental, creative, and sports activities, along with psychological support.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 271,
+      "content_block_id": 35,
+      "answer": "Language learning resources include Romanian courses for adults from IOM and JRS Romania, and Romanian and English courses from Centrul de Tineret FNT. Additionally, there is a Romanian Phrase Book, a Romanian video language course from TVR1, a manual 'Romanian Language for Ukrainians' from UNHCR, and language handbooks for Ukrainian teenagers and children by Terre des hommes.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the section under 'Language courses and activities for Ukrainian refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 272,
+      "content_block_id": 35,
+      "answer": "Refugees can access resources by registering in person at IOM offices in Bucharest or contacting them via email. Other organizations like Centrul de Tineret FNT and JRS Romania offer registration and information via their official Facebook pages, phone numbers, or email. Some resources, such as the coloring book, video course, and language manuals, can be downloaded or watched directly online.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 273,
+      "content_block_id": 35,
+      "answer": "For adults, activities include Romanian and English language courses, art therapy, music lessons, yoga, stretching, history classes, chess, drawing classes, and social and legal consultations. Children can enroll in educational, developmental, creative, and sports activities, as well as receive psychological support. There is also a coloring book and language handbooks available for children and teenagers.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 274,
+      "content_block_id": 35,
+      "answer": "IOM offices are open from Monday to Friday, 9:00 to 17:00. Classes from JRS Romania run from Monday to Friday. The Ukrainian Educational Center operates from 08:00 to 13:00. Centrul de Tineret FNT offers a weekly program, with the detailed class schedule available on their official Facebook page.",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

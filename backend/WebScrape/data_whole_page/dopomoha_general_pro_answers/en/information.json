@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 195,
+      "content_block_id": 21,
+      "answer": "People fleeing the conflict can receive help with accommodation, food, transport, health, and schooling from government authorities and various organizations. Beneficiaries of temporary protection also gain rights such as access to employment, financial support, and medical care. Specific support is available for groups like the LGBTQIA+ community, children with cancer, and individuals needing psychological counseling or drug addiction assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Information and support for refugees and internally displaced Ukrainians'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 196,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens can enter Romania by presenting a biometric or simple passport, or an identity document/birth certificate for children. Unaccompanied minors are also accepted. Third-country nationals who resided in Ukraine can cross with a passport and obtain a transit visa on arrival. Entry is possible directly from Ukraine or via the Republic of Moldova, including free bus transfers.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Who and how can enter Romania? What documents do I need to present at the border crossing in order to enter Romania?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 197,
+      "content_block_id": 21,
+      "answer": "Ukrainian citizens can initially stay for 90 days. For longer stays, individuals can apply for temporary protection, which grants a residence permit valid until at least April 3, 2024, providing various social and economic rights. Alternatively, applying for asylum can lead to refugee status or subsidiary protection, offering long-term residency with rights similar to Romanian citizens.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 198,
+      "content_block_id": 21,
+      "answer": "People can access free medical care, education for children, and higher education opportunities. Free accommodation is available in camps or other locations, with requests coordinated by authorities. Financial support includes currency exchange, a monthly lump sum for temporary protection beneficiaries, and daily allowances for asylum seekers. Employment is possible for Ukrainian citizens without a job permit, with support from employment agencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Living in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 199,
+      "content_block_id": 21,
+      "answer": "Asylum applications are submitted in person at a border crossing point or at one of the six Regional Centers for Asylum Seekers in Romania. After submission, applicants undergo a preliminary interview, provide relevant documents, and receive a temporary identity document. Further interviews are scheduled to determine the form of international protection, conducted confidentially with a translator, and fingerprints/photographs may be taken.",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Claiming asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

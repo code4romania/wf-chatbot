@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 220,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugees in Romania can access various educational resources, including information on enrolling children in institutions, kindergartens and schools run by JRS Romania and Angel Appeal, and the “Ostrovok” Educational Hub in Bucharest. Additionally, there is the Taras Shevchenko Ukrainian High School, digital Ukrainian textbooks, an online school from the Ministry of Education of Ukraine, and UNICEF-supported online learning platforms.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 221,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugee children can continue their education by enrolling in Romanian educational institutions, attending specific kindergartens or schools like those organized by JRS Romania or Angel Appeal, or joining free classes at the “Ostrovok” Educational Hub. They also have options for studying at the Taras Shevchenko Ukrainian High School, using digital textbooks for self-study, or accessing online learning through the Ukrainian Online School or UNICEF-supported platforms.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 222,
+      "content_block_id": 51,
+      "answer": "Support is offered across various grade levels: JRS Romania and Angel Appeal provide kindergarten and first-grade education. The “Ostrovok” Educational Hub offers free classes for grades 0-11 in Sector 2 and 0-6 in Sector 4. For secondary students, there's the Taras Shevchenko Ukrainian High School. Additionally, digital textbooks are available for grades 1-11, and the Ukrainian Online School supports grades 5-11.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 223,
+      "content_block_id": 51,
+      "answer": "Ukrainian refugee children can access learning materials in their native language through the Taras Shevchenko Ukrainian High School in Maramureș, which offers teaching in Ukrainian. They can also find free digital versions of Ukrainian textbooks for grades 1-11 and utilize the Ukrainian Online School, a project by Ukraine's Ministry of Education, for distance learning.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 224,
+      "content_block_id": 51,
+      "answer": "The Angel Appeal kindergarten is open from Monday to Friday, 10:00 to 17:00. The JRS Romania school operates during the school year. Other resources like the “Ostrovok” Educational Hub, Taras Shevchenko Ukrainian High School, digital textbooks, and online schools are generally available, implying standard school hours or continuous access.",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 19,
+      "content_block_id": 56,
+      "question": "What general assistance is available for individuals arriving in Timișoara?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 56,
+      "question": "How can one access essential services like healthcare, education, or transportation?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 56,
+      "question": "What organizations offer support for integration and daily living in the city?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 56,
+      "question": "How can someone find help with accommodation or job searches?"
+    }
+  ]
+}

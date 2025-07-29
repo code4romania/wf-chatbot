@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 80,
+      "content_block_id": 12,
+      "question": "What kind of emergency support is available?"
+    },
+    {
+      "question_id": 81,
+      "content_block_id": 12,
+      "question": "How can people evacuate from Ukraine?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 12,
+      "question": "What transportation options are there within Romania?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 12,
+      "question": "What are some ways to get help with transportation in emergencies?"
+    },
+    {
+      "question_id": 84,
+      "content_block_id": 12,
+      "question": "When are evacuation buses available?"
+    }
+  ]
+}

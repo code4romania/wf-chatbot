@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 317,
+      "content_block_id": 71,
+      "question": "What kinds of financial help are available for Ukrainian refugees in Romania?",
+      "answer": "Ukrainian refugees under temporary protection in Romania may be eligible for social benefits such as support for mothers with newborns, monthly childcare support allowance for single parents or guardians, daily food allowance and support for school supplies for minors, state allowance for children, and unemployment benefits.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 318,
+      "content_block_id": 71,
+      "question": "What are the requirements to get these benefits?",
+      "answer": "Eligibility criteria vary depending on the specific benefit, but generally require Ukrainian refugees to be under temporary protection in Romania. Specific conditions include having given birth after April 12, 2024 for new mothers, caring for a child up to a certain age for childcare support, or having worked for at least 12 of the last 24 months for unemployment benefits.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 319,
+      "content_block_id": 71,
+      "question": "How do I apply for assistance programs in Romania?",
+      "answer": "Application processes differ by program; for example, support for mothers with newborns is submitted to the Social Assistance Directorate of the city, childcare allowance to county or Bucharest municipality agencies, and unemployment benefits to the local Employment Agency (ANOFM). It is advisable to contact the relevant local authority or agency for precise instructions.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 320,
+      "content_block_id": 71,
+      "question": "When can I expect to receive financial support?",
+      "answer": "The monthly childcare support allowance is granted starting from the month after the application is submitted. For other benefits like the state allowance for children or unemployment benefits, specific start dates after application submission are not explicitly detailed, though unemployment benefits are provided for up to 6 or 12 months.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 321,
+      "content_block_id": 71,
+      "question": "What support is there specifically for families with children?",
+      "answer": "Families with children can access several types of support, including a 2,000 RON social voucher for mothers with newborns, a monthly childcare support allowance for single parents or guardians, free accommodation and daily food allowances for Ukrainian minors, and a state allowance for children that varies between 292 RON and 719 RON per month depending on age and disability status.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

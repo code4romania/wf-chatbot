@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 314,
+      "content_block_id": 27,
+      "answer": "Main ways to support a child include hugging, explaining, and distracting them. Parents should surround children with love and care, maintain tactile contact, and encourage them to express emotions through speaking, playing, or drawing. Making an action plan, observing their needs, and teaching calming exercises like 'Butterfly hugs' or breathing techniques also help.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 315,
+      "content_block_id": 27,
+      "answer": "Parents should prioritize their own sleep, food, and communication, as their physical and mental health is crucial for supporting children. It's important to get rid of guilt, ask for help when needed, and talk about emotions and experiences with important people or family. Taking time for oneself when worried or upset is also advised.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Tips for parents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 316,
+      "content_block_id": 27,
+      "answer": "Children may experience feelings of danger, anxiety, disruption, confusion, and discomfort. They might express uncommunicable feelings by not listening, fall into a state of stupor, or feel worried or angry. Children may also play or draw 'war' as a way to cope with emotions.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 317,
+      "content_block_id": 27,
+      "answer": "Maintaining a daily routine as much as possible is important in times of uncertainty, as it gives children a sense of control over their own life. Offering games or tasks for action can help return a child to activity. Allowing children to play or draw also helps them cope with emotions, reducing anxiety and stress.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under '5 useful tips: how to help children feel more protected in an emergency' and point 5 under 'How can parents support a child?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 318,
+      "content_block_id": 27,
+      "answer": "The provided content does not specify when it is important to seek additional professional help for a child experiencing emotional distress. It primarily focuses on strategies parents can use to support their children and themselves.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

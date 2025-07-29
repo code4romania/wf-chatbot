@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 217,
+      "content_block_id": 51,
+      "question": "What educational resources are available for Ukrainian refugee children in Romania?",
+      "answer": "Educational resources available include enrollment in Romanian kindergartens and schools, specific programs by JRS Romania and Angel Appeal, and the \"Ostrovok\" Educational Hub in Bucharest. The Taras Shevchenko Ukrainian High School offers teaching in Ukrainian, and online resources such as digital textbooks, the Ukrainian Online School, and UNICEF-supported learning platforms are also provided.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 218,
+      "content_block_id": 51,
+      "question": "How can Ukrainian refugee children continue their education in Romania?",
+      "answer": "Ukrainian refugee children can continue their education by enrolling in Romanian educational institutions, attending programs organized by JRS Romania or the Angel Appeal Romanian Foundation, or joining the \"Ostrovok\" Educational Hub in Bucharest. They can also enroll in the Taras Shevchenko Ukrainian High School for Ukrainian language instruction or access online learning through digital textbooks, the Ukrainian Online School, and UNICEF's online platforms.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 219,
+      "content_block_id": 51,
+      "question": "What support is available for Ukrainian refugee students in different grade levels?",
+      "answer": "Support is available for preschool and first graders at JRS Romania. The \"Ostrovok\" Educational Hub offers free classes for grades 0-11 in Sector 2 and 0-6 in Sector 4. The Taras Shevchenko Ukrainian High School serves secondary students, while digital textbooks are available for grades 1-11, and the Ukrainian Online School supports grades 5-11.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 220,
+      "content_block_id": 51,
+      "question": "How can Ukrainian refugee children access online learning resources?",
+      "answer": "Ukrainian refugee children can access online learning resources through free digital versions of Ukrainian textbooks for grades 1-11. They can also use the Ukrainian Online School from the Ministry of Education and Science of Ukraine, which provides video tutorials, tests, and self-study materials for grades 5-11. Additionally, UNICEF provides access to various online learning platforms.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 221,
+      "content_block_id": 51,
+      "question": "When are these educational programs and resources available?",
+      "answer": "The kindergarten offered by Angel Appeal Romanian Foundation is open from Monday to Friday, from 10:00 to 17:00. JRS Romania's school operates during the school year. Specific availability times for other educational programs and online resources are not detailed in the provided content.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

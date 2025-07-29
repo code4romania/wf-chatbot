@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 303,
+      "content_block_id": 27,
+      "question": "What are some ways to help children cope with stress during difficult times?"
+    },
+    {
+      "question_id": 304,
+      "content_block_id": 27,
+      "question": "How can parents manage their own well-being while supporting their children?"
+    },
+    {
+      "question_id": 305,
+      "content_block_id": 27,
+      "question": "What practical steps can be taken to create a sense of stability for children in uncertain situations?"
+    },
+    {
+      "question_id": 306,
+      "content_block_id": 27,
+      "question": "How can parents help children understand and express their emotions?"
+    },
+    {
+      "question_id": 307,
+      "content_block_id": 27,
+      "question": "When is it important to seek additional resources or support for a child's mental health?"
+    }
+  ]
+}

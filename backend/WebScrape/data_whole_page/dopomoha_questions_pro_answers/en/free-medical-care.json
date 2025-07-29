@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 254,
+      "content_block_id": 54,
+      "question": "What kind of medical assistance is available for refugees?",
+      "answer": "Free medical care is available, including medical assistance, free medical consultations online and offline, and access to some medical services. These consultations can be with a family doctor, therapist, or pediatrician.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 255,
+      "content_block_id": 54,
+      "question": "How can refugees access medical care?",
+      "answer": "Refugees can access medical care through IOM Romania. For MedZirka, they can get consultations online and offline after filling in a declaration. The Red Cross offers free medical consultations and access to some services at their Health Promotion Center in Bucharest.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 256,
+      "content_block_id": 54,
+      "question": "What organizations are involved in providing medical support?",
+      "answer": "The organizations involved in providing medical support are the International Organization for Migration in Romania (IOM Romania), the Ukrainian network of family medicine clinics MedZirka, Red Cross Romania, and the French Red Cross.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 257,
+      "content_block_id": 54,
+      "question": "When can refugees seek medical attention?",
+      "answer": "The provided information does not specify when refugees can seek medical attention.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

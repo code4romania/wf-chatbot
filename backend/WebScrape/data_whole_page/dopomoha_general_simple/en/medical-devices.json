@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 23,
+      "content_block_id": 46,
+      "question": "What types of medical support or equipment are generally available?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 46,
+      "question": "How does someone qualify for medical devices or assistance?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 46,
+      "question": "What is the general process for obtaining medical items?"
+    },
+    {
+      "question_id": 26,
+      "content_block_id": 46,
+      "question": "How are costs typically handled for medical equipment?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 46,
+      "question": "When does one need to act to secure medical support after a doctor's recommendation?"
+    }
+  ]
+}

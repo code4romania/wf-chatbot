@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 56,
+      "content_block_id": 42,
+      "question": "What are physical medicine and rehabilitation services?"
+    },
+    {
+      "question_id": 57,
+      "content_block_id": 42,
+      "question": "How are these services provided?"
+    },
+    {
+      "question_id": 58,
+      "content_block_id": 42,
+      "question": "What does outpatient care entail?"
+    },
+    {
+      "question_id": 59,
+      "content_block_id": 42,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 60,
+      "content_block_id": 42,
+      "question": "How can someone access these services?"
+    }
+  ]
+}

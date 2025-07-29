@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 294,
+      "content_block_id": 31,
+      "question": "What extra support might families with disabled children need during wartime?",
+      "answer": "Families with children with disabilities require more resources, both material and psychological, during times of war and emergencies.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 295,
+      "content_block_id": 31,
+      "question": "How can families prepare for emergencies if they have a child with disabilities?",
+      "answer": "Families can prepare by creating an emergency suitcase containing a strategic first aid kit for 3-4 weeks with essential medicines, special food if needed, hygiene products like diapers, and special equipment such as wheelchairs if possible.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 296,
+      "content_block_id": 31,
+      "question": "What special considerations are there for children with autism or mental disorders during emergencies?",
+      "answer": "For children with autism spectrum disorders and/or mental disorders, parents are advised to prepare them in advance for explosions or going to bomb shelters. This includes building a mini-shelter, using headphones for sensitive children, staying calm, and maintaining the daily routine.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders'.",
+      "read_instruction": "read the section under 'Children with autism spectrum disorders and/or mental disorders'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 297,
+      "content_block_id": 31,
+      "question": "When should families start preparing their children for emergencies?",
+      "answer": "Families should prepare children with autism spectrum disorders and/or mental disorders in advance for emergency situations, such as hearing explosions or needing to go down to bomb shelters.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders'.",
+      "read_instruction": "read the section under 'Children with autism spectrum disorders and/or mental disorders'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

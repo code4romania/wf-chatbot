@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 270,
+      "content_block_id": 35,
+      "question": "What kind of support is available for Ukrainian refugees?"
+    },
+    {
+      "question_id": 271,
+      "content_block_id": 35,
+      "question": "What language learning resources are offered?"
+    },
+    {
+      "question_id": 272,
+      "content_block_id": 35,
+      "question": "How can refugees access these resources?"
+    },
+    {
+      "question_id": 273,
+      "content_block_id": 35,
+      "question": "What activities are available for children and adults?"
+    },
+    {
+      "question_id": 274,
+      "content_block_id": 35,
+      "question": "When are these programs and courses available?"
+    }
+  ]
+}

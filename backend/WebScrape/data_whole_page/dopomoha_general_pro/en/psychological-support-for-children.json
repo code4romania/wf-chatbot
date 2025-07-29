@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 314,
+      "content_block_id": 27,
+      "question": "What are some ways to provide psychological support to children during stressful times?"
+    },
+    {
+      "question_id": 315,
+      "content_block_id": 27,
+      "question": "How can parents maintain their own well-being while supporting their children?"
+    },
+    {
+      "question_id": 316,
+      "content_block_id": 27,
+      "question": "What are the common reactions of children to stressful situations?"
+    },
+    {
+      "question_id": 317,
+      "content_block_id": 27,
+      "question": "How can routines and activities benefit children in times of uncertainty?"
+    },
+    {
+      "question_id": 318,
+      "content_block_id": 27,
+      "question": "When is it important to seek additional help for a child experiencing emotional distress?"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 265,
+      "content_block_id": 34,
+      "answer": "Ukrainian refugees can find employment in Romania by registering with employment agencies, finding an employer directly, or utilizing platforms like Jobs4Ukraine and Adecco. Additionally, organizations such as Ateliere Fără Frontiere offer assistance in job searching.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 266,
+      "content_block_id": 34,
+      "answer": "Ukrainian refugees seeking jobs can access free counseling and professional information services from employment agencies. The National Agency for Employment offers services like resume creation advice, interview preparation, and guidance on documentation. Various organizations also provide assistance with employment, resume writing, and consultations on labor rights and legislation.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the sections under 'Free services offered to Ukrainian citizens for their integration into the Romanian labour market' and 'Organizations Providing Support in Employment for Refugees'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 267,
+      "content_block_id": 34,
+      "answer": "Ukrainian citizens from the conflict zone can register for work in Romania with an identity document. They must complete a statement on their own responsibility, which is necessary for signing an employment contract. They are able to work even if they do not possess qualification or experience documents.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 268,
+      "content_block_id": 34,
+      "answer": "Refugees from Ukraine can access job searching resources through platforms like Jobs4Ukraine and Adecco. They can also utilize free services from the National Agency for Employment, and consult guides such as the 'Employment Guide' and 'Guidance on access to the labor market.' Furthermore, a list of supporting organizations compiled by UNHCR is available.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 269,
+      "content_block_id": 34,
+      "answer": "The provided content does not specify a particular timeframe for when Ukrainian citizens from the conflict zone can start working in Romania. It indicates they can go to employment agencies to register and find a job upon arrival, and subsequently be assisted in finding suitable employment and signing a contract.",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

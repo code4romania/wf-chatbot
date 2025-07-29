@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 100,
+      "content_block_id": 9,
+      "question": "What basic phrases are covered in this conversation guide?"
+    },
+    {
+      "question_id": 101,
+      "content_block_id": 9,
+      "question": "What kind of emergency resources are mentioned?"
+    },
+    {
+      "question_id": 102,
+      "content_block_id": 9,
+      "question": "How can this help someone traveling or in need of assistance?"
+    },
+    {
+      "question_id": 103,
+      "content_block_id": 9,
+      "question": "What information is provided for medical situations?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 9,
+      "question": "What topics related to daily life are included?"
+    }
+  ]
+}

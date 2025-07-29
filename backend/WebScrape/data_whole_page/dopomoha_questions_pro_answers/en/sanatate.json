@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 245,
+      "content_block_id": 20,
+      "question": "What kind of medical support is available for people fleeing conflict?",
+      "answer": "People fleeing conflict in Ukraine benefit from medical services, supplies, medicines, and devices included in national health programs, similar to insured Romanian citizens, without paying contributions or co-payment for outpatient medicines. They can also access specialized outpatient healthcare without a referral. Free medical care, including specialist consultations and some medical services, is available both online and offline.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'My rights Temporary protection & Short stay'.",
+      "read_instruction": "read the section under 'My rights Temporary protection & Short stay'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 246,
+      "content_block_id": 20,
+      "question": "What resources are there for children affected by war?",
+      "answer": "Resources for children affected by war include medical assistance for pediatric oncology, and free therapy at the NoRo center. There is also information on children's nutrition, vaccination, psychological support for children, and hygiene tips to protect their health. Additionally, support is available for families with children with disabilities.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 247,
+      "content_block_id": 20,
+      "question": "How can people access these services?",
+      "answer": "People can access services by visiting specific websites or clicking provided links, such as Ukraine Child Cancer Help, consilierehiv.ro, or the SECS website. For some services, like specialized outpatient healthcare, a doctor's referral is not needed. Contact numbers and email addresses are also provided for organizations like the NoRo center and Sens Pozitiv for direct assistance.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 248,
+      "content_block_id": 20,
+      "question": "What help is available for specific health conditions?",
+      "answer": "Help is available for various specific health conditions, including reproductive health services (contraception, pregnancy monitoring, abortion), pediatric oncology for children with cancer, and psycho-medical-social services and treatment for people living with HIV. Specialized medical assistance, support, and guidance are also provided for individuals with rare or chronic diseases. Asylum seekers with acute/chronic illnesses or special medical needs can receive appropriate care.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 249,
+      "content_block_id": 20,
+      "question": "When can people access these services?",
+      "answer": "The page does not provide general information on when people can access most services in terms of specific operating hours or timeframes. However, it mentions the availability of emergency medical assistance in a hospital for asylum seekers and facilitation of access to emergency contraception. Services for children with disabilities are highlighted as especially needed \"in times of war and emergencies.\"",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 135,
+      "content_block_id": 17,
+      "answer": "Ukrainian minors under temporary protection in Romania are eligible for free accommodation in school dormitories, a daily food allowance, and financial support for school supplies, bedding, clothing, and footwear. The authorities also ensure the right to education for Ukrainian preschoolers, pupils, and students, and offer psycho-pedagogical assistance and free courses and activities for refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the sections under 'My rights' and 'Accommodation and Allowances for Ukrainian Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 136,
+      "content_block_id": 17,
+      "answer": "Ukrainian children can continue their education by enrolling in Romanian schools, kindergartens, or extracurricular activities through the County Schools Inspectorates. Additionally, options include Ukrainian online or part-time kindergartens, Ukrainian schools and classes in various cities, remote learning platforms, and free education in private schools in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the sections under 'How to enroll a child in school, kindergarten or extracurricular activities' and 'Ukrainian schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 137,
+      "content_block_id": 17,
+      "answer": "To enroll a child in school, first contact the County Schools Inspectorates. Next, fill out the application for enrollment, ensuring to check the option for psycho-pedagogical assistance if desired, and submit it either physically or online via e-mail. The application will be analyzed within one day, and a Commission will contact you to jointly decide on the child's assignment to a group or class.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'I want to enroll my child in school'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 138,
+      "content_block_id": 17,
+      "answer": "Ukrainian refugees can have their previous studies recognized by contacting the National Center for Diploma Recognition and Equivalence (CNRED). They need to submit a file containing documents like diplomas, school records, and identification, either online, physically, or by mail. CNRED evaluates the complete file within a maximum of 30 working days and issues a certificate of recognition.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the sections under 'Equivalence of studies' and 'I have completed my studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 139,
+      "content_block_id": 17,
+      "answer": "The content provides information regarding the structure of the Romanian school year, including the structure for the 2024-2025 school year and a list of days off in Romanian educational institutions.",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Calendar of holidays in schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

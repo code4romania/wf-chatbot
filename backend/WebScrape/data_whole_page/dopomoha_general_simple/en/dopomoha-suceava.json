@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 150,
+      "content_block_id": 59,
+      "question": "What kind of help and information is available for new arrivals?"
+    },
+    {
+      "question_id": 151,
+      "content_block_id": 59,
+      "question": "How can one access official assistance and legal procedures?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 59,
+      "question": "What essential services are provided, such as medical care or education?"
+    },
+    {
+      "question_id": 153,
+      "content_block_id": 59,
+      "question": "How can various organizations offer different types of support?"
+    }
+  ]
+}

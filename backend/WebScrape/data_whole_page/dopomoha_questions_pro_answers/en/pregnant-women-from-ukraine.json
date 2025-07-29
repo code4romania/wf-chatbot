@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 198,
+      "content_block_id": 48,
+      "question": "What medical support is available for pregnant women?",
+      "answer": "Medical support for pregnant women includes primary medical assistance for pregnancy and labor monitoring, specialized ambulatory medical assistance for paraclinical and clinical specialties, and services for diagnostic purposes. It also covers prenatal screening, surveillance of various high-risk pregnancies, and monitoring for coagulation disorders. The Women's Center provides additional support for reproductive health services.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 199,
+      "content_block_id": 48,
+      "question": "How can pregnant women access these medical services?",
+      "answer": "The medical services are managed on different levels, starting with the family doctor who issues the pregnancy certification document and can recommend certain services. These services are contracted with obstetrics-gynecology specialty hospitals, other health units with beds, and specialized outpatient clinics. The Women's Center also offers support in navigating the health system.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 200,
+      "content_block_id": 48,
+      "question": "What pregnancy complications are addressed in these services?",
+      "answer": "The services address complications such as gestational oedema, mild hyperemesis gravidarum, and evaluation of pregnant women with a scarred uterus in the third trimester. High-risk pregnancy monitoring is also provided for coagulation disorders, hereditary and acquired thrombophilias, recurrent first-trimester abortions of unknown cause, and placental issues like detachment or insufficiency. Additionally, major anomalies confirmed by imaging or genetic pathology risks are covered.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Surveillance of other high-risk pregnancies'.",
+      "read_instruction": "read the section under 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 201,
+      "content_block_id": 48,
+      "question": "When during pregnancy are these services offered?",
+      "answer": "Pregnancy monitoring includes supervision in the first quarter, monthly from the 3rd to 7th month, and twice monthly from the 7th to 9th month. Specific tests are scheduled by gestational week (S), such as the Babeş-Papanicolau exam up to S23+6 days. Prenatal screening and normal pregnancy supervision are offered from S11 to S19+6 days, while high-risk pregnancy monitoring for coagulation disorders, chorionic villus biopsy, amniocentesis, and cordocentesis are performed in the first or second trimester.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 202,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies managed?",
+      "answer": "High-risk pregnancies are managed through mandatory services including obstetrics-gynecology specialist consultations, various blood and urine tests, and obstetric/gynecological ultrasounds. Procedures like Cardiotocography, Antithrombin III, Protein C, Protein S, and genetic testing via amniocentesis, cordocentesis, or chorionic villus biopsy are also performed. These services are provided in specialized hospitals or health units with specific obstetrics-gynecology and neonatology departments by doctors with relevant competencies.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Surveillance of other high-risk pregnancies'.",
+      "read_instruction": "read the section under 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

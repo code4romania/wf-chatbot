@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 51,
+      "content_block_id": 16,
+      "answer": "Support is available across various categories including health, housing, job searching, education, legal aid, transportation, and language courses. Mental health services and support for drug users are also offered, alongside access to emergency resources and a map of helping organizations.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 52,
+      "content_block_id": 16,
+      "answer": "You can help by providing food, products, clothing, transportation, or by volunteering to assist vulnerable people coming to Romania. Additionally, you can offer a space for temporary accommodation or contribute resources to Sprijin de Urgență.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Offer support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 53,
+      "content_block_id": 16,
+      "answer": "Refugees can access various resources including specialized medical assistance, temporary accommodation, and job opportunities. Educational support, legal aid, transportation, language courses, and mental health services are also specifically offered for Ukrainian refugees, alongside emergency resources and information on integration.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 54,
+      "content_block_id": 16,
+      "answer": "Refugees can access services by using specific calls to action such as 'Ask for help' for health, legal aid, and drug user support. For housing, they can 'Access Un Acoperiș!' or 'Ask for housing'. Direct assistance is available via specialized call-centers, and general assistance can be requested via 'Sprijin de Urgență' or by using the UNHCR online map.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 55,
+      "content_block_id": 16,
+      "answer": "Information is available regarding the process of integrating refugees from Ukraine into Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Integration of refugees from Ukraine to Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

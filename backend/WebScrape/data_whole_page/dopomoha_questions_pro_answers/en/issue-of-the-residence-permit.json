@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 308,
+      "content_block_id": 13,
+      "question": "What services are offered?",
+      "answer": "The content provides contact details for Regional Centres for Accommodation and Procedures for Asylum Seekers and various Immigration Services/Bureaus. These offices handle procedures for asylum seekers and general immigration matters, including the issuance of residence permits.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 309,
+      "content_block_id": 13,
+      "question": "What locations are mentioned?",
+      "answer": "The content mentions numerous cities and their respective counties across Romania. Examples include Bucharest, Rădăuți, Suceava, Baia Mare, Galați, Constanța, Iași, Pitești, Craiova, Cluj-Napoca, Timișoara, and many more county seats.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 310,
+      "content_block_id": 13,
+      "question": "How can I contact these services?",
+      "answer": "You can contact these services by using the phone numbers and email addresses listed for each specific office. Each entry provides at least one phone number and a corresponding email address.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 311,
+      "content_block_id": 13,
+      "question": "What regions are covered?",
+      "answer": "The content covers services in several parts of Romania. These explicitly include the 'Bucharest, Ilfov Regional Centre', 'Northern part of Romania', 'Eastern part of Romania', 'Southern part of Romania', and 'Western part of Romania'.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

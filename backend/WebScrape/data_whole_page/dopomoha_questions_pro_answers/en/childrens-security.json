@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 287,
+      "content_block_id": 30,
+      "question": "What should parents consider when preparing for a child's safety in emergencies?",
+      "answer": "Parents should assemble a \"safety backpack\" for their child containing essential items like a photo with contact information, water, food, necessary medications, hygiene products, a flashlight, and favorite toys. Additionally, they should teach the child safety rules, including their name, relatives' phone numbers, home address, and emergency line numbers.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the sections under 'Assemble a backpack for your child with a minimal set of things' and 'Safety rules that a child should know if he/she is lost'.",
+      "read_instruction": "read the sections under 'Assemble a backpack for your child with a minimal set of things' and 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 288,
+      "content_block_id": 30,
+      "question": "How can a safe environment be created for a child, especially in unfamiliar or temporary locations?",
+      "answer": "To create a safe environment, parents should keep doors and windows closed, supervise the child, and ensure hazardous items like glassware, hot objects, medicines, chemicals, small parts, and electrical appliances are out of reach. They should also secure heavy furniture, cover sharp corners, make stairs inaccessible, and ensure children interact with animals only under supervision.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "read_instruction": "read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 289,
+      "content_block_id": 30,
+      "question": "What are some key things to teach children about their own safety?",
+      "answer": "Children should be taught their full name, the names and phone numbers of close relatives, and their home address. It is also crucial for them to know the emergency line numbers 112 and 119 (for Romania), and parents should establish a designated meeting place in case the child gets lost.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "read_instruction": "read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 290,
+      "content_block_id": 30,
+      "question": "When is it appropriate to involve authorities if a child is lost?",
+      "answer": "If a child is lost, parents should report to the nearest police station or call emergency lines 112 or 119 after checking the last known location and asking around. If you encounter a child without adults, you should also contact 112 or 119, report to the police, or local authorities, providing any information learned about the child.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the sections under 'If the child is lost. Parents’ actions' and 'If you see a child without adults'.",
+      "read_instruction": "read the sections under 'If the child is lost. Parents’ actions' and 'If you see a child without adults'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

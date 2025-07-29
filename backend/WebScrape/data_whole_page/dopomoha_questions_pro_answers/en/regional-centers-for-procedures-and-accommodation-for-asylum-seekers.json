@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 291,
+      "content_block_id": 11,
+      "question": "What locations are mentioned?",
+      "answer": "The locations mentioned are Rădăuți, Maramureș, Galați, București, Timișoara, and Giurgiu. These are identified as regional centers for procedures and accommodation for asylum seekers.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 292,
+      "content_block_id": 11,
+      "question": "What contact information is provided?",
+      "answer": "The contact information provided for each regional center includes telephone numbers, fax numbers, and email addresses.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 293,
+      "content_block_id": 11,
+      "question": "How can someone get in touch with these places?",
+      "answer": "Someone can get in touch with these places via phone, fax, or email, as specific contact details are provided for each center. For instance, the Galați center can be reached at Telefon: 0236 – 323878, Fax: 0236 -323884, and Email: c.galati.igi@mai.gov.ro.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 287,
+      "content_block_id": 4,
+      "question": "How can people travel around?"
+    },
+    {
+      "question_id": 288,
+      "content_block_id": 4,
+      "question": "What types of health services are available?"
+    },
+    {
+      "question_id": 289,
+      "content_block_id": 4,
+      "question": "What is the local currency and how can it be used?"
+    },
+    {
+      "question_id": 290,
+      "content_block_id": 4,
+      "question": "When are common business hours and public holidays?"
+    },
+    {
+      "question_id": 291,
+      "content_block_id": 4,
+      "question": "How can one find general assistance or accommodation?"
+    }
+  ]
+}

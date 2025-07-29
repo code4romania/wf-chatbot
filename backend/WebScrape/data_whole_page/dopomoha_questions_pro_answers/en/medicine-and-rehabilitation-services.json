@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 55,
+      "content_block_id": 42,
+      "question": "What types of medical rehabilitation services are available?",
+      "answer": "Medical recovery, physical medicine, and rehabilitation services are available. These services include specific physical medicine and rehabilitation procedures.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 56,
+      "content_block_id": 42,
+      "question": "How can someone receive these rehabilitation services?",
+      "answer": "Medical recovery, physical medicine, and rehabilitation services can be provided to insured persons on an outpatient or inpatient basis. Outpatient services are provided in treatment bases within the clinical specialty of physical medicine and rehabilitation.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 57,
+      "content_block_id": 42,
+      "question": "What are some examples of rehabilitation treatments?",
+      "answer": "Examples of rehabilitation treatments include physiotherapy, hydrotherapy, massage, and aerosols. Some specific procedures like mineral baths, natural skunks, and mud wraps can only be performed in balneo-climatic resorts.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 58,
+      "content_block_id": 42,
+      "question": "When are rehabilitation services provided in special resort settings?",
+      "answer": "Some specific physical medicine and rehabilitation procedures, such as mineral baths, natural skunks, and mud wraps, can only be performed in the treatment bases of balneo-climatic resorts.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 59,
+      "content_block_id": 42,
+      "question": "How long can someone receive these rehabilitation services?",
+      "answer": "Patients generally have the right to specific physical medicine and outpatient rehabilitation procedures for a maximum period of 21 days/year/insured person. However, children aged 0-18 with a confirmed diagnosis of cerebral palsy can benefit for a maximum period of 42 days/year/patient, divided into up to two sessions.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

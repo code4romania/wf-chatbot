@@ -11,9 +11,9 @@ language_map = {
     'en': 'English',
 }
 
-QUESTIONS_ROOT = "./data_whole_page/dopomoha_what_how_when_long/"
+QUESTIONS_ROOT = "./data_whole_page/dopomoha_questions_pro/"
 SOURCE_FOLDER = "./data_whole_page/dopomoha_stripped/"
-OUTPUT_ROOT = "./data_whole_page/dopomoha_what_how_when_long_answers/"
+OUTPUT_ROOT = "./data_whole_page/dopomoha_questions_pro_answers/"
 
 os.makedirs(OUTPUT_ROOT, exist_ok=True)
 
@@ -53,10 +53,9 @@ if __name__ == '__main__':
                 continue
 
             questions_data = load_json(os.path.join(questions_folder, fname))['questions']
-            website = f"https://dopomoha.ro/en/{page_name}"
+            website_base_url = f"https://dopomoha.ro/{code}/{page_name}" # Using 'code' for language in URL
             content_data = load_json(os.path.join(SOURCE_FOLDER, f"{page_name}.json"))
 
-            # For this version, we assume one content per page, take the first (or concatenate if needed)
             page_content = "\n\n".join([e['summary'] for e in content_data if e.get('summary')])
             qa_list = [
                 {
@@ -70,35 +69,38 @@ if __name__ == '__main__':
                 continue
 
             # --- Prompt Building ---
+            # IMPORTANT: Modified prompt to ask for 'website' and 'read_instruction'
             batch_prompt = (
-                f"Given the following content from website {website}:\n"
+                f"Given the following content from website {website_base_url}:\n"
                 f"\"\"\"\n{page_content}\n\"\"\"\n\n"
-                f"For each question, provide a concise answer in {language} (1-2 sentences) using ONLY the content provided. "
-                "Following each answer, include a 'find_instruction' that guides the user to the relevant part of the website. "
-                "The 'find_instruction' must be in the format: "
-                "\"Go to website <https URL> and read the section under <relevant section heading>.\" "
-                "If no specific section heading is obvious, use \"Go to website <https URL> and read the page carefully.\" instead. "
+                f"For each question, provide a concise answer in {language} (1-4 sentences) using ONLY the content provided. "
+                "Also, provide the 'website' URL that the information is from. "
+                "Additionally, provide a 'read_instruction' string. This string should either be: "
+                "\"read the section under '<relevant section heading>'.\" "
+                "or \"read the page carefully.\" if no specific section heading is obvious. "
                 "Do NOT mention 'content' or 'summary' in your answers or instructions. "
-                "Ensure the website URL provided in 'find_instruction' is always accurate and complete, e.g., 'https://dopomoha.ro/en/page_name'.\n"
-                "Return a Python list of dicts, each with keys: 'question', 'answer', 'find_instruction'.\n\n"
+                "Ensure the 'website' URL is always accurate and complete, e.g., 'https://dopomoha.ro/en/page_name'.\n"
+                "Return a Python list of dicts, each with keys: 'question', 'answer', 'website', 'read_instruction'.\n\n"
                 "Example:\n"
                 "[\n"
                 "  {\n"
                 "    \"question\": \"What documents do I need to register?\",\n"
                 "    \"answer\": \"You need an ID card and proof of address.\",\n"
-                "    \"find_instruction\": \"Go to website https://dopomoha.ro/en/registration and read the section under 'Required Documents'.\"\n"
+                "    \"website\": \"https://dopomoha.ro/en/registration\",\n"
+                "    \"read_instruction\": \"read the section under 'Required Documents'.\"\n"
                 "  },\n"
                 "  {\n"
                 "    \"question\": \"How can I update my contact details?\",\n"
                 "    \"answer\": \"You can update your contact details by filling in the online form.\",\n"
-                "    \"find_instruction\": \"Go to website https://dopomoha.ro/en/profile and read the page carefully.\"\n"
+                "    \"website\": \"https://dopomoha.ro/en/profile\",\n"
+                "    \"read_instruction\": \"read the page carefully.\"\n"
                 "  }\n"
                 "]\n\n"
                 "Questions:\n"
             )
             for idx, qa in enumerate(qa_list, 1):
                 batch_prompt += f"{idx}. {qa['question']}\n"
-            batch_prompt += f"\nWebsite URL: {website}\n"
+            batch_prompt += f"\nWebsite URL for context: {website_base_url}\n"
 
             print(f"Sending {len(qa_list)} questions for page {page_name}...")
 
@@ -117,16 +119,25 @@ if __name__ == '__main__':
             answers_out = []
             aid = 1
             for idx, qa in enumerate(qa_list):
+                # Safely get values from the model's response, providing defaults
                 abatch = answers_batch[idx] if idx < len(answers_batch) else {}
                 answer_text = abatch.get('answer', '').strip()
-                find_instruction = abatch.get('find_instruction', '').strip() # This remains the same as it's the instruction
+                website_url = abatch.get('website', website_base_url).strip() # Use website_base_url as fallback
+                read_instruction = abatch.get('read_instruction', 'read the page carefully.').strip()
+
+                # --- Merge and Parse in Python ---
+                find_instruction = f"Go to website {website_url} and {read_instruction}"
+
 
                 answers_out.append({
                     'answer_id': aid,
                     'question_id': qa['question_id'],
                     'content_block_id': qa['content_block_id'],
+                    'question': qa['question'],
                     'answer': answer_text,
-                    'instruction': find_instruction, # Changed from bResponse to instruction
+                    'website': website_url,
+                    'instruction': find_instruction, # The final combined instruction
+                    'read_instruction': read_instruction,
                     'cSubject': '',
                     'dLanguage': language,
                     'eVerified Translation': 'No',

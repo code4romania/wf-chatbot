@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 179,
+      "content_block_id": 1,
+      "question": "What are the general ways to enter Romania?"
+    },
+    {
+      "question_id": 180,
+      "content_block_id": 1,
+      "question": "What are the necessary documents for entering Romania?"
+    },
+    {
+      "question_id": 181,
+      "content_block_id": 1,
+      "question": "What health requirements must be met for entry into Romania?"
+    },
+    {
+      "question_id": 182,
+      "content_block_id": 1,
+      "question": "How does one typically cross the border into Romania?"
+    },
+    {
+      "question_id": 183,
+      "content_block_id": 1,
+      "question": "What kind of assistance is available upon arrival in Romania?"
+    }
+  ]
+}

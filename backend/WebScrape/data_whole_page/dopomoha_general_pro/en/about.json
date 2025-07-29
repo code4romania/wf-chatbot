@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 275,
+      "content_block_id": 3,
+      "question": "What kind of support is available for people displaced by conflict?"
+    },
+    {
+      "question_id": 276,
+      "content_block_id": 3,
+      "question": "How can people access information about resources and assistance?"
+    },
+    {
+      "question_id": 277,
+      "content_block_id": 3,
+      "question": "What are the challenges faced by those seeking refuge in a new country?"
+    },
+    {
+      "question_id": 278,
+      "content_block_id": 3,
+      "question": "When is help most needed during a crisis?"
+    },
+    {
+      "question_id": 279,
+      "content_block_id": 3,
+      "question": "How can technology be used to aid those in need?"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 211,
+      "content_block_id": 20,
+      "question": "What medical assistance is available for people coming from other countries?"
+    },
+    {
+      "question_id": 212,
+      "content_block_id": 20,
+      "question": "How can someone find support for specific health needs or conditions?"
+    },
+    {
+      "question_id": 213,
+      "content_block_id": 20,
+      "question": "What general health information or guidance is offered?"
+    }
+  ]
+}

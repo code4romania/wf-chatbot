@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 110,
+      "content_block_id": 32,
+      "question": "What kind of financial help is available for Ukrainians in Romania?",
+      "answer": "Ukrainians in Romania may be eligible for a monthly lump sum to cover accommodation expenses for up to 3 consecutive months. After this period, or for those who previously received benefits, they may apply for a Minimum Inclusion Income. Additionally, refugees under temporary protection are eligible for other social benefits.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 111,
+      "content_block_id": 32,
+      "question": "How can Ukrainians apply for financial assistance in Romania?",
+      "answer": "To apply for the monthly lump sum, beneficiaries need to submit their application to the local administrative-territorial unit (such as the town hall) where they have chosen to reside. For the Minimum Inclusion Income, documents should be submitted to the administrative-territorial unit within the radius of which the address indicated in the temporary residence permit is located.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Application Process' and 'Transition to Minimum Inclusion Income'.",
+      "read_instruction": "read the sections under 'Application Process' and 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 112,
+      "content_block_id": 32,
+      "question": "What are the requirements for getting financial support?",
+      "answer": "To be eligible for the monthly lump sum, beneficiaries must have temporary protection in Romania and not be receiving international protection, residing in government camps, or have previously received accommodation benefits. Required documents include a valid temporary protection permit, passports for family members, and bank account details from a Romanian bank in RON currency.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Monthly Lump Sum for Accommodation', 'Exclusions', 'Required Documents', and 'Exclusions for Rent Payment Support'.",
+      "read_instruction": "read the sections under 'Monthly Lump Sum for Accommodation', 'Exclusions', 'Required Documents', and 'Exclusions for Rent Payment Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 113,
+      "content_block_id": 32,
+      "question": "When do these support programs start and end?",
+      "answer": "The new financial support program for accommodation started on July 1, 2024, and is available for up to 3 consecutive months, with the period beginning from the date of entry into Romania. After this lump sum period, beneficiaries may apply for a Minimum Inclusion Income, which provides ongoing financial support.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Monthly Lump Sum for Accommodation' and 'Transition to Minimum Inclusion Income'.",
+      "read_instruction": "read the sections under 'Monthly Lump Sum for Accommodation' and 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 114,
+      "content_block_id": 32,
+      "question": "How can someone find more information about these programs?",
+      "answer": "Detailed information can be clarified by following links to the official websites of specific administrative sectors or cities in Romania. For difficulties with applications, individuals can seek help from Romanian/English speakers, NGOs, or contact a call center. Additional details are available by calling the government call center at 021.3456789.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Transition to Minimum Inclusion Income', 'Information for other cities in Romania', and the contact information at the bottom of the page.",
+      "read_instruction": "read the sections under 'Transition to Minimum Inclusion Income', 'Information for other cities in Romania', and the contact information at the bottom of the page.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

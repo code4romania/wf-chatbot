@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 226,
+      "content_block_id": 63,
+      "question": "What kind of help is available in Oradea?"
+    },
+    {
+      "question_id": 227,
+      "content_block_id": 63,
+      "question": "How can I get support with things like housing, food, and healthcare?"
+    },
+    {
+      "question_id": 228,
+      "content_block_id": 63,
+      "question": "What resources are there for education and legal matters?"
+    },
+    {
+      "question_id": 229,
+      "content_block_id": 63,
+      "question": "How can I find support from local organizations?"
+    },
+    {
+      "question_id": 230,
+      "content_block_id": 63,
+      "question": "What should I do in case of an emergency?"
+    }
+  ]
+}

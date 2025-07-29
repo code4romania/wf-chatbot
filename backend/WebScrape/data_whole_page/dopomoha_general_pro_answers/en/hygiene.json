@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 46,
+      "content_block_id": 29,
+      "answer": "Basic hygiene practices include washing hands often with soap, especially after visiting the toilet, being on public transport, or before cooking and eating. It is also important to ensure children use their own individual or disposable dishes, or to thoroughly wash shared utensils, particularly the edges, before use.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the sections under 'Hand washing' and 'Use of utensils'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 47,
+      "content_block_id": 29,
+      "answer": "With limited resources, hygiene can be maintained by using hand sanitizer with at least 60% alcohol or antibacterial wet wipes if soap and water are unavailable. For babies, alternatives to store-bought diapers include making them from gauze or cloth, or cleaning and reusing disposable diapers by inserting a new gauze or cloth pad.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the sections under 'What to do if there is no or limited access to soap and water' and 'Diapers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 48,
+      "content_block_id": 29,
+      "answer": "If soap and water are unavailable, alternatives include hand sanitizers with at least 60% alcohol, alcohol, or antibacterial wet wipes. For diapers, one can make them from gauze or a piece of cloth, or reuse disposable diapers by removing the gel, rinsing, drying, and inserting a new gauze or cloth pad.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the sections under 'What to do if there is no or limited access to soap and water' and 'Diapers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 49,
+      "content_block_id": 29,
+      "answer": "Water conservation during a crisis can be achieved by adapting to reduced daily water needs, especially when in a bomb shelter with ready-to-eat food. In such a scenario, the water requirement decreases significantly to 1.5 litres of drinking water and 0.5-1 litres of technical water for hygiene per person, compared to 7.5 litres per day if mostly in an apartment or house.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 50,
+      "content_block_id": 29,
+      "answer": "Hand hygiene should be practiced often with soap. This includes after visiting the toilet, after being on public transport, after touching surfaces outside the house (including money), before cooking and eating, after contact with a pet, and before carrying out any self-care or child-care procedures.",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

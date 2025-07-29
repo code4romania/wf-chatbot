@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 339,
+      "content_block_id": 19,
+      "question": "What support is available for refugees?"
+    },
+    {
+      "question_id": 340,
+      "content_block_id": 19,
+      "question": "How can someone fleeing a war zone find safety?"
+    },
+    {
+      "question_id": 341,
+      "content_block_id": 19,
+      "question": "What are the legal implications of seeking refuge in another country?"
+    },
+    {
+      "question_id": 342,
+      "content_block_id": 19,
+      "question": "When can refugees expect to receive assistance?"
+    },
+    {
+      "question_id": 343,
+      "content_block_id": 19,
+      "question": "How can people contribute to helping refugees?"
+    }
+  ]
+}

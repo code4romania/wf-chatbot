@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 155,
+      "content_block_id": 52,
+      "answer": "MedZirka offers cost-free medical services, including consultations from a family doctor, therapist, or pediatrician. They also provide medical prescriptions, referrals to specialists, sick leave, vaccination certificates, and referrals for laboratory testing.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'Services provided by MedZirka'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 156,
+      "content_block_id": 52,
+      "answer": "You can access MedZirka's cost-free medical services online and offline after submitting the declaration. Once the declaration is submitted, you can benefit from free consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 157,
+      "content_block_id": 52,
+      "answer": "You can ask about topics such as flu, cold, SARS, various respiratory diseases like bronchitis and pneumonia, circulatory system diseases, digestive system issues, kidney diseases, blood disorders, endocrine system diseases, heart and blood vessel conditions, and joint diseases like osteoarthritis and gout, as well as chronic diseases.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 158,
+      "content_block_id": 52,
+      "answer": "The provided content states that MedZirka offers cost-free medical services online and offline, but it does not specify the exact hours or days of availability for these services.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 159,
+      "content_block_id": 52,
+      "answer": "To find out more about the services, you can call 0 800 330 553 or write on Viber/Telegram by following the links provided on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

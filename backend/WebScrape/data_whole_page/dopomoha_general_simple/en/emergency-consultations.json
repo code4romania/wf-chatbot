@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 88,
+      "content_block_id": 44,
+      "question": "What types of medical services can be provided outside of a hospital?"
+    },
+    {
+      "question_id": 89,
+      "content_block_id": 44,
+      "question": "How are specialized medical transport services accessed?"
+    },
+    {
+      "question_id": 90,
+      "content_block_id": 44,
+      "question": "What conditions or situations qualify a patient for assisted transport?"
+    }
+  ]
+}

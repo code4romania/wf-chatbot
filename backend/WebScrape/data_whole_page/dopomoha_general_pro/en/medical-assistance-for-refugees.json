@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 71,
+      "content_block_id": 50,
+      "question": "What medical assistance is available for refugees?"
+    },
+    {
+      "question_id": 72,
+      "content_block_id": 50,
+      "question": "How can refugees access healthcare services?"
+    },
+    {
+      "question_id": 73,
+      "content_block_id": 50,
+      "question": "What health programs are available?"
+    },
+    {
+      "question_id": 74,
+      "content_block_id": 50,
+      "question": "When can refugees seek medical attention?"
+    },
+    {
+      "question_id": 75,
+      "content_block_id": 50,
+      "question": "How does healthcare coverage work for refugees?"
+    }
+  ]
+}

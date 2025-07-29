@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 6,
+      "content_block_id": 15,
+      "answer": "Refugees can access various types of support including general information, legal aid, assistance against trafficking, medical help, support for children and those with rare diseases, and help with accommodation requests. There are also specialized helplines for domestic violence, sexual abuse, and border police inquiries.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 7,
+      "content_block_id": 15,
+      "answer": "Refugees can access help primarily through various dedicated help-lines by calling the provided phone numbers for different organizations and services. Some services, like Save the Children's guidance, also offer support via email.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 8,
+      "content_block_id": 15,
+      "answer": "For medical needs, there is support for HIV treatment from Sens Pozitiv and guidance for rare diseases from The National Alliance for Rare Diseases Romania. Children can receive counseling via a free telephone line and guidance on protection from Save the Children.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the sections under 'Medical support' and 'Children support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 9,
+      "content_block_id": 15,
+      "answer": "Specific availability is noted for some services; the Romanian Government help-line operates Monday-Friday from 8:00 a.m. to 4:00 p.m., and Save the Children's guidance line is available Monday-Friday from 9:00 a.m. to 5:00 p.m. The Migration and Asylum Office in the Republic of Moldova offers 24/7 support. For many other services, specific hours are not provided in the text.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 10,
+      "content_block_id": 15,
+      "answer": "People can get help in various locations, including specific Romanian cities like Sibiu and Timișoara, which have their own city hall help-lines. Additionally, support is available in other countries such as the Republic of Moldova, Poland, Slovakia, and the Czech Republic, each with their respective national help-lines.",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the sections under 'Help-lines from cities throughout Romania' and 'Help-lines from other countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

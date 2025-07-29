@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 65,
+      "content_block_id": 24,
+      "question": "What kind of help is available for drug users?"
+    },
+    {
+      "question_id": 66,
+      "content_block_id": 24,
+      "question": "How can someone find drug treatment centers?"
+    },
+    {
+      "question_id": 67,
+      "content_block_id": 24,
+      "question": "What services do these treatment centers provide?"
+    },
+    {
+      "question_id": 68,
+      "content_block_id": 24,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 69,
+      "content_block_id": 24,
+      "question": "How much do these services cost?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 135,
+      "content_block_id": 17,
+      "question": "What support is available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 136,
+      "content_block_id": 17,
+      "question": "How can Ukrainian children continue their education in Romania?"
+    },
+    {
+      "question_id": 137,
+      "content_block_id": 17,
+      "question": "What are the steps to enroll a child in Romanian schools or kindergartens?"
+    },
+    {
+      "question_id": 138,
+      "content_block_id": 17,
+      "question": "How can Ukrainian refugees have their previous studies recognized in Romania?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 17,
+      "question": "When is the Romanian school year?"
+    }
+  ]
+}

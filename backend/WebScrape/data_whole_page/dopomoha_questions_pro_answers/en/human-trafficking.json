@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 169,
+      "content_block_id": 68,
+      "question": "What are some risks people fleeing war should be aware of?",
+      "answer": "As a person fleeing war, you are more vulnerable than usual to human trafficking risks. Human trafficking is a form of modern slavery and human rights violation, involving the recruitment, transportation, or transfer of persons by means of threats or force for the purpose of exploitation.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 170,
+      "content_block_id": 68,
+      "question": "How can someone recognize signs of human trafficking or exploitation?",
+      "answer": "Signs include being offered an unrealistically high salary, being forced to perform work or sex without consent, or being subjected to psychological pressure. Other indicators are the removal or withholding of passports, other identification documents, or personal means of communication, as well as being controlled by strict rules, limited sleep/food, or restricted movement.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "read_instruction": "read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 171,
+      "content_block_id": 68,
+      "question": "What support services are available for people affected by trafficking?",
+      "answer": "People affected by trafficking can report suspicions to TELVERDE ANITIP 0800.800.678 (in Romania) or the eLiberare Crisis Textline 0757.749.845. Other helplines include the Romanian National Anti-trafficking Helpline 0 800 800 678 / +4021.313.31.00 and the National Emergency Number 112. They can also call the free national anti-trafficking hotline and counseling for migrants 527 (calls from Ukraine) or run to a public place like an institution or hospital.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the sections under 'Suggestions to seek help' and 'You can report any suspicion of human trafficking'.",
+      "read_instruction": "read the sections under 'Suggestions to seek help' and 'You can report any suspicion of human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 172,
+      "content_block_id": 68,
+      "question": "What can people do to protect themselves from trafficking?",
+      "answer": "To limit vulnerability, individuals should know their rights and where to access services, help, and support. It is important to maintain possession of documents, keep in touch with trusted people, and gather enough information about travel companions, routes, accommodation, and potential workplaces, sharing this with trusted persons. Developing a secret 'safeword' or phrase for trusted contacts is also advised.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "read_instruction": "read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 173,
+      "content_block_id": 68,
+      "question": "How can someone help children stay safe during a crisis?",
+      "answer": "Parents can prepare their child by creating a \"safety backpack\" and having important conversations to minimize stress, including a plan of action for different occasions. Additionally, the eLiberare Association with UNICEF created a story guide to help children of all ages avoid human traffickers and online exploitation vulnerabilities, which can be found online.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Children’s security'.",
+      "read_instruction": "read the section under 'Children’s security'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

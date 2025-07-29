@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 287,
+      "content_block_id": 30,
+      "question": "What should parents consider when preparing for a child's safety in emergencies?"
+    },
+    {
+      "question_id": 288,
+      "content_block_id": 30,
+      "question": "How can a safe environment be created for a child, especially in unfamiliar or temporary locations?"
+    },
+    {
+      "question_id": 289,
+      "content_block_id": 30,
+      "question": "What are some key things to teach children about their own safety?"
+    },
+    {
+      "question_id": 290,
+      "content_block_id": 30,
+      "question": "When is it appropriate to involve authorities if a child is lost?"
+    }
+  ]
+}

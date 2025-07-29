@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 198,
+      "content_block_id": 48,
+      "question": "What medical support is available for pregnant women?"
+    },
+    {
+      "question_id": 199,
+      "content_block_id": 48,
+      "question": "How can pregnant women access these medical services?"
+    },
+    {
+      "question_id": 200,
+      "content_block_id": 48,
+      "question": "What pregnancy complications are addressed in these services?"
+    },
+    {
+      "question_id": 201,
+      "content_block_id": 48,
+      "question": "When during pregnancy are these services offered?"
+    },
+    {
+      "question_id": 202,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies managed?"
+    }
+  ]
+}

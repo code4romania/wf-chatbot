@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 36,
+      "content_block_id": 10,
+      "answer": "Support is offered for finding temporary accommodation through Un Acoperiș. Additionally, Sprijin de Urgență provides resources such as food, products, clothing, tents, transportation, and volunteers.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 37,
+      "content_block_id": 10,
+      "answer": "You can get involved by sharing dopomoha.ro content, such as posters and flyers, in crowded places or wherever you go. You can also offer resources like food, clothing, or transportation through Sprijin de Urgență, or provide a space for temporary accommodation via Un Acoperiș.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 38,
+      "content_block_id": 10,
+      "answer": "Available resources include food, products, clothing, tents, transportation, and volunteers, which can be requested or provided via Sprijin de Urgență. Support for finding temporary accommodation is available through Un Acoperiș, and a phrase book with common expressions translated into English and Ukrainian is also provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 39,
+      "content_block_id": 10,
+      "answer": "The provided content does not specify when help is available.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 40,
+      "content_block_id": 10,
+      "answer": "You can find more information by downloading the poster and flyer provided. Additionally, you can click to access the phrase book, or to request/provide resources through Sprijin de Urgență and to search/offer accommodation via Un Acoperiș.",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

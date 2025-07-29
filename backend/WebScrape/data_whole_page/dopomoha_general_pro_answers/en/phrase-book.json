@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 101,
+      "content_block_id": 9,
+      "answer": "The provided information is a phrase book offering translations of words and phrases. It covers basic conversation, family terms, numbers, and practical vocabulary for various situations.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 102,
+      "content_block_id": 9,
+      "answer": "This information can be helpful for communication by providing essential phrases in Romanian, English, and Ukrainian. It assists individuals in various situations, such as seeking medical help, finding locations, or managing daily interactions.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 103,
+      "content_block_id": 9,
+      "answer": "The languages covered are Romanian, English, Ukrainian (Latin alphabet), and Ukrainian (Cyrillic alphabet). Each entry provides the phrase or word in these four language formats.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 104,
+      "content_block_id": 9,
+      "answer": "The topics discussed include basic conversation, family, numbers, accommodation, medical help, places and directions, transport, and documents/money. It also covers concepts like work, time, and free items.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 105,
+      "content_block_id": 9,
+      "answer": "This information would be useful for individuals needing to communicate across language barriers in various situations. It is particularly helpful for seeking basic necessities, medical assistance, or understanding directions and general daily interactions.",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

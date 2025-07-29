@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 124,
+      "content_block_id": 36,
+      "question": "What healthcare rights and benefits are available to people seeking refuge in Romania?"
+    },
+    {
+      "question_id": 125,
+      "content_block_id": 36,
+      "question": "How can individuals register to receive medical services in the Romanian healthcare system?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 36,
+      "question": "What role does a family doctor play in providing medical assistance?"
+    },
+    {
+      "question_id": 127,
+      "content_block_id": 36,
+      "question": "What types of medical services are included in a basic healthcare package?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 36,
+      "question": "When are various preventive health checks recommended for different age groups?"
+    }
+  ]
+}

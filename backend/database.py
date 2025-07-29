@@ -50,7 +50,6 @@ class UserReview(Base):
     query = relationship("UserQuery", back_populates="reviews")  # Relationship back to query
 
 
-Base.registry.configure()
 
 
 # Function to create tables

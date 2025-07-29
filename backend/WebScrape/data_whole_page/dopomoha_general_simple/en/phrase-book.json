@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 84,
+      "content_block_id": 9,
+      "question": "What kind of essential information is available?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 9,
+      "question": "How can one seek help for personal needs?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 9,
+      "question": "When would someone use the included guidance?"
+    },
+    {
+      "question_id": 87,
+      "content_block_id": 9,
+      "question": "What methods are presented for communication?"
+    }
+  ]
+}

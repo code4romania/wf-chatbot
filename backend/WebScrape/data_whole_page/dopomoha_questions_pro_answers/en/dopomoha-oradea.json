@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 226,
+      "content_block_id": 63,
+      "question": "What kind of help is available in Oradea?",
+      "answer": "Help available in Oradea includes important contacts for immigration and emergencies, support programs for accommodation, meals, and integration, and information on public transport. Additionally, medical services, psychological support, educational guidance, legal status information, housing and job support, and specific services for women and people living with HIV are provided.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 227,
+      "content_block_id": 63,
+      "question": "How can I get support with things like housing, food, and healthcare?",
+      "answer": "Support for accommodation and meals is available through \"The support program for accommodation, meals and integration in Oradea.\" For medical needs, you can go to the County Emergency Clinical Hospital Bihor or find a list of family doctors. The Women's Center offers support for reproductive health services and navigating the health system, and free psycho-medical-social HIV services are also available.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'The support program for accommodation, meals and integration in Oradea', 'Medical services', and 'Housing Info'.",
+      "read_instruction": "read the sections under 'The support program for accommodation, meals and integration in Oradea', 'Medical services', and 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 228,
+      "content_block_id": 63,
+      "question": "What resources are there for education and legal matters?",
+      "answer": "For education, you can find information on enrolling children in primary education and required documents, along with general information about the Romanian education system. The Oradea Caritas Eparhial Association also organizes educational programs for primary and secondary school students. For legal matters, information under 'Legal status' is provided.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Education' and 'Legal status'.",
+      "read_instruction": "read the sections under 'Education' and 'Legal status'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 229,
+      "content_block_id": 63,
+      "question": "How can I find support from local organizations?",
+      "answer": "You can find psychological support from the International Organization for Migration (IOM) by contacting Boanca Simona at sboanca@iom.int or +40745016883, or from Plan International Organization by contacting Elena Dinon at Elena.Dinon@plan-international.org. Dorcas Aid Romania / Dorcas Aid Moldova also offer psychological support. The Oradea Caritas Eparhial Association organizes educational programs, contactable at +40 359 418 212, and Sens Pozitiv provides HIV psycho-medical-social services.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Psychological support', 'Education', and 'Counseling for people living with HIV'.",
+      "read_instruction": "read the sections under 'Psychological support', 'Education', and 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 230,
+      "content_block_id": 63,
+      "question": "What should I do in case of an emergency?",
+      "answer": "In case of an emergency, you should call the emergency number 112. For concerns related to human trafficking, you can contact the National Anti-Traffic Hotline Romania at 0800 800 678 or 021 313 3100. If you need urgent medical services, you can go to the County Emergency Clinical Hospital Bihor.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Important contacts' and 'Medical services'.",
+      "read_instruction": "read the sections under 'Important contacts' and 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

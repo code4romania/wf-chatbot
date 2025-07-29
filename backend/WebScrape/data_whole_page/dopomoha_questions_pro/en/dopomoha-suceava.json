@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 174,
+      "content_block_id": 59,
+      "question": "What kind of help is available in Suceava?"
+    },
+    {
+      "question_id": 175,
+      "content_block_id": 59,
+      "question": "How can someone access different services like medical care or education?"
+    },
+    {
+      "question_id": 176,
+      "content_block_id": 59,
+      "question": "What support is offered for refugees?"
+    },
+    {
+      "question_id": 177,
+      "content_block_id": 59,
+      "question": "How can people find housing and jobs?"
+    },
+    {
+      "question_id": 178,
+      "content_block_id": 59,
+      "question": "What organizations are providing assistance?"
+    }
+  ]
+}

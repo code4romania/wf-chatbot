@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 140,
+      "content_block_id": 45,
+      "question": "What medications are covered by the health fund?"
+    },
+    {
+      "question_id": 141,
+      "content_block_id": 45,
+      "question": "How do patients get these covered medications?"
+    },
+    {
+      "question_id": 142,
+      "content_block_id": 45,
+      "question": "What are the steps involved in getting a prescription filled?"
+    },
+    {
+      "question_id": 143,
+      "content_block_id": 45,
+      "question": "When can patients get medications at a reduced cost?"
+    },
+    {
+      "question_id": 144,
+      "content_block_id": 45,
+      "question": "How long are prescriptions valid for?"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 298,
+      "content_block_id": 57,
+      "question": "What kind of help is available in Constanța for newcomers?",
+      "answer": "Newcomers in Constanța can find general information on managing in the city and important contacts like the Immigration Service and emergency numbers. There is a support program for accommodation, meals, and integration. Additionally, various organizations such as CNRR, AIDRom, ROUA Center, Constanta Regional Integration Center, Sensiblu Foundation, and Novapolis Association offer diverse support including social, legal, integration, and basic needs assistance.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 299,
+      "content_block_id": 57,
+      "question": "How can someone get around Constanța?",
+      "answer": "To travel within the city of Constanța, individuals can use the bus system.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Transportation'.",
+      "read_instruction": "read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 300,
+      "content_block_id": 57,
+      "question": "What resources are there for medical and psychological support?",
+      "answer": "For medical services, individuals can go to the Constanța Emergency County Clinical Hospital Sf Apostol Andrei, or its Pediatric Clinical Department for children, and a list of family doctors is available. Psychological support is offered by World Vision Romania, Terre des hommes Foundation, and The International Organization for Migration (IOM) in various languages. Additionally, Sens Pozitiv provides psycho-medical-social HIV services.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the section under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 301,
+      "content_block_id": 57,
+      "question": "What educational opportunities exist for newcomers in Constanța?",
+      "answer": "The Constanța County School Inspectorate provides information on enrolling Ukrainian students in Romanian pre-university education units and on studying the Romanian language and civilization. The ROUA Center offers Romanian language courses. AIDRom also provides support by covering the costs of participating in the national education system.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 302,
+      "content_block_id": 57,
+      "question": "How can people find housing and other support services in Constanța?",
+      "answer": "Information on housing is available through the support program for accommodation, meals, and integration in Constanța, as well as the 'Housing Info' section. Other support services are provided by organizations like AIDRom, ROUA Center, Constanta Regional Integration Center, Sensiblu Foundation, and Novapolis Association, covering needs such as social and legal advice, basic provisions, transport, and assistance for women and victims of domestic violence.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

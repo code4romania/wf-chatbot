@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 21,
+      "content_block_id": 56,
+      "question": "What kind of assistance is available in Timișoara?"
+    },
+    {
+      "question_id": 22,
+      "content_block_id": 56,
+      "question": "How can someone access support services?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 56,
+      "question": "What resources are there for education and transportation?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 56,
+      "question": "How can people find information about healthcare and legal matters?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 56,
+      "question": "When are these support services available?"
+    }
+  ]
+}

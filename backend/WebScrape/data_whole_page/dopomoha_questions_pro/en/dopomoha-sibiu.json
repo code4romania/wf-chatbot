@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 179,
+      "content_block_id": 66,
+      "question": "What kind of help is available in Sibiu for newcomers?"
+    },
+    {
+      "question_id": 180,
+      "content_block_id": 66,
+      "question": "What services are offered for refugees in Sibiu?"
+    },
+    {
+      "question_id": 181,
+      "content_block_id": 66,
+      "question": "How can I get involved with supporting refugees in Sibiu?"
+    },
+    {
+      "question_id": 182,
+      "content_block_id": 66,
+      "question": "What resources are available regarding education and healthcare in Sibiu?"
+    },
+    {
+      "question_id": 183,
+      "content_block_id": 66,
+      "question": "How can someone find housing and job support in Sibiu?"
+    }
+  ]
+}

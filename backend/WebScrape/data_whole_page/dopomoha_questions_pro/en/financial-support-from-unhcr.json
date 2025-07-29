@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 16,
+      "content_block_id": 18,
+      "question": "What help is available for refugees?"
+    },
+    {
+      "question_id": 17,
+      "content_block_id": 18,
+      "question": "How can refugees get this help?"
+    },
+    {
+      "question_id": 18,
+      "content_block_id": 18,
+      "question": "What are the requirements to receive assistance?"
+    },
+    {
+      "question_id": 19,
+      "content_block_id": 18,
+      "question": "When is this assistance available?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 18,
+      "question": "How does the application process work?"
+    }
+  ]
+}

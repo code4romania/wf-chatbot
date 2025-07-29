@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 235,
+      "content_block_id": 62,
+      "answer": "Assistance for newcomers includes information on managing in the new city, a support program for accommodation, meals, and integration, as well as support from various organizations. Help is also available for legal status, housing, and jobs.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 236,
+      "content_block_id": 62,
+      "answer": "For medical services, you can go to the County Emergency Clinical Hospital Brăila or find a list of family doctors. For public transportation, information is available on how and where to buy tickets.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the sections under 'Medical services' and 'Public transport in Brăila'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 237,
+      "content_block_id": 62,
+      "answer": "For children, resources are available for enrolling them in primary education, including details on required documents and information about the education system in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 238,
+      "content_block_id": 62,
+      "answer": "Information on legal matters can be found under 'Legal status', and details regarding housing are available under 'Housing Info'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the sections under 'Legal status' and 'Housing Info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 239,
+      "content_block_id": 62,
+      "answer": "Support services include a Women's Center for reproductive health, navigating the health system, and aid for victims of domestic violence. Additionally, free, anonymous, and confidential psycho-medical-social HIV services are offered through specialist doctors and Sens Pozitiv.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the sections under 'Women's Center' and 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

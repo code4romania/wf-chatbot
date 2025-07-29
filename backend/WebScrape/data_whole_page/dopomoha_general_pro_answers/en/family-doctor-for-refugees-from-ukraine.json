@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 145,
+      "content_block_id": 36,
+      "answer": "Refugees from Ukraine benefit from the basic service package, including medical assistance, medicines, and medical devices, similar to Romanian insured persons. Those in special situations are exempt from paying social health insurance contributions, personal contributions for outpatient medicines, and co-payment.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 146,
+      "content_block_id": 36,
+      "answer": "People fleeing the war in Ukraine benefit from the social health insurance system, receiving the basic service package and national curative health programs, similar to Romanian insured persons. Those in special situations are exempt from paying social health insurance contributions, personal contributions for outpatient medicines, and co-payment. They are assigned an identification number upon their first request for medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The rights granted by the Romanian social health insurance system to people fleeing the war in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 147,
+      "content_block_id": 36,
+      "answer": "The basic healthcare coverage includes medical services, medicines, and medical devices provided by a family doctor or specialist, either in ambulatory settings or in hospitals. Specifically, the primary medical care package covers curative, preventive, prophylactic, and home medical services, medication administration, and various diagnostic and therapeutic services provided by the family doctor based on their skills.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'The basic service package'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 148,
+      "content_block_id": 36,
+      "answer": "Refugees can access a family doctor as their first contact with the health system, and the doctor provides any medical service from the basic package without requiring prior registration on their list. Patients with chronic diseases can have one consultation per month, in office or remotely, on an appointment basis. Home consultations are also available for those who cannot move, children, or patients with certain infectious-contagious conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Family doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 149,
+      "content_block_id": 36,
+      "answer": "Refugees register for healthcare when they request medical services for the first time. Healthcare providers register them in an IT application provided by the National Health Insurance House to assign an identification number. This number is then printed and given to the patient, allowing them to use it at any medical unit in Romania without needing re-generation.",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

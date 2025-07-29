@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 215,
+      "content_block_id": 26,
+      "answer": "Vaccination is the only way to protect children from deadly infectious diseases and prevent dangerous complications, thereby preserving their health and life. It helps protect children, especially those with chronic illnesses, from severe infections. Multicomponent vaccines can also reduce the number of injections while providing protection against several infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 216,
+      "content_block_id": 26,
+      "answer": "The only way to protect against infectious diseases and prevent dangerous complications is to vaccinate children and adults.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 217,
+      "content_block_id": 26,
+      "answer": "Newborns should be vaccinated immediately against Hepatitis B and Tuberculosis (BCG) if available, or as soon as possible. If a child has missed scheduled vaccines, the schedule should be made up promptly. For example, rotavirus can be vaccinated from 6 to 24 weeks, pneumococci infection and flu from 6 months. Hepatitis B vaccination can start when a child weighs 2 kilograms or is 1 month old, and from two months, children should be vaccinated against diphtheria, tetanus, pertussis, polio, and other infections.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Calendar of mandatory vaccinations in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 218,
+      "content_block_id": 26,
+      "answer": "Common misconceptions include believing that missing a vaccination means starting all vaccinations over, that additional tests are needed before vaccination, or that chronic illnesses are a contraindication. It is also a misconception that vaccination can weaken or overload the immune system, as vaccine viruses are weakened and do not affect the immune system in that way.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 219,
+      "content_block_id": 26,
+      "answer": "The provided text states that vaccine viruses are so weakened that they cannot affect or overload the immune system. This allows vaccination to protect against disease without weakening the immune system, unlike actual infections, which place a much higher load on the immune system.",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

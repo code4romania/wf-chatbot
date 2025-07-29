@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 290,
+      "content_block_id": 47,
+      "question": "What medical services are available for people diagnosed with COVID-19?"
+    },
+    {
+      "question_id": 291,
+      "content_block_id": 47,
+      "question": "How can people access medical care and support for COVID-19 related issues?"
+    },
+    {
+      "question_id": 292,
+      "content_block_id": 47,
+      "question": "What support is provided for long-term effects or post-COVID-19 conditions?"
+    },
+    {
+      "question_id": 293,
+      "content_block_id": 47,
+      "question": "When can someone get vaccinated for COVID-19?"
+    },
+    {
+      "question_id": 294,
+      "content_block_id": 47,
+      "question": "How does health insurance coverage work for these services?"
+    }
+  ]
+}

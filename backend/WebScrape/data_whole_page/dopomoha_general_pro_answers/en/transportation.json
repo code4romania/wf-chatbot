@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 81,
+      "content_block_id": 12,
+      "answer": "The available assistance includes resources, food, products, clothing, tents, transportation, and volunteers. This support can be requested or offered.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 82,
+      "content_block_id": 12,
+      "answer": "You can find transportation options by checking train and bus/maxi taxi info through provided links, using ride-hailing apps like Free Now, Uber, or Bolt for taxis, or buying tickets at metro stations for subway travel.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Transport in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 83,
+      "content_block_id": 12,
+      "answer": "Evacuation resources include buses organized by ICF Gloria and Adra Ukraine from Odessa to Palanca, and free transfers from Ukraine to Romania via Moldova organized by the United Nations Refugee Agency (UNHCR) and the International Organization for Migration (IOM).",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the sections under 'Evacuation buses from Odessa to Palanka from ICF Gloria and Adra Ukraine Organization' and 'Free transfer from Ukraine to Romania via Moldova'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 84,
+      "content_block_id": 12,
+      "answer": "You can help those in need by offering resources, food, products, clothing, tents, transportation, or by volunteering through the Sprijin de Urgență initiative.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 85,
+      "content_block_id": 12,
+      "answer": "Evacuation buses from Odessa to Palanca run every Monday and Thursday. For other transportation services like trains, buses, taxis, or the subway, specific general availability times are not provided, but you can find routes and timetables via the listed resources.",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

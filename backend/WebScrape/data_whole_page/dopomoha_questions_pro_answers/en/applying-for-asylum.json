@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 120,
+      "content_block_id": 7,
+      "question": "What is asylum?",
+      "answer": "Asylum is a form of protection that allows a foreigner who cannot return to their country of origin to remain in Romania. This applies to individuals who fear persecution, serious human rights violations, or armed conflict.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 121,
+      "content_block_id": 7,
+      "question": "How can someone apply for asylum?",
+      "answer": "Someone can apply for asylum either in writing or verbally. Applications can be made directly at a border crossing point or anywhere in Romania if they entered as a migrant. It is not possible to apply for asylum from outside the territory of Romania.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 122,
+      "content_block_id": 7,
+      "question": "What happens during the asylum process?",
+      "answer": "During the asylum process, an asylum seeker receives an application form, submits all available relevant documents, and receives a temporary identity document from the General Inspectorate for Immigration (IGI). The IGI will then schedule preliminary and secondary interviews to determine a form of protection, conducted with an official and a translator.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 123,
+      "content_block_id": 7,
+      "question": "When can someone expect a decision on their asylum application?",
+      "answer": "Asylum applications in Romania are evaluated and resolved by the General Inspectorate for Immigration (IGI) and are normally processed within one to two months.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 124,
+      "content_block_id": 7,
+      "question": "How can someone get help or support during the asylum process?",
+      "answer": "During the asylum process, specifically at the interviews, an applicant may request the participation of a CNRR legal advisor or a UNHCR representative for support.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

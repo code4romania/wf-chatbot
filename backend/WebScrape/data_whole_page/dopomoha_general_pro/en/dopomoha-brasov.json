@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 76,
+      "content_block_id": 55,
+      "question": "What kind of assistance is available in Brașov?"
+    },
+    {
+      "question_id": 77,
+      "content_block_id": 55,
+      "question": "How can someone access support services?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 55,
+      "question": "What resources are there for healthcare and education?"
+    },
+    {
+      "question_id": 79,
+      "content_block_id": 55,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 80,
+      "content_block_id": 55,
+      "question": "How does transportation work in the city?"
+    }
+  ]
+}

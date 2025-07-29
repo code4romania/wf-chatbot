@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 165,
+      "content_block_id": 14,
+      "question": "What are the ways to enter Romania?",
+      "answer": "The main ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker. You can also apply for asylum within Romania at a later point.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 166,
+      "content_block_id": 14,
+      "question": "How can someone get support in other European countries?",
+      "answer": "Support in other European countries can be obtained by contacting hotlines and visiting websites for Poland, Moldova, Hungary, and The Slovak Republic. Specific hotlines and URLs are provided for each country.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'For support in other European countries'.",
+      "read_instruction": "read the section under 'For support in other European countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 167,
+      "content_block_id": 14,
+      "question": "What are the different types of protection available in Romania?",
+      "answer": "The types of protection available in Romania include temporary protection, which is for people fleeing the war in Ukraine, and asylum, which allows a foreigner who cannot return to their country of origin to remain in Romania.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 168,
+      "content_block_id": 14,
+      "question": "When does temporary protection in Romania expire?",
+      "answer": "If you are a beneficiary of temporary protection in Romania, your permit is automatically valid until 03/04/2026, and you do not need to apply for an extension.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "read_instruction": "read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

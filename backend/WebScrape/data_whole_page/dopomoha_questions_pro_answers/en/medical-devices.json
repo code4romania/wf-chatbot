@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 26,
+      "content_block_id": 46,
+      "question": "What medical devices are covered?",
+      "answer": "The basic package for medical devices includes ENT prosthetic devices, ostomy prosthetic devices, urinary retention and/or incontinence devices, limb prostheses, spine or limb orthoses, footwear orthopedics, devices for visual impairment, equipment for oxygen therapy and non-invasive ventilation, devices for aerosol therapy, walking devices, and external breast prostheses.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 27,
+      "content_block_id": 46,
+      "question": "How can someone obtain these medical devices?",
+      "answer": "The patient, a first or second degree relative, spouse, or legal representative submits an application with required documents to the health insurance house. Upon acceptance, an approval decision is issued. With this decision and the medical prescription, they contact a contracted provider to obtain the device.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "read_instruction": "read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 28,
+      "content_block_id": 46,
+      "question": "What are the eligibility requirements for getting medical devices?",
+      "answer": "Medical devices are given to patients based on a medical prescription issued by a doctor in contractual relation with the health insurance house. Beneficiaries of Emergency Ordinance no.15/2022 from the armed conflict in Ukraine are also eligible and are not requested any personal contribution.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 29,
+      "content_block_id": 46,
+      "question": "When do medical prescriptions expire?",
+      "answer": "Medical prescriptions lose their validity if they are not submitted to the health insurance company within 30 days from the date of issue.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 30,
+      "content_block_id": 46,
+      "question": "How are costs for these devices handled?",
+      "answer": "For certain medical devices with prices higher than those settled by CNAS, the insured person may need to cover an additional amount. However, beneficiaries from the armed conflict zone in Ukraine, under Emergency Ordinance no.15/2022, are not requested any personal contribution.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

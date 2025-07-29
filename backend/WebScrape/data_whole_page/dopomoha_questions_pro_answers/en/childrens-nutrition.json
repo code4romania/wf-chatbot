@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 11,
+      "content_block_id": 25,
+      "question": "What are the benefits of breastfeeding, especially during emergencies?",
+      "answer": "Breastfeeding strengthens a child's immunity and provides essential physical contact, helping them feel safe during emergencies. It is the most convenient and safest way to feed a child, and mothers can continue to breastfeed effectively even with an unbalanced diet. In the absence of other food, breast milk can exclusively sustain a child under two years old to save their life.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Breastfeeding'.",
+      "read_instruction": "read the section under 'Breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 12,
+      "content_block_id": 25,
+      "question": "How can I ensure my child gets proper nutrition in difficult situations?",
+      "answer": "Ensuring proper nutrition involves continuing breastfeeding for babies, as it provides all necessary substances. If breastfeeding is not possible, babies under 6 months can be fed ready-to-use liquid formula, while children older than 6 months can have animal milk and complementary foods. For small children, stock up on instant cereals, mashed meats, fish, and vegetables, and always ensure access to clean drinking water.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 13,
+      "content_block_id": 25,
+      "question": "What are some essential food and water supplies to have on hand?",
+      "answer": "It is important to have a 2-3 day supply of clean drinking water stored in closed containers, and to disinfect it if stored for a long time. Essential food supplies include ready-to-eat items like bread, cookies, crackers, canned foods, nuts, seeds, dried fruits, and energy bars. For young children, instant cereals and ready-made purees of meat, fish, and vegetables are recommended.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Water'.",
+      "read_instruction": "read the section under 'Water'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 14,
+      "content_block_id": 25,
+      "question": "How can I support breastfeeding if it is challenging or if I have to express milk?",
+      "answer": "If your baby is not with you, continue to drain milk with your hands or a pump at least 8 times a day into a clean, closed container, feeding it from a spoon or cup. To restore lactation, frequently put the baby to the breast, drink more water, massage your neck, get enough rest, take a warm shower, and try to eat well. For persistent difficulties, seek guidance from the Support for refugee women program.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "read_instruction": "read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 15,
+      "content_block_id": 25,
+      "question": "When should I seek professional help with breastfeeding or infant nutrition?",
+      "answer": "You should seek professional help if you experience difficulties with breastfeeding or cannot restore lactation. In cases of total food absence or allergic reactions, contact the nearest maternity or children's hospital for assistance. Additionally, the Romanian Association of Consultants in Lactation and the Association of Independent Midwives offer free phone and online consultations for breastfeeding women and mothers with infants.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Difficulties with breastfeeding?'.",
+      "read_instruction": "read the section under 'Difficulties with breastfeeding?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

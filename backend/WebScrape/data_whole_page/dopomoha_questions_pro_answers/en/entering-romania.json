@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 208,
+      "content_block_id": 1,
+      "question": "What are the ways to enter Romania?",
+      "answer": "You can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. Additionally, you can apply for asylum within Romania at a later point. Ukrainian nationals without documents can also enter by asking for asylum at the border.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 209,
+      "content_block_id": 1,
+      "question": "How can Ukrainian nationals enter Romania?",
+      "answer": "Ukrainian nationals can enter Romania on a short stay status by presenting a valid passport or be granted temporary protection. If a passport is not available, entry is allowed by asking for asylum at the border. All children from Ukraine are accepted, and men between 18 and 60 can enter if they meet the conditions for leaving Ukraine.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 210,
+      "content_block_id": 1,
+      "question": "What are the rules for bringing pets into Romania?",
+      "answer": "You can bring an animal even if it is not vaccinated against rabies or not identified with a microchip/tattoo. As the owner, you must fill in the Pet Location Form and complete all formalities and procedures after entering Romania.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Animals'.",
+      "read_instruction": "read the section under 'Animals'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 211,
+      "content_block_id": 1,
+      "question": "How can I get help or support at the border?",
+      "answer": "NGOs are available at the border crossings to assist people with food and guidance. For questions regarding access into Romania, you can contact the National Council for Refugees (CNRR) at +40 730 073 170.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "read_instruction": "read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

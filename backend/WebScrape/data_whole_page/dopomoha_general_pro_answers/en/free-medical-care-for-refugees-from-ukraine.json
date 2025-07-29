@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 61,
+      "content_block_id": 33,
+      "answer": "The International Organization for Migration in Romania (IOM Romania) provides free medical care to Ukrainians and refugees from other countries. This includes free consultations with a family doctor, psychologist, and gynecologist.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 62,
+      "content_block_id": 33,
+      "answer": "Services are provided at RomExpo, which is the center of assistance for refugees from Ukraine. To access a doctor, you must first make an appointment with the IOM representatives located in the RomExpo office.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 63,
+      "content_block_id": 33,
+      "answer": "The services are available Monday through Friday, from 9:00 AM to 5:00 PM.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 64,
+      "content_block_id": 33,
+      "answer": "RomExpo is located at Meresti Boulevard 65-67, Bucharest 011465, phone number: 0212077000. The IOM phone number for Pavilion G-7 is +40 21 – 210.30.50. More information can be found at https://romania.iom.int/.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 65,
+      "content_block_id": 33,
+      "answer": "To get an appointment with a doctor, you must first make an appointment with the IOM representatives. Their office is located within RomExpo.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

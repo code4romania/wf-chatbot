@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 140,
+      "content_block_id": 45,
+      "answer": "Compensated medicines are drugs reimbursed by the Health Fund and covered by the National Health and Welfare Fund, issued based on an electronic or special medical prescription. Only drugs included in the Government's approved List of compensated drugs can be prescribed and financially covered within the social health insurance system.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 141,
+      "content_block_id": 45,
+      "answer": "Compensated medicines are prescribed by family or specialist doctors under contract with a health insurance house, either via electronic or special medical prescriptions. Patients receive a copy or digital document to submit to the pharmacy. Medicines are dispensed by community pharmacies that have contracts with health insurance houses, regardless of the patient's or doctor's specific insurance company.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 142,
+      "content_block_id": 45,
+      "answer": "Health insurance, through the National Health and Welfare Fund and health insurance houses, reimburses and financially covers compensated medicines. These are only for drugs included in the List of compensated drugs approved by Government Decision, and are dispensed by pharmacies under contract with health insurance houses.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensated medicine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 143,
+      "content_block_id": 45,
+      "answer": "Medications are covered for conditions found in the 'Summary of product characteristics' or therapeutic protocols. Prescriptions for acute conditions are valid for up to 48 hours and can prescribe for up to 7 days. For chronic conditions, prescriptions are valid for a maximum of 30 days and can prescribe for 30-31 days, or up to 90/91/92 days for stabilized cases, with a maximum validity of 92 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 144,
+      "content_block_id": 45,
+      "answer": "The maximum amount covered by health insurance corresponds to the drug reimbursement percentage of the prescribed price. Compensation levels depend on the medicinal product's classification, with percentages being 90% for sublist A, 50% for sublist B, 100% for sublist C, and 20% for sublist D International Common Names.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

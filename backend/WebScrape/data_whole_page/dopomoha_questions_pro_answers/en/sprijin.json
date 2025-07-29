@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 50,
+      "content_block_id": 16,
+      "question": "What kind of help is available for refugees?",
+      "answer": "Refugees can access various types of help, including specialized medical assistance, temporary accommodation, job opportunities, and education rights. Support is also available for legal aid, transportation, language courses, mental health services, and for drug users. Additionally, information on organizations providing general assistance and emergency support is available.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 51,
+      "content_block_id": 16,
+      "question": "How can I support refugees coming to Romania?",
+      "answer": "You can support refugees by helping with food, products, clothing, transportation, or by volunteering to help vulnerable people. It is also possible to provide a space for temporary accommodation or to offer resources such as food, products, clothing, tents, transportation, or volunteers through the 'Sprijin de Urgență' initiative.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 52,
+      "content_block_id": 16,
+      "question": "What resources are available for finding jobs and housing?",
+      "answer": "For housing, support is available to find temporary accommodation, and you can access 'Un Acoperiș!' to ask for housing. For jobs, you can find out how and where to find suitable job opportunities.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the sections under 'Housing' and 'Jobs'.",
+      "read_instruction": "read the sections under 'Housing' and 'Jobs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 53,
+      "content_block_id": 16,
+      "question": "How can I access education and healthcare services?",
+      "answer": "To access healthcare, if you need specialized medical assistance or suffer from a rare or chronic condition, you can find out where to ask for help under the 'Health' section. For education, information is provided on rights to education in Romania for Ukrainians, including how to enroll children in school, kindergarten, or extracurricular activities, and details about Ukrainian schools.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the sections under 'Health' and 'Education'.",
+      "read_instruction": "read the sections under 'Health' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 54,
+      "content_block_id": 16,
+      "question": "What are the transportation options available?",
+      "answer": "If you need transportation or technical assistance for your vehicle in an emergency situation, you can find out how to get help. Transportation is also listed as a resource that can be requested or provided as part of 'Sprijin de Urgență' (Emergency Support).",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the section under 'Transport'.",
+      "read_instruction": "read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 245,
+      "content_block_id": 20,
+      "question": "What kind of medical support is available for people fleeing conflict?"
+    },
+    {
+      "question_id": 246,
+      "content_block_id": 20,
+      "question": "What resources are there for children affected by war?"
+    },
+    {
+      "question_id": 247,
+      "content_block_id": 20,
+      "question": "How can people access these services?"
+    },
+    {
+      "question_id": 248,
+      "content_block_id": 20,
+      "question": "What help is available for specific health conditions?"
+    },
+    {
+      "question_id": 249,
+      "content_block_id": 20,
+      "question": "When can people access these services?"
+    }
+  ]
+}

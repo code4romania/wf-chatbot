@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 56,
+      "content_block_id": 42,
+      "answer": "These services encompass medical recovery, physical medicine, and rehabilitation, including specific procedures like physiotherapy, hydrotherapy, massage, aerosols, mineral baths, natural skunks, and mud wraps.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 57,
+      "content_block_id": 42,
+      "answer": "Medical recovery, physical medicine, and rehabilitation services are provided to insured persons on either an outpatient or an inpatient basis.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 58,
+      "content_block_id": 42,
+      "answer": "Outpatient physical medicine and rehabilitation services are provided in treatment bases, within the clinical specialty of physical medicine and rehabilitation. These services include specific procedures such as physiotherapy, hydrotherapy, and massage, with some like mineral baths exclusively performed in balneo-climatic resorts. Patients can receive a maximum of 4 procedures per day for up to 21 days per year.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 59,
+      "content_block_id": 42,
+      "answer": "Patients have the right to specific physical medicine and outpatient rehabilitation procedures for a maximum period of 21 days per year per insured person. However, children aged 0-18 with a confirmed diagnosis of cerebral palsy can benefit for a maximum of 42 days per year.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the section under 'Outpatient Physical Medicine and Rehabilitation in Treatment Bases'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 60,
+      "content_block_id": 42,
+      "answer": "These services are granted to insured persons according to a Plan of specific physical medicine and rehabilitation procedures. This plan, including the periods and flow of procedures, is established by a physical medicine and rehabilitation specialist.",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

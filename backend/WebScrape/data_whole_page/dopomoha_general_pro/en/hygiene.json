@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 46,
+      "content_block_id": 29,
+      "question": "What are some basic hygiene practices to protect health?"
+    },
+    {
+      "question_id": 47,
+      "content_block_id": 29,
+      "question": "How can hygiene be maintained with limited resources?"
+    },
+    {
+      "question_id": 48,
+      "content_block_id": 29,
+      "question": "What are some alternatives for essential hygiene products?"
+    },
+    {
+      "question_id": 49,
+      "content_block_id": 29,
+      "question": "How can water be conserved during a crisis?"
+    },
+    {
+      "question_id": 50,
+      "content_block_id": 29,
+      "question": "When should hand hygiene be practiced?"
+    }
+  ]
+}

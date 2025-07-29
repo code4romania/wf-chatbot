@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 189,
+      "content_block_id": 65,
+      "question": "What are cookies used for?",
+      "answer": "Cookies are used to facilitate access and delivery of services by personalizing settings, making websites more effective, and enhancing online advertising. They also help embed multimedia content and improve navigation. This website specifically uses them for visitor analysis and to track application success or customize applications. They store important information that improves the Internet browsing experience.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 190,
+      "content_block_id": 65,
+      "question": "How do cookies work?",
+      "answer": "Cookies are small files, a succession of letters and numbers, stored on any internet-accessing terminal upon a request from a server to a browser. They consist of a name and content, with a limited existence, and can be accessed again by the webserver when a user returns to the associated website. This allows a website to recognize a browser and react accordingly, storing information until the cookie expires or is deleted.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 191,
+      "content_block_id": 65,
+      "question": "What are the potential risks of cookies?",
+      "answer": "While not viruses, cookies can be used as a form of spyware because they store information about users' preferences and browsing history across multiple sites. Information contained in cookies can be intercepted if an attacker intervenes during data transmission over an unencrypted network. Additionally, attackers can exploit misset cookies on servers to trick browsers into sending information over unsecured channels, gaining unauthorized access to certain websites.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "read_instruction": "read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 192,
+      "content_block_id": 65,
+      "question": "How can I manage my cookie settings?",
+      "answer": "You can manage cookies by setting your browser to either not accept them or to accept them only from a specific site. All modern browsers offer the possibility to change cookie settings, typically found in their 'options' or 'preferences' menu. You can customize these settings to reflect your desired cookie security level, including deleting individual browsing data each time you close the browser.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'How can I stop cookies?'.",
+      "read_instruction": "read the section under 'How can I stop cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

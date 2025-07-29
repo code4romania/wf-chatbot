@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 319,
+      "content_block_id": 13,
+      "answer": "Regional Centres for Accommodation and Procedures for Asylum Seekers provide services related to accommodation and procedures for asylum seekers.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 320,
+      "content_block_id": 13,
+      "answer": "The provided content lists various regional centers and offices related to immigration and asylum procedures, but it does not detail the specific regional procedures themselves.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 321,
+      "content_block_id": 13,
+      "answer": "Contact can be made via phone numbers and email addresses provided for various immigration offices and regional centers across different parts of Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 322,
+      "content_block_id": 13,
+      "answer": "The content mentions \"Regional Centre for Accommodation and Procedures for Asylum Seekers\" but does not outline the general process or specific steps involved in seeking asylum.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 323,
+      "content_block_id": 13,
+      "answer": "The content provides detailed addresses for numerous immigration offices and Regional Centres for Accommodation and Procedures for Asylum Seekers throughout Bucharest and various counties in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

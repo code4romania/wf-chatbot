@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 115,
+      "content_block_id": 60,
+      "answer": "Newcomers in Cluj-Napoca can find information on managing in the city and access support programs for accommodation, meals, and integration. Essential services like medical care, psychological support, and public transportation are available. Additionally, organizations such as Sensiblu Foundation and PATRIR offer social counseling, legal advice, protection, and assistance with housing and job searching.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'The support program for accommodation, meals and integration in Cluj-Napoca'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 116,
+      "content_block_id": 60,
+      "answer": "For healthcare, individuals can contact the Clinical Emergency Hospital in Napoca Cluj, find a list of family doctors, or learn more about healthcare in Romania, including specific services like counseling for people living with HIV. For transportation, public transport in Cluj can be used for free by showing an ID during a check.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 117,
+      "content_block_id": 60,
+      "answer": "Resources for legal, housing, and job assistance are mentioned under specific sections like 'Legal status', 'Housing Info', and 'Jobs Support'. The Sensiblu Foundation offers legal advice and representation in court, while PATRIR provides protection and assistance. Additionally, the support program for accommodation, meals, and integration addresses housing needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Legal status'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 118,
+      "content_block_id": 60,
+      "answer": "Refugees can find psychological support from the International Organization for Migration (IOM) by contacting Boanca Simona, or from World Vision Romania by contacting George Macarie. For social support, the Sensiblu Foundation offers social counseling, while PATRIR provides psychosocial support and promotes the well-being and inclusiveness of the Ukrainian refugee community.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 119,
+      "content_block_id": 60,
+      "answer": "The provided content does not specify the operating hours, days, or availability times for any of the listed support services in Cluj-Napoca.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

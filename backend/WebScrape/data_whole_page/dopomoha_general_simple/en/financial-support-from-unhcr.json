@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 14,
+      "content_block_id": 18,
+      "question": "What is the financial assistance program about?"
+    },
+    {
+      "question_id": 15,
+      "content_block_id": 18,
+      "question": "How can someone apply for assistance?"
+    },
+    {
+      "question_id": 16,
+      "content_block_id": 18,
+      "question": "What are the requirements to receive help?"
+    },
+    {
+      "question_id": 17,
+      "content_block_id": 18,
+      "question": "How is the financial aid distributed?"
+    },
+    {
+      "question_id": 18,
+      "content_block_id": 18,
+      "question": "When are the enrollment locations open?"
+    }
+  ]
+}

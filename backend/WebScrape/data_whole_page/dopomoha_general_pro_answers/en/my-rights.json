@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 205,
+      "content_block_id": 2,
+      "answer": "If you are a beneficiary of temporary protection, you have rights including a document to remain, employment, and access to state education if under 18. If you are an asylum seeker, your rights include legal counseling, a temporary identification document, accommodation if needed, and free basic medical assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections under 'My rights as a beneficiary of temporary protection' and 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 206,
+      "content_block_id": 2,
+      "answer": "You can obtain legal status in Romania by obtaining temporary protection, with a short-stay right, or as an asylum seeker. It is also possible to apply for asylum within Romania at a later point.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 207,
+      "content_block_id": 2,
+      "answer": "Support services include food, clothing, personal hygiene products, and primary health care provided in temporary accommodation. Resources like food, products, clothing, and transportation can be requested via sprijindeurgenta.ro, while temporary accommodation support is available through unacoperis.ro. Ukrainian pensioners living abroad can also undergo remote verification for pension payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections under 'Social services', 'Accommodation', 'Pension', 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 208,
+      "content_block_id": 2,
+      "answer": "Beneficiaries of temporary protection can be hired based on a residence permit without a notice of employment or visa. Those with a short-stay status need to apply for a work permit. Asylum seekers can work after acquiring refugee status or three months after their asylum application if no decision has been taken.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections under 'The right to work', 'Work', and 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 209,
+      "content_block_id": 2,
+      "answer": "Children under temporary protection or asylum seeker status have access to state education, including free resources and Romanian language courses. Higher education is also available for Ukrainian citizens, potentially with state funding. For healthcare, individuals from the conflict zone in Ukraine receive medical services, supplies, and medicines like insured Romanian citizens, without contributions or co-payment. Asylum seekers also receive free basic and emergency medical assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections under 'The right for education', 'Medical assistance', 'Education', and 'Access to education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

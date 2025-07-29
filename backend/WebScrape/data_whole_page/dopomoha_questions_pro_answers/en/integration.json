@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 278,
+      "content_block_id": 69,
+      "question": "What kind of help is available for Ukrainian refugees in Romania?",
+      "answer": "Ukrainian refugees in Romania can receive vocational integration services, job search assistance, and long-term employment support, which includes mental health services, language courses, and assistance with work permits. Support is also available for entrepreneurship, youth integration, and general economic employment.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 279,
+      "content_block_id": 69,
+      "question": "What job resources exist for Ukrainians in Romania?",
+      "answer": "Job resources include vocational integration services from Hands Across Romania, job search seminars from Jobs4Ukraine, and long-term employment support from the NESsT Refugee Employment Initiative. Additional assistance is provided by BERD for employment and entrepreneurship, The ANAIS organization for economic employment, Youth Center of the National Youth Foundation for job search, and HEKS EPER for comprehensive employment support.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 280,
+      "content_block_id": 69,
+      "question": "How can Ukrainian refugees get involved in Romanian culture and society?",
+      "answer": "Ukrainian refugees can get involved through the Youth Center of the National Youth Foundation, which helps integrate young Ukrainians by organizing events. They can also access the IOM \"Cultural orientation - Romania\" guide and find information on language courses, events, and cultural activities. Opportunities include attending the Animest festival, visiting the Hungarian Theater in Cluj, or exploring the National Museum of Rumanian Literature.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 281,
+      "content_block_id": 69,
+      "question": "What support is there for Ukrainian businesses in Romania?",
+      "answer": "The BERD - Banca Europeană pentru Reconstrucție & Dezvoltare project offers support for Ukrainian businesses in Romania. This includes business consulting and grant funding specifically for companies founded by Ukrainians in Romania or for Ukrainian enterprises wishing to relocate there.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'BERD - Banca Europeană pentru Reconstrucție & Dezvoltare support for SMEs'.",
+      "read_instruction": "read the section under 'BERD - Banca Europeană pentru Reconstrucție & Dezvoltare support for SMEs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 282,
+      "content_block_id": 69,
+      "question": "How can I learn more about Romanian culture and customs?",
+      "answer": "You can learn more about Romanian culture and customs through the \"Cultural orientation - Romania\" guide created by IOM Romania. This resource provides information on culture, customs, legislation, and other important aspects of life in Romania to help with adaptation and integration.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Guide from IOM \"Cultural orientation - Romania\"'.",
+      "read_instruction": "read the section under 'Guide from IOM \"Cultural orientation - Romania\"'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

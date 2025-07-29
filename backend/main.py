@@ -1,6 +1,4 @@
 # main.py
-import os
-
 from fastapi import FastAPI, Depends, HTTPException, status
 from pydantic import BaseModel, Field
 from typing import List, Optional
@@ -21,14 +19,10 @@ from database import SessionLocal, create_db_and_tables, UserQuery, UserReview
 BASE_DATA_PATH = "./WebScrape/data_whole_page"
 LANGUAGE = "en"
 
-# The address of your frontend application, default to localhost if not set
-FRONTEND_ADDRESS = os.environ.get("FRONTEND_ADDRESS", "http://localhost:3000")
-
 # --- Global PromptMatcher Instances ---
 # We'll initialize these once when the application starts
-prompt_matcher_concat: Optional[PromptMatcher] = None
-prompt_matcher_no_concat: Optional[PromptMatcher] = None
-
+prompt_matcher: Optional[PromptMatcher] = None
+concat_QA= True
 
 CITY_LIST = [
         "braila", "brasov", "cluj-napoca", "constanta", "galati",
@@ -42,23 +36,15 @@ async def lifespan(app: FastAPI):
     Handles startup and shutdown events for the FastAPI application.
     Initializes the PromptMatcher and creates database tables.
     """
-    global prompt_matcher_concat, prompt_matcher_no_concat
+    global prompt_matcher
     logging.info("Starting up API...")
     try:
         logging.info(f"Initializing PromptMatcher (concat=True) with data path: {BASE_DATA_PATH}")
-        prompt_matcher_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=True, city_names= CITY_LIST)
-        if prompt_matcher_concat.full_df is None or prompt_matcher_concat.full_vectors is None:
+        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=concat_QA, city_names= CITY_LIST)
+        if prompt_matcher.full_df is None or prompt_matcher.full_dense_vectors is None or prompt_matcher.full_sparse_vectors is None:
             logging.warning("PromptMatcher (concat=True) initialized but no data was loaded. Check data path and files.")
         else:
-            logging.info(f"PromptMatcher (concat=True) successfully loaded {len(prompt_matcher_concat.full_df)} data entries.")
-
-        logging.info(f"Initializing PromptMatcher (concat=False) with data path: {BASE_DATA_PATH}")
-        prompt_matcher_no_concat = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=False, city_names= CITY_LIST)
-        if prompt_matcher_concat.full_df is None or prompt_matcher_concat.full_vectors is None:
-            logging.warning("PromptMatcher (concat=False) initialized but no data was loaded. Check data path and files.")
-        else:
-            logging.info(f"PromptMatcher (concat=False) successfully loaded {len(prompt_matcher_no_concat.full_df)} data entries.")
-
+            logging.info(f"PromptMatcher (concat=True) successfully loaded {len(prompt_matcher.full_df)} data entries.")
     except FileNotFoundError as e:
         logging.error(f"Failed to initialize PromptMatcher: {e}. Please check BASE_DATA_PATH.")
         raise
@@ -84,7 +70,7 @@ app = FastAPI(
 
 # CORS
 origins = [
-    FRONTEND_ADDRESS,  # Your Nuxt.js frontend development server's address
+    "http://localhost:3000",  # Your Nuxt.js frontend development server's address
     # You might add other origins for production deployment later, e.g.:
     # "https://your-production-frontend.com",
 ]
@@ -112,7 +98,6 @@ def get_db():
 class QueryRequest(BaseModel):
     query: str
     top_k: int = Field(default=1, ge=1, le=10)  # Get between 1 and 10 results
-    metric: str = "cosine"  # "cosine" or "euclidean"
     session_id: Optional[str] = None  # Allow client to provide session ID
     use_concat_matcher: bool = Field(default=True, description="Whether to use the matcher with concatenated Q&A (True) or separate Q&A (False).")
 
@@ -122,7 +107,6 @@ class MatchedResponse(BaseModel):
     response: str
     instruction: str
     score: float
-    metric: str
     question_id: int
     answer_id: int
 
@@ -159,21 +143,17 @@ async def root():
 @app.post("/query", response_model=QueryResponse)
 async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
     # Select the appropriate PromptMatcher instance
-    if request.use_concat_matcher:
-        current_prompt_matcher = prompt_matcher_concat
-        concat_option_active = True
-    else:
-        current_prompt_matcher = prompt_matcher_no_concat
-        concat_option_active = False
 
-    if current_prompt_matcher is None or current_prompt_matcher.full_df is None or current_prompt_matcher.full_vectors is None:
+
+    if prompt_matcher.full_df is None or prompt_matcher.full_dense_vectors is None or prompt_matcher.full_sparse_vectors is None:
         raise HTTPException(
             status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
             detail="Selected PromptMatcher is not initialized or data is not loaded yet. Please try again later.",
         )
 
     try:
-        results = await current_prompt_matcher.query(user_prompt=request.query, metric=request.metric, top_k=request.top_k)
+        #TODO Make me async
+        results = prompt_matcher.query(user_prompt=request.query, top_k=request.top_k)
 
         # Ensure results is always a list for consistent processing
         if not isinstance(results, list):
@@ -187,7 +167,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
             session_id=request.session_id if request.session_id else None,  # Use provided or let DB generate
             query_text=request.query,
             returned_answer_ids=returned_answer_ids,
-            concat_option_active=concat_option_active, # Store the option used
+            concat_option_active=concat_QA, # Store the option used
         )
         db.add(user_query_db)
         db.commit()
@@ -200,6 +180,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
             query_id=user_query_db.id,
         )
     except ValueError as e:
+        print(e)
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
     except Exception as e:
         logging.error(f"Error during query processing: {e}")

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 335,
+      "content_block_id": 4,
+      "question": "What transportation options are covered?",
+      "answer": "The website covers information on train routes and timetables, bus and maxi-taxi routes and timetables, and recommendations for using ride-hailing apps like Free Now, Uber, or Bolt for taxis. It also mentions a free public rescue service called Rescue 4x4.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info'.",
+      "read_instruction": "read the section under 'Transport Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 336,
+      "content_block_id": 4,
+      "question": "What kind of help is available for refugees?",
+      "answer": "Support is available for Ukrainian children with cancer, individuals needing HIV treatment, and refugees with rare diseases. Financial services for Ukrainian passport holders are offered by BCR bank, including UAH-RON exchange and fee-free transactions/accounts. Additionally, there are Regional Centers for Procedures and Accommodation for Asylum Seekers, platforms for requesting/offering resources (Sprijin de Urgență), and temporary accommodation (Un Acoperiș).",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 337,
+      "content_block_id": 4,
+      "question": "How can I get in touch with emergency services?",
+      "answer": "You can call the single emergency telephone number 112, available nationwide, and state in Romanian or English that you are a Ukrainian refugee. Alternatively, you can use the Apel 112 App, which automatically transmits geographic coordinates if you have an active data connection. Rescue 4x4 is also a free public rescue service for special emergency situations.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Useful contacts'.",
+      "read_instruction": "read the section under 'Useful contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 338,
+      "content_block_id": 4,
+      "question": "What information is provided about Romanian businesses and services?",
+      "answer": "The website provides details on typical opening hours for shopping malls, general shops, department stores, food stores, and offices. It also lists common pharmacy hours and notes that some are open 24 hours. Information on main mobile phone providers (Orange, Telekom, Vodafone) and local SIM cards is included, along with details about the Romanian leu currency and specific banking services offered by BCR for Ukrainian citizens.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 339,
+      "content_block_id": 4,
+      "question": "When are the public holidays in Romania?",
+      "answer": "The legal public holidays for 2023 in Romania are January 1-2 (New Year), January 24 (Day of the Unification), April 22 (Good Friday), April 24-25 (Orthodox Easter), May 1 (Labor Day), June 1st (Children's day), June 12-13 (Orthodox Pentecost), August 15 (Assumption), November 30 (Saint Andrew), and December 1 (Romania's National Day), and December 25-26 (Christmas). If these holidays fall during the week, the Government offers a day off.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Opening hours'.",
+      "read_instruction": "read the section under 'Opening hours'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 231,
+      "content_block_id": 62,
+      "question": "What kind of help is available in Brăila for newcomers?",
+      "answer": "Newcomers in Brăila can find information on managing in a new city and who can help them. This includes important contacts like the Brăila County Immigration Office and emergency numbers, as well as support programs for accommodation, meals, and integration. Services also cover public transport, medical needs, education, legal status, housing, jobs, and specific support for women and people living with HIV.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 232,
+      "content_block_id": 62,
+      "question": "How can I get around Brăila using public transport?",
+      "answer": "The website indicates that you can find out how and where to buy tickets for public transport in Brăila. However, the specific details on how to get around or purchase tickets are not provided directly on this page.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Public transport in Brăila'.",
+      "read_instruction": "read the section under 'Public transport in Brăila'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 233,
+      "content_block_id": 62,
+      "question": "What resources are there for healthcare and education in Brăila?",
+      "answer": "For healthcare, you can go to the County Emergency Clinical Hospital Brăila, and a list of family doctors in Brăila is available, along with information about healthcare in Romania. For education, you can find details on how to enroll children in primary education, including required documents, and more about the education system in Romania.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the sections under 'Medical services' and 'Education'.",
+      "read_instruction": "read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 234,
+      "content_block_id": 62,
+      "question": "What support services are offered by organizations in Brăila?",
+      "answer": "You can explore a map to find support from service providers near you. Specific organizational support mentioned includes the Women's Center for reproductive health, navigating the health system, and services for victims of domestic violence. Additionally, free, anonymous, and confidential psycho-medical-social HIV services are offered by specialist doctors and Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 235,
+      "content_block_id": 62,
+      "question": "How can I find housing and job support in Brăila?",
+      "answer": "The provided information lists 'Housing Info' and 'Jobs Support' as available categories of assistance in Brăila. However, it does not specify how to access or find these services directly on this page.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the sections under 'Housing Info' and 'Jobs Support'.",
+      "read_instruction": "read the sections under 'Housing Info' and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

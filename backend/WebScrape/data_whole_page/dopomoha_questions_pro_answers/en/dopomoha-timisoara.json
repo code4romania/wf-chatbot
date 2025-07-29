@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 21,
+      "content_block_id": 56,
+      "question": "What kind of help is available in Timișoara?",
+      "answer": "Help available in Timișoara includes important contacts for immigration and emergencies, support for accommodation, meals, and integration, medical and psychological services, and information on transportation and education. Various organizations like The LOGS Association, FITT, Save the Children, The Union of Ukrainians in Romania, and SCOP also offer social, legal, financial, and educational support, including job assistance and language courses.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 22,
+      "content_block_id": 56,
+      "question": "How can someone get settled in Timișoara?",
+      "answer": "To get settled in Timișoara, individuals can find information on managing in a new city and access a support program for accommodation, meals, and integration. Organizations like The LOGS Association and The Timiș County Youth Foundation (FITT) offer assistance with Romanian language courses, job finding, and legal/social counseling to facilitate the integration process.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 23,
+      "content_block_id": 56,
+      "question": "What resources are there for Ukrainian refugees in Timișoara?",
+      "answer": "For Ukrainian refugees in Timișoara, resources include the Timișoara for Ukraine Support Center and psychological assistance from Plan International Organization for adults and children. Educational support is available with enrollment applications for Ukrainian students and schools offering teaching in Ukrainian. Additionally, The Union of Ukrainians in Romania protects their cultural identity, and SCOP organization provides assistance, courses for children, and language courses.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 24,
+      "content_block_id": 56,
+      "question": "How does public transportation work in Timișoara?",
+      "answer": "In Timișoara, individuals can use the public transport system, STPT, for free. Users may be required to show an ID if asked.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Transportation'.",
+      "read_instruction": "read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 25,
+      "content_block_id": 56,
+      "question": "What support is offered for education and healthcare in Timișoara?",
+      "answer": "For healthcare, support includes access to emergency hospitals, a list of family doctors, psychological assistance, reproductive health services, and HIV counseling. For education, enrollment applications for Ukrainian students are provided, along with schools offering Ukrainian language teaching. Organizations like Save the Children Timiș, SCOP, and FITT also offer English and Romanian language classes, kindergarten programs, and other courses for children.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

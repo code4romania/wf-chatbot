@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "content_block_id": 49,
+      "question": "What kinds of health services are covered by national curative health programs?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 49,
+      "question": "How can someone access these national health programs?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 49,
+      "question": "What medical conditions are addressed by these programs?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 49,
+      "question": "How do these programs work with health insurance?"
+    },
+    {
+      "question_id": 45,
+      "content_block_id": 49,
+      "question": "When might someone be eligible for these programs?"
+    }
+  ]
+}

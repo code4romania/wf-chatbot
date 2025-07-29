@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 160,
+      "content_block_id": 58,
+      "answer": "Assistance in Galați includes important contacts for immigration and emergencies, temporary protection registration, medical services, psychological support, and educational opportunities for children and adults. Various organizations also offer social, legal, educational, and material support, as well as help with housing, jobs, and specific needs like reproductive health or HIV counseling.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 161,
+      "content_block_id": 58,
+      "answer": "To find help navigating Galați, individuals can refer to the \"Important contacts\" section for essential services like the Immigration Service or the Regional Center for Asylum Seekers. Additionally, various organizations listed under \"Organisations offering their support\" provide social assistance, legal advice, and integration support to help manage in a new city.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the sections under 'Important contacts Galați County Immigration Service:' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 162,
+      "content_block_id": 58,
+      "answer": "For healthcare, resources include the County Emergency Clinical Hospital and the Emergency Clinical Hospital for Children in Galați, along with a list of family doctors. There's also support for reproductive health and domestic violence victims, and specialized counseling for people living with HIV. In terms of education, children can enroll in state or private kindergartens and nurseries, and School no. 16 organizes extracurricular activities for Ukrainian children. JRS also offers free Romanian language courses and various educational activities.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 163,
+      "content_block_id": 58,
+      "answer": "Refugees can access psychological support through various organizations such as Project HOPE, Positive Progress psychological Solutions, Terre des hommes Foundation, Save the Children, International Organization for Migration (IOM), Plan International Organization, and Red Cross Romania. Each organization provides consultations and support, often in multiple languages including Ukrainian, Russian, Romanian, and English. Contact details for specific managers or email addresses are provided for each service.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 164,
+      "content_block_id": 58,
+      "answer": "The provided content does not specify the operating hours or availability times for the listed services. Users would need to contact the individual organizations or services directly to inquire about their specific hours of operation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

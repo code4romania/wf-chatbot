@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 115,
+      "content_block_id": 60,
+      "question": "What kind of help is available in Cluj-Napoca?",
+      "answer": "Help available in Cluj-Napoca includes information on managing in a new city, contacts for the Immigration Service, emergency services, and an anti-traffic hotline. There is also a support program for accommodation, meals, and integration, as well as medical, psychological, legal, and social support services. Additionally, free public transportation is available, and specific support exists for women's health, domestic violence victims, and people living with HIV.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 116,
+      "content_block_id": 60,
+      "question": "How can someone get medical and psychological support?",
+      "answer": "For medical services, individuals can contact the Clinical Emergency Hospital in Napoca Cluj or refer to the list of family doctors in Oradea mentioned on the page. Psychological support is provided by the International Organization for Migration (IOM) and World Vision Romania, with IOM offering support in Russian, Ukrainian, Romanian, and English, and World Vision Romania in Russian and Ukrainian.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the sections under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the sections under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 117,
+      "content_block_id": 60,
+      "question": "What are the transportation options?",
+      "answer": "In Cluj-Napoca, individuals can use the public transportation system for free. If checked by authorities, they will need to show an ID.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Transport'.",
+      "read_instruction": "read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 118,
+      "content_block_id": 60,
+      "question": "What resources are there for housing and jobs?",
+      "answer": "Information required for the accommodation, board and integration support program can be accessed via an application. The page also indicates that there are sections for 'Housing Info' and 'Jobs Support' available.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the sections under 'The support program for accommodation, meals and integration in Cluj-Napoca', 'Housing Info', and 'Jobs Support'.",
+      "read_instruction": "read the sections under 'The support program for accommodation, meals and integration in Cluj-Napoca', 'Housing Info', and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 119,
+      "content_block_id": 60,
+      "question": "How can someone access legal and other support services?",
+      "answer": "The Sensiblu Foundation offers legal advice and representation in court, alongside social counseling and psychotherapy. PATRIR's \"Ukrainian Home\" provides protection, support, and verified information for refugees. Additionally, the page lists 'Legal status' as a section for further information, and the Women's Center offers support for reproductive health services and victims of domestic violence.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the sections under 'Organisations offering their support', 'Legal status', and 'Women's Center'.",
+      "read_instruction": "read the sections under 'Organisations offering their support', 'Legal status', and 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

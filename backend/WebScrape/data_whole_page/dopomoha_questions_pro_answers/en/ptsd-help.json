@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 250,
+      "content_block_id": 70,
+      "question": "What kind of help does this app offer for PTSD?",
+      "answer": "The PTSD Help app provides essential information about PTSD, a self-assessment module for understanding symptoms, and practical tools for managing discomfort. It also offers crisis support contacts and detailed information about available professional treatments.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 251,
+      "content_block_id": 70,
+      "question": "How does this app help people manage PTSD symptoms?",
+      "answer": "The app helps people manage PTSD symptoms by offering a self-assessment module to understand symptoms and practical tools to manage associated discomfort. It also provides crisis support contacts and information on professional treatments.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 252,
+      "content_block_id": 70,
+      "question": "Who is this app designed for?",
+      "answer": "This app is designed for vulnerable people affected by the crisis in Ukraine, including refugees and those still in Ukraine. It also targets individuals in vulnerable situations affected by any traumatic experience such as war, violence, aggression, or accidents.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 253,
+      "content_block_id": 70,
+      "question": "When might someone find this app useful?",
+      "answer": "Someone might find this app useful if they are managing Post Traumatic Stress Disorder, especially if they are vulnerable people affected by the crisis in Ukraine. It is also helpful for anyone in vulnerable situations impacted by traumatic experiences like war, violence, aggression, or accidents.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

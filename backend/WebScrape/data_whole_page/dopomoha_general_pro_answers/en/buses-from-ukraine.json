@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 225,
+      "content_block_id": 37,
+      "answer": "Safe and free transportation is organized from the Ukrainian-Moldovan border to the Romanian border for people fleeing the war. In Huși, free medical care, water, and food are available, along with free buses to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 226,
+      "content_block_id": 37,
+      "answer": "People can use a fast, free track transfer from Ukraine to Romania, via Moldova. Daily buses depart from the Palanca border in Moldova to Huși in Romania, and from Huși, free buses are available to Bucharest or Iasi.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 227,
+      "content_block_id": 37,
+      "answer": "Safe and free transportation is organized from the Ukrainian-Moldovan border to the Romanian border. Upon arrival in Huși, people can access free medical care, water, and food.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 228,
+      "content_block_id": 37,
+      "answer": "Free transportation is an option for all people fleeing the war in Ukraine, regardless of their nationality.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 229,
+      "content_block_id": 37,
+      "answer": "The UN Refugee Agency (UNHCR) and the International Organization for Migration (IOM) help by supporting the Romanian and Moldavian governments in organizing safe and free transportation for people fleeing the war.",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

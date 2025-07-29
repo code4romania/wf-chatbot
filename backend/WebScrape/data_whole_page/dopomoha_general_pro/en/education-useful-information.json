@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 220,
+      "content_block_id": 51,
+      "question": "What educational resources are available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 221,
+      "content_block_id": 51,
+      "question": "How can Ukrainian refugee children continue their education in Romania?"
+    },
+    {
+      "question_id": 222,
+      "content_block_id": 51,
+      "question": "What support is offered for Ukrainian refugee students in different grade levels?"
+    },
+    {
+      "question_id": 223,
+      "content_block_id": 51,
+      "question": "How can Ukrainian refugee children access learning materials in their native language?"
+    },
+    {
+      "question_id": 224,
+      "content_block_id": 51,
+      "question": "When are these educational programs and resources available?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 249,
+      "content_block_id": 11,
+      "question": "What types of places are listed?"
+    },
+    {
+      "question_id": 250,
+      "content_block_id": 11,
+      "question": "How can people get in touch with the regional center offices?"
+    },
+    {
+      "question_id": 251,
+      "content_block_id": 11,
+      "question": "What is the function of the regional centers?"
+    },
+    {
+      "question_id": 252,
+      "content_block_id": 11,
+      "question": "Where are the regional centers situated?"
+    }
+  ]
+}

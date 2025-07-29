@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 309,
+      "content_block_id": 57,
+      "answer": "Newcomers can find support for accommodation, meals, and integration. Various organizations like CNRR, AIDRom, ROUA Center, and Novapolis Association offer social, legal, psychosocial, and economic assistance, including help with transport, housing, and language courses. Psychological support and information on medical services and education are also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the sections under 'The support program for accommodation, meals and integration in Constanța' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 310,
+      "content_block_id": 57,
+      "answer": "To travel within the city of Constanța, one can use the bus. Further information about specific bus lines is available via a link on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 311,
+      "content_block_id": 57,
+      "answer": "For healthcare, individuals can visit the Constanța Emergency County Clinical Hospital Sf Apostol Andrei, including its Pediatric Clinical Department for children, and a list of family doctors is provided. Information on reproductive health, domestic violence support, and HIV services are also available. For education, the Constanța County School Inspectorate offers details on enrolling Ukrainian students in pre-university education and learning Romanian language and civilization.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 312,
+      "content_block_id": 57,
+      "answer": "People can find additional assistance from various organizations in Constanța by exploring an online map for service providers or directly contacting groups like CNRR, AIDRom, ROUA Center, Sensiblu Foundation, or Novapolis Association. These organizations offer a range of services including social, legal, psychosocial, and economic support.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 313,
+      "content_block_id": 57,
+      "answer": "In case of an emergency in Constanța, individuals should call the emergency number 112. For issues related to human trafficking, the National Anti-Traffic Hotline Romania can be contacted at 0800 800 678 or 021 313 3100.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

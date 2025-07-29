@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 85,
+      "content_block_id": 41,
+      "question": "What dental services are available for Ukrainian refugees in Romania?",
+      "answer": "Ukrainian refugees in Romania can benefit from services including consultation, treatment of simple caries, oral mucosa conditions, dental extractions, alveolar curettage, hemorrhage treatment, decapsulation, removable acrylic prosthesis, physiognomic or semi-physiognomic prosthetic elements, and devices for congenital malformations.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 86,
+      "content_block_id": 41,
+      "question": "How much do these dental services cost for refugees?",
+      "answer": "Dental services are covered 100% for those aged 0-18 years. For people over 18, coverage varies between 60% and 100% depending on the service type. Young people aged 18-26 who are students (including high school graduates until the academic year starts, up to 3 months), apprentices, or students without work income, receive 100% coverage. People with special legal conditions also receive 100% coverage for some services.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 87,
+      "content_block_id": 41,
+      "question": "What age groups are covered by this dental program?",
+      "answer": "The dental program covers individuals aged 0-18 years and people over 18 years. Within the over 18 age group, specific provisions for 100% coverage apply to young people aged 18-26 who meet certain student or apprentice criteria.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 88,
+      "content_block_id": 41,
+      "question": "How can refugees find participating dentists?",
+      "answer": "Refugees can find participating dentists by viewing a list of dentists who work with the National Insurance House. This list is linked on the page.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 89,
+      "content_block_id": 41,
+      "question": "When are these dental services available?",
+      "answer": "The provided information does not specify the exact times or days when these dental services are available.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 165,
+      "content_block_id": 14,
+      "question": "What are the ways to enter Romania?"
+    },
+    {
+      "question_id": 166,
+      "content_block_id": 14,
+      "question": "How can someone seek asylum or refuge?"
+    },
+    {
+      "question_id": 167,
+      "content_block_id": 14,
+      "question": "What rights and support are available to refugees?"
+    },
+    {
+      "question_id": 168,
+      "content_block_id": 14,
+      "question": "When does temporary protection apply?"
+    },
+    {
+      "question_id": 169,
+      "content_block_id": 14,
+      "question": "How can someone find help in nearby countries?"
+    }
+  ]
+}

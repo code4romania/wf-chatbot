@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 268,
+      "content_block_id": 3,
+      "question": "What kind of help is being offered?",
+      "answer": "Dopomoha is a web support and information platform for migrants fleeing the war in Ukraine. It provides reliable, timely, and straightforward information to help them safely enter Romania and navigate a new country.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 269,
+      "content_block_id": 3,
+      "question": "How can people access this help?",
+      "answer": "People can access Dopomoha through a browser from any device. The platform is available in Romanian, Ukrainian, English, and Russian.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 270,
+      "content_block_id": 3,
+      "question": "Who is providing this assistance?",
+      "answer": "Dopomoha is a project created by Code for Romania in partnership with the Department for Emergency Situations (DSU), The UN Refugee Agency, International Organization for Migration (OIM), and the National Romanian Council for Refugees (CNRR). The Code for Romania War Task Force is supported by ING Bank.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 271,
+      "content_block_id": 3,
+      "question": "What information is available?",
+      "answer": "The platform provides information on entry requirements at the border, the procedure for seeking asylum in Romania, their rights and obligations as asylum seekers, and useful resources for their stay in Romania.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 272,
+      "content_block_id": 3,
+      "question": "When will this help be available?",
+      "answer": "The Dopomoha platform is currently available and can be accessed through a browser from any device. It will be updated regularly with verified information from official sources.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

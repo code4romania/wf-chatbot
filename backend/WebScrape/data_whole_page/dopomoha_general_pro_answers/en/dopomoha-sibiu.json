@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 180,
+      "content_block_id": 66,
+      "answer": "Newcomers to Sibiu can find information on managing in the city, including important contacts like the Immigration Office and emergency services. Support programs for accommodation, meals, and integration are available, along with guidance on public transport, medical services, psychological support, and education. Various organizations also offer their support for different needs.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 181,
+      "content_block_id": 66,
+      "answer": "For medical services, individuals can go to the County Emergency Clinical Hospital Sibiu. Information on how and where to buy tickets for public transport in Sibiu is also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Medical services' and 'Public transport in Sibiu'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 182,
+      "content_block_id": 66,
+      "answer": "Psychological support for refugees in Sibiu is offered by A.L.E.G. Association for Ukrainian refugee women and by The International Rescue Committee for various groups including Ukrainian refugees. Housing support is available through a program for accommodation, meals, and integration, and Sus Inima also provides temporary accommodation for refugees.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Psychological support', 'The support program for accommodation, meals and integration in Sibiu', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 183,
+      "content_block_id": 66,
+      "answer": "People can find additional information and resources by exploring the map for service providers near them under 'Organisations offering their support'. Further details on specific topics like transport, medical services, and education can be found by clicking the 'More information' links within those respective sections.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Organisations offering their support', and also look for 'More information' links throughout the page.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 184,
+      "content_block_id": 66,
+      "answer": "In Sibiu, information is provided on how to enroll children in primary education, including the required documents. Additionally, Sus Inima offers Romanian and English language courses, a day center for Ukrainian children, and educational infrastructure for them.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Education' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

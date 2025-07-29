@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 26,
+      "content_block_id": 46,
+      "question": "What medical devices are commonly provided?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 46,
+      "question": "How can someone obtain needed medical devices?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 46,
+      "question": "What is the process for applying for medical devices?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 46,
+      "question": "When do medical prescriptions expire?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 46,
+      "question": "How are costs for medical devices handled?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 80,
+      "content_block_id": 61,
+      "question": "What kind of assistance is available for people new to a city?"
+    },
+    {
+      "question_id": 81,
+      "content_block_id": 61,
+      "question": "How can one access transportation within the city?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 61,
+      "question": "What options exist for medical care and health support?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 61,
+      "question": "How can individuals pursue educational opportunities or language learning?"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 275,
+      "content_block_id": 3,
+      "answer": "Dopomoha is a web support and information platform for migrants fleeing the war in Ukraine. It provides information on entry requirements, asylum procedures, rights and obligations, and useful resources for their stay in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 276,
+      "content_block_id": 3,
+      "answer": "People can access information about resources and assistance through Dopomoha, which is a web support and information platform. It is accessible through a browser from any device.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 277,
+      "content_block_id": 3,
+      "answer": "Those seeking refuge in a new country face challenges and worries about safely entering and navigating the reality of a new place. They need reliable, timely, and straightforward information to address their questions.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 278,
+      "content_block_id": 3,
+      "answer": "In times of crisis, help is most needed for those displaced by a terrifying conflict. It is crucial for necessary resources and reliable, timely, and straightforward information to reach them in the simplest and most efficient way.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 279,
+      "content_block_id": 3,
+      "answer": "Technology is used through Dopomoha, a web support and information platform accessible via a browser from any device. It provides verified, regularly updated information from official sources to aid displaced migrants.",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

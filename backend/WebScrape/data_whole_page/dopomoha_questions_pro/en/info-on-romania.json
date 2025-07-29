@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 335,
+      "content_block_id": 4,
+      "question": "What transportation options are covered?"
+    },
+    {
+      "question_id": 336,
+      "content_block_id": 4,
+      "question": "What kind of help is available for refugees?"
+    },
+    {
+      "question_id": 337,
+      "content_block_id": 4,
+      "question": "How can I get in touch with emergency services?"
+    },
+    {
+      "question_id": 338,
+      "content_block_id": 4,
+      "question": "What information is provided about Romanian businesses and services?"
+    },
+    {
+      "question_id": 339,
+      "content_block_id": 4,
+      "question": "When are the public holidays in Romania?"
+    }
+  ]
+}

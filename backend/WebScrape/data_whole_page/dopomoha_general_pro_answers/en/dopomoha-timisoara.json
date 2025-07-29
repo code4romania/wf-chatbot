@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 21,
+      "content_block_id": 56,
+      "answer": "Assistance in Timișoara includes important contacts for immigration and emergencies, support programs for accommodation and integration, and medical services for adults and children. Psychological support, free public transportation, and educational resources are also available. Various organizations offer social, legal, financial, and job-finding assistance, as well as language courses and support for specific needs like reproductive health or HIV.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 22,
+      "content_block_id": 56,
+      "answer": "Individuals can access support services by calling phone numbers, sending emails, or using messaging apps like WhatsApp and Telegram. Several organizations, including the LOGS Association and Timiș County Youth Foundation, also provide physical addresses for in-person assistance. For some specific services, the content indicates to \"click here\" or \"ask for help\" for further access.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 23,
+      "content_block_id": 56,
+      "answer": "For education, resources include enrollment applications for Ukrainian preschoolers and students, and a list of educational units in Timiș offering Ukrainian language instruction, alongside the British International School. For transportation, public transport (STPT) in Timișoara is free upon showing an ID if requested.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the section under 'Education' and 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 24,
+      "content_block_id": 56,
+      "answer": "Information on healthcare can be found by contacting Emergency Municipal Clinical Hospitals, accessing a list of family doctors, or seeking psychological support from Plan International Organization. Specialized services for reproductive health, domestic violence, or HIV counseling are also mentioned. For legal matters, the Immigration Bureau of the County Timiș and the LOGS Association, which offers social and legal counseling, are available resources.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the sections under 'Medical services', 'Psychological support', 'Women's Center', 'Counseling for people living with HIV', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 25,
+      "content_block_id": 56,
+      "answer": "The provided content does not specify the exact operating hours or days of availability for most support services. However, the SCOP organization's \"ASSIST\" program is noted to have started in July 2022.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

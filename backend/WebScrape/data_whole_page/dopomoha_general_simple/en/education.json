@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 114,
+      "content_block_id": 17,
+      "question": "How can Ukrainian children enroll in schools or kindergartens in Romania?"
+    },
+    {
+      "question_id": 115,
+      "content_block_id": 17,
+      "question": "How can students continue their higher education in Romania?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 17,
+      "question": "How are foreign educational qualifications recognized in Romania?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 17,
+      "question": "What support is available for Ukrainian minors in Romania?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 17,
+      "question": "When does the school year operate in Romanian educational institutions?"
+    }
+  ]
+}

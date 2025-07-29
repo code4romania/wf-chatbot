@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 129,
+      "content_block_id": 22,
+      "question": "What is temporary protection?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 22,
+      "question": "How can one obtain temporary protection?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 22,
+      "question": "What rights are granted under temporary protection?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 22,
+      "question": "How long does temporary protection typically last?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 22,
+      "question": "What are the general responsibilities for individuals with temporary protection?"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 91,
+      "content_block_id": 64,
+      "answer": "The objective of dopomoha.ro is to provide information and support for people from Ukraine who want to request help from Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '1. Objective of the Platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 92,
+      "content_block_id": 64,
+      "answer": "While the platform itself does not process personal data, Code for Romania processes personal data for users requesting support services. This data is temporarily stored and is not provided to third parties, unless legally required by institutions or public authorities.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '3. Purpose and grounds'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 93,
+      "content_block_id": 64,
+      "answer": "Users have rights including information, access, intervention, rectification, deletion, or portability of personal data. They can also address the National Supervisory Authority for Data Processing or the judiciary, and have rights to opposition, automated individual decision-making processes, and restriction of processing.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '6. Your rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 94,
+      "content_block_id": 64,
+      "answer": "Code for Romania uses state-of-the-art technologies and takes all reasonable technical measures for the secure and confidential transmission and storage of personal data. All data is processed according to Romanian law, stored on servers within the European Union, and is not disclosed except in legal situations.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '7. Security and Privacy'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 95,
+      "content_block_id": 64,
+      "answer": "Code for Romania reserves the right to revise and update the General Terms and Conditions of Use at any time, without notice or prior acceptance from the users.",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '9. Changes to the General Site Terms and Conditions of Use'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

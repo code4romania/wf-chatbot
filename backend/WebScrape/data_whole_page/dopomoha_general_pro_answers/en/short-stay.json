@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 130,
+      "content_block_id": 23,
+      "answer": "Refugees in temporary accommodation are provided with food, clothing, personal hygiene products, primary health care, and emergency medical care. They are also included in national public health programs for contagious diseases and can register requests for additional resources like food and clothing on Sprijin de Urgență.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'My rights having a short stay status Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 131,
+      "content_block_id": 23,
+      "answer": "Individuals can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. Ukrainian nationals with a valid passport can enter and stay for up to 90 days.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 132,
+      "content_block_id": 23,
+      "answer": "Individuals on a short-stay status can work in Romania, even without temporary protection, by applying for a work permit at the General Inspectorate for Immigration. They can also register with county employment agencies or the Bucharest municipality to benefit from employment incentives and unemployment insurance system, with free services offered by ANOFM.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 133,
+      "content_block_id": 23,
+      "answer": "To access education, children and young refugees from Ukraine must have legal residence in Romania, either through temporary protection or asylum. For medical assistance, foreign nationals from the armed conflict area in Ukraine receive services, supplies, and medicines like insured Romanian citizens, without paying social health insurance contributions or co-payments for outpatient treatment.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'Education' and 'Medical assistance'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 134,
+      "content_block_id": 23,
+      "answer": "During the period of temporary accommodation in established locations, refugees are ensured food, clothing, personal hygiene products, and primary health care. For other resources like food or products, requests can be registered on Sprijin de Urgență.",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'My rights having a short stay status Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 96,
+      "content_block_id": 60,
+      "question": "What kind of help is available for someone arriving in a new city?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 60,
+      "question": "What support programs are offered to assist newcomers?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 60,
+      "question": "How can one access medical or psychological support?"
+    },
+    {
+      "question_id": 99,
+      "content_block_id": 60,
+      "question": "What organizations provide various support services?"
+    },
+    {
+      "question_id": 100,
+      "content_block_id": 60,
+      "question": "How can someone use local transportation?"
+    }
+  ]
+}

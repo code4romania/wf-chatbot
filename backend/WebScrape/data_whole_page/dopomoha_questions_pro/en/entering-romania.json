@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 208,
+      "content_block_id": 1,
+      "question": "What are the ways to enter Romania?"
+    },
+    {
+      "question_id": 209,
+      "content_block_id": 1,
+      "question": "How can Ukrainian nationals enter Romania?"
+    },
+    {
+      "question_id": 210,
+      "content_block_id": 1,
+      "question": "What are the rules for bringing pets into Romania?"
+    },
+    {
+      "question_id": 211,
+      "content_block_id": 1,
+      "question": "How can I get help or support at the border?"
+    }
+  ]
+}

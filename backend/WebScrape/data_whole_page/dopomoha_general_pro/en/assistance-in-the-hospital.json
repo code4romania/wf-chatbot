@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What services are typically covered by hospitalization?"
+    },
+    {
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How can someone access hospital services?"
+    },
+    {
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the differences between public and private hospitals regarding insurance coverage?"
+    },
+    {
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "When are personal contributions required for hospital services?"
+    },
+    {
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "How are expenses handled if a patient has to pay out-of-pocket for something that should be covered?"
+    }
+  ]
+}

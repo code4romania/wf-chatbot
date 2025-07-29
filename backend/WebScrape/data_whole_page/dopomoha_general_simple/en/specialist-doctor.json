@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 106,
+      "content_block_id": 39,
+      "question": "What types of medical services are available from a specialist?"
+    },
+    {
+      "question_id": 107,
+      "content_block_id": 39,
+      "question": "How can people access specialist medical consultations?"
+    },
+    {
+      "question_id": 108,
+      "content_block_id": 39,
+      "question": "What situations allow for specialist care without a referral?"
+    },
+    {
+      "question_id": 109,
+      "content_block_id": 39,
+      "question": "What additional health services can a specialist recommend?"
+    }
+  ]
+}

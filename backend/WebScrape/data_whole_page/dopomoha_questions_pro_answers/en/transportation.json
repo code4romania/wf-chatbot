@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 80,
+      "content_block_id": 12,
+      "question": "What kind of emergency support is available?",
+      "answer": "Emergency support includes requesting or providing resources such as food, products, clothing, tents, transportation, or volunteers through Sprijin de Urgență. Additionally, Rescue 4x4 offers a free public service for rescue, recovery, and emergency interventions in urgent situations.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 81,
+      "content_block_id": 12,
+      "question": "How can people evacuate from Ukraine?",
+      "answer": "People can evacuate from Ukraine via buses organized by ICF Gloria and Adra Ukraine from the Odessa railway station to Palanca (Moldova). The United Nations Refugee Agency (UNHCR) and the International Organization for Migration (IOM) also organize free transfers from Ukraine to Romania via Moldova, with buses departing from the Palanca border to Huși, and then to Bucharest or Iasi.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 82,
+      "content_block_id": 12,
+      "question": "What transportation options are there within Romania?",
+      "answer": "Within Romania, transportation options include trains, buses/maxi taxis, taxis, and the subway. For trains and buses, you can find routes and timetables, and purchase tickets. For taxis, using apps like Free Now, Uber, or Bolt is recommended, and subway tickets can be bought at the station or paid with a bank card.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Transport in Romania'.",
+      "read_instruction": "read the section under 'Transport in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 83,
+      "content_block_id": 12,
+      "question": "What are some ways to get help with transportation in emergencies?",
+      "answer": "Rescue 4x4 is a free public service that offers rescue, recovery, and emergency interventions in urgent situations. This service can bring your vehicle back to the road or remove it from the carriageway of a public road to prevent disturbance or traffic blockage.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "read_instruction": "read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 84,
+      "content_block_id": 12,
+      "question": "When are evacuation buses available?",
+      "answer": "Evacuation buses from Odessa to Palanca, organized by ICF Gloria and Adra Ukraine, run every Monday and Thursday.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Evacuation buses from Odessa to Palanka from ICF Gloria and Adra Ukraine Organization'.",
+      "read_instruction": "read the section under 'Evacuation buses from Odessa to Palanka from ICF Gloria and Adra Ukraine Organization'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

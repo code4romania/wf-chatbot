@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 125,
+      "content_block_id": 39,
+      "question": "What medical services are available?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 39,
+      "question": "How can someone access these services?"
+    },
+    {
+      "question_id": 127,
+      "content_block_id": 39,
+      "question": "What support is offered for people from Ukraine?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 39,
+      "question": "When can someone receive remote consultations?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 39,
+      "question": "What additional services are available beyond standard consultations?"
+    }
+  ]
+}

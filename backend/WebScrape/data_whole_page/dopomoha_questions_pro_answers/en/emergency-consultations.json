@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 105,
+      "content_block_id": 44,
+      "question": "What medical transport services are available?",
+      "answer": "Available medical transport services include transport upon leaving the hospital for patients with severe cognitive disorders, transport of immobile patients to the hospital for hospitalization, and round-trip transport to specialist offices or laboratories for bedridden patients with specific conditions.",
+      "website": "https://dopomoha.ro/en/emergency-consultations",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 106,
+      "content_block_id": 44,
+      "question": "How can someone request medical transportation?",
+      "answer": "Medical transportation can be requested by calling the 112 emergency service if the patient meets the described conditions. A dispatcher will analyze the situation to decide which type of ambulance to send. For transport upon leaving the hospital, the patient, relatives, or hospital staff can call 112.",
+      "website": "https://dopomoha.ro/en/emergency-consultations",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 107,
+      "content_block_id": 44,
+      "question": "What conditions qualify for transportation assistance?",
+      "answer": "Conditions that qualify for transportation assistance include severe cognitive disorders (dementia, autistic spectrum disorders, severe/profound mental retardation), immobility due to tetraparesis or lower limb motor insufficiency, being bedridden, or having moderately severe hemiparesis or paraparesis.",
+      "website": "https://dopomoha.ro/en/emergency-consultations",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 108,
+      "content_block_id": 44,
+      "question": "When should someone call for emergency medical transport?",
+      "answer": "Someone should call for emergency medical transport via the 112 emergency service only if the patient is in one of the described situations, such as needing transport upon leaving the hospital or qualifying for specialized transport due to specific medical conditions or immobility. The call must be made responsibly.",
+      "website": "https://dopomoha.ro/en/emergency-consultations",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 109,
+      "content_block_id": 44,
+      "question": "How does home consultation work?",
+      "answer": "Emergency consultations at home are carried out by private ambulances that are in contractual relations with health insurance companies. These services are accessed through the 112 emergency service, where a dispatcher analyzes the situation and decides which type of ambulance to send.",
+      "website": "https://dopomoha.ro/en/emergency-consultations",
+      "instruction": "Go to website https://dopomoha.ro/en/emergency-consultations and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

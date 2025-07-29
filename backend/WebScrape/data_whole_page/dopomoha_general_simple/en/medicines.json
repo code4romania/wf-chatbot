@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 119,
+      "content_block_id": 45,
+      "question": "What types of medical treatments are eligible for financial coverage?"
+    },
+    {
+      "question_id": 120,
+      "content_block_id": 45,
+      "question": "How do patients obtain prescriptions for covered medications?"
+    },
+    {
+      "question_id": 121,
+      "content_block_id": 45,
+      "question": "When do medical prescriptions expire?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 45,
+      "question": "How is the financial contribution for covered medicines determined?"
+    },
+    {
+      "question_id": 123,
+      "content_block_id": 45,
+      "question": "How are covered medications dispensed to patients?"
+    }
+  ]
+}

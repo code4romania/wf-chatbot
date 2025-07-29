@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 256,
+      "content_block_id": 57,
+      "question": "What kind of assistance is available for newcomers?"
+    },
+    {
+      "question_id": 257,
+      "content_block_id": 57,
+      "question": "How can one access essential services in the city?"
+    },
+    {
+      "question_id": 258,
+      "content_block_id": 57,
+      "question": "What types of support are offered for personal well-being?"
+    },
+    {
+      "question_id": 259,
+      "content_block_id": 57,
+      "question": "How can individuals find help with accommodation or employment?"
+    }
+  ]
+}

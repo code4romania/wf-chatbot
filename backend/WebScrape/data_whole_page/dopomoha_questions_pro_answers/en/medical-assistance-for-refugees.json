@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 70,
+      "content_block_id": 50,
+      "question": "What medical services are available for refugees from Ukraine?",
+      "answer": "Refugees from Ukraine are eligible for a wide range of medical services, including family doctor consultations, laboratory tests, specialist consultations, hospitalization, dentistry, and medical recovery. They can also access services for specific conditions like Covid-19, pregnancy, and national health programs, along with assistance for reproductive health and victims of domestic violence.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'Medical assistance for refugees from Ukraine Eligibility for health care and other useful information'.",
+      "read_instruction": "read the section under 'Medical assistance for refugees from Ukraine Eligibility for health care and other useful information'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 71,
+      "content_block_id": 50,
+      "question": "How can refugees access healthcare services in Romania?",
+      "answer": "Refugees can access healthcare services by learning how to use the services of a family doctor, understanding where and how to get specialist medical advice, and knowing the conditions for hospitalization. Information is also provided on how to obtain reimbursed medicines and medical devices.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 72,
+      "content_block_id": 50,
+      "question": "What support is offered for specific health concerns like pregnancy or chronic illnesses?",
+      "answer": "Support for specific health concerns includes information for patients with chronic diseases, assistance for HIV-infected people, and free treatment for Covid-19 patients. Pregnant women can receive primary care, observation of normal pregnancies, and supervision of high-risk pregnancies, with additional reproductive health services available at Women's centers.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 73,
+      "content_block_id": 50,
+      "question": "How can someone find a doctor or specialist?",
+      "answer": "Information is available on how to use the services of a family doctor. For specialist consultations, details are provided on where and how to get medical advice.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 74,
+      "content_block_id": 50,
+      "question": "What financial assistance is available for medical expenses?",
+      "answer": "Information is available regarding who pays for hospitalization services and the cost of dental treatment. Additionally, some medicines are reimbursed by the Health Fund, and free treatment is provided for Covid-19 patients, regardless of their insurance status.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

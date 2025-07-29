@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 230,
+      "content_block_id": 63,
+      "answer": "Oradea offers a support program for accommodation, meals, and integration, along with information on public transport, medical services, and education. Psychological support is also available, as well as assistance for legal status, housing, jobs, and specific help for women and people living with HIV.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 231,
+      "content_block_id": 63,
+      "answer": "For healthcare, individuals can go to the County Emergency Clinical Hospital Bihor or find a list of family doctors. Psychological support is provided by the International Organization for Migration (IOM), Plan International, and Dorcas Aid Romania/Moldova. Education access involves finding out how to enroll children in primary education, with additional educational programs offered by The Oradea Caritas Eparhial Association.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Medical services', 'Psychological support', and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 232,
+      "content_block_id": 63,
+      "answer": "There is a support program for accommodation, meals, and integration in Oradea. Further information specifically on housing can be found under 'Housing Info'. For employment, resources are available under 'Jobs Support'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'The support program for accommodation, meals and integration in Oradea', 'Housing Info', and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 233,
+      "content_block_id": 63,
+      "answer": "Information regarding legal status is available. For safety, individuals can find help under 'Stay safe', contact the National Anti-Traffic Hotline Romania, or use the emergency call number 112. The Women's Center also provides services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Legal status', 'Stay safe', 'Important contacts', and 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 234,
+      "content_block_id": 63,
+      "answer": "The provided content does not specify the operating hours or availability times for any of the support services. It only lists contact information such as phone numbers and email addresses for various organizations and services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

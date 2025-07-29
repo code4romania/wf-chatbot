@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 76,
+      "content_block_id": 55,
+      "answer": "Assistance in Brașov includes information and contacts for managing in the city, food, transport, accommodation support, medical and psychological services, and education. Additionally, legal advice, housing information, job support, and specific help for women and people living with HIV are available, along with free public transportation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 77,
+      "content_block_id": 55,
+      "answer": "Individuals can access support services by contacting specific organizations via email or phone, visiting community centers like CATTIA, or by filling out forms for certain programs. For medical needs, they can go to hospitals or reach out to specialized providers, while other services may require clicking specific links for more information or direct contact.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 78,
+      "content_block_id": 55,
+      "answer": "For healthcare, resources include Brașov Emergency Clinical Hospital, Brașov Children's Emergency Clinical Hospital, primary healthcare providers, dialysis services, and mobility aids. Additionally, Agapedia offers family planning and psychosocial services, a Women's Center provides reproductive health support, and Sens Pozitiv assists with HIV services. For education, enrollment applications for Ukrainian children can be submitted to the Brașov County School Inspectorate, and educational events for children and adults are available at the CATTIA center with Worldvision support, while public libraries offer programs and Romanian language courses.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the sections under 'Medical services' and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 79,
+      "content_block_id": 55,
+      "answer": "The Integration Center for Migrants Brașov and NGO Terre des Hommes operate Monday to Friday from 09:00 to 17:00. The CATTIA Community Center operates around the clock, and the AMURTEL team within CATTIA is available Monday to Friday during business hours. Emergency services are also available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 80,
+      "content_block_id": 55,
+      "answer": "In Brașov, public transportation, specifically the RATBV system, can be used for free. Users may be required to show an ID if asked.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 185,
+      "content_block_id": 53,
+      "answer": "The Health Promotion Center offers free medical consultations and access to some medical services for refugees from Ukraine. Additionally, psychological support is available for refugees of any age, and translation help is provided for better communication with doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 186,
+      "content_block_id": 53,
+      "answer": "People can access the services by making an appointment. Appointments can be scheduled by calling 0747 278 486 or 0748 185 714, with support available in Romanian, Russian, Ukrainian, or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 187,
+      "content_block_id": 53,
+      "answer": "The services are available from Monday to Friday. The working hours are from 10:00 to 18:00.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 188,
+      "content_block_id": 53,
+      "answer": "The center provides consultations with specialists such as a pediatrician, cardiologist, diabetologist, ophthalmologist, and dentist. Available medical services include ultrasound (by doctor's recommendation), ECG, blood pressure measurement, and blood glucose level checks.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 189,
+      "content_block_id": 53,
+      "answer": "Communication is facilitated through translation assistance provided by the Red Cross in English, Russian, or Ukrainian languages for interactions with doctors. Additionally, appointments can be made by phone in Romanian, Russian, Ukrainian, or English.",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

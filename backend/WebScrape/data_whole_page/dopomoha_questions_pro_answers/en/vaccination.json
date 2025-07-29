@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 212,
+      "content_block_id": 26,
+      "question": "What are the benefits of vaccinating children?",
+      "answer": "Vaccination is a means of preserving human health and life, and it is the only way to protect against infectious diseases and prevent dangerous complications for children and adults. It is particularly beneficial for children with chronic illnesses, as it protects them from severe infections. Vaccination does not weaken the immune system; instead, it provides protection against various diseases.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 213,
+      "content_block_id": 26,
+      "question": "How can infectious diseases be prevented?",
+      "answer": "The only way to protect against infectious diseases and prevent dangerous complications is to vaccinate children and adults. This helps to avoid diseases that can spread rapidly, especially in conditions with large crowds, lack of access to clean water, and poor personal hygiene.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 214,
+      "content_block_id": 26,
+      "question": "What vaccines are recommended for children?",
+      "answer": "Children are recommended to be vaccinated against diseases such as hepatitis B, tuberculosis (BCG), diphtheria, tetanus, pertussis, polio, haemophilus influenza type b (Hib), measles, rubella, and mumps. Additionally, vaccines for rotavirus, pneumococcus, meningococcus, and flu are also mentioned as important to consider.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 215,
+      "content_block_id": 26,
+      "question": "When should children be vaccinated?",
+      "answer": "Newborns should receive Hepatitis B and Tuberculosis (BCG) vaccines immediately if available, or as soon as possible. Hepatitis B vaccination can begin when a child weighs 2 kg or is 1 month old. From two months of age, children should be vaccinated against diphtheria, tetanus, pertussis, polio, fungal infections, pneumococcus, rotavirus, and meningococcus. Rotavirus can be given from 6 to 24 weeks, pneumococcus and flu from 6 months, and the first MMR dose at 12 months. If a child misses a scheduled vaccine, it should be made up as soon as possible, following the intervals of doses for maximum effectiveness.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 216,
+      "content_block_id": 26,
+      "question": "How can I find out more about vaccination schedules?",
+      "answer": "If your child has missed scheduled vaccines or does not have them at all, you should contact your nearest County Department for Public Health or a healthcare provider. They can help you make up for the schedule as soon as possible, taking into account the emergency situation. This is also where you can receive free vaccinations.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

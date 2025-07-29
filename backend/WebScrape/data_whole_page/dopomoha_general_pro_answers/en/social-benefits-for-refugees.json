@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 329,
+      "content_block_id": 71,
+      "answer": "Refugees under temporary protection in Romania can access various social benefits, including support for mothers with newborns, monthly childcare allowance for single parents, accommodation and allowances for Ukrainian minors, social services for persons with disabilities and their carers, state allowance for children, and unemployment benefits which also include national health insurance.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 330,
+      "content_block_id": 71,
+      "answer": "Access to benefits varies by program; applications are submitted to specific authorities such as the Social Assistance Directorate, county/municipality agencies for payments and social inspection, the General Directorate of Social Assistance and Child Protection (DGASPC), administrative-territorial units, or local Employment Agencies (ANOFM). Some applications can be submitted in person, others electronically.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the sections under 'Where to Apply', 'How to Apply', or 'Steps to Access Services' for each benefit.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 331,
+      "content_block_id": 71,
+      "answer": "Eligibility varies per program: mothers who gave birth after April 12, 2024; single parents/guardians with children up to 2 (or 3 with disability); Ukrainian minors under temporary protection not seeking international protection; adults with disabilities from Ukraine under temporary protection; Ukrainian children under temporary protection not seeking international protection; and individuals under temporary protection who worked 12 of the last 24 months for unemployment benefits.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the sections under 'Eligibility' for each benefit.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 332,
+      "content_block_id": 71,
+      "answer": "Mothers with newborns must apply no later than 3 months after the child's birth. For unemployment benefits, applications must be submitted within 12 months of employment termination. Payment for childcare support starts the month after application submission, and other programs do not specify a fixed application window.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the sections under 'Support for mothers with newborns' and 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 333,
+      "content_block_id": 71,
+      "answer": "Application processes involve submitting specific forms and required documents to the designated local or county agencies, often either in person or electronically. For some benefits, like those for persons with disabilities, it includes establishing legal status and undergoing an evaluation commission. Ongoing obligations, such as submitting quarterly residence declarations for state child allowance or attending monthly meetings for unemployment benefits, may also be required.",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the sections describing 'Where to Apply', 'How to Apply', or 'Steps to Access Services' for each benefit.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

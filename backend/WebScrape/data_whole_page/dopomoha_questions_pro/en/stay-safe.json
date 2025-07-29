@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 31,
+      "content_block_id": 5,
+      "question": "What can I do to protect myself from trafficking?"
+    },
+    {
+      "question_id": 32,
+      "content_block_id": 5,
+      "question": "What should I do in an emergency?"
+    },
+    {
+      "question_id": 33,
+      "content_block_id": 5,
+      "question": "How can I find safe places in Romania?"
+    },
+    {
+      "question_id": 34,
+      "content_block_id": 5,
+      "question": "What help is available for children?"
+    },
+    {
+      "question_id": 35,
+      "content_block_id": 5,
+      "question": "When should I report suspected trafficking?"
+    }
+  ]
+}

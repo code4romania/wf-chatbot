@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 145,
+      "content_block_id": 36,
+      "question": "What healthcare access do refugees have?"
+    },
+    {
+      "question_id": 146,
+      "content_block_id": 36,
+      "question": "How does health insurance work for refugees?"
+    },
+    {
+      "question_id": 147,
+      "content_block_id": 36,
+      "question": "What services are included in basic healthcare coverage?"
+    },
+    {
+      "question_id": 148,
+      "content_block_id": 36,
+      "question": "When can refugees access a family doctor?"
+    },
+    {
+      "question_id": 149,
+      "content_block_id": 36,
+      "question": "How do refugees register for healthcare?"
+    }
+  ]
+}

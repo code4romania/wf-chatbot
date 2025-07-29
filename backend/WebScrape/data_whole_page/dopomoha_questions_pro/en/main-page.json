@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 327,
+      "content_block_id": 19,
+      "question": "What kind of help is available for people leaving Ukraine?"
+    },
+    {
+      "question_id": 328,
+      "content_block_id": 19,
+      "question": "How can someone escaping the war get into Romania?"
+    },
+    {
+      "question_id": 329,
+      "content_block_id": 19,
+      "question": "What information is provided for refugees arriving in Romania?"
+    },
+    {
+      "question_id": 330,
+      "content_block_id": 19,
+      "question": "Where can refugees go to find resources in Romania?"
+    }
+  ]
+}

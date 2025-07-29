@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 6,
+      "content_block_id": 15,
+      "question": "What kind of help is available?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 15,
+      "question": "How can I contact support services?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 15,
+      "question": "What are the different ways to get assistance?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 15,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 15,
+      "question": "How can I find help in different locations?"
+    }
+  ]
+}

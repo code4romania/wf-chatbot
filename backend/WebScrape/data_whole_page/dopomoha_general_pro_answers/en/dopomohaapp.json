@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 324,
+      "content_block_id": 6,
+      "answer": "Assistance includes various help-lines from organizations like CNRR, UNHCR, and IOM, and a national line against trafficking. Support for temporary accommodation is available through Un Acoperis, while financial services are provided by BCR, including currency exchange and fee-free banking. Emergency resources such as food, clothing, and transportation can be requested or offered via Sprijin de Urgență, and regional centers are set up for asylum seekers' procedures and accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 325,
+      "content_block_id": 6,
+      "answer": "Individuals can cross into Romania from Ukraine using border points such as Halmeu, Sighetu Marmației, Siret, and Isaccea. Entry is also possible by reaching Romania through the Republic of Moldova. Real-time waiting times at border crossings are available online.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Border points you can use to cross into Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 326,
+      "content_block_id": 6,
+      "answer": "Ukrainian nationals with a valid passport can enter Romania and stay for up to 90 days. If no documents are available, entry into Romania is permitted as an asylum seeker. For travel to other EU Member States, a biometric passport allows visa-free entry, but it is recommended to contact the embassy of the destination country for specific conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 327,
+      "content_block_id": 6,
+      "answer": "If you do not have documents of any kind, you can enter Romania as an asylum seeker. Additionally, you have the option to apply for asylum within Romania at a later point after your initial entry.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 328,
+      "content_block_id": 6,
+      "answer": "Financial assistance is available at BCR (Romanian Commercial Bank), where you can exchange Ukrainian Hryvnia (UAH) to Romanian Lei (RON) at the BNR exchange rate, up to 2,000 lei per Ukrainian passport. BCR also offers 0 lei costs for transactions at POS and ATM with Ukrainian cards, and no commission for opening or administering a current account. A dedicated telephone number and email are provided for financial-banking assistance.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

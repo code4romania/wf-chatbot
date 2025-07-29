@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 285,
+      "content_block_id": 69,
+      "question": "What support is available for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 286,
+      "content_block_id": 69,
+      "question": "How can refugees access employment opportunities?"
+    },
+    {
+      "question_id": 287,
+      "content_block_id": 69,
+      "question": "What cultural resources are available in Romania?"
+    },
+    {
+      "question_id": 288,
+      "content_block_id": 69,
+      "question": "How can refugees integrate into Romanian society?"
+    },
+    {
+      "question_id": 289,
+      "content_block_id": 69,
+      "question": "When are these support services available?"
+    }
+  ]
+}

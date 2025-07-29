@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 344,
+      "content_block_id": 8,
+      "answer": "Support includes resources like food, products, clothing, tents, transportation, and volunteers. Additionally, assistance with temporary accommodation and a phrase book for common Romanian expressions translated into English and Ukrainian are offered.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 345,
+      "content_block_id": 8,
+      "answer": "You can get involved by sharing posters and flyers in crowded places, offering resources such as food, products, clothing, tents, transportation, or volunteers through \"Sprijin de Urgență\", or providing a space for temporary accommodation via \"Un Acoperiș\".",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 346,
+      "content_block_id": 8,
+      "answer": "Available resources include food, products, clothing, tents, transportation, and volunteers. A guide with common expressions in Romanian, translated into English and Ukrainian, is also provided.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 347,
+      "content_block_id": 8,
+      "answer": "You can find temporary accommodation or offer a space to help vulnerable people by accessing \"Un Acoperiș\".",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 348,
+      "content_block_id": 8,
+      "answer": "The provided content does not specify when this support is available.",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

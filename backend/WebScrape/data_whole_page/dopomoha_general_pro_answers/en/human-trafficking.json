@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 170,
+      "content_block_id": 68,
+      "answer": "People fleeing war are more vulnerable to human trafficking risks, which can involve various forms of exploitation such as labour or sexual exploitation, involvement in criminal activities, forced begging, domestic servitude, illegal adoption, organ removal, slavery, or forced marriage. They may also experience psychological pressure, restrictions on movement, or the withholding of documents and communication devices.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What is human trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 171,
+      "content_block_id": 68,
+      "answer": "To limit vulnerability, individuals should know their rights and where to access support, maintain possession of their documents, and keep in touch with trusted people like family or friends. It is also advised to gather detailed information about travel, accommodation, and employers, sharing this with trusted persons, and to develop a secret ‘safeword’ to signal trouble.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 172,
+      "content_block_id": 68,
+      "answer": "Support services include the Romanian National Anti-trafficking Helpline (0800.800.678), the eLiberare Crisis Textline (0757.749.845), and a free national anti-trafficking hotline for migrants (527). Suspected sexual exploitation by humanitarian workers can be reported to UNHCR Romania via inspector@unhcr.org. Additionally, \"Sprijin de Urgență\" provides resources like food and clothing, and \"Un Acoperiș\" offers assistance with temporary accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Suggestions to seek help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 173,
+      "content_block_id": 68,
+      "answer": "Bystanders can help by reporting any suspicion of human trafficking to TELVERDE ANITIP (0800.800.678) or the eLiberare Crisis Textline (0757.749.845). Concerns about sexual exploitation or abuse by UNHCR, UN, or NGO staff members can be reported directly to UNHCR Romania at inspector@unhcr.org. They can also offer resources like food, clothing, or accommodation through platforms such as \"Sprijin de Urgență\" and \"Un Acoperiș\".",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'You can report any suspicion of human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 174,
+      "content_block_id": 68,
+      "answer": "Individuals should seek help if they find themselves in a situation of exploitation, or if they observe signs indicating potential exploitation. These signs include being offered an unrealistically high salary, being forced to work or engage in sex acts without consent, having personal documents or communication devices withheld, or being subjected to strict controls over their movement, sleep, food, or medical care. Help should also be sought if there are concerns or suspicions about sexual exploitation and abuse by a humanitarian worker.",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

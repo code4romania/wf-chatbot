@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 81,
+      "content_block_id": 12,
+      "question": "What kind of assistance is available?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 12,
+      "question": "How can I find transportation options?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 12,
+      "question": "What resources are offered for evacuation?"
+    },
+    {
+      "question_id": 84,
+      "content_block_id": 12,
+      "question": "How can I help those in need?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 12,
+      "question": "When are transportation services available?"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 175,
+      "content_block_id": 59,
+      "answer": "In Suceava, assistance includes important contacts for immigration and asylum, temporary protection registration, free local public transport for Ukrainian refugees, and medical services at Suceava Emergency Hospital. Psychological support is offered by several organizations, and there are schools with Ukrainian language teaching. Various organizations also provide material support, vouchers, legal aid, social counseling, and specialized services for vulnerable groups.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 176,
+      "content_block_id": 59,
+      "answer": "Individuals can access support by contacting relevant offices like the Immigration Office or the Regional Center for Procedures and Accommodation for Asylum Seekers via phone or email. For psychological support, direct contacts (email/phone) are provided for organizations such as World Vision Romania, Positive Progress, Terre des hommes Foundation, Plan International, and Save the Children. The Sensiblu Foundation also offers services via phone.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the sections under 'Important contacts', 'Psychological support', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 177,
+      "content_block_id": 59,
+      "answer": "For education, several schools in Suceava county offer teaching in the Ukrainian language. In terms of healthcare, individuals can contact the Suceava Emergency Hospital for general medical services, or its Pediatric Department for children. Psychological support is also widely available from various organizations, and specific counseling is offered for people living with HIV.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the sections under 'Education' and 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 178,
+      "content_block_id": 59,
+      "answer": "The provided content does not specify exact times or schedules when refugees can expect to receive help. It mentions 'Program information' for temporary protection but does not detail the program itself.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 179,
+      "content_block_id": 59,
+      "answer": "People can find more information by contacting the listed organizations and departments directly via their provided emails or phone numbers. The website also indicates that more information on transportation, healthcare in Romania, and the education system in Romania is available elsewhere, and advises exploring a map for service providers.",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the sections under 'Transportation', 'Medical services', 'Education', and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

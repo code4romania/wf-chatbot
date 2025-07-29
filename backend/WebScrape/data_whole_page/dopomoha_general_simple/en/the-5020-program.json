@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 91,
+      "content_block_id": 32,
+      "question": "What changes have been made to support programs for Ukrainians in Romania?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 32,
+      "question": "What financial support is provided for housing?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 32,
+      "question": "How can people apply for available financial assistance?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 32,
+      "question": "When did the new support regulations begin?"
+    },
+    {
+      "question_id": 95,
+      "content_block_id": 32,
+      "question": "What additional resources are available to help refugees?"
+    }
+  ]
+}

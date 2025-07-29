@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "answer": "Hospitalization services typically include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "answer": "Inpatient medical services are generally granted based on a referral ticket from a family medicine doctor or an outpatient specialist. However, a referral note is not required for medical emergencies.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "answer": "Public hospitals with contracts with health insurance companies provide free medical services to insured persons and cannot collect additional payments. Private hospitals under contract with health insurance companies can charge a personal contribution, which is the difference between the rate settled by the health insurance company and their charged rate.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "answer": "Personal contributions may be required starting from July 1, 2021, when patients choose to receive hospitalization services for an acute condition in private hospitals that have contracts with health insurance companies and operate under the DRG system.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "answer": "If a patient in a public hospital pays for medicines, sanitary materials, or laboratory investigations that should have been free, the public hospital is obligated to reimburse these expenses at the insured person's request from its own revenues.",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

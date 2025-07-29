@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 6,
+      "content_block_id": 15,
+      "question": "What kind of support is available for refugees?"
+    },
+    {
+      "question_id": 7,
+      "content_block_id": 15,
+      "question": "How can refugees access help?"
+    },
+    {
+      "question_id": 8,
+      "content_block_id": 15,
+      "question": "What resources are there for specific groups like children or those with medical needs?"
+    },
+    {
+      "question_id": 9,
+      "content_block_id": 15,
+      "question": "When are these support services available?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 15,
+      "question": "How can people get help in different locations?"
+    }
+  ]
+}

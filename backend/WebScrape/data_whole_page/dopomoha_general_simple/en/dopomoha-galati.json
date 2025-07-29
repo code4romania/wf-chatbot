@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 138,
+      "content_block_id": 58,
+      "question": "What types of assistance are provided for people arriving in the city?"
+    },
+    {
+      "question_id": 139,
+      "content_block_id": 58,
+      "question": "How can one access medical or psychological services?"
+    },
+    {
+      "question_id": 140,
+      "content_block_id": 58,
+      "question": "What educational opportunities are available for children?"
+    },
+    {
+      "question_id": 141,
+      "content_block_id": 58,
+      "question": "How can one find official contacts for immigration and emergencies?"
+    }
+  ]
+}

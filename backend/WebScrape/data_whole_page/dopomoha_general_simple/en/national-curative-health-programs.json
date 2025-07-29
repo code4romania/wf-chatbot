@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 36,
+      "content_block_id": 49,
+      "question": "What are national curative health programs?"
+    },
+    {
+      "question_id": 37,
+      "content_block_id": 49,
+      "question": "How do individuals qualify for national health programs?"
+    },
+    {
+      "question_id": 38,
+      "content_block_id": 49,
+      "question": "What types of medical services do national health programs offer?"
+    }
+  ]
+}

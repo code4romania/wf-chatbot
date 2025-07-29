@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 260,
+      "content_block_id": 54,
+      "answer": "Free medical care and medical assistance are available for people fleeing the war in Ukraine. This includes free medical consultations from a family doctor, therapist, or pediatrician, as well as access to some medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 261,
+      "content_block_id": 54,
+      "answer": "IOM Romania provides free medical care. The Ukrainian clinic MedZirka offers free online and offline medical services. Additionally, Red Cross Romania, with support from the French Red Cross, opened a Health Promotion Center offering free medical consultations and access to some medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 262,
+      "content_block_id": 54,
+      "answer": "The offered medical services include free medical care and assistance. Specifically, free consultations from a family doctor, therapist, or pediatrician are available, and refugees can access some medical services through the Red Cross's Health Promotion Center.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 263,
+      "content_block_id": 54,
+      "answer": "The provided content does not specify when refugees can access these medical services.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 264,
+      "content_block_id": 54,
+      "answer": "Refugees can find more information about available medical care by following the 'Read more' links provided for each organization mentioned on the page. For MedZirka, a declaration needs to be filled to get consultations.",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 9,
+      "content_block_id": 25,
+      "question": "What are the most important considerations for child nutrition during challenging times?"
+    },
+    {
+      "question_id": 10,
+      "content_block_id": 25,
+      "question": "How can parents best support infant feeding, especially breastfeeding, in difficult circumstances?"
+    },
+    {
+      "question_id": 11,
+      "content_block_id": 25,
+      "question": "What are the options for feeding a baby if breastfeeding is not possible or interrupted?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 25,
+      "question": "How should families prepare and manage essential food and water supplies for children?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 25,
+      "question": "When should parents seek professional assistance for infant or child feeding issues?"
+    }
+  ]
+}

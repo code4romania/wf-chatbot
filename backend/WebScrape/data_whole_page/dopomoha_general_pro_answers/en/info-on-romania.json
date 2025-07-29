@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 349,
+      "content_block_id": 4,
+      "answer": "The website provides detailed information on train routes, timetables, and ticket purchasing, including international options, and advises caution on overnight trains. It also offers routes and timetables for buses and minibuses, with ticket purchasing options. For taxis, it recommends using apps like Free Now, Uber, or Bolt instead of hailing a cab, as these cover major cities and are available in English. Additionally, it mentions Rescue 4x4 as a free public rescue service for special emergency situations.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 350,
+      "content_block_id": 4,
+      "answer": "You can find help through Rescue 4x4 for emergency recovery, and specific health support for Ukrainian children with cancer, HIV treatment, or rare diseases via listed organizations and contacts. Emergency services are available by dialing 112, and the Border Police can be contacted for border information. Regional Centers for Asylum Seekers provide specific assistance. Additionally, platforms like \"Sprijin de Urgență\" and \"Un Acoperiș\" facilitate requesting or offering resources, food, clothing, transport, and temporary accommodation.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Useful contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 351,
+      "content_block_id": 4,
+      "answer": "Shopping malls are typically open 9am to 10pm, while other shops generally operate from 9 or 10am to 6 or 8pm on weekdays, with some food and department stores opening earlier and on Saturdays and Sundays. Many offices close by 4pm. Legal public holidays for 2023 include New Year, Unification Day, Orthodox Easter, Labor Day, Children's Day, Orthodox Pentecost, Assumption, Saint Andrew, Romania's National Day, and Christmas, with government-offered days off if they fall during the week. Pharmacies are typically open 9am to 6pm Monday to Saturday, with at least one 24-hour option in most cities.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Opening hours'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 352,
+      "content_block_id": 4,
+      "answer": "No vaccinations are required for Romania. Pharmacies are widespread, typically open 9am to 6pm Monday to Saturday, with 24-hour options in cities, and staff may understand English, French, or German. Support is available for Ukrainian children with cancer, individuals needing HIV treatment, and those with rare diseases through specific organizations and contact details. For emergencies, dial 112, which is a single nationwide number available from all public networks, and there's an \"Apel 112 App\" for automatic transmission of geographic coordinates.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 353,
+      "content_block_id": 4,
+      "answer": "For communication, main mobile providers are Orange, Telekom, and Vodafone, offering local SIM cards for around €5, which can be topped up. The country code is +40, and mobile numbers start with 07. Wi-fi is widespread and excellent. The currency is the Romanian leu (RON), with 1 RON equaling 0.20 EUR. BCR offers UAH-RON exchange for Ukrainian passport holders up to 1,000 lei, with 11 branches near border areas open 24/7. BCR also provides 0 lei costs for transactions with Ukrainian cards, and 0 fees for opening/administering accounts and inter/intra bank payments.",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Telecommunications'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

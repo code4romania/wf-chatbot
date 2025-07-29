@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 322,
+      "content_block_id": 38,
+      "question": "How can refugees from Ukraine get free lab tests and imaging done?"
+    },
+    {
+      "question_id": 323,
+      "content_block_id": 38,
+      "question": "What types of medical tests are covered for free?"
+    },
+    {
+      "question_id": 324,
+      "content_block_id": 38,
+      "question": "How long are referrals for these tests valid?"
+    },
+    {
+      "question_id": 325,
+      "content_block_id": 38,
+      "question": "What should Ukrainian refugees do if a lab can't perform the tests immediately?"
+    },
+    {
+      "question_id": 326,
+      "content_block_id": 38,
+      "question": "When can tests be done even if a lab's funding limit has been reached?"
+    }
+  ]
+}

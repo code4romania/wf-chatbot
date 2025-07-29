@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What hospital services are covered by insurance?",
+      "answer": "Hospital services covered include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals. Chemotherapy, dialysis, and radiotherapy services are also covered if provided by facilities in contractual relations with health insurance companies.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How can I get hospital services?",
+      "answer": "Inpatient medical services are granted based on a referral ticket issued by a family medicine doctor or an outpatient specialist. A referral note is not required for medical emergencies.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "read_instruction": "read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the differences between public and private hospitals regarding insurance coverage?",
+      "answer": "Public hospitals with insurance contracts provide free medical services to insured patients and cannot collect additional payments. If an insured patient pays for services they were entitled to for free, public hospitals are obliged to reimburse them. Private hospitals under contract with health insurance companies can charge a personal contribution, which is the difference between the rate settled by the health insurance company and the rate charged by the private hospital.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "read_instruction": "read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "How are costs handled for hospital stays?",
+      "answer": "In public hospitals with insurance contracts, all necessary expenses for insured persons are covered, and no additional payment can be collected; reimbursements are made for out-of-pocket expenses for entitled services. In private hospitals with insurance contracts, patients may pay a personal contribution. If a hospital does not have an insurance contract, the insured person bears the full cost and cannot recover it from the health insurance company.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities', 'Conditions for providing hospitalization services in private health facilities', and 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "read_instruction": "read the sections under 'Conditions for providing hospitalization services in public health facilities', 'Conditions for providing hospitalization services in private health facilities', and 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "When can I expect to receive a cost estimate for hospital services?",
+      "answer": "For hospitalization services in private health facilities, patients will receive an estimate of the costs of the requested medical services before hospitalization. This estimate is valid for 5 working days.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "read_instruction": "read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

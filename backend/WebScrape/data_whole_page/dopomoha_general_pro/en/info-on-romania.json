@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 349,
+      "content_block_id": 4,
+      "question": "What information is available about transportation options?"
+    },
+    {
+      "question_id": 350,
+      "content_block_id": 4,
+      "question": "How can I find help and resources in Romania?"
+    },
+    {
+      "question_id": 351,
+      "content_block_id": 4,
+      "question": "What are the important dates and times to be aware of?"
+    },
+    {
+      "question_id": 352,
+      "content_block_id": 4,
+      "question": "What should I know about health and emergency services?"
+    },
+    {
+      "question_id": 353,
+      "content_block_id": 4,
+      "question": "How can I communicate and access essential services like money and internet?"
+    }
+  ]
+}

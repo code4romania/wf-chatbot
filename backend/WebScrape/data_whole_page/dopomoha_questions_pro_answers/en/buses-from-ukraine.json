@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 222,
+      "content_block_id": 37,
+      "question": "What kind of assistance is available for people leaving Ukraine?",
+      "answer": "People leaving Ukraine can access fast, free, and safe transportation from the Ukrainian-Moldovan border to the Romanian border. In Romania, they can also receive free medical care, water, and food, as well as free buses to Bucharest or Iasi.",
+      "website": "https://dopomoha.ro/en/buses-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 223,
+      "content_block_id": 37,
+      "question": "How can people travel from the Ukrainian-Moldovan border to Romania?",
+      "answer": "People can travel by taking daily buses that depart from the Palanca border in Moldova to the city Huși in Romania. This transportation is free and organized by the Romanian and Moldavian governments with support from UNHCR and IOM.",
+      "website": "https://dopomoha.ro/en/buses-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 224,
+      "content_block_id": 37,
+      "question": "What help is provided at the destination in Romania?",
+      "answer": "At the destination city of Huși in Romania, people can receive free medical care, water, and food if needed. From Huși, they can also take free buses to Bucharest or Iasi.",
+      "website": "https://dopomoha.ro/en/buses-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 225,
+      "content_block_id": 37,
+      "question": "When are these travel services available?",
+      "answer": "The travel services, specifically the buses from the Palanca border in Moldova to Huși in Romania, are available daily.",
+      "website": "https://dopomoha.ro/en/buses-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/buses-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

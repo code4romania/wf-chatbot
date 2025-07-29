@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 31,
+      "content_block_id": 5,
+      "answer": "Common safety concerns highlighted are human trafficking, which involves exploitation through threats or force, and situations of emergency or war.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Stay safe Human trafficking' and 'Guide for what to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 32,
+      "content_block_id": 5,
+      "answer": "You can prepare for emergencies by consulting the \"What to do in case of emergency or war\" guide, which provides detailed instructions created by Ukrainian authorities on how to prepare and act if such events occur.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Guide for what to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 33,
+      "content_block_id": 5,
+      "answer": "Resources available for finding support include contacts for reporting suspicions of human trafficking, a map of shelters in Romania, and a specific list of shelters in Bucharest.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the sections under 'Stay safe Human trafficking' and 'Map of shelters in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 34,
+      "content_block_id": 5,
+      "answer": "The provided content does not specifically detail how to contribute to broader community safety. However, it does advise learning how to reduce your vulnerability to human trafficking and reporting any suspicions of it.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 35,
+      "content_block_id": 5,
+      "answer": "You should seek help in a crisis by reporting any suspicion of human trafficking. Additionally, the guide for emergencies and war provides instructions on how to act if these situations occur.",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the sections under 'Stay safe Human trafficking' and 'Guide for what to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

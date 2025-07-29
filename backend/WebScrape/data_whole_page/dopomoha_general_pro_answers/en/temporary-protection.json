@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 150,
+      "content_block_id": 22,
+      "answer": "To get temporary protection, you must be on Romanian territory or at a border crossing point and contact the authorities in charge. When you present yourself, your photo will be taken, and personal data such as name, date of birth, citizenship, and address in Romania will be recorded. You can contact authorities in temporary accommodation camps or General Inspectorate for Immigrations centers.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'How is temporary protection granted?' and 'The authorities that can issue the residency permit'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 151,
+      "content_block_id": 22,
+      "answer": "Beneficiaries of temporary protection in Romania have rights including receiving a residency document, being informed about protection terms, and the right to work or engage in educational activities. They can also receive financial support if needed, free primary and emergency medical care, and access to the national education system for those under 18. Additionally, social services provide food, clothing, personal hygiene products, and health care in accommodation locations.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the sections under 'What are my rigthts as a beneficiary of temporary protection?', 'Medical assistance', and 'Social services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 152,
+      "content_block_id": 22,
+      "answer": "You can apply for asylum within Romania at a later point after entering the country. The provided content states that applying for asylum within Romania is an option, but does not detail the specific application process.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 153,
+      "content_block_id": 22,
+      "answer": "The temporary protection for people fleeing Russia's war of aggression against Ukraine has been extended by the EU Council to 4 March 2025.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What is the validity period of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 154,
+      "content_block_id": 22,
+      "answer": "Temporary protection is valid until 4 March 2025, as extended by the EU Council.",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What is the validity period of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

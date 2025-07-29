@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 184,
+      "content_block_id": 53,
+      "question": "What services are available at this center?",
+      "answer": "The center offers free medical consultations and access to medical services, psychological support for refugees of any age, and help with translation in English, Russian, or Ukrainian languages.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 185,
+      "content_block_id": 53,
+      "question": "How can someone get help at this center?",
+      "answer": "Someone can get help at this center by making an appointment. Appointments can be made by calling 0747 278 486 or 0748 185 714.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 186,
+      "content_block_id": 53,
+      "question": "When is the center open?",
+      "answer": "The center is open Monday to Friday from 10:00 to 18:00.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 187,
+      "content_block_id": 53,
+      "question": "What kind of medical help is offered?",
+      "answer": "Medical help includes consultations with specialists like a pediatrician, cardiologist, diabetologist, ophthalmologist, and dentist. It is also possible to do an ultrasound, ECG, measure blood pressure, and check blood glucose levels.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 188,
+      "content_block_id": 53,
+      "question": "How can someone make an appointment?",
+      "answer": "Appointments can be made by calling 0747 278 486 or 0748 185 714. Calls can be made in Romanian, Russian, Ukrainian, or English.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

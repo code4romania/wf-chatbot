@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 71,
+      "content_block_id": 50,
+      "answer": "Medical assistance for refugees includes access to family doctors, laboratory analyses, specialist consultations, hospitalization, and dentistry. Additionally, services for medical recovery, home consultations, reimbursed medicines, medical devices, and care for pregnant women and Covid-19 patients are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 72,
+      "content_block_id": 50,
+      "answer": "Refugees can access healthcare services by learning how to use a family doctor, obtaining specialist consultations, and understanding conditions for hospitalization. Information is also provided on how to get treatment through national curative health programs and how to access reproductive health services at a Women's center.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the sections 'Family doctor and a basic package of services' and 'Specialist consultation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 73,
+      "content_block_id": 50,
+      "answer": "Refugees can access National curative health programs. The website provides information on the National Health Program package, including how to get treatment and a list of available programs.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the section under 'National curative health programs'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 74,
+      "content_block_id": 50,
+      "answer": "The provided content describes various medical services available for refugees, including care for chronic diseases, Covid-19, and pregnancy. However, it does not specify the exact times or general conditions under which refugees can seek medical attention.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 75,
+      "content_block_id": 50,
+      "answer": "Healthcare coverage details vary; for hospitalization services, information is provided on who pays for the treatment. Dentistry services include information on the cost of treatment for all patient categories, and certain medicines are reimbursed by the Health Fund. Free treatment for Covid-19 is also available for insured, uninsured, and other people in Romania.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the sections 'Hospitalization services in public and private institutions', 'Dentistry in Romania: basic dental medicine package', 'Medicines reimbursed by the Health Fund', and 'Information for patients with Covid-19'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

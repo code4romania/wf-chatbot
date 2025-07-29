@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 115,
+      "content_block_id": 60,
+      "question": "What kind of help is available in Cluj-Napoca?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 60,
+      "question": "How can someone get medical and psychological support?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 60,
+      "question": "What are the transportation options?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 60,
+      "question": "What resources are there for housing and jobs?"
+    },
+    {
+      "question_id": 119,
+      "content_block_id": 60,
+      "question": "How can someone access legal and other support services?"
+    }
+  ]
+}

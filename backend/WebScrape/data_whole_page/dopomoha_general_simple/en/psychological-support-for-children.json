@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 260,
+      "content_block_id": 27,
+      "question": "How can parents support children facing difficult situations?"
+    },
+    {
+      "question_id": 261,
+      "content_block_id": 27,
+      "question": "What are key ways parents can take care of themselves during stressful times?"
+    },
+    {
+      "question_id": 262,
+      "content_block_id": 27,
+      "question": "How can children be helped to feel safe and secure in an emergency?"
+    },
+    {
+      "question_id": 263,
+      "content_block_id": 27,
+      "question": "What are effective strategies for understanding and responding to a child's emotions?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 11,
+      "content_block_id": 25,
+      "question": "What are the benefits of breastfeeding, especially during emergencies?"
+    },
+    {
+      "question_id": 12,
+      "content_block_id": 25,
+      "question": "How can I ensure my child gets proper nutrition in difficult situations?"
+    },
+    {
+      "question_id": 13,
+      "content_block_id": 25,
+      "question": "What are some essential food and water supplies to have on hand?"
+    },
+    {
+      "question_id": 14,
+      "content_block_id": 25,
+      "question": "How can I support breastfeeding if it is challenging or if I have to express milk?"
+    },
+    {
+      "question_id": 15,
+      "content_block_id": 25,
+      "question": "When should I seek professional help with breastfeeding or infant nutrition?"
+    }
+  ]
+}

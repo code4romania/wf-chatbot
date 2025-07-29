@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 303,
+      "content_block_id": 27,
+      "question": "What are some ways to help children cope with stress during difficult times?",
+      "answer": "Parents can help children cope with stress by hugging, explaining, and distracting them, remembering that calm parents lead to calm children. Continuing to surround children with love and care, especially through tactile contact, is important. Allowing children to play or draw out their emotions, and teaching them self-calming exercises like 'Butterfly hugs' or 'Cocoon,' can also reduce stress.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 304,
+      "content_block_id": 27,
+      "question": "How can parents manage their own well-being while supporting their children?",
+      "answer": "Parents can manage their own well-being by prioritizing sleep, food, and communication, as they cannot effectively help their children if they feel unwell. It is important for parents to think about the future, let go of guilt, ask for help when needed, and talk about their emotions and experiences with others.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Tips for parents'.",
+      "read_instruction": "read the section under 'Tips for parents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 305,
+      "content_block_id": 27,
+      "question": "What practical steps can be taken to create a sense of stability for children in uncertain situations?",
+      "answer": "To create stability, parents should save the daily routine as much as possible, as it provides a sense of control. They can also create an action plan with the child, defining routes to a shelter and the sequence of actions, using clear phrases and visuals like a map. Reproducing the sequence of the day from morning until evening can further reinforce this sense of routine and predictability.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?'.",
+      "read_instruction": "read the section under 'How can parents support a child?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 306,
+      "content_block_id": 27,
+      "question": "How can parents help children understand and express their emotions?",
+      "answer": "Parents can help children understand and express emotions by openly explaining their own feelings, such as saying 'I'm sad' when crying, to normalize different emotions. It's important to observe the child's condition, ask open-ended questions, and acknowledge their feelings directly, for example, by saying 'I see you're scared.' Allowing children to play, shout, voice, or draw out their emotions, especially in stressful situations, also helps them cope and express themselves.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?'.",
+      "read_instruction": "read the section under 'How can parents support a child?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 307,
+      "content_block_id": 27,
+      "question": "When is it important to seek additional resources or support for a child's mental health?",
+      "answer": "The provided content does not specify exact circumstances or symptoms indicating when it is important to seek additional resources or support for a child's mental health. However, it does list external resources for further guidance on how to support a child.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

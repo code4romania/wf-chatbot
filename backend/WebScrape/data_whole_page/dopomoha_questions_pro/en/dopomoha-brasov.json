@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 75,
+      "content_block_id": 55,
+      "question": "What kind of help is available in Brașov?"
+    },
+    {
+      "question_id": 76,
+      "content_block_id": 55,
+      "question": "How can I get medical assistance in Brașov?"
+    },
+    {
+      "question_id": 77,
+      "content_block_id": 55,
+      "question": "What are the educational resources for refugees in Brașov?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 55,
+      "question": "How can refugees access transportation in Brașov?"
+    },
+    {
+      "question_id": 79,
+      "content_block_id": 55,
+      "question": "What support services are there for women in Brașov?"
+    }
+  ]
+}

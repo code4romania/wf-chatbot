@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 273,
+      "content_block_id": 67,
+      "question": "What kind of mental health support is available?",
+      "answer": "A wide range of mental health support is available, including unique workshops to discuss trauma, specialized psychological and psychiatric support (including adult, pediatric, and addiction treatment), and mental health consultations. Organizations also offer psychosocial support activities, mental health awareness events, psychological first aid, and referrals to specialists, often in individual or group sessions.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 274,
+      "content_block_id": 67,
+      "question": "How can refugees access these services?",
+      "answer": "Refugees can access these services by contacting the specific organizations via the email addresses or phone numbers provided in the listing. Some services, like ALIAT Association workshops, require signing up via email and take place at specific clinic locations. The AMURTEL team operates within the CATTIA Community Center for workshops and MHPSS support.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 275,
+      "content_block_id": 67,
+      "question": "What languages are the services offered in?",
+      "answer": "The services are offered in multiple languages, with many organizations providing support in Ukrainian, Russian, Romanian, and English. Additionally, some consultations are available in Polish.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 276,
+      "content_block_id": 67,
+      "question": "When are these services available?",
+      "answer": "Specific availability varies by organization. For instance, ALIAT Association workshops take place every Wednesday and Friday, and the AMURTEL team can be contacted from Monday to Friday during business hours. Other organizations provide contact details but do not specify service hours or days in the provided text.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 277,
+      "content_block_id": 67,
+      "question": "How can I find support in a specific city?",
+      "answer": "To find support in a specific city, you should navigate to the “Other cities“ item in the main menu of the website. There, you can select the desired city to find all the necessary information regarding psychological support available in that location.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the section under 'Psychological support in other cities of Romania'.",
+      "read_instruction": "read the section under 'Psychological support in other cities of Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

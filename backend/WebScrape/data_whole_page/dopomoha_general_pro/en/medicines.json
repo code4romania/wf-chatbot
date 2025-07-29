@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 140,
+      "content_block_id": 45,
+      "question": "What are compensated medicines?"
+    },
+    {
+      "question_id": 141,
+      "content_block_id": 45,
+      "question": "How does the prescription and dispensing process for medications work?"
+    },
+    {
+      "question_id": 142,
+      "content_block_id": 45,
+      "question": "What is the role of health insurance in covering medication costs?"
+    },
+    {
+      "question_id": 143,
+      "content_block_id": 45,
+      "question": "When are medications covered, and for how long?"
+    },
+    {
+      "question_id": 144,
+      "content_block_id": 45,
+      "question": "How are medication costs determined and what are the compensation levels?"
+    }
+  ]
+}

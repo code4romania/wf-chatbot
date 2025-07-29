@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 125,
+      "content_block_id": 39,
+      "answer": "Specialist doctors offer a basic package of services including medical services for emergency situations, curative care for acute conditions, consultations for chronic diseases, and detection of endemic-epidemic potential. They also provide family planning services, palliative care, diagnostic and therapeutic services, and pregnancy surveillance. Additionally, day hospitalization services like monitoring pregnancies and early detection of precancerous lesions are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation Where specialist is provided and the basic package of services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 126,
+      "content_block_id": 39,
+      "answer": "Specialist consultations are provided in medical practices, health units, and specialized outpatient clinics. Generally, a referral ticket from a family doctor or other specialist is required. However, people coming from the war zones of Ukraine can access specialized medical services without presenting this referral ticket.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 127,
+      "content_block_id": 39,
+      "answer": "Additional support services include psychological counseling, psychotherapy, and special psychopedagogical counseling, which can be offered by a psychologist, sometimes through a speech therapist. Physiotherapists provide individual or group physiotherapy, including with special mechanical, electromechanical, or robotic devices. These services can be recommended by certain specialist doctors if the clinic has qualified staff or a contract with a provider.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Doctors with certain specializations'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 128,
+      "content_block_id": 39,
+      "answer": "Remote consultations can be utilized for chronic conditions and diseases with potential endemo-epidemic that require isolation, without the mandatory presentation of a referral ticket. Psychiatric therapies, services provided by a psychologist, psychological counseling and psychotherapy, and services provided by a speech therapist can also be offered remotely.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 129,
+      "content_block_id": 39,
+      "answer": "For people coming from the war zones of Ukraine, specialized medical services for clinical specialties included in the basic service package are provided without requiring a referral ticket. This means they can get consultations from a specialist without a prescription from a family doctor.",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 90,
+      "content_block_id": 64,
+      "question": "What is the purpose of the dopomoha.ro website?",
+      "answer": "The objective of dopomoha.ro is to provide information and support for people from Ukraine who want to request help from Romania.",
+      "website": "https://dopomoha.ro/en/terms-and-conditions",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '1. Objective of the Platform'.",
+      "read_instruction": "read the section under '1. Objective of the Platform'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 91,
+      "content_block_id": 64,
+      "question": "How does the website handle personal data?",
+      "answer": "The platform itself does not process personal data. Code for Romania processes personal data temporarily only in the interest of website users who wish to request support services, and it will not provide personal data to third parties, except to institutions or public authorities based on legal provisions.",
+      "website": "https://dopomoha.ro/en/terms-and-conditions",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '2. Personal data'.",
+      "read_instruction": "read the section under '2. Personal data'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 92,
+      "content_block_id": 64,
+      "question": "What rights do users of the website have?",
+      "answer": "Users have the right to information regarding data processing, access to personal data, and intervention, rectification, deletion or portability of personal data. They also have the right to address the National Supervisory Authority or judiciary, and the right to opposition and restriction of processing.",
+      "website": "https://dopomoha.ro/en/terms-and-conditions",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '6. Your rights'.",
+      "read_instruction": "read the section under '6. Your rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 93,
+      "content_block_id": 64,
+      "question": "How can someone contact the organization behind the website?",
+      "answer": "You can contact Code for Romania via email at contact@code4.ro, or by mail at Piața Alba Iulia no. 7, block I6, floor 1, apartment 6, Bucharest municipality, Romania.",
+      "website": "https://dopomoha.ro/en/terms-and-conditions",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '11. Contact us'.",
+      "read_instruction": "read the section under '11. Contact us'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 94,
+      "content_block_id": 64,
+      "question": "When can the terms and conditions of the website change?",
+      "answer": "Code for Romania reserves the right to revise and update the \"General Terms and Conditions of Use\" at any time, without notice or prior acceptance of the users.",
+      "website": "https://dopomoha.ro/en/terms-and-conditions",
+      "instruction": "Go to website https://dopomoha.ro/en/terms-and-conditions and read the section under '9. Changes to the General Site Terms and Conditions of Use'.",
+      "read_instruction": "read the section under '9. Changes to the General Site Terms and Conditions of Use'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 65,
+      "content_block_id": 24,
+      "question": "What kind of help is available for drug users?",
+      "answer": "Drug users can find help from doctors, psychologists, and social workers at the National Anti-Drug Agency centers. Services include medical evaluation, counseling, and treatment (including substitution); psychological assessment and counseling; and social counseling and guidance. Specific services like disintoxication and overdose treatment are also available in Bucharest.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 66,
+      "content_block_id": 24,
+      "question": "How can someone find drug treatment centers?",
+      "answer": "Someone can find drug treatment centers through the National Anti-Drug Agency, which has centers in all Romanian counties. A map with contact details for county centers is available at http://ana.gov.ro/despre-institutie/reteaua-nationala/. For Bucharest, specific addresses and contact information for various providers are listed within the provided information.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 67,
+      "content_block_id": 24,
+      "question": "What services do these treatment centers provide?",
+      "answer": "Treatment centers provide medical services such as evaluation, counseling, and medical treatment including substitution therapy. They also offer psychological services like assessment and individual or group counseling, and social services including counseling and guidance. Additionally, some centers specialize in disintoxication services for minors and adults, and assistance for overdose treatment.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 68,
+      "content_block_id": 24,
+      "question": "When are these services available?",
+      "answer": "For several National Anti-Drug Agency centers in Bucharest, services are available Monday to Friday from 08:00-16:00. The Color Mind Psychiatry and Psychotherapy Clinic operates Monday-Friday from 09:00-21:00 and Saturday from 09:00-13:00. An emergency phone number (112) is provided for overdose treatment and assistance.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 69,
+      "content_block_id": 24,
+      "question": "How much do these services cost?",
+      "answer": "Many services, particularly those provided by the National Anti-Drug Agency and Clinical Hospital of Psychiatry Prof.dr. Alexandru Obregia, are free of charge. However, some providers, such as ARAS Health Center, Color Mind Psychiatry and Psychotherapy Clinic, and ANIT Romania, offer paid services. The ARAS ARENA Center offers both free and paid services.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

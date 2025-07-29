@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 231,
+      "content_block_id": 62,
+      "question": "What kind of help is available in Brăila for newcomers?"
+    },
+    {
+      "question_id": 232,
+      "content_block_id": 62,
+      "question": "How can I get around Brăila using public transport?"
+    },
+    {
+      "question_id": 233,
+      "content_block_id": 62,
+      "question": "What resources are there for healthcare and education in Brăila?"
+    },
+    {
+      "question_id": 234,
+      "content_block_id": 62,
+      "question": "What support services are offered by organizations in Brăila?"
+    },
+    {
+      "question_id": 235,
+      "content_block_id": 62,
+      "question": "How can I find housing and job support in Brăila?"
+    }
+  ]
+}

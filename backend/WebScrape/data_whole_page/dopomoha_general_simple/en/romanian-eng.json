@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 225,
+      "content_block_id": 35,
+      "question": "What language courses are available for refugees?"
+    },
+    {
+      "question_id": 226,
+      "content_block_id": 35,
+      "question": "What other activities are offered alongside language learning?"
+    },
+    {
+      "question_id": 227,
+      "content_block_id": 35,
+      "question": "How can individuals sign up for the programs or access materials?"
+    },
+    {
+      "question_id": 228,
+      "content_block_id": 35,
+      "question": "Who can participate in the various activities?"
+    }
+  ]
+}

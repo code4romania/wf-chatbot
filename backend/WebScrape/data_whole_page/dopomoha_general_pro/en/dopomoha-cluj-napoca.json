@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 115,
+      "content_block_id": 60,
+      "question": "What kind of support is available in Cluj-Napoca for newcomers?"
+    },
+    {
+      "question_id": 116,
+      "content_block_id": 60,
+      "question": "How can someone access essential services like healthcare and transportation in a new city?"
+    },
+    {
+      "question_id": 117,
+      "content_block_id": 60,
+      "question": "What resources are available for legal, housing, and job assistance in Cluj-Napoca?"
+    },
+    {
+      "question_id": 118,
+      "content_block_id": 60,
+      "question": "How can refugees find psychological and social support services?"
+    },
+    {
+      "question_id": 119,
+      "content_block_id": 60,
+      "question": "When are these support services available?"
+    }
+  ]
+}

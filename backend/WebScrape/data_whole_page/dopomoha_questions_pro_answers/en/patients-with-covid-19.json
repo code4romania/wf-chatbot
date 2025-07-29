@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 283,
+      "content_block_id": 47,
+      "question": "What medical services are available for people with COVID-19?",
+      "answer": "All medical services and medicines for COVID-19 treatment are covered by the FNUASS for diagnosed persons in Romania. People with symptoms can receive remote consultations from a family doctor or specialist. Medical services are also provided in evaluation centers for those with mild to moderate symptoms, at least two risk factors, and confirmed infection, without needing a referral.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 284,
+      "content_block_id": 47,
+      "question": "How can people access medical care and support for COVID-19 in Romania?",
+      "answer": "People in Romania can access medical care for COVID-19 through coverage by the FNUASS for necessary services and medicines. Remote consultations are available from family doctors or specialists for those with symptoms. Additionally, medical services are provided in evaluation centers for individuals with confirmed infection, mild to moderate symptoms, and at least two risk factors, without requiring a referral note.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 285,
+      "content_block_id": 47,
+      "question": "What post-COVID care options are offered?",
+      "answer": "Post-COVID care includes the \"Post-Covid-19 Syndrome Evaluation\" service for patients with long-term symptoms. Individuals with moderate or severe respiratory insufficiency may receive continuous oxygen administration devices or noninvasive ventilation. Physical therapy, psychological counseling, and psychotherapy are also available upon recommendation from cardiology and pneumology specialists, covered by health insurance if clinics are contracted.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 286,
+      "content_block_id": 47,
+      "question": "How can someone get vaccinated for COVID-19 in Bucharest?",
+      "answer": "To get vaccinated for COVID-19 in Bucharest, you can download a list of family medicine offices in Bucharest where vaccinations are available. The list is provided in Romanian.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "read_instruction": "read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

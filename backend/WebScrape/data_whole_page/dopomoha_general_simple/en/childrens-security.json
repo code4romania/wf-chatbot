@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 244,
+      "content_block_id": 30,
+      "question": "How can parents prepare their children for various safety scenarios?"
+    },
+    {
+      "question_id": 245,
+      "content_block_id": 30,
+      "question": "What essential items should be included in a child's personal safety kit?"
+    },
+    {
+      "question_id": 246,
+      "content_block_id": 30,
+      "question": "What crucial information should children be taught for their own protection?"
+    },
+    {
+      "question_id": 247,
+      "content_block_id": 30,
+      "question": "How can a safe living space be established for children?"
+    },
+    {
+      "question_id": 248,
+      "content_block_id": 30,
+      "question": "What actions are recommended for adults when a child is missing or found alone?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 207,
+      "content_block_id": 43,
+      "question": "What types of medical recovery services are available?"
+    },
+    {
+      "question_id": 208,
+      "content_block_id": 43,
+      "question": "How can individuals access medical recovery programs?"
+    },
+    {
+      "question_id": 209,
+      "content_block_id": 43,
+      "question": "What are the typical durations for medical recovery treatments?"
+    },
+    {
+      "question_id": 210,
+      "content_block_id": 43,
+      "question": "How are the costs for medical recovery services generally handled?"
+    }
+  ]
+}

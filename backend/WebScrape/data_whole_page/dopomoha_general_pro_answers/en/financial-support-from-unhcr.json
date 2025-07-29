@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 16,
+      "content_block_id": 18,
+      "answer": "UNHCR is offering one-time financial cash assistance of 720 lei per person to cover expenses related to the winter period for eligible Ukrainians and third-country nationals displaced by the ongoing conflict. This assistance is intended to meet expenses for four months.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Information about UNHCR’s Cash Programme in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 17,
+      "content_block_id": 18,
+      "answer": "To apply, eligible refugees can fill out a form, and after review, an appointment for an interview for cash assistance may be scheduled. An SMS will be sent within 15 days with appointment details, which must be shown at the enrollment center reception. However, the financial assistance program is currently unavailable, and applicants are advised to check back later.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 18,
+      "content_block_id": 18,
+      "answer": "Eligibility criteria include being displaced from Ukraine, having temporary protection status in Romania for at least 30 days, living in Romania for at least 30 days before registering with UNHCR, and not receiving other multi-purpose cash assistance of RON 600 or more. Additionally, the family must meet at least one specific category, such as having a disabled/seriously ill member, being single parents, having an adult over 60, having four or more family members, or being a single young man aged 18-21.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 19,
+      "content_block_id": 18,
+      "answer": "Currently, there is no financial assistance program available. Applicants are advised to check this page later for updates on when the program might reopen.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Scheduling an appointment to register for Cash assistance by UNHCR'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 20,
+      "content_block_id": 18,
+      "answer": "The assistance is provided as a one-time cash payment of 720 lei per person in Romanian LEI. It can be received via Romanian bank accounts, for which IBAN and account opening date are required, or by picking up cash from MoneyGram or Smith & Smith branches using a pick-up code, identification documents, and a UNHCR Proof of Enrolment.",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Do I need a Proof of Enrolment document for picking up assistance from MoneyGram, a bank or Smith &Smith?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

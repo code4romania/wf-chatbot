@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 75,
+      "content_block_id": 64,
+      "question": "What is the overall purpose of the platform?"
+    },
+    {
+      "question_id": 76,
+      "content_block_id": 64,
+      "question": "How does the platform manage personal information?"
+    },
+    {
+      "question_id": 77,
+      "content_block_id": 64,
+      "question": "What protections are in place for user privacy?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 64,
+      "question": "How can users address concerns or exercise their rights?"
+    },
+    {
+      "question_id": 79,
+      "content_block_id": 64,
+      "question": "When might the usage guidelines be revised?"
+    }
+  ]
+}

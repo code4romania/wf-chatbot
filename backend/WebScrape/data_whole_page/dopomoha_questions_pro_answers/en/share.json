@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 36,
+      "content_block_id": 10,
+      "question": "What kind of help is being offered?",
+      "answer": "Help is offered for emergency support, including resources, food, products, clothing, tents, transportation, and volunteers through 'Sprijin de Urgență'. Additionally, support is available for finding temporary accommodation through 'Un Acoperiș'.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "read_instruction": "read the section under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 37,
+      "content_block_id": 10,
+      "question": "How can I get involved?",
+      "answer": "You can get involved by sharing dopomoha.ro content, downloading and displaying posters and flyers, or by offering resources, food, products, clothing, tents, transportation, or volunteers via 'Sprijin de Urgență'. You can also provide a space for temporary accommodation through 'Un Acoperiș'.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 38,
+      "content_block_id": 10,
+      "question": "What resources are available?",
+      "answer": "Available resources include a guide with common expressions in Romanian translated into English and Ukrainian (phrase book). For emergency support, resources, food, products, clothing, tents, transportation, and volunteers are available. Temporary accommodation support is also provided.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "read_instruction": "read the section under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 39,
+      "content_block_id": 10,
+      "question": "How can I spread the word?",
+      "answer": "You can spread the word by downloading, printing, and displaying posters in crowded, visible places like storefronts and apartment buildings. You can also download flyers containing general information and share them wherever you go, including in stores, means of transport, and parks.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 40,
+      "content_block_id": 10,
+      "question": "When can I access this help?",
+      "answer": "The provided content does not specify when this help can be accessed, such as operating hours or specific timeframes.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

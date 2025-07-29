@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 70,
+      "content_block_id": 50,
+      "question": "What medical services are available for refugees from Ukraine?"
+    },
+    {
+      "question_id": 71,
+      "content_block_id": 50,
+      "question": "How can refugees access healthcare services in Romania?"
+    },
+    {
+      "question_id": 72,
+      "content_block_id": 50,
+      "question": "What support is offered for specific health concerns like pregnancy or chronic illnesses?"
+    },
+    {
+      "question_id": 73,
+      "content_block_id": 50,
+      "question": "How can someone find a doctor or specialist?"
+    },
+    {
+      "question_id": 74,
+      "content_block_id": 50,
+      "question": "What financial assistance is available for medical expenses?"
+    }
+  ]
+}

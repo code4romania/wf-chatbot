@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 245,
+      "content_block_id": 43,
+      "answer": "Medical recovery services are provided in sanatoriums or sanatorium wards, which may have a spa profile, for both children and adults. Services are also available in sanatoriums other than spas and preventive sanatoriums.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 246,
+      "content_block_id": 43,
+      "answer": "Access to services in spa sanatoriums is based on referral notes for physical medicine and rehabilitation treatment. These notes are issued by family medicine doctors or specialists in ambulatory and hospital settings who are in contractual relations with health insurance companies, considering the patient's specific pathology.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 247,
+      "content_block_id": 43,
+      "answer": "For spa sanatoriums, the maximum duration is 14-21 days per year, which can be divided into two fractions, with services also provided for periods less than 14 days. For other sanatoriums, the period is established by specialist doctors and is not limited to a certain number of days.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 248,
+      "content_block_id": 43,
+      "answer": "Medical recovery services in spa sanatoriums up to 21 days are partially covered, requiring a personal contribution from patients, except for beneficiaries of Emergency Ordinance no.15/2022 from Ukraine who are exempt. Services provided beyond the 21-day hospitalization period are fully covered by the patients.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 249,
+      "content_block_id": 43,
+      "answer": "The process begins with obtaining a referral note for physical medicine and rehabilitation treatment from a family doctor or specialist, based on the patient's specific pathology and associated conditions. Physical medicine and rehabilitation specialists or specialist doctors in the units then determine the period and flow of the services.",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

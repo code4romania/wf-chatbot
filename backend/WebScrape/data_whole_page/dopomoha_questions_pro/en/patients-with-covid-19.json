@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 283,
+      "content_block_id": 47,
+      "question": "What medical services are available for people with COVID-19?"
+    },
+    {
+      "question_id": 284,
+      "content_block_id": 47,
+      "question": "How can people access medical care and support for COVID-19 in Romania?"
+    },
+    {
+      "question_id": 285,
+      "content_block_id": 47,
+      "question": "What post-COVID care options are offered?"
+    },
+    {
+      "question_id": 286,
+      "content_block_id": 47,
+      "question": "How can someone get vaccinated for COVID-19 in Bucharest?"
+    }
+  ]
+}

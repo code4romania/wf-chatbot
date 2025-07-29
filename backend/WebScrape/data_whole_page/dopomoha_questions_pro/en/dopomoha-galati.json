@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 160,
+      "content_block_id": 58,
+      "question": "What kind of help is available in Galați?"
+    },
+    {
+      "question_id": 161,
+      "content_block_id": 58,
+      "question": "How can someone get medical and psychological support?"
+    },
+    {
+      "question_id": 162,
+      "content_block_id": 58,
+      "question": "What resources are there for education and childcare?"
+    },
+    {
+      "question_id": 163,
+      "content_block_id": 58,
+      "question": "How can refugees find housing and jobs?"
+    },
+    {
+      "question_id": 164,
+      "content_block_id": 58,
+      "question": "What organizations are offering assistance to refugees in Galați?"
+    }
+  ]
+}

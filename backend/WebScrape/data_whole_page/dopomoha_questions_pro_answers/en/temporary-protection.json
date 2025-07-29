@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 150,
+      "content_block_id": 22,
+      "question": "What help is available for people fleeing to Romania?",
+      "answer": "Beneficiaries of temporary protection in Romania can receive financial assistance if needed, free primary and emergency medical care, and adequate care for special needs. They have the right to work, access the national education system (especially for minors), and benefit from social services like food, clothing, and personal hygiene products. Support for finding accommodation is also available through designated camps or portals like \"Un Acoperiș\".",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 151,
+      "content_block_id": 22,
+      "question": "How can someone get temporary protection in Romania?",
+      "answer": "To get temporary protection, individuals must be on Romanian territory or at a border crossing point and contact the authorities in charge. When presenting to authorities, a facial photo will be taken, and personal data such as name, date of birth, citizenship, and address in Romania will be recorded. Residency permits can be issued by authorities in temporary accommodation camps or General Inspectorate for Immigrations centers.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'How is temporary protection granted?'.",
+      "read_instruction": "read the section under 'How is temporary protection granted?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 152,
+      "content_block_id": 22,
+      "question": "What rights do people with temporary protection have?",
+      "answer": "Beneficiaries of temporary protection have the right to be issued a document granting them permission to stay in Romania and to be informed in writing about the terms of protection. They can be employed, perform freelance activities, and access educational opportunities. They are entitled to necessary financial assistance if they lack means, free primary and emergency medical care, and appropriate medical care for special needs. Minors also have the right to access the national educational system under the same conditions as Romanian citizens.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What are my rigthts as a beneficiary of temporary protection?'.",
+      "read_instruction": "read the section under 'What are my rigthts as a beneficiary of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 153,
+      "content_block_id": 22,
+      "question": "When does temporary protection expire?",
+      "answer": "The temporary protection for people fleeing Russia's war of aggression against Ukraine has been extended by the EU Council. It is currently valid from March 4, 2024, until March 4, 2025.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What is the validity period of temporary protection?'.",
+      "read_instruction": "read the section under 'What is the validity period of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 154,
+      "content_block_id": 22,
+      "question": "How can people find housing in Romania?",
+      "answer": "People can find housing in Romania by staying in temporary accommodation and humanitarian support camps, or other locations established by local committees. If hosted by an individual or legal entity, the host is obligated to inform the local Police within three days. Additionally, portals like \"Un Acoperiș\" are available to search for or offer temporary accommodation.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

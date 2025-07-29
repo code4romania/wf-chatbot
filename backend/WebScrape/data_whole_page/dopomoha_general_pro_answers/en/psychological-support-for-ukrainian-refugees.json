@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 280,
+      "content_block_id": 67,
+      "answer": "Mental health support services include unique workshops for discussing trauma, specialized psychological and psychiatric support (including adult, pediatric, and addiction treatment), various mental health consultations, and psychological assistance. Organizations also offer MHPSS capacity building events, psychosocial support events, mental health awareness, mental health first aid, training, workshops, supervision, and referral services for vulnerable individuals.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 281,
+      "content_block_id": 67,
+      "answer": "Refugees can access these services by contacting the specific organizations directly via their provided email addresses or phone numbers. Some services, like ALIAT Association workshops, require signing up, while others may be accessed through referrals or by visiting specified clinics or community centers. For support in other cities, users are directed to select their city from the website's main menu.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 282,
+      "content_block_id": 67,
+      "answer": "The services are offered in multiple languages, including Ukrainian, Russian, Romanian, English, and Polish. The specific languages available vary by organization, with some offering support in combinations like Ukrainian and Russian, Russian, Ukrainian, Romanian, and English, or Romanian and English.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 283,
+      "content_block_id": 67,
+      "answer": "Specific availability is mentioned for some services: ALIAT Association workshops take place every Wednesday and Fridays. The AMURTEL team provides support from Monday to Friday during business hours. The availability for other listed organizations is not specified in the provided content.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 284,
+      "content_block_id": 67,
+      "answer": "To find more information, you can follow the Aliat Facebook page for program details. For specific services, contact the respective organizations directly using the provided email addresses and phone numbers. For psychological support in other cities of Romania, select the desired city from the 'Other cities' item in the main menu on the website.",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

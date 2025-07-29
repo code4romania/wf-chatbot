@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 189,
+      "content_block_id": 65,
+      "question": "What are cookies used for?"
+    },
+    {
+      "question_id": 190,
+      "content_block_id": 65,
+      "question": "How do cookies work?"
+    },
+    {
+      "question_id": 191,
+      "content_block_id": 65,
+      "question": "What are the potential risks of cookies?"
+    },
+    {
+      "question_id": 192,
+      "content_block_id": 65,
+      "question": "How can I manage my cookie settings?"
+    }
+  ]
+}

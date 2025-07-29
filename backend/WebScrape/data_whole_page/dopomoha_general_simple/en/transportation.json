@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 67,
+      "content_block_id": 12,
+      "question": "What resources can be requested or provided?"
+    },
+    {
+      "question_id": 68,
+      "content_block_id": 12,
+      "question": "How can one find information about available transportation?"
+    },
+    {
+      "question_id": 69,
+      "content_block_id": 12,
+      "question": "What specialized services are offered for urgent situations?"
+    },
+    {
+      "question_id": 70,
+      "content_block_id": 12,
+      "question": "How can one pay for travel services?"
+    }
+  ]
+}

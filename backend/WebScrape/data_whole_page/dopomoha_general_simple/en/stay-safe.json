@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 28,
+      "content_block_id": 5,
+      "question": "What is human trafficking?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 5,
+      "question": "How can people protect themselves from exploitation?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 5,
+      "question": "What information is available for dealing with emergencies?"
+    },
+    {
+      "question_id": 31,
+      "content_block_id": 5,
+      "question": "How can one locate safe places during difficult times?"
+    }
+  ]
+}

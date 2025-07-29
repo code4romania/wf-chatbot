@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 26,
+      "content_block_id": 46,
+      "question": "What medical devices are covered?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 46,
+      "question": "How can someone obtain these medical devices?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 46,
+      "question": "What are the eligibility requirements for getting medical devices?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 46,
+      "question": "When do medical prescriptions expire?"
+    },
+    {
+      "question_id": 30,
+      "content_block_id": 46,
+      "question": "How are costs for these devices handled?"
+    }
+  ]
+}

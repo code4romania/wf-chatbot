@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 91,
+      "content_block_id": 64,
+      "question": "What is the purpose of this website?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 64,
+      "question": "How is user information handled?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 64,
+      "question": "What rights do users have regarding their data?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 64,
+      "question": "What security measures are in place?"
+    },
+    {
+      "question_id": 95,
+      "content_block_id": 64,
+      "question": "When can these terms and conditions change?"
+    }
+  ]
+}

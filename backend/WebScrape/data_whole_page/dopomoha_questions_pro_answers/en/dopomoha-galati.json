@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 160,
+      "content_block_id": 58,
+      "question": "What kind of help is available in Galați?",
+      "answer": "In Galați, individuals can find information on how to manage in a new city, important contacts for immigration services, and details on temporary protection. Support is also available for medical services, psychological needs, education, legal status, housing, jobs, and specific services for women and those living with HIV, provided by various organizations.",
+      "website": "https://dopomoha.ro/en/dopomoha-galati",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 161,
+      "content_block_id": 58,
+      "question": "How can someone get medical and psychological support?",
+      "answer": "For medical services, individuals can contact the County Emergency Clinical Hospital ,,Sf. Apostol Andrei\" Galați or the Emergency Clinical Hospital for Children ,,Sf. Ioan\" Galați, and find a list of family doctors. Psychological support is offered by organizations such as Project HOPE, Positive Progress psychological Solutions, Terre des hommes Foundation, Save the Children, IOM, Plan International Organization, and Red Cross Romania, with contact details provided for each.",
+      "website": "https://dopomoha.ro/en/dopomoha-galati",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the section under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 162,
+      "content_block_id": 58,
+      "question": "What resources are there for education and childcare?",
+      "answer": "Children can be enrolled in state kindergartens and nurseries, or private kindergartens like Clever Kids Kindergarten, some of which have groups specifically for Ukrainian children. School no. 16 organizes extracurricular activities for children from Ukraine, and JRS (Jesuit Refugee Service) offers free Romanian language courses and various educational, cultural, recreational, and relaxation activities.",
+      "website": "https://dopomoha.ro/en/dopomoha-galati",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 163,
+      "content_block_id": 58,
+      "question": "How can refugees find housing and jobs?",
+      "answer": "The provided content indicates that information on \"Housing Info\" and \"Jobs Support\" is available. However, the specific details or methods for finding housing and jobs are not described within this given text excerpt.",
+      "website": "https://dopomoha.ro/en/dopomoha-galati",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 164,
+      "content_block_id": 58,
+      "question": "What organizations are offering assistance to refugees in Galați?",
+      "answer": "Organizations offering assistance to refugees in Galați include JRS Romania, Red Cross Galați, Save the Children, CNRR (The Romanian National Council for Refugees), Fundatia Inimă de Copil, AIDRom, Asociația pentru Ajutor Umanitar AJUT, and Help to Ukraine Galați Association.",
+      "website": "https://dopomoha.ro/en/dopomoha-galati",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-galati and read the section under 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

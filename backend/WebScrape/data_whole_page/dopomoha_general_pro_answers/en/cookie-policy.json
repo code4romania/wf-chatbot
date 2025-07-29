@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 190,
+      "content_block_id": 65,
+      "answer": "Cookies are small files, a succession of letters and numbers, stored on any Internet-accessing terminal, installed upon a request from a server to a browser. They do not contain software, viruses, or spyware and cannot access information on a user's hard drive. A cookie consists of a name and content, has a limited existence, and can be accessed again by the webserver when a user returns to the associated website.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 191,
+      "content_block_id": 65,
+      "answer": "Cookies are installed upon a request from a server to a browser, storing information in a small text file that allows a website to recognize a browser. When a browser accesses a web server again, it can read the stored information and react accordingly, with the webserver recognizing the browser until the cookie expires or is deleted.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 192,
+      "content_block_id": 65,
+      "answer": "Cookies provide users with a better browsing experience and services tailored to their needs, facilitating access and delivery of required services by personalizing settings. They help operators make websites more effective and easier to access, make online advertising more effective, and aid in embedding multimedia content. They are central to the efficient functioning of the Internet, creating a user-friendly experience tailored to preferences.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What are the advantages of cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 193,
+      "content_block_id": 65,
+      "answer": "Cookies, particularly third-party persistent cookies, can be anonymously used to track a user's interests, allowing them to receive ads more relevant to those interests. They help make online advertising more effective by considering browsing behavior and preferences. Rejecting cookies means advertising will not be tailored to your interests.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Persistent Cookies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 194,
+      "content_block_id": 65,
+      "answer": "You should be concerned about cookies because they can be used for negative purposes, potentially acting as a form of spyware by storing user preferences and browsing history across multiple sites. Information in cookies can also be intercepted if transmitted over unencrypted networks, such as unsecured WiFi, or if servers are misconfigured, allowing attackers to exploit vulnerabilities.",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

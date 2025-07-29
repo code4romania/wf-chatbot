@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 334,
+      "content_block_id": 38,
+      "answer": "The provided content specifies that laboratory analysis and imaging investigations are available as part of medical care for refugees from Ukraine. These include various laboratory tests like hematological, serum, urine, immunological, microbiological, tissue examination, and Papanicolaou tests, as well as imaging such as radiology, ultrasounds, doppler, CT, MRI, scintigraphy, and angiography.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'Laboratory analysis and imaging investigations as part of medical care for refugees from Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 335,
+      "content_block_id": 38,
+      "answer": "To access free laboratory analysis and imaging investigations, refugees must have a referral ticket from a family medicine doctor or specialist doctor who has a contract with a health insurance company. They must then go to a laboratory that also has a contract with a health insurance company. Information on contracted laboratories can be found on the CNAS website.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 336,
+      "content_block_id": 38,
+      "answer": "Covered medical tests include various laboratory analyses such as hematological, serum, urine, immunological, microbiological tests, examination of sampled tissues, and the Papanicolaou test. Additionally, imaging investigations like radiology, ultrasounds, doppler, high-performance investigations (CT, MRI, scintigraphy, angiography) are also covered by the health insurance system.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 337,
+      "content_block_id": 38,
+      "answer": "The referral note for laboratory investigations is valid for 30 days, or up to 90 days for chronic diseases and analyses involving tissue collection. Investigations for monitoring specific conditions like COVID-19, oncological, diabetes, rare, cardiovascular, cerebrovascular, and neurological diseases must be carried out within 5 calendar days from the date of the request.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 338,
+      "content_block_id": 38,
+      "answer": "Medical services, specifically laboratory analysis and imaging investigations, are provided for free to refugees. These services are covered by the health insurance system, and certain investigations, such as those for preventive consultations for patients over 40 or for monitoring specific chronic diseases, are covered by the National Social Insurance Fund.",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

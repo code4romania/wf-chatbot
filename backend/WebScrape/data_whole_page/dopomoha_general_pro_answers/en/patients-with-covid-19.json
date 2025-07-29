@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 290,
+      "content_block_id": 47,
+      "answer": "People diagnosed with COVID-19 can receive all necessary medical services and medicines for their treatment. Medical services are provided in evaluation centers for those with mild or moderate symptoms and at least two risk factors, without needing a referral note. Additionally, services like \"Post-Covid-19 Syndrome Evaluation,\" continuous oxygen administration, and noninvasive ventilation may be available.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 291,
+      "content_block_id": 47,
+      "answer": "Individuals showing COVID-19 symptoms can access remote consultations from a family doctor or specialist. Medical services are available in evaluation centers for those with confirmed infection, mild to moderate symptoms, and at least two risk factors, without needing a referral note. Post-COVID-19 physical therapy, psychological counseling, and psychotherapy are accessible upon recommendation from cardiology or pneumology doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 292,
+      "content_block_id": 47,
+      "answer": "For long-term effects or post-COVID-19 conditions, a \"Post-Covid-19 Syndrome Evaluation\" service is available. Patients with moderate or severe respiratory insufficiency after COVID-19 may benefit from continuous oxygen administration devices like oxygen concentrators, or noninvasive ventilation for certain conditions. Additionally, physical therapy, psychological counseling, and psychotherapy are provided upon recommendation from cardiology and pneumology doctors.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 293,
+      "content_block_id": 47,
+      "answer": "The provided content does not specify when someone can get vaccinated for COVID-19. It only offers information on addresses in Bucharest where vaccination can be obtained, by providing a downloadable list of family medicine offices.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 294,
+      "content_block_id": 47,
+      "answer": "For all persons in Romania diagnosed with COVID-19, including insured and uninsured individuals, all necessary medical services and medicines for treatment are covered by the FNUASS. Post-COVID-19 services like physical therapy, psychological counseling, and psychotherapy are also covered by the health insurance system, provided the offering clinics are under contract with the health insurance house.",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

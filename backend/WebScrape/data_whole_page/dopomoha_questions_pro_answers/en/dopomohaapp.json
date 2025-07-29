@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 312,
+      "content_block_id": 6,
+      "question": "What help is available for Ukrainians arriving in Romania?",
+      "answer": "Ukrainians arriving in Romania can access help-lines, accommodation support, and financial services like currency exchange at BCR. Emergency resources such as food, clothing, and transportation are available, and there are regional centers for asylum seekers. Unaccompanied minors are cared for by the General Directorates for Social Assistance and Child Protection (DGASPC).",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 313,
+      "content_block_id": 6,
+      "question": "How can Ukrainians enter Romania?",
+      "answer": "Ukrainians can enter Romania with a valid passport for a short-stay of up to 90 days. If they do not have documents, they can enter as an asylum seeker. Asylum can also be applied for within Romania at a later point. Border points include Halmeu, Sighetu Marmației, Siret, Isaccea, or via the Republic of Moldova.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "read_instruction": "read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 314,
+      "content_block_id": 6,
+      "question": "What should Ukrainians know about traveling to other EU countries from Romania?",
+      "answer": "Ukrainians with a biometric passport do not need a visa to travel to other EU Member States. To find out the specific conditions for travel to a particular EU destination country, it is recommended to contact that country's embassy.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Traveling to other Member States of the European Union'.",
+      "read_instruction": "read the section under 'Traveling to other Member States of the European Union'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 315,
+      "content_block_id": 6,
+      "question": "When can Ukrainians exchange hryvnia for Romanian lei?",
+      "answer": "Ukrainians with a valid Ukrainian passport can exchange hryvnia (UAH) for Romanian lei (RON) at BCR (Romanian Commercial Bank) up to 2,000 lei per person. At border areas, 11 BCR branches are available 24/7 to cover the need for additional cash.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "read_instruction": "read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 316,
+      "content_block_id": 6,
+      "question": "How can people offer help or resources to Ukrainians in Romania?",
+      "answer": "People can offer help by providing temporary accommodation through \"Un Acoperiș\" to assist vulnerable individuals. They can also offer resources such as food, products, clothing, tents, transportation, or volunteer services via \"Sprijin de Urgență\".",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the sections under 'Accommodation' and 'Emergency help'.",
+      "read_instruction": "read the sections under 'Accommodation' and 'Emergency help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

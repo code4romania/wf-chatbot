@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 86,
+      "content_block_id": 41,
+      "answer": "The basic dental medicine package includes consultation, treatment of simple caries, treatment of oral mucosa conditions, dental extractions, alveolar curettage and treatment of hemorrhage, decapsulation, removable acrylic prosthesis on the arch, physiognomic or semi-physiognomic prosthetic elements, and devices for congenital malformations.",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 87,
+      "content_block_id": 41,
+      "answer": "Services are covered 100% for individuals aged 0-18 years. For those over 18, coverage varies from 60% to 100% depending on the service. Health insurance companies pay 100% for students aged 18-26 (including high school graduates until the academic year starts, up to 3 months) who are apprentices or students and do not earn income, and for people benefiting from special legal conditions.",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 88,
+      "content_block_id": 41,
+      "answer": "The provided content does not specify the exact times or operational hours when these dental services are available.",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 89,
+      "content_block_id": 41,
+      "answer": "These services are for refugees from Ukraine in Romania. Eligibility for 100% coverage depends on age (0-18 years) or being a student/apprentice aged 18-26 without income. People benefiting from special laws may also receive 100% coverage for some services.",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 90,
+      "content_block_id": 41,
+      "answer": "Individuals can find a participating dentist by viewing the 'List of dentists working with the National Insurance House'.",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

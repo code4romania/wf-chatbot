@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 100,
+      "content_block_id": 9,
+      "question": "What basic phrases are covered in this conversation guide?",
+      "answer": "The guide covers basic phrases such as greetings (Hello, Welcome), asking about well-being (How are you?), expressing gratitude (Thank you), apologies (Sorry/Excuse me), and personal introductions (My name is…, What’s your name?). It also includes phrases for needing help, wanting to help, and asking about age.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Basic conversation'.",
+      "read_instruction": "read the section under 'Basic conversation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 101,
+      "content_block_id": 9,
+      "question": "What kind of emergency resources are mentioned?",
+      "answer": "Emergency resources and services mentioned include medical help (doctor, hospital), police, ambulance, firefighters, and pharmacies. The guide also refers to 'Sprijin de Urgență' for requesting or providing resources like food, clothing, tents, transportation, or volunteers.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 102,
+      "content_block_id": 9,
+      "question": "How can this help someone traveling or in need of assistance?",
+      "answer": "This guide can help someone traveling or in need of assistance by providing essential phrases for communication in Romanian and Ukrainian (Latin and Cyrillic). It covers topics like asking for help, directions, medical needs, daily necessities, and information on emergency services, accommodation, and resources.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 103,
+      "content_block_id": 9,
+      "question": "What information is provided for medical situations?",
+      "answer": "For medical situations, the guide provides phrases such as 'I need a doctor,' 'I feel sick,' 'I am sick/ill,' and 'I am pregnant.' It also includes terms for specific needs like 'diaper,' 'powdered milk,' 'I am diabetic,' 'I need insulin,' and 'I am allergic to…,' along with the word for 'hospital.'",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Medical help'.",
+      "read_instruction": "read the section under 'Medical help'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 104,
+      "content_block_id": 9,
+      "question": "What topics related to daily life are included?",
+      "answer": "Topics related to daily life include basic conversation, family members, food and drink (hungry, thirsty, water, food), accommodation (free room, bed, blanket, sleep), clothes, and work. It also covers numbers, asking 'What time is it?', and phrases for money, documents, and common places like shops and churches.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

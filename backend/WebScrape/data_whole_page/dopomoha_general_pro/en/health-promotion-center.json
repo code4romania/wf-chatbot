@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 185,
+      "content_block_id": 53,
+      "question": "What kind of assistance is being offered?"
+    },
+    {
+      "question_id": 186,
+      "content_block_id": 53,
+      "question": "How can people access the services described?"
+    },
+    {
+      "question_id": 187,
+      "content_block_id": 53,
+      "question": "When are these services available?"
+    },
+    {
+      "question_id": 188,
+      "content_block_id": 53,
+      "question": "What medical services are provided?"
+    },
+    {
+      "question_id": 189,
+      "content_block_id": 53,
+      "question": "How is communication facilitated?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 327,
+      "content_block_id": 19,
+      "question": "What kind of help is available for people leaving Ukraine?",
+      "answer": "Civilians fleeing the war in Ukraine can find relevant information about seeking protection in Romania, including legal status, law made simple, support, housing, call center, education, health, transport, jobs, stay safe, and PTSD help.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 328,
+      "content_block_id": 19,
+      "question": "How can someone escaping the war get into Romania?",
+      "answer": "Anybody fleeing Ukraine can enter Romania through any of the official border crossings.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 329,
+      "content_block_id": 19,
+      "question": "What information is provided for refugees arriving in Romania?",
+      "answer": "The platform provides all relevant information about seeking protection in Romania, such as legal status, simplified law information, support, housing, call center services, education, health, transport, jobs, staying safe, and PTSD help.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 330,
+      "content_block_id": 19,
+      "question": "Where can refugees go to find resources in Romania?",
+      "answer": "Refugees can find all relevant information about seeking protection in Romania on this platform, which was created by Code for Romania in partnership with the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration, and the Romanian National Council for Refugees.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

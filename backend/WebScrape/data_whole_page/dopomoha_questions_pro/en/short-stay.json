@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 130,
+      "content_block_id": 23,
+      "question": "What support is available for refugees from Ukraine in Romania?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 23,
+      "question": "How can someone from Ukraine enter Romania?"
+    },
+    {
+      "question_id": 132,
+      "content_block_id": 23,
+      "question": "What are the options for work and education for Ukrainian refugees in Romania?"
+    },
+    {
+      "question_id": 133,
+      "content_block_id": 23,
+      "question": "How can someone access healthcare and accommodation in Romania as a refugee?"
+    },
+    {
+      "question_id": 134,
+      "content_block_id": 23,
+      "question": "When can refugees from Ukraine expect to receive aid in Romania?"
+    }
+  ]
+}

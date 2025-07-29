@@ -1,15 +1,18 @@
 <template>
   <div class="answer-card">
-    <h3>Matched Prompt:</h3>
-    <p class="prompt-text">{{ answer.matched_prompt }}</p>
+    <div v-if="debug">
+      <h3>Matched Prompt:</h3>
+      <p class="prompt-text">{{ answer.matched_prompt }}</p>
+
+      <div class="answer-meta">
+        <p>Score: <strong>{{ answer.score.toFixed(4) }}</strong> ({{ answer.metric }})</p>
+        <p>Question ID: <strong>{{ answer.question_id }}</strong>, Answer ID: <strong>{{ answer.answer_id }}</strong></p>
+        <p>This is answer **{{ currentKPosition }}** in the list.</p>
+      </div>
+    </div>
 
     <h4>Response:</h4>
     <p class="response-text">{{ answer.response }} {{ answer.instruction }}</p>
-
-    <div class="answer-meta">
-      <p>Score: <strong>{{ answer.score.toFixed(4) }}</strong> ({{ answer.metric }})</p>
-      <p>Question ID: <strong>{{ answer.question_id }}</strong>, Answer ID: <strong>{{ answer.answer_id }}</strong></p>
-      <p>This is answer **{{ currentKPosition }}** in the list.</p> </div>
 
     <div class="review-section">
       <h4>Rate this answer:</h4>
@@ -57,7 +60,6 @@ const props = defineProps({
     type: String,
     required: true
   },
-  // --- NEW PROPS ---
   currentKPosition: { // 1-indexed position in the returned list
     type: Number,
     required: true
@@ -69,6 +71,11 @@ const props = defineProps({
   queryId: {
     type: Number,
     required: true // Query ID is now mandatory for reviews
+  },
+  // --- NEW PROP: Debug Mode ---
+  debug: {
+    type: Boolean,
+    default: false // Default to false (production mode)
   }
 });
 
@@ -114,7 +121,6 @@ const resetReviewForm = () => {
 };
 
 const submitReview = async () => {
-  // --- NEW: Check reviewDisabled prop BEFORE submission ---
   if (props.reviewDisabled) {
     reviewMessage.value = 'Cannot submit review: Please review the first answer (Answer #1) first.';
     reviewError.value = true;
@@ -170,8 +176,6 @@ const submitReview = async () => {
 
     const data = await response.json();
     reviewMessage.value = data.message + ` (Review ID: ${data.review_id})`;
-    // Emit an event to the parent component after successful submission
-    // --- NEW: Pass position_in_results back to parent ---
     emit('reviewSubmitted', { ...data, position_in_results: props.currentKPosition });
     resetReviewForm();
 

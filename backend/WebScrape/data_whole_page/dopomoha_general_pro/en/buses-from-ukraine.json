@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 225,
+      "content_block_id": 37,
+      "question": "What support is available for people fleeing a war?"
+    },
+    {
+      "question_id": 226,
+      "content_block_id": 37,
+      "question": "How can people travel between countries during a crisis?"
+    },
+    {
+      "question_id": 227,
+      "content_block_id": 37,
+      "question": "What kind of assistance is offered at border crossings?"
+    },
+    {
+      "question_id": 228,
+      "content_block_id": 37,
+      "question": "When might free transportation be an option?"
+    },
+    {
+      "question_id": 229,
+      "content_block_id": 37,
+      "question": "How do international organizations help in these situations?"
+    }
+  ]
+}

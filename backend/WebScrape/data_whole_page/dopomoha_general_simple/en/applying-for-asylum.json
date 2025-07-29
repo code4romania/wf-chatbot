@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 101,
+      "content_block_id": 7,
+      "question": "What kind of protection is available for foreigners?"
+    },
+    {
+      "question_id": 102,
+      "content_block_id": 7,
+      "question": "How can someone apply for such protection?"
+    },
+    {
+      "question_id": 103,
+      "content_block_id": 7,
+      "question": "When can someone seek protection?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 7,
+      "question": "How long does the application process typically take?"
+    },
+    {
+      "question_id": 105,
+      "content_block_id": 7,
+      "question": "What support is available for people in need?"
+    }
+  ]
+}

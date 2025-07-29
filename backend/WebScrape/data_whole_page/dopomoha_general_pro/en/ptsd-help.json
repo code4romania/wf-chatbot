@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 255,
+      "content_block_id": 70,
+      "question": "What is PTSD?"
+    },
+    {
+      "question_id": 256,
+      "content_block_id": 70,
+      "question": "What can be done to help manage PTSD?"
+    },
+    {
+      "question_id": 257,
+      "content_block_id": 70,
+      "question": "How does someone find support for PTSD?"
+    },
+    {
+      "question_id": 258,
+      "content_block_id": 70,
+      "question": "What are some common symptoms of PTSD?"
+    },
+    {
+      "question_id": 259,
+      "content_block_id": 70,
+      "question": "When should someone seek professional help for PTSD?"
+    }
+  ]
+}

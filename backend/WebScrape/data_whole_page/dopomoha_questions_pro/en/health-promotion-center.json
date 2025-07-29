@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 184,
+      "content_block_id": 53,
+      "question": "What services are available at this center?"
+    },
+    {
+      "question_id": 185,
+      "content_block_id": 53,
+      "question": "How can someone get help at this center?"
+    },
+    {
+      "question_id": 186,
+      "content_block_id": 53,
+      "question": "When is the center open?"
+    },
+    {
+      "question_id": 187,
+      "content_block_id": 53,
+      "question": "What kind of medical help is offered?"
+    },
+    {
+      "question_id": 188,
+      "content_block_id": 53,
+      "question": "How can someone make an appointment?"
+    }
+  ]
+}

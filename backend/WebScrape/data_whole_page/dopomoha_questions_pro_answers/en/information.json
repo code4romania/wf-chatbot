@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 193,
+      "content_block_id": 21,
+      "question": "What help is available for people fleeing Ukraine?",
+      "answer": "People fleeing Ukraine can receive help with accommodation, food, transport, health services, and schooling, including free accommodation in temporary camps and access to medical care. Children have guaranteed free access to education. Financial support is available for temporary protection beneficiaries, and specialized organizations offer help for the LGBTQIA+ community, children with cancer, and drug users. Ukrainian citizens can also work without a job permit if they entered legally and haven't requested protection.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 194,
+      "content_block_id": 21,
+      "question": "How can someone enter Romania from Ukraine?",
+      "answer": "Ukrainian citizens can enter Romania with a biometric or simple passport, without needing a vaccination certificate or PCR test for COVID-19. Ukrainian men aged 18-60 are allowed if they meet conditions for leaving Ukraine and entering Romania. Third-country nationals residing in Ukraine can enter for transit with a valid travel document and obtain a 90-day Romanian transit visa on arrival. Border points from Ukraine include Halmeu, Sighetu Marmației, Siret, and Isaccea, or via the Republic of Moldova.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Who and how can enter Romania?'.",
+      "read_instruction": "read the section under 'Who and how can enter Romania?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 195,
+      "content_block_id": 21,
+      "question": "What are the rules around bringing pets into Romania?",
+      "answer": "Pets must be microchipped and vaccinated against rabies by a licensed veterinarian when at least 12 weeks old, with travel allowed no earlier than 21 days post-vaccination. Additional requirements include Echinococcus tapeworm treatment if necessary, a health certificate, and a rabies antibody test performed 30 days after vaccination and less than 3 months before EU travel. Failure to meet these standards may result in quarantine or euthanasia.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Can I bring along an animal without a vaccination certificate?'.",
+      "read_instruction": "read the section under 'Can I bring along an animal without a vaccination certificate?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 196,
+      "content_block_id": 21,
+      "question": "How can people find housing and support in Romania?",
+      "answer": "People can find free accommodation in temporary camps or other locations established by county committees for emergencies, or by requesting it through the form on unacoperis.ro/en. Asylum seekers have the right to be housed in Regional Accommodation and Procedures Centers. Beneficiaries of temporary protection may also be eligible for a monthly lump sum to cover accommodation expenses for up to three consecutive months.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'How can we find free accommodation in Romania?'.",
+      "read_instruction": "read the section under 'How can we find free accommodation in Romania?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 197,
+      "content_block_id": 21,
+      "question": "What should someone know about asylum procedures in Romania?",
+      "answer": "Any foreigner in Romania or at a border crossing can apply for asylum in person at a Regional Center. After submission, a preliminary interview is conducted, and applicants receive a temporary identity document. Asylum seekers are protected against expulsion during the process and are entitled to financial aid. It is not permitted to apply for asylum in multiple EU states simultaneously, but applications can be withdrawn at any time.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Claiming asylum'.",
+      "read_instruction": "read the section under 'Claiming asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 255,
+      "content_block_id": 70,
+      "answer": "PTSD stands for Post Traumatic Stress Disorder. The \"PTSD Help\" app is designed as a free assistant for managing this condition.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 256,
+      "content_block_id": 70,
+      "answer": "To help manage PTSD, one can use resources such as essential information about PTSD, a self-assessment module for symptoms, and practical tools for managing discomfort. The PTSD Help app also provides crisis support contacts and details on professional treatments.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 257,
+      "content_block_id": 70,
+      "answer": "Support for PTSD can be found through the \"PTSD Help\" app, which offers crisis support contacts and detailed information about available professional treatments. The app was developed in partnership with the US Department of Veterans Affairs - National Center for PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 258,
+      "content_block_id": 70,
+      "answer": "The provided content states that the \"PTSD Help\" app includes a self-assessment module for understanding symptoms. However, it does not list or describe any specific common symptoms of PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 259,
+      "content_block_id": 70,
+      "answer": "The content mentions that the \"PTSD Help\" app provides detailed information about available professional treatments and crisis support contacts. However, it does not specify when someone should seek professional help for PTSD.",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

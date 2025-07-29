@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 200,
+      "content_block_id": 48,
+      "answer": "Medical services available to pregnant women include primary medical assistance like pregnancy monitoring and basic tests, specialized ambulatory services for paraclinical specialties such as Papanicolau and ultrasounds, and specialized ambulatory services for clinical specialties covering normal pregnancy supervision, prenatal screening, and high-risk pregnancy surveillance. Additionally, procedures like amniocentesis, cordocentesis, and chorionic villus biopsy are available through day hospitalization.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 201,
+      "content_block_id": 48,
+      "answer": "Pregnancy monitoring includes supervision in the first quarter, monthly monitoring from the 3rd to the 7th month, and twice a month monitoring from the 7th to the 9th month. After birth, monitoring continues for the patient upon leaving the maternity ward and for the baby 4 weeks after birth, both at home. Specialized ambulatory assistance also provides one consultation for each trimester of pregnancy and one after birth.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Primary medical assistance' and 'Specialized ambulatory medical assistance for clinical specialties'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 202,
+      "content_block_id": 48,
+      "answer": "Beyond standard medical care, support services include the promotion of exclusive breastfeeding until 6 months and its continuation until at least 12 months. Additionally, the Women's Center offers support in accessing reproductive health services, navigating the health system, and services dedicated to victims of domestic violence.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Primary medical assistance' and 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 203,
+      "content_block_id": 48,
+      "answer": "Specialized consultations are recommended once per trimester of pregnancy and once in the first trimester after birth for general monitoring. Obstetrics-gynecology specialist consultations are also part of services for normal pregnancy supervision and prenatal screening, often performed between S11 and S19+6 days. Furthermore, they are required for the surveillance of high-risk pregnancies and for procedures like amniocentesis (second trimester), cordocentesis (second trimester), and chorionic villus biopsy (first trimester) under specific indications.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Specialized ambulatory medical assistance for clinical specialties', 'Prenatal screening (S11 - S19 + 6 days)', and 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 204,
+      "content_block_id": 48,
+      "answer": "Access to pregnancy-related services typically begins with a first appointment at a family doctor, who can issue the document certifying pregnancy and recommend paraclinical services. Many specialized services are contracted with obstetrics-gynecology specialty hospitals or other health units with relevant departments. Additional support for accessing reproductive health services and navigating the health system is available through the Women's Center.",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the sections under 'Primary medical assistance' and 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

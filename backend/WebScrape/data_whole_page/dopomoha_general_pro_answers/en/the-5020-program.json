@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 110,
+      "content_block_id": 32,
+      "answer": "Ukrainian refugees in Romania may be eligible for a monthly lump sum for accommodation, and after that period, they can apply for a Minimum Inclusion Income. Additionally, they are eligible for social benefits and can receive assistance in finding housing.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 111,
+      "content_block_id": 32,
+      "answer": "Ukrainian refugees can access financial assistance by submitting applications to their local administrative-territorial unit (such as the town hall) where they reside. For the monthly lump sum, specific forms and documents are required, and for the Minimum Inclusion Income, documents are submitted to the administrative-territorial unit within the radius of their temporary residence permit address.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Application Process' and 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 112,
+      "content_block_id": 32,
+      "answer": "To receive the monthly lump sum for accommodation, beneficiaries must have temporary protection, not be receiving international protection or residing in government camps, and not have previously received accommodation benefits under old regulations. Required documents include a valid temporary protection permit, passports for all family members, and Romanian bank account details in RON. Additionally, beneficiaries must not be Romanian citizens, university students in dorms, or hold a work permit or student residence permit.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Conditions of the new financial support program for beneficiaries of temporary protection', 'Exclusions', 'Required Documents', and 'Exclusions for Rent Payment Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 113,
+      "content_block_id": 32,
+      "answer": "The new financial support program began on July 1, 2024. The monthly lump sum for accommodation is available for up to 3 consecutive months, with the 3-month period starting from the date of entry into Romania. After this period, beneficiaries may apply for the Minimum Inclusion Income, which is ongoing financial support.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the sections under 'Monthly Lump Sum for Accommodation' and 'Transition to Minimum Inclusion Income'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 114,
+      "content_block_id": 32,
+      "answer": "Individuals needing help finding free accommodation in Romania can use the 'Un Acoperiș (A Roof)' platform. Central authorities and international organizations will coordinate requests and available accommodation through this platform.",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Assistance in finding housing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

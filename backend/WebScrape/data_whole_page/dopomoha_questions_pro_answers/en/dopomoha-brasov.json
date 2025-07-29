@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 75,
+      "content_block_id": 55,
+      "question": "What kind of help is available in Brașov?",
+      "answer": "A wide range of help is available in Brașov, including information, food, transport to accommodation, counseling, and assistance at the CATTIA Community Center. Services also cover medical needs, psychological support, education, legal advice, and job support. Various organizations like Terre des Hommes, UNHCR, Worldvision, and the Red Cross offer additional support.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 76,
+      "content_block_id": 55,
+      "question": "How can I get medical assistance in Brașov?",
+      "answer": "For medical assistance, you can contact Brașov Emergency Clinical Hospital or Brașov Children's Emergency Clinical Hospital. A list of primary healthcare providers for uninsured people is available. Free dialysis services are offered by Fresenius Medical Care Romania, and mobility aids by Motivation Foundation Romania. The Agapedia organization also provides medical consultations on family planning, and support for HIV services is available through Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 77,
+      "content_block_id": 55,
+      "question": "What are the educational resources for refugees in Brașov?",
+      "answer": "Educational resources in Brașov include enrollment for Ukrainian preschoolers and pupils through the Brașov County School Inspectorate, with applications submitted physically or online. The CATTIA center, supported by Worldvision, offers educational events for children and adults. Additionally, public libraries organize programs for Romanian and Ukrainian children and provide Romanian language courses for Ukrainians.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 78,
+      "content_block_id": 55,
+      "question": "How can refugees access transportation in Brașov?",
+      "answer": "Refugees can access transportation in Brașov by using the public transport system, RATBV, for free, though an ID may be required if asked. The CATTIA Community Center also offers transport to accommodation.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Transportation'.",
+      "read_instruction": "read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 79,
+      "content_block_id": 55,
+      "question": "What support services are there for women in Brașov?",
+      "answer": "Support for women in Brașov is available through the Women's Center for accessing reproductive health services, navigating the health system, and services for victims of domestic violence. The Agapedia organization runs a 'Safe Space for Women' project offering medical consultations on family planning. Additionally, Terre des hommes Foundation provides psychological help, including for pregnant or nursing women.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

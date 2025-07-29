@@ -1,0 +1,59 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 304,
+      "content_block_id": 31,
+      "answer": "Families with disabled children need to prepare an emergency suitcase containing a strategic first aid kit, special food, hygiene products, and special equipment. Additionally, children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations like explosions or going to bomb shelters by practicing hiding, using headphones, and maintaining calm routines.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'This chapter deals with important aspects of getting ready for emergency.'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 305,
+      "content_block_id": 31,
+      "answer": "Caregivers can support children with disabilities by preparing them for emergencies, such as by teaching them to take cover in a mini-shelter and using headphones for sensitive children. It is crucial for caregivers to stay calm, confident, and avoid panic, as children with autism react strongly to adult emotions. Maintaining a daily routine also provides stability during stressful times.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section starting with 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance...'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 306,
+      "content_block_id": 31,
+      "answer": "Essential resources for children with disabilities during emergencies include a strategic first aid kit with necessary medicines for 3-4 weeks, and a reserve of special food for specific diets. Additionally, hygiene products like diapers and remedies for bedsores are crucial, along with special equipment such as beds, stretchers, or wheelchairs if needed for evacuation.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 307,
+      "content_block_id": 31,
+      "answer": "Families should begin preparing for emergencies involving children with disabilities in advance. This includes getting ready for general emergencies and specifically preparing children with autism spectrum disorders and/or mental disorders for situations like hearing explosions or needing to go to bomb shelters.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the sections 'This chapter deals with important aspects of getting ready for emergency.' and 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations...'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 308,
+      "content_block_id": 31,
+      "answer": "Routines are very important for children with disabilities during stressful events. Maintaining a daily routine, such as cooking, cleaning, and reading books when not in an immediate emergency, helps provide stability and familiarity. Additionally, creating a familiar 'hut' with blankets and pillows can serve as a mini-shelter, offering a prepared and somewhat comforting space.",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the sections under 'Follow the daily routine.' and 'Build a “hut” with blankets and pillows...'",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

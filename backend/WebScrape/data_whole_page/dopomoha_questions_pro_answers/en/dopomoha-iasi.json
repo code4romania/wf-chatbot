@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 95,
+      "content_block_id": 61,
+      "question": "What kind of help is available in Iași for newcomers?",
+      "answer": "Newcomers in Iași can find information on how to manage in the city, along with important contacts for services like the Immigration Service, emergency numbers, and the National Anti-Traffic Hotline. There is also support for accommodation, meals, and integration, as well as information on transportation, medical and psychological services, and education. Various organizations offer additional support services.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 96,
+      "content_block_id": 61,
+      "question": "How can I get medical assistance in Iași?",
+      "answer": "For urgent medical services in Iași, adults can contact the County Emergency Clinical Hospital \"Sf. Spiridon\" Iași, and for children, the Emergency Clinical Hospital for Children \"Sf. Maria\" Iași. A list of free family medicine services for refugees from Ukraine is also available. Additionally, organizations like the ICAR Foundation and AIDRom offer support for accessing medical services and medicines, and counseling for people living with HIV is also mentioned.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Medical services'.",
+      "read_instruction": "read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 97,
+      "content_block_id": 61,
+      "question": "What resources are there for education and learning Romanian?",
+      "answer": "For education, the multi-service center for children and adolescents organizes kindergarten, school preparation, Ukrainian language school, and integration programs. To learn Romanian, free courses are offered by Inspectoratul Școlar Județean Iași, Centrul de Asistență Umanitară și Socială pentru Refugiați CTR Nicolina, Crucea Roșie, and Caritas. These courses are available for adults and teenagers, some online and some in-person.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 98,
+      "content_block_id": 61,
+      "question": "How can I find housing and other support services?",
+      "answer": "For housing, The CTR Nicolina Refugee Center offers accommodation. Other support services available include legal advice, information on the asylum procedure, child protection, and integration from CNRR. The ICAR Foundation and AIDRom offer support for accessing medical services and medicines, socio-cultural activities, and psychological support. Justiție pentru minori provides mediation services, accommodation and meals for mothers and children, and legal advice.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 99,
+      "content_block_id": 61,
+      "question": "What are some organizations that offer help to people in Iași?",
+      "answer": "Several organizations offer help in Iași. These include the International Organization for Migration (IOM), Project HOPE, Asociatia ParentIS, World Vision Romania, Save the Children, and Red Cross Romania, all providing psychological support. Other organizations like The CTR Nicolina Refugee Center offer accommodation and various activities, while CNRR provides legal advice. The ICAR Foundation, AIDRom, and Justiție pentru minori also offer support for medical services, legal assistance, and other integration needs.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}
