@@ -372,8 +372,8 @@ class PromptMatcher:
         top_k: int = 1, # Number of final results after reranking
         sparse_weight: float = 0.3,
         colbert_weight: float = 0.3,
-        retrieval_top_n: int = 50, # Number of hybrid hits to consider for reranking
-        rerank_top_n: int = 5 # Number of final results after reranking
+        retrieval_top_n: int = 10, # Number of hybrid hits to consider for reranking
+        rerank_top_n: int = 3 # Number of final results after reranking
     ) -> List[Dict[str, Union[str, float, int]]]:
         """
         Return top-K matches for a prompt using a weighted hybrid of dense, sparse, and Colbert search,
