@@ -9,14 +9,24 @@ import numpy as np
 import pandas as pd
 from FlagEmbedding import BGEM3FlagModel
 from sklearn.metrics.pairwise import cosine_similarity
+import torch # <--- ADD THIS IMPORT
+from transformers import AutoTokenizer, AutoModelForSequenceClassification # For cross-encoder
 
 # -----------------------------------------------------------------------------
 # Configuration
 # -----------------------------------------------------------------------------
 BGE_M3_MODEL = "BAAI/bge-m3"
-MAX_LENGTH = 8192
+# A suitable cross-encoder model. Good options include:
+# - BAAI/bge-reranker-base (or large)
+# - cross-encoder/ms-marco-MiniLM-L-6-v2 (smaller, faster)
+# - cross-encoder/stsb-roberta-large (good general purpose)
+CROSS_ENCODER_MODEL = "BAAI/bge-reranker-v2-m3" # Or "cross-encoder/ms-marco-MiniLM-L-6-v2"
+MAX_LENGTH = 8192 # Consider removing or commenting on its non-use for BGE-M3 internal truncation
 logger = logging.getLogger("promptmatcher")
 logger.setLevel(logging.INFO)
+
+if not logger.hasHandlers():
+    logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 # These paths can be configured if your directory structure is different
 questions_path = "dopomoha_questions_pro"
@@ -27,7 +37,7 @@ class PromptMatcher:
     """
     Builds dense, sparse, and Colbert embedding matrices for a Q&A corpus and performs
     a hybrid search by combining scores from all representations using BGE-M3
-    via FlagEmbedding.
+    via FlagEmbedding. Includes a reranking step with a cross-encoder.
     """
 
     def __init__(
@@ -36,16 +46,23 @@ class PromptMatcher:
         language: str = "en",
         device: str = "cpu",
         concat_q_and_a: bool = False,
-        city_names=None, # Retained for compatibility with your existing __init__ call
+        # city_names=None, # Consider removing if truly unused
     ):
         self.base_data_path = Path(base_data_path)
         self.language = language.lower()
         self.concat_q_and_a = concat_q_and_a
         self.model_name = BGE_M3_MODEL
+        self.cross_encoder_model_name = CROSS_ENCODER_MODEL
         self.device = device
+        self.torch_device = torch.device(device) # Store as torch.device for consistency
 
-        logger.info(f"Loading model {self.model_name} on {self.device}…")
+        logger.info(f"Loading retriever model {self.model_name} on {self.device}…")
+        # Ensure use_fp16=True is compatible with your device and desired precision
         self.model = BGEM3FlagModel(self.model_name, device=self.device, use_fp16=True)
+
+        logger.info(f"Loading cross-encoder model {self.cross_encoder_model_name} on {self.device}…")
+        self.cross_encoder_tokenizer = AutoTokenizer.from_pretrained(self.cross_encoder_model_name)
+        self.cross_encoder_model = AutoModelForSequenceClassification.from_pretrained(self.cross_encoder_model_name).to(self.torch_device).eval()
 
         # Holders for ALL pre-encoded Q&A data
         self.full_df: Optional[pd.DataFrame] = None
@@ -79,7 +96,6 @@ class PromptMatcher:
         cache_df_path = cache_dir / "corpus_df.pkl"
         cache_dense_vec_path = cache_dir / "corpus_dense_vec.npy"
         cache_sparse_vec_path = cache_dir / "corpus_lexical_weights.pkl"
-        # IMPORTANT CHANGE: Cache Colbert vectors as a pickle of List[np.ndarray]
         cache_colbert_vec_path = cache_dir / "corpus_colbert_vecs.pkl"
 
         # Try loading from cache
@@ -94,7 +110,6 @@ class PromptMatcher:
             self.full_dense_vectors = np.load(cache_dense_vec_path)
             with open(cache_sparse_vec_path, "rb") as f:
                 self.full_sparse_vectors = pickle.load(f)
-            # Load Colbert vectors as a list of numpy arrays
             with open(cache_colbert_vec_path, "rb") as f:
                 self.full_colbert_vectors = pickle.load(f)
             return
@@ -154,16 +169,15 @@ class PromptMatcher:
             batch_size=32,
             return_dense=True,
             return_sparse=True,
-            return_colbert_vecs=True, # This will now return 'colbert_vecs' as List[np.ndarray]
+            return_colbert_vecs=True,
         )
         
         # --- Handling output from BGEM3FlagModel ---
         if isinstance(embeddings, dict):
             if 'dense_vecs' in embeddings and 'lexical_weights' in embeddings and 'colbert_vecs' in embeddings:
-                self.full_dense_vectors = embeddings['dense_vecs'].astype("float32")
-                self.full_sparse_vectors = embeddings['lexical_weights'] # Store lexical weights directly
-                # Store colbert_vecs as a list of numpy arrays, no .astype on the list itself
-                self.full_colbert_vectors = [vec.astype("float32") for vec in embeddings['colbert_vecs']]
+                self.full_dense_vectors = embeddings['dense_vecs']
+                self.full_sparse_vectors = embeddings['lexical_weights']
+                self.full_colbert_vectors = embeddings['colbert_vecs']
             else:
                 raise ValueError(
                     "Embeddings dictionary from BGEM3FlagModel does not contain 'dense_vecs', 'lexical_weights', or 'colbert_vecs' keys. "
@@ -175,6 +189,12 @@ class PromptMatcher:
                 f"Full embeddings object: {embeddings}"
             )
 
+        # Ensure all vectors are float32 for consistency in numpy operations, especially if use_fp16=True was set
+        if self.full_dense_vectors.dtype != np.float32:
+            self.full_dense_vectors = self.full_dense_vectors.astype(np.float32)
+        self.full_colbert_vectors = [vec.astype(np.float32) if vec.dtype != np.float32 else vec for vec in self.full_colbert_vectors]
+
+
         logger.info(f"Full corpus with {len(self.full_df)} dense/sparse/Colbert embeddings ready.")
 
         # Save to cache
@@ -182,10 +202,38 @@ class PromptMatcher:
         self.full_df.to_pickle(cache_df_path)
         np.save(cache_dense_vec_path, self.full_dense_vectors)
         with open(cache_sparse_vec_path, "wb") as f:
-            pickle.dump(self.full_sparse_vectors, f) # Save lexical weights (list of dicts)
-        # Save Colbert vectors (list of numpy arrays)
+            pickle.dump(self.full_sparse_vectors, f)
         with open(cache_colbert_vec_path, "wb") as f:
             pickle.dump(self.full_colbert_vectors, f)
+
+
+    # Reverted to original concept for _pad_and_stack_colbert_vecs, but it's not used by _compute_colbert_scores anymore
+    # The batching for colbert_score will be handled explicitly within _compute_colbert_scores
+    # to address the FlagEmbedding library's expectation.
+    def _pad_and_stack_colbert_vecs(self, colbert_vecs_list: List[np.ndarray]) -> torch.Tensor:
+        """
+        Helper function to pad and stack a list of variable-length Colbert vectors
+        into a single batched torch tensor. (Used for other potential batching, not
+        directly for the current self.model.colbert_score as it seems to expect
+        individual vectors).
+        """
+        if not colbert_vecs_list:
+            return torch.empty(0, 0, 0, device=self.torch_device)
+
+        max_tokens = max(vec.shape[0] for vec in colbert_vecs_list)
+        # colbert_dim = colbert_vecs_list[0].shape[1] # Not strictly needed
+
+        padded_vecs = []
+        for vec in colbert_vecs_list:
+            padding_needed = max_tokens - vec.shape[0]
+            if padding_needed > 0:
+                padded_vec = np.pad(vec, ((0, padding_needed), (0, 0)), mode='constant', constant_values=0)
+            else:
+                padded_vec = vec
+            padded_vecs.append(padded_vec)
+        
+        return torch.from_numpy(np.stack(padded_vecs, axis=0)).to(self.torch_device)
+
 
     def _compute_sparse_scores(self, query_lexical_weights: Dict[int, float], corpus_lexical_weights_list: List[Dict[int, float]]) -> np.ndarray:
         """
@@ -195,35 +243,33 @@ class PromptMatcher:
         for doc_lexical_weights in corpus_lexical_weights_list:
             score = self.model.compute_lexical_matching_score(query_lexical_weights, doc_lexical_weights)
             scores.append(score)
-        return np.array(scores)
+        return np.array(scores, dtype=np.float32)
     
     def _compute_colbert_scores(self, query_colbert_vec: np.ndarray, corpus_colbert_vecs_list: List[np.ndarray]) -> np.ndarray:
         """
-        Computes Colbert matching scores by performing pairwise comparisons
-        using self.model.colbert_score(q_reps, p_reps).
+        Computes Colbert matching scores by iterating and scoring each corpus vector
+        individually against the query vector, as FlagEmbedding's colbert_score
+        method expects individual (N_tokens, D) inputs, not (Batch, N_tokens, D).
         """
-        scores = []
-        # query_colbert_vec is (num_tokens, dim) for the single query
+        if not corpus_colbert_vecs_list:
+            return np.array([], dtype=np.float32)
+
+        # Ensure query_colbert_vec has a "batch" dimension of 1 for model.colbert_score,
+        # but keep it as NumPy array for now.
+        # It needs to be (1, N_q, D) if colbert_score internally expects a batch of 1 query.
+        # Or, if it expects (N_q, D) it should be just query_colbert_vec.
+        # Let's assume it expects (1, N_q, D) as it often does for similar models.
+        # UPDATE: FlagEmbedding's m3.py's colbert_score method actually expects (num_tokens, dim) for both q_reps and p_reps,
+        # and it internally adds a batch dimension if needed. So, we should pass the raw 2D query_colbert_vec.
         
-        # Iterate through each passage's colbert vectors in the corpus list
+        scores = []
+        # Iterate through each passage's Colbert vector
         for passage_colbert_vec in corpus_colbert_vecs_list:
-            # colbert_score expects (num_tokens, dim) for both q_reps and p_reps
-            # Wrap query_colbert_vec and passage_colbert_vec in a list to match expected batching if necessary,
-            # but based on the example, it takes single (num_tokens, dim) arrays.
-            # However, the doc states `q_reps (np.ndarray)` implying it could take (num_queries, num_tokens, dim)
-            # Let's try passing them as-is first, or adjust if an error occurs.
-            # The most direct interpretation of `colbert_score(output_1['colbert_vecs'][0], output_2['colbert_vecs'][0])`
-            # implies it takes single (num_tokens, dim) arrays.
-            
-            # Since query_colbert_vec is already (num_tokens, dim) after extracting [0] in query method,
-            # and each passage_colbert_vec is (num_tokens, dim), we can pass them directly.
-            
-            # The result from colbert_score is a torch.Tensor, so convert to numpy
+            # Pass individual (N_q, D) and (N_p, D) numpy arrays
             score_tensor = self.model.colbert_score(query_colbert_vec, passage_colbert_vec)
-            scores.append(score_tensor.cpu().numpy().item()) # .item() gets the scalar value from a 0-dim tensor
-            
-        return np.array(scores)
-    
+            scores.append(score_tensor.item()) # .item() to get scalar from 0-dim tensor
+
+        return np.array(scores, dtype=np.float32) # Convert list of scores to numpy array
     @staticmethod
     def _normalize_scores(scores: np.ndarray) -> np.ndarray:
         """Applies min-max normalization to a set of scores."""
@@ -272,15 +318,66 @@ class PromptMatcher:
             matched_prompt = self.full_df.iloc[idx]["Prompt"]
             logger.info(f"  {rank+1}. Score: {hybrid_scores[idx]:.4f} - Prompt: {matched_prompt[:100]}{'...' if len(matched_prompt) > 100 else ''}")
 
+
+    def _rerank_results(self, user_query: str, retrieval_results: List[Dict[str, Any]], rerank_top_n: int) -> List[Dict[str, Any]]:
+        """
+        Reranks a list of retrieval results using a cross-encoder model.
+        """
+        if not retrieval_results:
+            return []
+
+        logger.info(f"Reranking top {len(retrieval_results)} results with cross-encoder (top {rerank_top_n} desired)...")
+
+        # Prepare pairs for cross-encoder
+        # Each pair is [query, passage]
+        rerank_pairs = []
+        for res in retrieval_results:
+            # You can combine Prompt and Response for the passage if concat_q_and_a is True for main embedding
+            # or just use the Prompt, depending on what you want the cross-encoder to evaluate.
+            # For simplicity, let's use the 'Prompt' (question) as the passage text for reranking.
+            # If you concatenated Q+A for initial retrieval, using Q+A here might be more consistent.
+            passage_text = res["matched_prompt"]
+            if self.concat_q_and_a: # Or decide if you *always* want Q+A for reranker
+                passage_text = f"{res['matched_prompt']} {res['response']}" # Reranker should see all relevant text
+            rerank_pairs.append([user_query, passage_text])
+
+        # Batch tokenization and inference
+        inputs = self.cross_encoder_tokenizer(
+            rerank_pairs, 
+            padding=True, 
+            truncation=True, 
+            return_tensors="pt"
+        ).to(self.torch_device)
+
+        with torch.no_grad():
+            scores = self.cross_encoder_model(**inputs).logits.squeeze().cpu().numpy()
+
+        # If only one result, scores might be a scalar. Convert to array.
+        if scores.ndim == 0:
+            scores = np.array([scores.item()])
+
+        # Associate scores back with results
+        for i, score in enumerate(scores):
+            retrieval_results[i]["rerank_score"] = float(score)
+
+        # Sort by rerank_score in descending order
+        reranked_results = sorted(retrieval_results, key=lambda x: x["rerank_score"], reverse=True)
+
+        return reranked_results[:rerank_top_n]
+
+
     def query(
         self,
         user_prompt: str,
-        top_k: int = 1,
+        top_k: int = 1, # Number of final results after reranking
         sparse_weight: float = 0.3,
         colbert_weight: float = 0.3,
+        retrieval_top_n: int = 50, # Number of hybrid hits to consider for reranking
+        rerank_top_n: int = 5 # Number of final results after reranking
     ) -> List[Dict[str, Union[str, float, int]]]:
         """
-        Return top-K matches for a prompt using a weighted hybrid of dense, sparse, and Colbert search.
+        Return top-K matches for a prompt using a weighted hybrid of dense, sparse, and Colbert search,
+        followed by a cross-encoder reranking step.
         """
         if self.full_df is None or self.full_dense_vectors is None or \
            self.full_sparse_vectors is None or self.full_colbert_vectors is None:
@@ -292,6 +389,13 @@ class PromptMatcher:
         
         if sparse_weight + colbert_weight > 1.0:
             raise ValueError("Sum of sparse_weight and colbert_weight cannot exceed 1.0")
+
+        # Ensure top_k is respected for rerank_top_n if it's smaller
+        rerank_top_n = min(rerank_top_n, top_k)
+        if rerank_top_n < top_k:
+            logger.warning(f"rerank_top_n ({rerank_top_n}) is less than top_k ({top_k}). Setting top_k to rerank_top_n.")
+            top_k = rerank_top_n
+
 
         # ----- Embed user prompt (dense and sparse) -----
         query_prefix = "retrieve the most relevant Q&A for the query: "
@@ -311,7 +415,7 @@ class PromptMatcher:
                 query_dense_vec = query_embeddings['dense_vecs'] # (1, dim)
                 query_lexical_weights = query_embeddings['lexical_weights'][0] # Dict[int, float]
                 # IMPORTANT: Extract the single query's colbert vec, which is (num_tokens, dim)
-                query_colbert_vec = query_embeddings['colbert_vecs'][0].astype("float32")
+                query_colbert_vec = query_embeddings['colbert_vecs'][0]
             else:
                 raise ValueError(
                     "Query embeddings dictionary from BGEM3FlagModel does not contain 'dense_vecs', 'lexical_weights', or 'colbert_vecs' keys. "
@@ -321,6 +425,12 @@ class PromptMatcher:
             raise TypeError(
                 f"Unexpected type for query_embeddings from BGEM3FlagModel: {type(query_embeddings)}. Expected dict."
             )
+
+        # Ensure query vectors are float32 for consistency in similarity calculations if corpus is float32
+        if query_dense_vec.dtype != np.float32:
+            query_dense_vec = query_dense_vec.astype(np.float32)
+        if query_colbert_vec is not None and query_colbert_vec.dtype != np.float32: # colbert_vec can be None
+            query_colbert_vec = query_colbert_vec.astype(np.float32)
 
         if query_lexical_weights is None and sparse_weight > 0:
             logger.warning("Lexical weights not available for query, but sparse_weight > 0. Setting sparse_weight to 0.")
@@ -334,17 +444,16 @@ class PromptMatcher:
         dense_scores = cosine_similarity(query_dense_vec, self.full_dense_vectors)[0]
 
         # ----- 2. Sparse (Lexical) Similarity -----
-        sparse_scores = np.zeros_like(dense_scores) # Initialize with zeros
+        sparse_scores = np.zeros_like(dense_scores, dtype=np.float32) # Initialize with zeros, specify dtype
         if query_lexical_weights is not None:
             sparse_scores = self._compute_sparse_scores(query_lexical_weights, self.full_sparse_vectors)
 
         # ----- 3. Colbert Similarity -----
-        colbert_scores = np.zeros_like(dense_scores)
-        if query_colbert_vec is not None:
-            # Pass the single query's colbert vector and the list of corpus colbert vectors
+        colbert_scores = np.zeros_like(dense_scores, dtype=np.float32)
+        if query_colbert_vec is not None and self.full_colbert_vectors: # Check if corpus colbert vecs exist too
             colbert_scores = self._compute_colbert_scores(query_colbert_vec, self.full_colbert_vectors)
 
-        # ----- 4. Normalize and Combine Scores -----
+        # ----- 4. Normalize and Combine Scores (Initial Hybrid Retrieval) -----
         norm_dense = self._normalize_scores(dense_scores)
         norm_sparse = self._normalize_scores(sparse_scores)
         norm_colbert = self._normalize_scores(colbert_scores)
@@ -358,28 +467,39 @@ class PromptMatcher:
                         (sparse_weight * norm_sparse) + \
                         (colbert_weight * norm_colbert)
         
-        self._print_top_k_results(dense_scores, sparse_scores, colbert_scores, hybrid_scores, top_k)
+        self._print_top_k_results(dense_scores, sparse_scores, colbert_scores, hybrid_scores, retrieval_top_n) # Print for retrieval_top_n
         
-        # ----- 5. Get Top-K Results -----
-        best_indices = np.argsort(hybrid_scores)[::-1]
+        # ----- 5. Get Top-N Retrieval Results for Reranking -----
+        # Get more results than final top_k, to allow reranker to improve quality
+        best_retrieval_indices = np.argsort(hybrid_scores)[::-1][:retrieval_top_n]
 
-        # ----- Assemble results -----
-        results: List[Dict[str, Union[str, float, int]]] = []
-        for rank in range(min(top_k, len(best_indices))):
-            idx = best_indices[rank]
+        retrieval_results: List[Dict[str, Union[str, float, int]]] = []
+        for idx in best_retrieval_indices:
             matched_row = self.full_df.iloc[idx]
-            results.append({
+            retrieval_results.append({
                 "matched_prompt": matched_row["Prompt"],
                 "response": matched_row["Response"],
                 "instruction": matched_row["Instruction"],
-                "score": float(hybrid_scores[idx]),
+                "score": float(hybrid_scores[idx]), # Hybrid score from initial retrieval
                 "dense_score": float(dense_scores[idx]),
                 "sparse_score": float(sparse_scores[idx]),
-                "colbert_score": float(colbert_scores[idx]), # New: Colbert score in results
+                "colbert_score": float(colbert_scores[idx]),
                 "question_id": int(matched_row["question_id"]),
                 "answer_id": int(matched_row["answer_id"]),
             })
-        return results
+
+        # ----- 6. Rerank the Retrieval Results -----
+        reranked_final_results = self._rerank_results(user_prompt, retrieval_results, rerank_top_n)
+
+        # Log final reranked results (optional, for debugging)
+        if reranked_final_results:
+            logger.info(f"\n--- Final Reranked Top {len(reranked_final_results)} Results ---")
+            for rank, hit in enumerate(reranked_final_results, 1):
+                logger.info(f"  {rank}. Rerank Score: {hit['rerank_score']:.4f} - Prompt: {hit['matched_prompt'][:100]}{'...' if len(hit['matched_prompt']) > 100 else ''}")
+                logger.info(f"     (Initial Hybrid Score: {hit['score']:.4f})")
+
+        return reranked_final_results
+
 
 # Helper for REPL – keeps original behaviour but simplified
 if __name__ == "__main__":
@@ -390,7 +510,8 @@ if __name__ == "__main__":
     matcher = PromptMatcher(
         base_data_path="./WebScrape/data_whole_page", # Adjust this path if needed
         language="en",
-        concat_q_and_a=False, # Set to True to embed Q+A pairs together
+        concat_q_and_a=True, # Set to True to embed Q+A pairs together
+        device="cuda" if torch.cuda.is_available() else "cpu" # Use CUDA if available
     )
 
     def main_repl():
@@ -401,17 +522,18 @@ if __name__ == "__main__":
                 if q.lower() == "quit":
                     break
                 
-                # Perform the hybrid query
-                # Ensure sparse_weight + colbert_weight <= 1.0
-                hits = matcher.query(q, top_k=3, sparse_weight=0.3, colbert_weight=0.3)
+                # Perform the hybrid query with reranking
+                # retrieval_top_n: how many hybrid hits to pass to reranker (e.g., 50)
+                # rerank_top_n: how many final results to return after reranking (e.g., 5)
+                hits = matcher.query(q, top_k=5, sparse_weight=0.3, colbert_weight=0.3, retrieval_top_n=10, rerank_top_n=3)
                 
-                print(f"\n--- Top {len(hits)} result(s) ---")
+                print(f"\n--- Final Reranked Top {len(hits)} result(s) ---")
                 for rnk, hit in enumerate(hits, 1):
-                    print(f"\nMatch {rnk}: (Hybrid Score: {hit['score']:.4f})")
+                    print(f"\nMatch {rnk}: (Rerank Score: {hit['rerank_score']:.4f})")
                     print(f"  Q-ID {hit['question_id']} » {hit['matched_prompt']}")
                     print(f"  A-ID {hit['answer_id']} » {hit['response']}")
                     print(f"  Instruction: {hit['instruction']}")
-                    print(f"  (Debug: Dense={hit['dense_score']:.4f}, Sparse={hit['sparse_score']:.4f}, Colbert={hit['colbert_score']:.4f})")
+                    print(f"  (Debug: Initial Hybrid={hit['score']:.4f}, Dense={hit['dense_score']:.4f}, Sparse={hit['sparse_score']:.4f}, Colbert={hit['colbert_score']:.4f})")
         except (KeyboardInterrupt, EOFError):
             print("\nExiting. Bye! 👋")
 
