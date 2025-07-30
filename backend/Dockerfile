@@ -1,5 +1,9 @@
 FROM python:3.11-slim
 
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends gcc build-essential zlib1g-dev && \
+    rm -rf /var/lib/apt/lists/*
+
 ENV DB_PATH="/app/data/api_data.db"
 
 WORKDIR /app

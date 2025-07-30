@@ -1,106 +1,85 @@
 <template>
   <div class="container">
-    <h1 class="text-center">Dopomoha Smart FAQ</h1>
+    <h1 class="text-center">Dopomoha Chat Interface</h1>
 
-    <div class="query-section">
-      <input type="text" v-model="userQuery" placeholder="Enter your query..." @keyup.enter="sendQuery" />
-      <button @click="sendQuery" :disabled="loading">Search</button>
-    </div>
-
-    <div v-if="loading" class="info-message loading-message">Loading answers...</div>
-    <div v-if="queryError" class="error-message">{{ queryError }}</div>
-
-    <div v-if="answers.length > 0" class="answers-carousel">
-      <div class="carousel-navigation">
-        <button @click="prevAnswer" :disabled="currentAnswerIndex === 0">← Previous</button>
-        <span class="carousel-counter">{{ currentAnswerIndex + 1 }} / {{ answers.length }}</span>
-        <button @click="nextAnswer" :disabled="currentAnswerIndex === answers.length - 1">Next →</button>
+    <div class="chat-area">
+      <div class="messages-display">
+        <div v-for="(message, index) in chatMessages" :key="index" :class="['message-bubble', message.type]">
+          <p v-html="message.text"></p>
+          <div v-if="message.type === 'bot' && message.answerData" class="bot-message-actions">
+            <AnswerCard
+              :answer="message.answerData"
+              :session-id="sessionId"
+              :current-k-position="1"
+              :review-disabled="isReviewDisabledForCurrentK"
+              @reviewSubmitted="handleReviewSubmitted"
+              :query-id="message.queryId"
+            />
+          </div>
+        </div>
       </div>
 
-      <AnswerCard
-        v-if="currentAnswer"
-        :debug=true
-        :answer="currentAnswer"
-        :session-id="sessionId"
-        :current-k-position="currentAnswerIndex + 1"
-        :review-disabled="isReviewDisabledForCurrentK"
-        @reviewSubmitted="handleReviewSubmitted"
-        :query-id="queryId"
-      />
+      <div class="query-section">
+        <input type="text" v-model="userQuery" placeholder="Type your message..." @keyup.enter="sendQuery" :disabled="loading" />
+        <button @click="sendQuery" :disabled="loading">Send</button>
+      </div>
     </div>
 
-    <div v-else-if="!loading && !queryError && !answers.length">
-      <p class="text-center no-results-message">Submit a query to see answers.</p>
-    </div>
+    <div v-if="loading" class="info-message loading-message">Typing...</div>
+    <div v-if="queryError" class="error-message">{{ queryError }}</div>
   </div>
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'; // Import onMounted
+import { ref, computed, nextTick } from 'vue';
 
 // Reactive state variables
 const userQuery = ref('');
-const topK = ref(3);
-const answers = ref([]);
+const chatMessages = ref([]); // Stores objects like { type: 'user' | 'bot', text: 'message text', answerData: {}, queryId: '' }
 const loading = ref(false);
 const queryError = ref(null);
-const currentAnswerIndex = ref(0);
-const sessionId = ref(null);
-const queryId = ref(null);
-const useConcatMatcher = ref(false);
-
-const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed for the current session/query
+const sessionId = ref(null); // Session ID for continuity, if desired by the backend
+const reviewedKPositions = ref(new Set()); // Stores 1-indexed k positions that have been reviewed (always 1 for chat)
 
 // FastAPI Backend URL
 const API_BASE_URL = 'http://localhost:8000';
 
-// Computed property for the currently displayed answer
-const currentAnswer = computed(() => {
-  if (answers.value.length > 0) {
-    return answers.value[currentAnswerIndex.value];
-  }
-  return null;
-});
-
-// --- NEW COMPUTED PROPERTY for review constraint ---
+// --- Computed property for review constraint ---
 const isReviewDisabledForCurrentK = computed(() => {
-  const currentK = currentAnswerIndex.value + 1;
-  // Constraint: can't post review for k > 1 unless k=1 has been reviewed
-  return currentK > 1 && !reviewedKPositions.value.has(1);
+  // In a k=1 chat, review is always enabled if an answer is present,
+  // unless we want to prevent multiple reviews for the same query.
+  // For simplicity, we'll allow review if an answer is displayed.
+  return false; // Always allow review for k=1 in chat context
 });
 
-// --- NEW: Computed property for the dot's class ---
-const matcherDotClass = computed(() => {
-  return useConcatMatcher.value ? 'dot-blue' : 'dot-yellow';
-});
-
-// --- Carousel Navigation Functions ---
-const nextAnswer = () => {
-  if (currentAnswerIndex.value < answers.value.length - 1) {
-    currentAnswerIndex.value++;
-  }
+// --- Chat Message Management ---
+const addMessage = (type, text, answerData = null, queryId = null) => {
+  chatMessages.value.push({ type, text, answerData, queryId });
+  scrollToBottom();
 };
 
-const prevAnswer = () => {
-  if (currentAnswerIndex.value > 0) {
-    currentAnswerIndex.value--;
+const scrollToBottom = async () => {
+  await nextTick(); // Ensure DOM is updated before scrolling
+  const messagesDisplay = document.querySelector('.messages-display');
+  if (messagesDisplay) {
+    messagesDisplay.scrollTop = messagesDisplay.scrollHeight;
   }
 };
 
 // --- Query Submission Function ---
 const sendQuery = async () => {
   if (!userQuery.value.trim()) {
-    queryError.value = "Please enter a query.";
+    queryError.value = "Please enter a message.";
     return;
   }
 
+  const queryToSend = userQuery.value;
+  addMessage('user', queryToSend); // Add user message to chat
+
   loading.value = true;
   queryError.value = null;
-  answers.value = [];
-  currentAnswerIndex.value = 0;
-  sessionId.value = null;
-  queryId.value = null;
-  reviewedKPositions.value.clear(); // --- NEW: Reset reviewed positions for new query ---
+  userQuery.value = ''; // Clear input field immediately
+  reviewedKPositions.value.clear(); // Reset reviewed positions for new query
 
   try {
     const response = await fetch(`${API_BASE_URL}/query`, {
@@ -109,31 +88,35 @@ const sendQuery = async () => {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        query: userQuery.value,
-        top_k: topK.value,
+        query: queryToSend,
+        top_k: 1, // Always request only the top 1 answer for chat
         metric: 'cosine',
         session_id: sessionId.value,
-        use_concat_matcher: false, // Pass the selected option
+        use_concat_matcher: false, // You can make this dynamic if needed
       }),
     });
 
     if (!response.ok) {
       const errorData = await response.json();
-      throw new Error(errorData.detail || 'Failed to fetch answers.');
+      throw new Error(errorData.detail || 'Failed to get a response.');
     }
 
     const data = await response.json();
-    answers.value = data.results;
+    console.log(data)
+    const botAnswer = data.results[0]; // Get the single top answer
     sessionId.value = data.session_id;
-    queryId.value = data.query_id;
+    const currentQueryId = data.query_id;
 
-    if (answers.value.length === 0) {
-        queryError.value = "No relevant answers found for your query.";
+    if (botAnswer && botAnswer.response) {
+      addMessage('bot', botAnswer.answer, botAnswer, currentQueryId);
+    } else {
+      addMessage('bot', "I'm sorry, I couldn't find a relevant answer for that.");
     }
 
   } catch (err) {
     queryError.value = err.message;
-    console.error('Query error:', err);
+    console.error('Chat query error:', err);
+    addMessage('bot', "Oops! Something went wrong. Please try again.");
   } finally {
     loading.value = false;
   }
@@ -142,59 +125,92 @@ const sendQuery = async () => {
 // --- Event handler for review submission from AnswerCard ---
 const handleReviewSubmitted = (reviewData) => {
   console.log('Review submitted from component:', reviewData);
-  // --- NEW: Add the reviewed position to the set ---
-  if (reviewData.position_in_results) {
-    reviewedKPositions.value.add(reviewData.position_in_results);
-  }
+  // For k=1 chat, we just acknowledge it.
+  // If you want to prevent multiple reviews for the *same* specific bot message,
+  // you could store the queryId here.
 };
-
 </script>
 
-<style>
-/* --- (CSS from previous app.vue, no changes needed here) --- */
-/* Global Styles - these apply to the whole page */
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f0f2f5;
-  color: #333;
-  line-height: 1.6;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #2c3e50;
-  margin-bottom: 0.8em;
-}
-
-/* Container */
+<style scoped>
+/* Scoped styles ensure they only apply to this component */
 .container {
-  max-width: 900px;
+  max-width: 700px;
   margin: 40px auto;
   padding: 30px;
   background-color: #ffffff;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 80vh; /* Make container fill most of the viewport height */
+  min-height: 500px;
 }
 
 .text-center {
   text-align: center;
+  margin-bottom: 20px;
+  color: #2c3e50;
 }
 
-/* Query Section */
+.chat-area {
+  flex-grow: 1; /* Allows chat area to expand and take available space */
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden; /* Important for containing messages-display scroll */
+  background-color: #fcfcfc;
+}
+
+.messages-display {
+  flex-grow: 1; /* Messages area takes available space */
+  padding: 20px;
+  overflow-y: auto; /* Enable scrolling for messages */
+  display: flex;
+  flex-direction: column; /* Messages stack vertically */
+  gap: 15px; /* Space between message bubbles */
+}
+
+.message-bubble {
+  max-width: 80%;
+  padding: 12px 18px;
+  border-radius: 20px;
+  line-height: 1.5;
+  word-wrap: break-word; /* Ensure long words wrap */
+}
+
+.message-bubble.user {
+  align-self: flex-end; /* User messages on the right */
+  background-color: #007bff;
+  color: white;
+  border-bottom-right-radius: 4px; /* Slightly different corner for visual distinction */
+}
+
+.message-bubble.bot {
+  align-self: flex-start; /* Bot messages on the left */
+  background-color: #e0e0e0;
+  color: #333;
+  border-bottom-left-radius: 4px; /* Slightly different corner */
+}
+
+.bot-message-actions {
+  margin-top: 10px; /* Space between bot message text and review card */
+}
+
 .query-section {
   display: flex;
-  gap: 15px;
-  margin-bottom: 40px;
-  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  border-top: 1px solid #e0e0e0; /* Separator from messages */
+  background-color: #f0f2f5; /* Background for input area */
 }
 
 .query-section input[type="text"] {
   flex-grow: 1;
-  padding: 14px 20px;
+  padding: 12px 18px;
   border: 1px solid #dcdcdc;
-  border-radius: 8px;
-  font-size: 1.1rem;
+  border-radius: 25px; /* Pill-shaped input */
+  font-size: 1rem;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -205,20 +221,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .query-section button {
-  padding: 14px 25px;
+  padding: 12px 25px;
   background-color: #007bff;
   color: white;
   border: none;
-  border-radius: 8px;
+  border-radius: 25px; /* Pill-shaped button */
   cursor: pointer;
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: bold;
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .query-section button:hover:not(:disabled) {
   background-color: #0056b3;
-  transform: translateY(-2px);
+  transform: translateY(-1px);
 }
 
 .query-section button:disabled {
@@ -229,10 +245,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Info and Error Messages */
 .info-message {
-  padding: 15px;
-  margin-bottom: 25px;
+  padding: 10px;
+  margin-top: 15px;
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 0.9rem;
   text-align: center;
 }
 
@@ -246,98 +262,10 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ffe0e0;
   color: #d32f2f;
   border: 1px solid #ef9a9a;
-  padding: 15px;
-  margin-bottom: 25px;
+  padding: 10px;
+  margin-top: 15px;
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 0.9rem;
   text-align: center;
-}
-
-.no-results-message {
-    padding: 20px;
-    background-color: #f8f9fa;
-    border: 1px dashed #e9ecef;
-    border-radius: 8px;
-    color: #6c757d;
-    font-size: 1.1rem;
-    font-style: italic;
-}
-
-/* Answers Carousel */
-.answers-carousel {
-  margin-top: 30px;
-  border: 1px solid #e0e0e0;
-  border-radius: 12px;
-  padding: 25px;
-  background-color: #fdfdfd;
-  box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.03);
-}
-
-.carousel-navigation {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 25px;
-  gap: 20px;
-}
-
-.carousel-navigation button {
-  background-color: #6c757d;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  padding: 10px 20px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-.carousel-navigation button:disabled {
-  background-color: #cccccc;
-  cursor: not-allowed;
-  opacity: 0.6;
-}
-
-.carousel-navigation button:hover:not(:disabled) {
-  background-color: #5a6268;
-  transform: translateY(-2px);
-}
-
-.carousel-navigation .carousel-counter {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: hsl(0, 46%, 62%);
-}
-
-/* Concat Indicator */
-.concat-indicator {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 25px;
-  padding: 10px 15px;
-  background-color: #f8f9fa; /* Light neutral background */
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  color: #6c757d; /* Darker grey text */
-  font-size: 0.95rem;
-  font-weight: 600;
-  gap: 8px; /* Space between dot and text */
-}
-
-.status-dot {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  display: inline-block;
-  border: 1px solid rgba(0,0,0,0.1); /* Subtle border for visibility */
-}
-
-.dot-blue {
-  background-color: #007bff !important; /* Blue for concatenated */
-}
-
-.dot-yellow {
-  background-color: #ffc107 !important; /* Yellow for separate */
 }
 </style>
