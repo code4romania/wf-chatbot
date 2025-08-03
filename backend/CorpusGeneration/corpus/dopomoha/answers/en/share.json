@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 30,
+      "content_block_id": 10,
+      "question": "What types of assistance can people receive or provide?",
+      "answer": "People can receive or provide resources, food, products, clothing, tents, transportation, or volunteers through Sprijin de Urgență.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Sprijin de Urgență'.",
+      "read_instruction": "read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 31,
+      "content_block_id": 10,
+      "question": "How can someone find or offer temporary housing?",
+      "answer": "Someone can find or offer temporary accommodation by accessing Un Acoperiș, which supports finding a space for vulnerable people or providing one to help them.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the section under 'Un Acoperiș'.",
+      "read_instruction": "read the section under 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 32,
+      "content_block_id": 10,
+      "question": "How can individuals help share information about these services?",
+      "answer": "Individuals can help share information by downloading, printing, and displaying posters in crowded places like storefronts or apartment buildings. They can also download flyers and share them wherever they go, including stores, means of transport, or parks.",
+      "website": "https://dopomoha.ro/en/share",
+      "instruction": "Go to website https://dopomoha.ro/en/share and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 67,
+      "content_block_id": 12,
+      "question": "What types of emergency support or resources can be requested or offered?",
+      "answer": "On Sprijin de Urgență, you can request or offer resources, food, products, clothing, tents, transportation, or volunteers.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Sprijin de Urgență'.",
+      "read_instruction": "read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 68,
+      "content_block_id": 12,
+      "question": "How can stranded vehicles receive assistance?",
+      "answer": "Stranded vehicles can receive free assistance from Rescue 4x4. This service helps bring your vehicle to a road where you can drive on your own or removes it from a public road to prevent traffic disturbance.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the section under 'Rescue 4x4'.",
+      "read_instruction": "read the section under 'Rescue 4x4'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 69,
+      "content_block_id": 12,
+      "question": "What are the primary modes of public transportation available in Romania?",
+      "answer": "The primary modes of public transportation available in Romania include trains, buses/maxi taxis, taxis, and the subway.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 70,
+      "content_block_id": 12,
+      "question": "How can travelers purchase tickets for different transport options?",
+      "answer": "Travelers can buy international train tickets online via cfrcalatori.ro. Bus/maxi taxi tickets can be purchased online via autogari.ro or mersulautobuzelor.ro, at ticket offices near bus stops, or by topping up bus cards online. Subway tickets are available at metro station ticket offices or by paying with a bank card at the turnstile.",
+      "website": "https://dopomoha.ro/en/transportation",
+      "instruction": "Go to website https://dopomoha.ro/en/transportation and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

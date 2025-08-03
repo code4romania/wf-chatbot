@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 45,
+      "content_block_id": 42,
+      "question": "What kinds of medical recovery and rehabilitation services are available?"
+    },
+    {
+      "question_id": 46,
+      "content_block_id": 42,
+      "question": "How are physical medicine and rehabilitation services typically provided?"
+    },
+    {
+      "question_id": 47,
+      "content_block_id": 42,
+      "question": "What are the maximum durations for receiving outpatient rehabilitation procedures?"
+    },
+    {
+      "question_id": 48,
+      "content_block_id": 42,
+      "question": "What types of specific procedures are offered as part of physical medicine and rehabilitation?"
+    },
+    {
+      "question_id": 49,
+      "content_block_id": 42,
+      "question": "How many procedures can be included in a single day of outpatient treatment?"
+    }
+  ]
+}

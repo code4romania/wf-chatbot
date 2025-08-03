@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 254,
+      "content_block_id": 11,
+      "question": "What kinds of contact details are available for each office?"
+    },
+    {
+      "question_id": 255,
+      "content_block_id": 11,
+      "question": "What are the names of the locations or regions where these offices are situated?"
+    },
+    {
+      "question_id": 256,
+      "content_block_id": 11,
+      "question": "How are the various offices geographically described or contextualized?"
+    }
+  ]
+}

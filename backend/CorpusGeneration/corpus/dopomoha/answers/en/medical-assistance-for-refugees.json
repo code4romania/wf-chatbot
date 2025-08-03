@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 59,
+      "content_block_id": 50,
+      "question": "What medical care is available for refugees from Ukraine?",
+      "answer": "Medical assistance for refugees from Ukraine includes the right to receive medical care, information about health, vaccination, and assistance for HIV-infected people. Specific services cover family doctor consultations, laboratory analyses, specialist consultations, hospitalization, dentistry, medical recovery, and home consultations. Additionally, services for Covid-19 patients, pregnant women, and access to national curative health programs are available, along with information on medicines and medical devices.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 60,
+      "content_block_id": 50,
+      "question": "How can refugees access healthcare services?",
+      "answer": "Refugees can access healthcare services by learning how to use the services of a family doctor, finding out where and how to get medical advice from specialists, and understanding how to get treatment through national health programs. The page provides information on rules for conducting medical examinations, servicing patients in laboratories, and obtaining medical advice for various services.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 61,
+      "content_block_id": 50,
+      "question": "What types of medical treatments are covered for refugees?",
+      "answer": "Covered medical treatments for refugees include family doctor services, laboratory analyses, imaging investigations, specialist consultations, and hospitalization services in public and private institutions. Dentistry, medical recovery, physical medicine, and rehabilitation services are also covered. Additionally, medical services for patients with Covid-19, pregnant women, and treatments under national curative health programs are available.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 62,
+      "content_block_id": 50,
+      "question": "How are medical costs covered for refugees?",
+      "answer": "The provided content indicates that medicines can be reimbursed by the Health Fund. Treatment for patients with Covid-19 is free for insured, uninsured, and other people in Romania. Information regarding who pays for hospitalization services and the cost of dental treatment for all categories of patients is detailed in their respective sections.",
+      "website": "https://dopomoha.ro/en/medical-assistance-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-assistance-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 289,
+      "content_block_id": 8,
+      "question": "What kind of help can people find or offer?",
+      "answer": "People can find or offer resources such as food, products, clothing, tents, transportation, or volunteers through 'Sprijin de Urgență'. Additionally, they can find or offer temporary accommodation via 'Un Acoperiș'.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the sections under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "read_instruction": "read the sections under 'Sprijin de Urgență' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 290,
+      "content_block_id": 8,
+      "question": "How can someone help spread information to others?",
+      "answer": "Someone can help spread information by downloading, printing, and displaying the poster in crowded, visible places like storefronts or apartment buildings. They can also download the flyer, which contains concise information and a QR code, and share it in various locations such as stores, means of transport, or parks.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 291,
+      "content_block_id": 8,
+      "question": "What language support is provided?",
+      "answer": "A guide with common expressions in Romanian, translated into English and Ukrainian, is provided as a phrase book.",
+      "website": "https://dopomoha.ro/en/useful-resources",
+      "instruction": "Go to website https://dopomoha.ro/en/useful-resources and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

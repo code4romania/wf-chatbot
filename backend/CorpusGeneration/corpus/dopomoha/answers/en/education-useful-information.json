@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 187,
+      "content_block_id": 51,
+      "question": "How can Ukrainian refugees enroll their children in educational institutions in Romania?",
+      "answer": "To enroll a child in an educational institution or continue studies in Romania, individuals should find the steps by following the link mentioned on the page. For specific programs, one can contact JRS Romania by phone or email, Angel Appeal by phone, or the Taras Shevchenko Ukrainian High School by phone for enrollment information. The Ostrovok Educational Hub also provides free classes, with contact phone numbers available for its sectors.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 188,
+      "content_block_id": 51,
+      "question": "What educational programs are available specifically for Ukrainian refugee children in Romania?",
+      "answer": "Several programs are available, including a kindergarten for preschool children and a school for first graders organized by JRS Romania. The Angel Appeal Romanian Foundation offers a free kindergarten and various activities. The \"Ostrovok\" Educational Hub in Bucharest provides free classes for refugee students from Ukraine for grades 0-11 in Sector 2 and 0-6 in Sector 4. Additionally, the Taras Shevchenko Ukrainian High School in Maramureș offers secondary education with teaching in Ukrainian.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 189,
+      "content_block_id": 51,
+      "question": "What online learning resources are available for Ukrainian students?",
+      "answer": "Ukrainian students can find free access and download digital versions of Ukrainian textbooks for grades 1-11 for self-study. The Ukrainian Online School, a project by the Ministry of Education and Science of Ukraine, offers distance and mixed learning for students in grades 5-11, including video tutorials, tests, and self-study materials. UNICEF also provides access to online platforms to support children's education.",
+      "website": "https://dopomoha.ro/en/education-useful-information",
+      "instruction": "Go to website https://dopomoha.ro/en/education-useful-information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

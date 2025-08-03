@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 67,
+      "content_block_id": 12,
+      "question": "What types of emergency support or resources can be requested or offered?"
+    },
+    {
+      "question_id": 68,
+      "content_block_id": 12,
+      "question": "How can stranded vehicles receive assistance?"
+    },
+    {
+      "question_id": 69,
+      "content_block_id": 12,
+      "question": "What are the primary modes of public transportation available in Romania?"
+    },
+    {
+      "question_id": 70,
+      "content_block_id": 12,
+      "question": "How can travelers purchase tickets for different transport options?"
+    }
+  ]
+}

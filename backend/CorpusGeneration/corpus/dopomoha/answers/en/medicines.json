@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 118,
+      "content_block_id": 45,
+      "question": "What types of medicines are covered by health insurance?",
+      "answer": "Medicines reimbursed by the Health Fund and covered by the National Health and Welfare Fund are those included in the List of compensated drugs approved through the Government’s Decision. These are generally referred to as compensated medicines.",
+      "website": "https://dopomoha.ro/en/medicines",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 119,
+      "content_block_id": 45,
+      "question": "How does a patient obtain compensated medicines?",
+      "answer": "Patients obtain compensated medicines based on an electronic medical prescription or a special regime medical prescription, which must be submitted to a community pharmacy that has a contract with health insurance houses. For remote consultations, the prescription can be printed or sent online to the pharmacy.",
+      "website": "https://dopomoha.ro/en/medicines",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 120,
+      "content_block_id": 45,
+      "question": "How long can a medical prescription remain valid?",
+      "answer": "A medical prescription for chronic conditions is valid for a maximum of 30 days from its issuance, while for acute and subacute conditions, it is valid for a maximum of 48 hours. Prescriptions issued for a period of 90/91/92 days have a validity of up to 92 days.",
+      "website": "https://dopomoha.ro/en/medicines",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Validity of electronic prescription'.",
+      "read_instruction": "read the section under 'Validity of electronic prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 121,
+      "content_block_id": 45,
+      "question": "What factors determine the level of financial coverage for a medicine?",
+      "answer": "The level of financial coverage, or compensation percentage, for a medicine depends on the sublist (A, B, C, or D) in which its International Common Name (ICN) is located. This determines whether 90%, 50%, 100%, or 20% of the prescribed price is covered.",
+      "website": "https://dopomoha.ro/en/medicines",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the section under 'Compensation lists'.",
+      "read_instruction": "read the section under 'Compensation lists'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 122,
+      "content_block_id": 45,
+      "question": "When might special rules apply for getting compensated medicines?",
+      "answer": "Special rules apply for certain drugs restricted by therapeutic protocols, which can only be prescribed by a specialist doctor. Additionally, medicines subject to cost-volume-result contracts may have specific dispensing rules, and people fleeing the war in Ukraine are exempt from paying the personal contribution for outpatient medicines.",
+      "website": "https://dopomoha.ro/en/medicines",
+      "instruction": "Go to website https://dopomoha.ro/en/medicines and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

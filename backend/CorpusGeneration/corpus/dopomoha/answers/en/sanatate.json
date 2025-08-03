@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 211,
+      "content_block_id": 20,
+      "question": "What types of medical services are available for people from Ukraine in Romania?",
+      "answer": "People from Ukraine with temporary protection benefit from medical services, supplies, medicines, and devices included in national curative health programs, similar to insured Romanian citizens, without social health insurance contributions or co-payments for outpatient medicines. This includes consultations with a family doctor or narrow specialist, pregnancy monitoring, free laboratories, dental services, and specialized outpatient healthcare without a referral.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the section under 'My rights Temporary protection & Short stay' and 'Medical assistance to refugees from Ukraine in Romania'.",
+      "read_instruction": "read the section under 'My rights Temporary protection & Short stay' and 'Medical assistance to refugees from Ukraine in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 212,
+      "content_block_id": 20,
+      "question": "How can individuals access specialized health support in Romania?",
+      "answer": "Individuals can access specialized health support through various dedicated services. Women can find reproductive health services and support for domestic violence at the Women's Center or gynecology services via SECS. Children with cancer can access assistance through Ukraine Child Cancer Help. People living with HIV can find psycho-medical-social services and treatment via consilierehiv.ro or Call center Sens Pozitiv. Additionally, those with rare or chronic diseases can seek help from the National Alliance for Rare Diseases Romania and the NoRo center.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 213,
+      "content_block_id": 20,
+      "question": "What specific health information and care is provided for children?",
+      "answer": "Specific health care for children includes medical assistance for pediatric oncology cases via Ukraine Child Cancer Help, and free therapy at the NoRo center for children needing their services. Information and care also cover children's nutrition, vaccination against infectious diseases, psychological support to address war-related stress, hygiene tips, and guidance for taking care of children with disabilities.",
+      "website": "https://dopomoha.ro/en/sanatate",
+      "instruction": "Go to website https://dopomoha.ro/en/sanatate and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 18,
+      "content_block_id": 56,
+      "question": "What types of assistance are available for people new to Timișoara?",
+      "answer": "Assistance includes information on managing in a new city, various important contacts, and support programs for accommodation, meals, and integration. Organizations like LOGS Association, Timiș County Youth Foundation, Save the Children Timiș, Union of Ukrainians in Romania, and SCOP organization offer social and legal counseling, financial support, medical assistance, language courses, job finding, psychological support, and specialized help. Support is also available for legal status, housing, safety, and for women and people living with HIV.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 19,
+      "content_block_id": 56,
+      "question": "How can someone access medical care or psychological support in the city?",
+      "answer": "For medical care, individuals can contact Emergency Municipal Clinical Hospital, Louis Țurcanu Children's Emergency Clinical Hospital for children, or find a family doctor from the provided list. Psychological support is available from Plan International Organization (contact Elena Dinon) and the Timiș County Youth Foundation. Free, anonymous, and confidential psycho-medical-social HIV services are also offered by Sens Pozitiv and Regional HIV Centers.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the sections under 'Medical services', 'Psychological support', and 'Counseling for people living with HIV'.",
+      "read_instruction": "read the sections under 'Medical services', 'Psychological support', and 'Counseling for people living with HIV'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 20,
+      "content_block_id": 56,
+      "question": "What resources exist for education and learning in Timișoara?",
+      "answer": "Resources for education include enrollment applications for Ukrainian preschoolers/students and a list of educational units in Timiș offering teaching in Ukrainian. Language courses, including Romanian and English, are provided by organizations like the LOGS Association, the Timiș County Youth Foundation, and SCOP. Save the Children Timiș also offers English classes for children and a part-time kindergarten program.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the sections under 'Education' and 'Organisations offering their support'.",
+      "read_instruction": "read the sections under 'Education' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 21,
+      "content_block_id": 56,
+      "question": "How can a new resident find help with housing or employment?",
+      "answer": "New residents can find help with housing through the support program for accommodation, meals, and integration, and by checking the 'Housing Info' section. For employment, assistance is available via the 'Jobs Support' section. Additionally, the LOGS Association and the Timiș County Youth Foundation facilitate access to jobs.",
+      "website": "https://dopomoha.ro/en/dopomoha-timisoara",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-timisoara and read the sections under 'The support program for accommodation, meals and integration in Timișoara', 'Housing Info', and 'Jobs Support'.",
+      "read_instruction": "read the sections under 'The support program for accommodation, meals and integration in Timișoara', 'Housing Info', and 'Jobs Support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

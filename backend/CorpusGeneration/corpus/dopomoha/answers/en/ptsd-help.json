@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 214,
+      "content_block_id": 70,
+      "question": "What kind of support does this app provide?",
+      "answer": "The PTSD Help app offers essential information about PTSD, a self-assessment module for symptoms, and practical tools for managing discomfort. It also provides crisis support contacts and detailed information on professional treatments.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the section under 'What does PTSD Help do?'.",
+      "read_instruction": "read the section under 'What does PTSD Help do?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 215,
+      "content_block_id": 70,
+      "question": "Who is the app designed to help?",
+      "answer": "The app is designed to help vulnerable people affected by the crisis in Ukraine, including refugees and those still in Ukraine. It also addresses individuals in vulnerable situations impacted by any traumatic experience, such as war, violence, aggression, or accidents.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 216,
+      "content_block_id": 70,
+      "question": "How was the app developed?",
+      "answer": "The app was developed in partnership with the US Department of Veterans Affairs - National Center for PTSD.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 217,
+      "content_block_id": 70,
+      "question": "What devices can the app be used on?",
+      "answer": "The app is available for use on Android and iOS devices.",
+      "website": "https://dopomoha.ro/en/ptsd-help",
+      "instruction": "Go to website https://dopomoha.ro/en/ptsd-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

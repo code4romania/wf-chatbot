@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "content_block_id": 16,
+      "question": "What kinds of support can people find here?"
+    },
+    {
+      "question_id": 42,
+      "content_block_id": 16,
+      "question": "How can individuals offer help or resources?"
+    },
+    {
+      "question_id": 43,
+      "content_block_id": 16,
+      "question": "What assistance is available for common needs like housing, jobs, or education?"
+    },
+    {
+      "question_id": 44,
+      "content_block_id": 16,
+      "question": "How can someone get help with legal or medical issues?"
+    }
+  ]
+}

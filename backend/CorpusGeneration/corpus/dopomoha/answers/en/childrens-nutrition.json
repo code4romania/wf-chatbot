@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 9,
+      "content_block_id": 25,
+      "question": "What are the key reasons to continue breastfeeding during difficult times?",
+      "answer": "During difficult times, it is extremely important to continue breastfeeding as it provides crucial physical contact, helping the child feel safe and enhancing the mother's sense of peace. Breast milk strengthens the child's immunity, which can be weakened by stress, and it is the most convenient and safest feeding method, with milk quality remaining unaffected by anxiety or stress. Even with an unbalanced diet, mothers can continue to breastfeed effectively.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Breastfeeding'.",
+      "read_instruction": "read the section under 'Breastfeeding'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 10,
+      "content_block_id": 25,
+      "question": "How can mothers manage breastfeeding or milk supply when direct feeding is not possible?",
+      "answer": "If a baby is temporarily not with the mother, she should continue to drain milk with her hands or a breast pump at least 8 times a day to maintain lactation and prevent complications. Before expressing, hands must be washed, and milk should be drained into a clean, lidded container, then fed to the child from a spoon or cup, not a bottle.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "read_instruction": "read the section under 'What if your baby can't breastfed or he is not with you'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 11,
+      "content_block_id": 25,
+      "question": "What are the guidelines for feeding babies formula or other milk if breastfeeding isn't an option?",
+      "answer": "If breastfeeding isn't an option, babies under 6 months can be fed age-appropriate ready-to-use commercial or generic liquid formula, avoiding animal milk, water, or older children's formula. If using dry formula, boil water above 70 degrees Celsius and do not prepare in advance. For children older than 6 months, animal milk (cow's or goat's) and complementary foods are suitable, and formula is not needed. Use a cup instead of a bottle for feeding to ensure cleanliness.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'If you can not restore lactation'.",
+      "read_instruction": "read the section under 'If you can not restore lactation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 12,
+      "content_block_id": 25,
+      "question": "What types of food and water should families prepare for children in emergency situations?",
+      "answer": "For emergency situations, families should prepare clean drinking water, stored in closed, marked containers, ensuring a 2-3 day supply. For food, stock ready-to-eat items that don't require cooking or refrigeration, such as bread, crackers, canned goods, nuts, dried fruits, chocolate, and energy bars, always checking expiration dates. For young children, instant cereals and ready meals like mashed meat, fish, or vegetables are recommended.",
+      "website": "https://dopomoha.ro/en/childrens-nutrition",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-nutrition and read the section under 'Nutrition for small children'.",
+      "read_instruction": "read the section under 'Nutrition for small children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

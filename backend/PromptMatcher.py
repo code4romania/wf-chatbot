@@ -16,10 +16,6 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification # For
 # Configuration
 # -----------------------------------------------------------------------------
 BGE_M3_MODEL = "BAAI/bge-m3"
-# A suitable cross-encoder model. Good options include:
-# - BAAI/bge-reranker-base (or large)
-# - cross-encoder/ms-marco-MiniLM-L-6-v2 (smaller, faster)
-# - cross-encoder/stsb-roberta-large (good general purpose)
 CROSS_ENCODER_MODEL = "BAAI/bge-reranker-v2-m3" # Or "cross-encoder/ms-marco-MiniLM-L-6-v2"
 MAX_LENGTH = 8192 # Consider removing or commenting on its non-use for BGE-M3 internal truncation
 logger = logging.getLogger("promptmatcher")
@@ -28,9 +24,14 @@ logger.setLevel(logging.INFO)
 if not logger.hasHandlers():
     logging.basicConfig(level=logging.INFO, format='%(message)s')
 
-# These paths can be configured if your directory structure is different
-questions_path = "dopomoha_questions_pro"
-answers_path = "dopomoha_questions_pro_answers"
+with open("RetrievalParams.json", 'r') as f:
+    params = json.load(f)
+    
+questions_path = params["questions_path"]
+answers_path = params["answers_path"]
+base_path= params["base_path"]
+concat_qa= params["concat_qa"]
+
 
 
 class PromptMatcher:
@@ -42,15 +43,12 @@ class PromptMatcher:
 
     def __init__(
         self,
-        base_data_path: Union[str, Path],
         language: str = "en",
-        device: str = "cpu",
-        concat_q_and_a: bool = False,
-        # city_names=None, # Consider removing if truly unused
+        device: str = "cpu"
     ):
-        self.base_data_path = Path(base_data_path)
+        self.base_data_path = Path("CorpusGeneration/corpus/",base_path )
         self.language = language.lower()
-        self.concat_q_and_a = concat_q_and_a
+        self.concat_q_and_a = concat_qa
         self.model_name = BGE_M3_MODEL
         self.cross_encoder_model_name = CROSS_ENCODER_MODEL
         self.device = device
@@ -507,12 +505,7 @@ if __name__ == "__main__":
     # Initialize the matcher
     # Make sure './WebScrape/data_whole_page' exists and contains your Q&A data
     # in 'dopomoha_general_pro/en' and 'dopomoha_general_pro_answers/en'
-    matcher = PromptMatcher(
-        base_data_path="./WebScrape/data_whole_page", # Adjust this path if needed
-        language="en",
-        concat_q_and_a=True, # Set to True to embed Q+A pairs together
-        device="cuda" if torch.cuda.is_available() else "cpu" # Use CUDA if available
-    )
+    matcher = PromptMatcher()
 
     def main_repl():
         """A simple Read-Eval-Print-Loop to test the matcher."""

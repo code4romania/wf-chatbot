@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 63,
+      "content_block_id": 55,
+      "question": "What support is offered to people arriving in Brașov?"
+    },
+    {
+      "question_id": 64,
+      "content_block_id": 55,
+      "question": "How can someone access medical care in Brașov?"
+    },
+    {
+      "question_id": 65,
+      "content_block_id": 55,
+      "question": "What options exist for psychological support in Brașov?"
+    },
+    {
+      "question_id": 66,
+      "content_block_id": 55,
+      "question": "How can children or adults access educational programs in Brașov?"
+    }
+  ]
+}

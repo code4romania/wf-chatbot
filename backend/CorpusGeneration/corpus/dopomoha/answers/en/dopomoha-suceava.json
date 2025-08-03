@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 148,
+      "content_block_id": 59,
+      "question": "What kind of assistance is available for newcomers in Suceava?",
+      "answer": "Newcomers in Suceava can find information on how to manage in the city and access important contacts like the Immigration Office and the Regional Center for Procedures and Accommodation for Asylum Seekers. They can also register for temporary protection and find various organizations offering support, including material aid and legal status information.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 149,
+      "content_block_id": 59,
+      "question": "How can people access medical and psychological support?",
+      "answer": "For medical services, individuals can contact the Suceava Emergency Hospital or its Pediatric Department for children. Psychological support is offered by organizations such as World Vision Romania, Positive Progress psychological Solutions, Terre des hommes Foundation, Plan International Organization, and Save the Children. Counseling for people living with HIV is available through Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the sections under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the sections under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 150,
+      "content_block_id": 59,
+      "question": "What educational opportunities are offered in Suceava?",
+      "answer": "In Suceava county, there are several high schools and secondary schools offering teaching in Ukrainian language. Additionally, Save the Children provides educational activities like summer schools, after-school programs, and Romanian language courses, while The Bucovina Institute Association offers Romanian and English language courses.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 151,
+      "content_block_id": 59,
+      "question": "How can one find general support and material aid?",
+      "answer": "General support can be found through CNRR. Organizations like eLiberare, AMURTEL, and JRS offer material support, vouchers, and various services. The Bucovina Institute Association also provides material support, while Save the Children offers direct services and integrated support. The Sensiblu Foundation provides social counseling.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 152,
+      "content_block_id": 59,
+      "question": "What transportation services are available in Suceava?",
+      "answer": "In Suceava, Ukrainian refugees can benefit from a free travel subscription for local public transport.",
+      "website": "https://dopomoha.ro/en/dopomoha-suceava",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-suceava and read the section under 'Transportation'.",
+      "read_instruction": "read the section under 'Transportation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 241,
+      "content_block_id": 69,
+      "question": "How can Ukrainian refugees find employment in Romania?",
+      "answer": "Ukrainian refugees can find employment support through various organizations like Hands Across Romania, Jobs4Ukraine, NESsT Refugee Employment Initiative, BERD, ANAIS, Youth Center of the National Youth Foundation, and HEKS EPER. These services include vocational integration, job search seminars, entrepreneurship support, and direct employment assistance.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Integration of refugees from Ukraine to Romania Hands Across Romania Association'.",
+      "read_instruction": "read the section under 'Integration of refugees from Ukraine to Romania Hands Across Romania Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 242,
+      "content_block_id": 69,
+      "question": "What resources are available for professional development and job seeking?",
+      "answer": "Resources for professional development and job seeking include vocational integration services, professional consultations, vocational retraining courses, and seminars offered by organizations like Hands Across Romania and Jobs4Ukraine. The Youth Center provides expert job search assistance, including CV and cover letter compilation, and interview preparation. HEKS EPER offers help with personal branding, career counseling, and legal support, while resources are also available for entrepreneurship and learning how to write a resume.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Integration of refugees from Ukraine to Romania Hands Across Romania Association'.",
+      "read_instruction": "read the section under 'Integration of refugees from Ukraine to Romania Hands Across Romania Association'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 243,
+      "content_block_id": 69,
+      "question": "How can new arrivals learn about Romanian culture and daily life?",
+      "answer": "New arrivals can learn about Romanian culture and daily life through the \"Cultural orientation - Romania\" guide created by IOM Romania. This guide is a useful resource that contains information about culture, customs, legislation, and other important aspects of life in Romania to help with adaptation and integration.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Guide from IOM \"Cultural orientation - Romania\"'.",
+      "read_instruction": "read the section under 'Guide from IOM \"Cultural orientation - Romania\"'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 244,
+      "content_block_id": 69,
+      "question": "What cultural experiences or places can be explored in Romania?",
+      "answer": "In Romania, one can explore cultural experiences such as the Animest - Bucharest International Animated Film Festival or visit the Hungarian Theater in Cluj, which hosts performances and various events. Other places include The National Museum of Rumanian Literature in Bucharest, and the website of the \"Alexandru Sahia\" documentary film studio provides access to their historical films.",
+      "website": "https://dopomoha.ro/en/integration",
+      "instruction": "Go to website https://dopomoha.ro/en/integration and read the section under 'Events and cultural life in Romania'.",
+      "read_instruction": "read the section under 'Events and cultural life in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 178,
+      "content_block_id": 1,
+      "question": "How can people enter Romania?",
+      "answer": "People can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. Short stay Ukrainian nationals with a valid passport can enter for up to 90 days, or without a passport by asking for asylum at the border.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 179,
+      "content_block_id": 1,
+      "question": "What are the requirements for entering Romania?",
+      "answer": "Requirements vary by nationality and status. Ukrainian nationals need a valid passport for short stay or can apply for asylum if they lack documents. Minors should ideally have an identity document or birth certificate but don't need parental approval. Men aged 18-60 must meet specific conditions for leaving Ukraine and entering Romania. There are no COVID-19 vaccination, testing, or quarantine requirements. Non-Ukrainian nationals from Ukraine need a valid passport for a transit visa.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 180,
+      "content_block_id": 1,
+      "question": "How does one cross the border into Romania?",
+      "answer": "People can cross into Romania from Ukraine through border points such as Halmeu, Sighetu Marmației, Siret, Rădăuți-Prut, and Isaccea. It is also possible to enter Romania via the Republic of Moldova.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Border crossing'.",
+      "read_instruction": "read the section under 'Border crossing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 181,
+      "content_block_id": 1,
+      "question": "What kind of support is available upon arrival in Romania?",
+      "answer": "NGOs at border crossings offer food and guidance. Unaccompanied children are taken to DGASPC locations or foster carers for basic services including psychological counseling. Additionally, initiatives like \"Sprijin de Urgență\" and \"Un Acoperiș\" provide resources such as food, clothing, transportation, and temporary accommodation.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 182,
+      "content_block_id": 1,
+      "question": "How are minors handled when entering Romania?",
+      "answer": "All children from Ukraine are accepted into Romania, and it's advisable to carry their identity document or birth certificate, though no parental written approval is needed to cross the border. Unaccompanied children are picked up by teams at the border, taken to DGASPC locations or foster carers, and receive basic services including psychological counseling.",
+      "website": "https://dopomoha.ro/en/entering-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/entering-romania and read the section under 'Minors'.",
+      "read_instruction": "read the section under 'Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

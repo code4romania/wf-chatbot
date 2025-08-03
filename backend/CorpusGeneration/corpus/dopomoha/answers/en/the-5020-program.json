@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 91,
+      "content_block_id": 32,
+      "question": "What financial assistance is available for Ukrainians in Romania?",
+      "answer": "Ukrainians in Romania may be eligible for a monthly lump sum to cover accommodation expenses for up to 3 consecutive months. After this period, or for those who previously received benefits, they may apply for a Minimum Inclusion Income. Additionally, refugees under temporary protection are eligible for other social benefits.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Monthly Lump Sum for Accommodation'.",
+      "read_instruction": "read the section under 'Monthly Lump Sum for Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 92,
+      "content_block_id": 32,
+      "question": "How does one apply for this support?",
+      "answer": "To apply for the lump sum, beneficiaries need to submit their application to the local administrative-territorial unit where they have chosen to reside. They must fill in the application form, provide personal details including CNP numbers, attach proof of temporary protection, provide a bank account statement, and indicate they are not residing in a temporary accommodation camp.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Application Process'.",
+      "read_instruction": "read the section under 'Application Process'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 93,
+      "content_block_id": 32,
+      "question": "When did the new support program start?",
+      "answer": "The new financial support program dedicated to Ukrainians living in Romania started as of July 1, 2024. This change is outlined in Government Emergency Ordinance No. 96/2024.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 94,
+      "content_block_id": 32,
+      "question": "How long can people receive accommodation payments?",
+      "answer": "Beneficiaries of temporary protection in Romania may be eligible for a monthly lump sum to cover accommodation expenses for up to 3 consecutive months. This 3-month period starts from the date of entry into Romania.",
+      "website": "https://dopomoha.ro/en/the-5020-program",
+      "instruction": "Go to website https://dopomoha.ro/en/the-5020-program and read the section under 'Monthly Lump Sum for Accommodation'.",
+      "read_instruction": "read the section under 'Monthly Lump Sum for Accommodation'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

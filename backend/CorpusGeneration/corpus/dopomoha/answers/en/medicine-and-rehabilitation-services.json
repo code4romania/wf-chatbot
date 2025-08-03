@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 45,
+      "content_block_id": 42,
+      "question": "What kinds of medical recovery and rehabilitation services are available?",
+      "answer": "Medical recovery, physical medicine, and rehabilitation services are available. These services include specific physical medicine and rehabilitation procedures such as physiotherapy, hydrotherapy, massage, and aerosols.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 46,
+      "content_block_id": 42,
+      "question": "How are physical medicine and rehabilitation services typically provided?",
+      "answer": "Physical medicine and rehabilitation services can be provided to insured persons on an outpatient or inpatient basis. Outpatient services are typically provided in treatment bases within the clinical specialty of physical medicine and rehabilitation.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 47,
+      "content_block_id": 42,
+      "question": "What are the maximum durations for receiving outpatient rehabilitation procedures?",
+      "answer": "Patients generally have the right to specific physical medicine and outpatient rehabilitation procedures for a maximum period of 21 days per year per insured person. However, children aged 0-18 with a confirmed diagnosis of cerebral palsy can benefit for a maximum period of 42 days per year per patient.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 48,
+      "content_block_id": 42,
+      "question": "What types of specific procedures are offered as part of physical medicine and rehabilitation?",
+      "answer": "Specific procedures offered include physiotherapy, hydrotherapy, massage, and aerosols. Additionally, some procedures like mineral baths, natural skunks, and mud wraps can be performed in treatment bases of balneo-climatic resorts.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 49,
+      "content_block_id": 42,
+      "question": "How many procedures can be included in a single day of outpatient treatment?",
+      "answer": "A series of specific physical medicine and rehabilitation procedures established by the specialist doctor includes a maximum of 4 procedures per day of treatment. This applies to outpatient services, including those carried out in balneo-climatic resorts.",
+      "website": "https://dopomoha.ro/en/medicine-and-rehabilitation-services",
+      "instruction": "Go to website https://dopomoha.ro/en/medicine-and-rehabilitation-services and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

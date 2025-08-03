@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 218,
+      "content_block_id": 54,
+      "question": "What types of free medical care can refugees receive?"
+    },
+    {
+      "question_id": 219,
+      "content_block_id": 54,
+      "question": "How can individuals get free medical assistance?"
+    },
+    {
+      "question_id": 220,
+      "content_block_id": 54,
+      "question": "Who provides free healthcare for people displaced by war?"
+    },
+    {
+      "question_id": 221,
+      "content_block_id": 54,
+      "question": "Where are these free medical services offered?"
+    }
+  ]
+}

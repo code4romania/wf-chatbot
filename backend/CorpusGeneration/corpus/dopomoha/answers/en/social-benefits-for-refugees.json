@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 277,
+      "content_block_id": 71,
+      "question": "What kinds of social support can Ukrainian refugees access in Romania?",
+      "answer": "Refugees from Ukraine under temporary protection in Romania can access social benefits including support for mothers with newborns, monthly childcare support allowance for single parents or guardians, accommodation and allowances for Ukrainian minors, social services for persons with disabilities, state allowance for children, and unemployment benefits.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 278,
+      "content_block_id": 71,
+      "question": "How does one apply for these different types of aid?",
+      "answer": "Application processes vary by benefit; for instance, support for mothers with newborns is submitted to the Social Assistance Directorate, childcare allowance to county agencies, and unemployment benefits to the local Employment Agency (ANOFM). For minors' accommodation, applications go to the local Social Assistance Directorate or the minor's school. Disability services require registration at DGASPC after establishing legal status with the General Inspectorate for Immigration.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 279,
+      "content_block_id": 71,
+      "question": "What financial assistance is available for children and families?",
+      "answer": "Mothers with newborns may receive a 2,000 RON social voucher. Single parents or guardians receive a monthly childcare allowance equal to the minimum child-raising allowance. Ukrainian minors are eligible for daily food allowances and financial support for school supplies. The State Allowance for Children provides 719 RON per month for children under 2 (or 3 if disabled) and children aged 3-18 with disabilities, and 292 RON per month for children aged 2-18 and youth over 18 in pre-university education.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the sections on 'Support for mothers with newborns', 'Monthly Childcare Support Allowance for Single Parents or Guardians', 'Accommodation and Allowances for Ukrainian Minors', and 'State Allowance for Children'.",
+      "read_instruction": "read the sections on 'Support for mothers with newborns', 'Monthly Childcare Support Allowance for Single Parents or Guardians', 'Accommodation and Allowances for Ukrainian Minors', and 'State Allowance for Children'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 280,
+      "content_block_id": 71,
+      "question": "How are unemployed individuals supported?",
+      "answer": "Unemployed refugees under temporary protection in Romania may be eligible for benefits if they worked for at least 12 of the last 24 months, or are recent graduates. The minimum benefit is 660 RON per month for up to 6 months, with potential for increased amounts or extended duration up to 12 months based on work history. Beneficiaries also gain national health insurance.",
+      "website": "https://dopomoha.ro/en/social-benefits-for-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/social-benefits-for-refugees and read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "read_instruction": "read the section under 'Unemployment Benefits for Refugees Under Temporary Protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

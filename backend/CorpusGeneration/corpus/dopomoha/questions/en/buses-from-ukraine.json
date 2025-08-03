@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 190,
+      "content_block_id": 37,
+      "question": "What kind of assistance is offered for border crossings?"
+    },
+    {
+      "question_id": 191,
+      "content_block_id": 37,
+      "question": "How can someone travel from Moldova to Romania?"
+    },
+    {
+      "question_id": 192,
+      "content_block_id": 37,
+      "question": "When do these services run?"
+    },
+    {
+      "question_id": 193,
+      "content_block_id": 37,
+      "question": "What services are available along the route?"
+    },
+    {
+      "question_id": 194,
+      "content_block_id": 37,
+      "question": "How long does the journey typically last?"
+    }
+  ]
+}

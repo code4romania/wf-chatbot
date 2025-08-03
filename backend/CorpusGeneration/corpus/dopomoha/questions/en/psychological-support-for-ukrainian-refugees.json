@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 236,
+      "content_block_id": 67,
+      "question": "What types of mental health services are provided?"
+    },
+    {
+      "question_id": 237,
+      "content_block_id": 67,
+      "question": "What groups of people are eligible for psychological assistance?"
+    },
+    {
+      "question_id": 238,
+      "content_block_id": 67,
+      "question": "How can individuals get in touch with support organizations?"
+    },
+    {
+      "question_id": 239,
+      "content_block_id": 67,
+      "question": "What languages are used for mental health consultations?"
+    },
+    {
+      "question_id": 240,
+      "content_block_id": 67,
+      "question": "What areas in Romania provide mental health support?"
+    }
+  ]
+}

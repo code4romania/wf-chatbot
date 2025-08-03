@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 99,
+      "content_block_id": 7,
+      "question": "What are the main reasons someone might seek asylum?",
+      "answer": "A foreigner may apply for asylum if they left their country of origin due to fear of persecution, serious human rights violations, or armed conflict. This protection allows them to remain in Romania.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 100,
+      "content_block_id": 7,
+      "question": "How does someone apply for asylum in Romania?",
+      "answer": "You can apply for asylum verbally or in writing, either directly at a border crossing point or anywhere in Romania if you have already entered. You will receive an asylum application form to fill, possibly with official help, in your mother tongue. You must submit all relevant documents and your border crossing document to receive a temporary identity document.",
+      "website": "https://dopopoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopopoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 101,
+      "content_block_id": 7,
+      "question": "What kind of support is available for asylum seekers?",
+      "answer": "Asylum seekers can access support through 'Sprijin de Urgență' for resources like food, clothing, tents, transportation, or volunteers. Additionally, 'Un Acoperiș' provides support in finding temporary accommodation for vulnerable individuals in Romania.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 102,
+      "content_block_id": 7,
+      "question": "How long does the asylum application process usually take?",
+      "answer": "Asylum applications in Romania are evaluated and resolved by the General Inspectorate for Immigration. They are normally processed within one to two months.",
+      "website": "https://dopomoha.ro/en/applying-for-asylum",
+      "instruction": "Go to website https://dopomoha.ro/en/applying-for-asylum and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

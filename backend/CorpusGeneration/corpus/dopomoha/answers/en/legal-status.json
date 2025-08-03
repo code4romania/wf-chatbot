@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 140,
+      "content_block_id": 14,
+      "question": "What are the main ways to enter or stay in Romania?",
+      "answer": "The main ways to enter Romania are by obtaining temporary protection, with a short-stay right, or as an asylum seeker. You can also apply for asylum within Romania at a later point.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 141,
+      "content_block_id": 14,
+      "question": "How do a person's rights depend on their status in Romania?",
+      "answer": "A person's rights in Romania depend on their status.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'My rights'.",
+      "read_instruction": "read the section under 'My rights'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 142,
+      "content_block_id": 14,
+      "question": "When does temporary protection in Romania become invalid?",
+      "answer": "If you are a beneficiary of temporary protection, your permit is automatically valid until 03/04/2026, and you do not need to apply for an extension. It does not become invalid before this date.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Temporary protection'.",
+      "read_instruction": "read the section under 'Temporary protection'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 143,
+      "content_block_id": 14,
+      "question": "How can someone apply for asylum in Romania?",
+      "answer": "You can apply for asylum within Romania at a later point, either in writing or verbally. If you cannot present any documents upon entering Romania, you will need to apply for asylum at the border.",
+      "website": "https://dopomoha.ro/en/legal-status",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-status and read the section under 'Applying for asylum'.",
+      "read_instruction": "read the section under 'Applying for asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What services are typically offered in a hospital?",
+      "answer": "Hospital services are provided for illnesses requiring hospitalization and include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "read_instruction": "read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How does one usually get admitted for hospital care?",
+      "answer": "Inpatient medical services are typically granted based on a referral ticket from a family medicine doctor or outpatient specialist. A referral note is not required for medical emergencies.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "read_instruction": "read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the payment differences for hospital services between public and private facilities?",
+      "answer": "In public hospitals with health insurance contracts, insured patients receive free services, and the hospital covers all necessary expenses without collecting additional payments. Private hospitals under contract can charge a personal contribution, which is the difference between the rate settled by the health insurance company and their charged rate. If a hospital does not have a contract with a health insurance company, the insured person bears the full cost of services.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "read_instruction": "read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "What happens if a patient pays for medical items that should have been covered?",
+      "answer": "If a patient in a public hospital pays for recommended medicines, sanitary materials, or laboratory investigations that they were entitled to receive for free, the hospital is obligated to reimburse these expenses upon the insured's request. This reimbursement applies exclusively to public hospitals and is made from their own revenues.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "read_instruction": "read the section under 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

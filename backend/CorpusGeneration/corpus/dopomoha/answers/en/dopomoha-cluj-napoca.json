@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 95,
+      "content_block_id": 60,
+      "question": "What types of assistance are available for new arrivals in Cluj-Napoca?",
+      "answer": "New arrivals in Cluj-Napoca can find information on managing in the city and access a support program for accommodation, meals, and integration. They can also find assistance with medical services, psychological support, and free public transportation. Additionally, important contacts for immigration services, emergencies, and anti-traffic hotlines are provided.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 96,
+      "content_block_id": 60,
+      "question": "How can someone find medical and psychological support in the city?",
+      "answer": "For medical services, individuals can contact the Clinical Emergency Hospital in Napoca Cluj. Psychological support is offered by the International Organization for Migration (IOM) via Boanca Simona (+40745016883) and World Vision Romania via George Macarie (+40742077901). Additionally, free, anonymous, and confidential psycho-medical-social HIV services are available through Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the section under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 97,
+      "content_block_id": 60,
+      "question": "What organizations offer legal or social counseling services?",
+      "answer": "The Sensiblu Foundation offers social counseling, legal advice, and representation in court, accessible via +40753271950. PATRIR provides protection and support services through the 'Ukrainian Home - Protection and Support Center'. Additionally, the Women's Center offers support for reproductive health, navigating the health system, and services for victims of domestic violence.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Organisations offering their support' and 'Women's Center'.",
+      "read_instruction": "read the section under 'Organisations offering their support' and 'Women's Center'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 98,
+      "content_block_id": 60,
+      "question": "How can new residents use public transportation in Cluj?",
+      "answer": "New residents can use the public transportation system in Cluj for free. If there is a check, they will need to show an ID.",
+      "website": "https://dopomoha.ro/en/dopomoha-cluj-napoca",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-cluj-napoca and read the section under 'Transport'.",
+      "read_instruction": "read the section under 'Transport'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

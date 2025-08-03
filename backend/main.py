@@ -14,15 +14,9 @@ from PromptMatcher import PromptMatcher
 # Import database components
 from database import SessionLocal, create_db_and_tables, UserQuery, UserReview
 
-# --- Configuration ---
-# IMPORTANT: Set this to the actual path where your 'dopomoha_questions' and 'dopomoha_answers' folders reside
-BASE_DATA_PATH = "./WebScrape/data_whole_page"
-LANGUAGE = "en"
-
 # --- Global PromptMatcher Instances ---
 # We'll initialize these once when the application starts
 prompt_matcher: Optional[PromptMatcher] = None
-concat_QA= True
 
 CITY_LIST = [
         "braila", "brasov", "cluj-napoca", "constanta", "galati",
@@ -39,8 +33,8 @@ async def lifespan(app: FastAPI):
     global prompt_matcher
     logging.info("Starting up API...")
     try:
-        logging.info(f"Initializing PromptMatcher (concat=True) with data path: {BASE_DATA_PATH}")
-        prompt_matcher = PromptMatcher(base_data_path=BASE_DATA_PATH, language=LANGUAGE, concat_q_and_a=concat_QA)
+        logging.info(f"Initializing PromptMatcher")
+        prompt_matcher = PromptMatcher()
         if prompt_matcher.full_df is None or prompt_matcher.full_dense_vectors is None or prompt_matcher.full_sparse_vectors is None:
             logging.warning("PromptMatcher (concat=True) initialized but no data was loaded. Check data path and files.")
         else:
@@ -167,7 +161,7 @@ async def query_prompts(request: QueryRequest, db: Session = Depends(get_db)):
             session_id=request.session_id if request.session_id else None,  # Use provided or let DB generate
             query_text=request.query,
             returned_answer_ids=returned_answer_ids,
-            concat_option_active=concat_QA, # Store the option used
+            concat_option_active=True, # Store the option used
         )
         db.add(user_query_db)
         db.commit()

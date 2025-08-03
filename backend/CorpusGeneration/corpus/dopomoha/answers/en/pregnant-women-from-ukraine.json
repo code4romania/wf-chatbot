@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 169,
+      "content_block_id": 48,
+      "question": "How are medical services for pregnant women organized?",
+      "answer": "Medical services for pregnant women are managed on different levels, including Primary medical assistance, Specialized ambulatory medical assistance for paraclinical specialties, and Specialized ambulatory medical assistance for clinical specialties. These levels cover consultations, monitoring, and various diagnostic and therapeutic services.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 170,
+      "content_block_id": 48,
+      "question": "What types of medical examinations and tests are available during pregnancy?",
+      "answer": "Various medical examinations and tests are available, such as HIV and hepatitis testing, Papanicolau exams, and vaginal secretion examinations. The basic package also includes blood tests (e.g., complete blood count, blood group, glucose), urine tests, different types of obstetrical ultrasounds, and prenatal screenings like the Double/Triple test.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 171,
+      "content_block_id": 48,
+      "question": "What kinds of medical professionals are involved in providing pregnancy care?",
+      "answer": "Medical professionals involved in pregnancy care include family doctors, who can issue pregnancy documents and provide some initial services. Obstetrics-gynecology specialists, often with overspecialization in maternal-fetal medicine or specific ultrasonography training, provide specialized consultations and procedures. Professionals in laboratory medicine and geneticists also contribute to care.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 172,
+      "content_block_id": 48,
+      "question": "How are high-risk pregnancies managed?",
+      "answer": "High-risk pregnancies are managed through specialized surveillance programs with mandatory services tailored to specific conditions like gestational oedema, hyperemesis gravidarum, scarred uterus, or coagulation disorders. These services include specialist consultations, various laboratory tests, and ultrasounds, and can involve procedures such as amniocentesis, cordocentesis, or chorionic villus biopsy.",
+      "website": "https://dopomoha.ro/en/pregnant-women-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/pregnant-women-from-ukraine and read the section under 'Surveillance of other high-risk pregnancies'.",
+      "read_instruction": "read the section under 'Surveillance of other high-risk pregnancies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

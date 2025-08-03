@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 281,
+      "content_block_id": 38,
+      "question": "How can refugees from Ukraine access free medical tests?",
+      "answer": "To access free laboratory analysis and imaging investigations, patients must have a referral ticket from a family medicine doctor or specialist doctor contracted with a health insurance company, and go to a laboratory that also has a contract with a health insurance company.",
+      "website": "https://dopomoha.ro/en/laboratory-analysis",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'How and where to take tests for free'.",
+      "read_instruction": "read the section under 'How and where to take tests for free'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 282,
+      "content_block_id": 38,
+      "question": "What types of medical tests are covered?",
+      "answer": "Covered tests include hematological, serum, urine, immunological, and microbiological analyses, as well as examination of sampled tissues and the Papanicolaou test. Radiology analyses, ultrasounds, doppler, CT, MRI, scintigraphy, and angiography are also covered.",
+      "website": "https://dopomoha.ro/en/laboratory-analysis",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 283,
+      "content_block_id": 38,
+      "question": "Where can people find laboratories that offer these free tests?",
+      "answer": "Patients can find laboratories that have contracts with health insurance companies by accessing the CNAS website (www.cnas.ro) or the web pages of the health insurance companies. The CNAS website provides contact details and available funds for providers under the 'Informații Furnizori' menu.",
+      "website": "https://dopomoha.ro/en/laboratory-analysis",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "read_instruction": "read the section under 'List of laboratories that have contracts with health insurance companies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 284,
+      "content_block_id": 38,
+      "question": "When does a doctor's referral for medical tests expire?",
+      "answer": "A referral note for laboratory investigations is valid for 30 days. However, for all chronic diseases and analyses involving tissue collection, the validity of the referral note is up to 90 days.",
+      "website": "https://dopomoha.ro/en/laboratory-analysis",
+      "instruction": "Go to website https://dopomoha.ro/en/laboratory-analysis and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 173,
+      "content_block_id": 2,
+      "question": "What rights do people have based on their legal status in the country?",
+      "answer": "Beneficiaries of temporary protection receive a document to remain, information on protection, rights to employment/independent activities, assistance for maintenance, medical assistance for special needs, and access to state education for minors. Those with short-stay status have access to social services, the right to work (requiring a permit), and education if they have legal residence. Asylum seekers are entitled to legal counseling, a temporary ID, accommodation in reception centers, medical assistance (basic, emergency, and for life-threatening conditions), and education for minors, with the right to work after acquiring refugee status or 3 months from application.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections under 'My rights as a beneficiary of temporary protection', 'My rights having a short stay status', and 'My rights as an asylum seeker'.",
+      "read_instruction": "read the sections under 'My rights as a beneficiary of temporary protection', 'My rights having a short stay status', and 'My rights as an asylum seeker'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 174,
+      "content_block_id": 2,
+      "question": "How can someone find work in the country?",
+      "answer": "Beneficiaries of temporary protection can be hired with a residence permit without a work notice or visa, and can provide a statement if documents are missing (except for liberal professions). Those with short-stay status need to apply for a work permit at the General Inspectorate for Immigration, but can also provide a statement for missing documents (except for liberal professions). Asylum seekers can work after acquiring refugee status or three months after applying, if no decision has been made. All can register with county employment agencies for incentive measures and unemployment insurance.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections titled 'The right to work' (under temporary protection), 'Work' (under short stay status), and 'Work' (under asylum seeker).",
+      "read_instruction": "read the sections titled 'The right to work' (under temporary protection), 'Work' (under short stay status), and 'Work' (under asylum seeker).",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 175,
+      "content_block_id": 2,
+      "question": "What educational opportunities are available for children and students?",
+      "answer": "Children under 18 with temporary protection or asylum seeker status have the right to access the state education system, including kindergarten and school, under the same conditions as Romanian children, and can attend free Romanian language courses. Ukrainian children may also receive free accommodation in boarding schools, food, supplies, clothing, footwear, and textbooks. Ukrainian citizens can continue higher education under the same conditions as Romanian citizens, regardless of prior documents, and may benefit from Romanian state funding by submitting a request to a university.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections titled 'The right for education' (under temporary protection), 'Education' (under short stay status), and 'Access to education' (under asylum seeker).",
+      "read_instruction": "read the sections titled 'The right for education' (under temporary protection), 'Education' (under short stay status), and 'Access to education' (under asylum seeker).",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 176,
+      "content_block_id": 2,
+      "question": "How can people access medical assistance?",
+      "answer": "Beneficiaries of temporary protection and those with short-stay status coming from the Ukraine conflict zone receive medical services, supplies, medicines, and national curative health programs like insured Romanian citizens, without paying social health insurance contributions or personal contributions for outpatient medicines, and with co-payment exemption. Specialized outpatient care does not require a doctor's referral. Asylum seekers receive free basic, emergency, and life-threatening illness treatment, and proper medical care for special needs.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections titled 'Medical assistance' and 'Social services' under each status.",
+      "read_instruction": "read the sections titled 'Medical assistance' and 'Social services' under each status.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 177,
+      "content_block_id": 2,
+      "question": "What support is available for housing and basic needs?",
+      "answer": "Individuals under temporary protection or short-stay status can access social services in temporary accommodation camps, including food, clothing, personal hygiene products, and primary health care. While there is no direct financial support for renting, hosts of people from Ukraine can be reimbursed for accommodation and food expenses. Asylum seekers may be accommodated in Regional Reception Centers if they lack financial resources. Additionally, resources like food, products, and clothing can be requested via https://sprijindeurgenta.ro/, and temporary accommodation can be sought or offered through Un Acoperiș.",
+      "website": "https://dopomoha.ro/en/my-rights",
+      "instruction": "Go to website https://dopomoha.ro/en/my-rights and read the sections titled 'Accommodation' and 'Social services' under each status, as well as the 'Sprijin de Urgență' and 'Un Acoperiș' sections.",
+      "read_instruction": "read the sections titled 'Accommodation' and 'Social services' under each status, as well as the 'Sprijin de Urgență' and 'Un Acoperiș' sections.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 84,
+      "content_block_id": 9,
+      "question": "What kind of language support is provided?"
+    },
+    {
+      "question_id": 85,
+      "content_block_id": 9,
+      "question": "How can someone find or offer help with resources?"
+    },
+    {
+      "question_id": 86,
+      "content_block_id": 9,
+      "question": "What types of emergency or medical assistance information are included?"
+    }
+  ]
+}

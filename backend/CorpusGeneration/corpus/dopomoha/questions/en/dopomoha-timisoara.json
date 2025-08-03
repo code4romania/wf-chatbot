@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 18,
+      "content_block_id": 56,
+      "question": "What types of assistance are available for people new to Timișoara?"
+    },
+    {
+      "question_id": 19,
+      "content_block_id": 56,
+      "question": "How can someone access medical care or psychological support in the city?"
+    },
+    {
+      "question_id": 20,
+      "content_block_id": 56,
+      "question": "What resources exist for education and learning in Timișoara?"
+    },
+    {
+      "question_id": 21,
+      "content_block_id": 56,
+      "question": "How can a new resident find help with housing or employment?"
+    }
+  ]
+}

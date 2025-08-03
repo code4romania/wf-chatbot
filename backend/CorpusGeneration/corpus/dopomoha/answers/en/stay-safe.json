@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 26,
+      "content_block_id": 5,
+      "question": "What is human trafficking?",
+      "answer": "Human trafficking is defined as the recruitment, transportation, transfer, harbouring, or receipt of persons by means of threats, use of force, or other forms of psychological pressure for the purpose of further exploitation.",
+      "website": "https://dopomoha.ro/en/stay-safe",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "read_instruction": "read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 27,
+      "content_block_id": 5,
+      "question": "How can someone reduce their vulnerability to human trafficking?",
+      "answer": "The provided information states that one can find out what to do to reduce their vulnerability to human trafficking.",
+      "website": "https://dopomoha.ro/en/stay-safe",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Human trafficking'.",
+      "read_instruction": "read the section under 'Human trafficking'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 28,
+      "content_block_id": 5,
+      "question": "What information is available for emergencies or war?",
+      "answer": "A guide titled “What to do in case of emergency or war” is available. This guide, created by Ukrainian authorities, provides detailed instructions on how to prepare for emergencies and how to act if they occur.",
+      "website": "https://dopomoha.ro/en/stay-safe",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Guide for what to do in case of emergency or war'.",
+      "read_instruction": "read the section under 'Guide for what to do in case of emergency or war'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 29,
+      "content_block_id": 5,
+      "question": "Where can someone find locations of shelters?",
+      "answer": "A list of shelters in Romania and a specific list of shelters in Bucharest can be found.",
+      "website": "https://dopomoha.ro/en/stay-safe",
+      "instruction": "Go to website https://dopomoha.ro/en/stay-safe and read the section under 'Map of shelters in Romania'.",
+      "read_instruction": "read the section under 'Map of shelters in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

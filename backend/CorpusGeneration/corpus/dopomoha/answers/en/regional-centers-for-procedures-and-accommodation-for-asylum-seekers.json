@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 254,
+      "content_block_id": 11,
+      "question": "What kinds of contact details are available for each office?",
+      "answer": "For each office, telephone/phone numbers, fax numbers, and email addresses are available as contact details.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 255,
+      "content_block_id": 11,
+      "question": "What are the names of the locations or regions where these offices are situated?",
+      "answer": "The offices are situated in the locations or regions named Rădăuți, Maramureș, Galați, București, Timișoara, and Giurgiu.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 256,
+      "content_block_id": 11,
+      "question": "How are the various offices geographically described or contextualized?",
+      "answer": "The offices are geographically contextualized by their proximity to various borders or regions: Rădăuți (next to Chernivtsi Oblast), Maramureș (next to Zakarpattia and Ivano-Frankivsk Oblasts), Galați (next to Odessa Oblast), Timișoara (next to the Romanian-Hungarian border), and Giurgiu (next to the Romanian-Bulgarian border). București is described as the capital city of Romania.",
+      "website": "https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers",
+      "instruction": "Go to website https://dopomoha.ro/en/regional-centers-for-procedures-and-accommodation-for-asylum-seekers and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

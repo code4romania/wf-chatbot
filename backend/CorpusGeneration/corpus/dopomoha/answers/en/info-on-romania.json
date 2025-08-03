@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 292,
+      "content_block_id": 4,
+      "question": "What are the main transportation options in Romania?",
+      "answer": "The main transportation options include trains, with routes and timetables available from major railway operators, and buses/maxitaxis, for which routes and timetables can also be found online. For taxis, it is recommended to use apps like Free Now, Uber, or Bolt rather than hailing a cab, as these services cover all major cities.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Transport Train info'.",
+      "read_instruction": "read the section under 'Transport Train info'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 293,
+      "content_block_id": 4,
+      "question": "How can one manage money and exchange currency in Romania?",
+      "answer": "The currency is the Romanian leu (RON). Ukrainian passport holders can exchange UAH to RON at BCR (Romanian Commercial Bank) up to 1,000 lei per person at the BNR exchange rate, with some border branches offering 24/7 service. BCR also provides services with 0 lei costs for transactions with Ukrainian cards, and no fees for opening accounts or inter/intra-bank payments for Ukrainian citizens.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Money'.",
+      "read_instruction": "read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 294,
+      "content_block_id": 4,
+      "question": "How can visitors access phone and internet services in Romania?",
+      "answer": "Visitors can access phone services by purchasing a local SIM card from providers like Orange, Telekom, or Vodafone for about €5, which can be topped up. When calling a mobile from abroad, the initial '0' in the number should be dropped. Internet access is widely available and excellent through Wi-fi.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the section under 'Telecommunications Phones'.",
+      "read_instruction": "read the section under 'Telecommunications Phones'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 295,
+      "content_block_id": 4,
+      "question": "What kind of medical and emergency support is available in Romania?",
+      "answer": "No vaccinations are required, and pharmacies are widespread, with some cities having 24-hour options. Specialized support is available for Ukrainian children with cancer, individuals needing HIV treatment, and those with rare diseases. For emergencies, dial 112 nationwide, and for border-related information, contact the Romanian Border Police at +40 021.9590. Regional Centers for Procedures and Accommodation for Asylum Seekers also provide support.",
+      "website": "https://dopomoha.ro/en/info-on-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/info-on-romania and read the sections under 'Health' and 'Useful contacts'.",
+      "read_instruction": "read the sections under 'Health' and 'Useful contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

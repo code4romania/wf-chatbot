@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 269,
+      "content_block_id": 13,
+      "question": "What kind of organizations are listed here?",
+      "answer": "The listed organizations are primarily Regional Centres for Accommodation and Procedures for Asylum Seekers, along with various Immigration Directorates, Services, or Offices at the municipality and county levels throughout Romania.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 270,
+      "content_block_id": 13,
+      "question": "What regions of the country do these listings cover?",
+      "answer": "These listings cover the Bucharest and Ilfov region, as well as the Northern, Eastern, Southern, and Western parts of Romania, providing a comprehensive geographical spread of offices.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 271,
+      "content_block_id": 13,
+      "question": "How can people get in touch with these offices?",
+      "answer": "People can get in touch with these offices via the phone numbers and email addresses provided for each specific location. Each entry includes at least one phone number and an email address.",
+      "website": "https://dopomoha.ro/en/issue-of-the-residence-permit",
+      "instruction": "Go to website https://dopomoha.ro/en/issue-of-the-residence-permit and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

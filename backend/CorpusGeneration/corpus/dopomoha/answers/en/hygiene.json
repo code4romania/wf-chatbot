@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 37,
+      "content_block_id": 29,
+      "question": "How can personal hygiene be maintained during difficult times?",
+      "answer": "To maintain personal hygiene, frequently wash hands with soap, especially after public transport, touching surfaces, before cooking/eating, and after contact with pets. If soap and water are unavailable, use a hand sanitizer with at least 60% alcohol, rubbing for 20-30 seconds, or use alcohol/antibacterial wet wipes.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Hand washing'.",
+      "read_instruction": "read the section under 'Hand washing'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 38,
+      "content_block_id": 29,
+      "question": "What are the essential daily water needs for an individual in a crisis situation?",
+      "answer": "In a crisis, if mostly in an apartment/house, one person needs about 7.5 litres of water daily for body washing, cooking, drinking, and washing dishes. In a bomb shelter, the need decreases to 1.5 litres of drinking water and 0.5-1 litres of technical water for hygiene per person.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 39,
+      "content_block_id": 29,
+      "question": "How can one ensure cleanliness of eating utensils?",
+      "answer": "Children should use individual or disposable dishes. If common glasses or mugs are used, they must be thoroughly washed with detergents before drinking, especially the edges, to prevent pathogen transmission. Drinking directly from the tap with lips on it is not recommended.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Use of utensils'.",
+      "read_instruction": "read the section under 'Use of utensils'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 40,
+      "content_block_id": 29,
+      "question": "How can diapers be improvised or reused when supplies are scarce?",
+      "answer": "Diapers can be improvised from gauze or a piece of cloth by following specific folding methods. Used disposable diapers can be reused by soaking them, removing the gel, rinsing, drying, and then inserting a new gauze or cloth pad into the pocket.",
+      "website": "https://dopomoha.ro/en/hygiene",
+      "instruction": "Go to website https://dopomoha.ro/en/hygiene and read the section under 'Diapers'.",
+      "read_instruction": "read the section under 'Diapers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 173,
+      "content_block_id": 2,
+      "question": "What rights do people have based on their legal status in the country?"
+    },
+    {
+      "question_id": 174,
+      "content_block_id": 2,
+      "question": "How can someone find work in the country?"
+    },
+    {
+      "question_id": 175,
+      "content_block_id": 2,
+      "question": "What educational opportunities are available for children and students?"
+    },
+    {
+      "question_id": 176,
+      "content_block_id": 2,
+      "question": "How can people access medical assistance?"
+    },
+    {
+      "question_id": 177,
+      "content_block_id": 2,
+      "question": "What support is available for housing and basic needs?"
+    }
+  ]
+}

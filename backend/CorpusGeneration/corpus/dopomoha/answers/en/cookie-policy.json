@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 161,
+      "content_block_id": 65,
+      "question": "What are cookies and why are they used on websites?",
+      "answer": "Cookies are small files of letters and numbers stored on Internet-accessing terminals, installed by a server's request to a browser. They are used to provide a better browsing experience, personalize settings, make websites more effective, and facilitate access to services tailored to users' needs and interests.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'What is a cookie?'.",
+      "read_instruction": "read the section under 'What is a cookie?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 162,
+      "content_block_id": 65,
+      "question": "How can cookies impact a user's online security and privacy?",
+      "answer": "Cookies can be used as a form of Spyware because they store users' preferences and browsing history across multiple sites. Information contained in a cookie can also be intercepted if an attacker intervenes during data transmission over an unencrypted network. Additionally, misconfigured cookies on servers can be exploited to trick browsers into sending information over unsecured channels.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'Security and privacy issues'.",
+      "read_instruction": "read the section under 'Security and privacy issues'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 163,
+      "content_block_id": 65,
+      "question": "What steps can users take to manage or stop cookies?",
+      "answer": "Users can set their browser to not accept cookies or to accept them only from specific sites, usually found in the 'options' or 'preferences' menu. They can also customize browser cookie settings for security, delete individual browsing data each time they close the browser, install and update antispyware applications, and ensure their browser is always up to date.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the section under 'How can I stop cookies?'.",
+      "read_instruction": "read the section under 'How can I stop cookies?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 164,
+      "content_block_id": 65,
+      "question": "What are the different types of cookies mentioned?",
+      "answer": "The content mentions Session cookies, which are temporary, and Persistent Cookies, which are stored for a predetermined time and include \"third-party cookies\". It also refers to \"Permanent cookies\" as those retained and reused, and \"Cookies for visitor analysis\" and \"Other third-party cookies\" in terms of their purpose on the website.",
+      "website": "https://dopomoha.ro/en/cookie-policy",
+      "instruction": "Go to website https://dopomoha.ro/en/cookie-policy and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

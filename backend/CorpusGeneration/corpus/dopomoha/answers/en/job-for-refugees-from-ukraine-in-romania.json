@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 222,
+      "content_block_id": 34,
+      "question": "How can Ukrainian citizens get a job in Romania?",
+      "answer": "Ukrainian citizens can find jobs by registering with employment agencies, finding an employer directly, or using platforms like Jobs4Ukraine and Adecco. Organizations such as Ateliere Fără Frontiere also offer assistance in finding employment.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "read_instruction": "read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 223,
+      "content_block_id": 34,
+      "question": "What assistance is available for Ukrainian citizens seeking work in Romania?",
+      "answer": "Assistance includes free registration and job placement services from employment agencies, counseling, professional information services, and help with interviews or work tests. Free platforms like Jobs4Ukraine and Adecco offer job opportunities, while the National Agency for Employment provides various services and guides on resume creation and interview preparation. Additionally, organizations listed by UNHCR and Ateliere Fără Frontiere offer support with employment, resume writing, and consultations on labor rights.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 224,
+      "content_block_id": 34,
+      "question": "What is the process for Ukrainian citizens to register for employment services?",
+      "answer": "Ukrainian citizens can register for employment services by going to employment agencies with an identity document. After registration, they complete a statement on their own responsibility with a counselor's help. Subsequently, they are assisted in finding a suitable job and may participate in an interview or work test. If an employer is found directly, the statement can be completed together with the employer.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "read_instruction": "read the section under 'How can Ukrainian citizens who come from the armed conflict zone in Ukraine work in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 225,
+      "content_block_id": 34,
+      "question": "What online platforms help Ukrainian citizens find jobs in Romania?",
+      "answer": "The online platforms that help Ukrainian citizens find jobs in Romania are Jobs4Ukraine and Adecco. Both provide access to job opportunities, with Adecco also working in Ukrainian and English languages.",
+      "website": "https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania",
+      "instruction": "Go to website https://dopomoha.ro/en/job-for-refugees-from-ukraine-in-romania and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

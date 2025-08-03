@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 272,
+      "content_block_id": 6,
+      "question": "What kind of support is offered to Ukrainians arriving in Romania?",
+      "answer": "Support offered includes access to various help-lines (CNRR, UNHCR, IOM, National Line against Trafficking in Persons), temporary accommodation through \"Un Acoperis\", financial services like money exchange and banking from BCR, and emergency resources via \"Sprijin de Urgență\". Additionally, Regional Centers provide procedures and accommodation for asylum seekers.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 273,
+      "content_block_id": 6,
+      "question": "How can Ukrainians enter Romania and what documents are needed?",
+      "answer": "Ukrainians can enter Romania with a valid passport for a short-stay of up to 90 days. If no documents are available, entry is possible as an asylum seeker. The main ways to enter are with the right of short-stay or as an asylum seeker, and asylum can also be applied for later within Romania.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Documents'.",
+      "read_instruction": "read the section under 'Documents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 274,
+      "content_block_id": 6,
+      "question": "What assistance is available for unaccompanied children?",
+      "answer": "All unaccompanied children can cross the border from Ukraine to Romania, regardless of age. The General Directorates for Social Assistance and Child Protection (DGASPC) in each county are authorized to care for these minors. For suspected child abuse, the national telephone number 119 can be called.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Minors entering Romania'.",
+      "read_instruction": "read the section under 'Minors entering Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 275,
+      "content_block_id": 6,
+      "question": "How can I exchange money or access banking services?",
+      "answer": "Ukrainians with a passport can exchange UAH-RON at BCR branches, up to 2,000 lei per person, at the BNR exchange rate. BCR also offers assistance in financial-banking services via phone (0373514244) or email (suport.linia1@bcr.ro), with no costs for transactions with Ukrainian cards, opening/administering current accounts, or inter/intra bank payments.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Money'.",
+      "read_instruction": "read the section under 'Money'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 276,
+      "content_block_id": 6,
+      "question": "Where can asylum seekers find help and accommodation?",
+      "answer": "Asylum seekers can find help and accommodation at Regional Centers for Procedures and Accommodation. These centers are located in Rădăuți, Maramureș, Galați, București, Timișoara, and Giurgiu, with contact details provided for each.",
+      "website": "https://dopomoha.ro/en/dopomohaapp",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomohaapp and read the section under 'Regional Centers for Procedures and Accommodation for Asylum Seekers'.",
+      "read_instruction": "read the section under 'Regional Centers for Procedures and Accommodation for Asylum Seekers'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

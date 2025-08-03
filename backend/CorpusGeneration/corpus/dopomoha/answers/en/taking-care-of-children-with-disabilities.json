@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 257,
+      "content_block_id": 31,
+      "question": "What essential items should be in an emergency kit for a child with a disability?",
+      "answer": "An emergency suitcase for a child with a disability should contain a strategic first aid kit for 3-4 weeks with necessary medicines, especially those taken regularly. It should also include special food if the child has a specific diet, hygiene products like diapers and remedies for bedsores, and special equipment such as wheelchairs if required and possible.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "read_instruction": "read the section under 'An emergency suitcase for a child with a disability should contain a number of other things, in addition to the basics:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 258,
+      "content_block_id": 31,
+      "question": "What additional resources do families with disabled children need during emergencies?",
+      "answer": "In times of war and emergencies, families with children with disabilities need more resources, specifically both material and psychological support.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 259,
+      "content_block_id": 31,
+      "question": "How can parents prepare children with developmental disorders for loud or stressful situations?",
+      "answer": "Parents can prepare children with autism spectrum disorders and/or mental disorders by building a \"hut\" with blankets and pillows in a room next to a load-bearing wall and teaching the child to take cover there for a few minutes. Additionally, they should use headphones for sensitive children or teach them to use them.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "read_instruction": "read the section under 'Children with autism spectrum disorders and/or mental disorders should be prepared in advance for situations when explosions are heard or when they have to go down to bomb shelters'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 260,
+      "content_block_id": 31,
+      "question": "What strategies help maintain calm for children with special needs during a crisis?",
+      "answer": "To maintain calm for children with special needs, parents must stay calm, confident, and not panic or show excessive emotions, behaving as usual. Following the daily routine is also very important; when not in a bomb shelter, parents should continue with usual activities like cooking, cleaning, and reading.",
+      "website": "https://dopomoha.ro/en/taking-care-of-children-with-disabilities",
+      "instruction": "Go to website https://dopomoha.ro/en/taking-care-of-children-with-disabilities and read the section under 'Parents who had similar experience in 2014-2015 advise:'.",
+      "read_instruction": "read the section under 'Parents who had similar experience in 2014-2015 advise:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

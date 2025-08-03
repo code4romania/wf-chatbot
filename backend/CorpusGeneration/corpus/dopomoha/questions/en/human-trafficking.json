@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 144,
+      "content_block_id": 68,
+      "question": "How can someone recognize the signs of exploitation?"
+    },
+    {
+      "question_id": 145,
+      "content_block_id": 68,
+      "question": "What steps can people take to protect themselves from becoming victims?"
+    },
+    {
+      "question_id": 146,
+      "content_block_id": 68,
+      "question": "What kinds of help and resources are available for those in need?"
+    },
+    {
+      "question_id": 147,
+      "content_block_id": 68,
+      "question": "How can parents ensure their children's safety during a crisis?"
+    }
+  ]
+}

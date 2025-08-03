@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 26,
+      "content_block_id": 5,
+      "question": "What is human trafficking?"
+    },
+    {
+      "question_id": 27,
+      "content_block_id": 5,
+      "question": "How can someone reduce their vulnerability to human trafficking?"
+    },
+    {
+      "question_id": 28,
+      "content_block_id": 5,
+      "question": "What information is available for emergencies or war?"
+    },
+    {
+      "question_id": 29,
+      "content_block_id": 5,
+      "question": "Where can someone find locations of shelters?"
+    }
+  ]
+}

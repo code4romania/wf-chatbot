@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 292,
+      "content_block_id": 4,
+      "question": "What are the main transportation options in Romania?"
+    },
+    {
+      "question_id": 293,
+      "content_block_id": 4,
+      "question": "How can one manage money and exchange currency in Romania?"
+    },
+    {
+      "question_id": 294,
+      "content_block_id": 4,
+      "question": "How can visitors access phone and internet services in Romania?"
+    },
+    {
+      "question_id": 295,
+      "content_block_id": 4,
+      "question": "What kind of medical and emergency support is available in Romania?"
+    }
+  ]
+}

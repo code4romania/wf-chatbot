@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 157,
+      "content_block_id": 53,
+      "question": "What medical services are offered?",
+      "answer": "The Health Promotion Center offers free medical consultations with specialists such as a pediatrician, cardiologist, diabetologist, ophthalmologist, and dentist. They also provide services like ultrasound (with doctor's recommendation), ECG, blood pressure measurement, and blood glucose checks.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 158,
+      "content_block_id": 53,
+      "question": "How can someone make an appointment?",
+      "answer": "Appointments can be made by calling 0747 278 486 or 0748 185 714. These phone numbers support communication in Romanian, Russian, Ukrainian, or English.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 159,
+      "content_block_id": 53,
+      "question": "When are the services available?",
+      "answer": "Services are available Monday to Friday, from 10:00 to 18:00.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 160,
+      "content_block_id": 53,
+      "question": "What other types of support are provided?",
+      "answer": "In addition to medical services, the center offers psychological support for refugees of any age. The Red Cross also provides translation help in English, Russian, or Ukrainian languages to facilitate communication with doctors.",
+      "website": "https://dopomoha.ro/en/health-promotion-center",
+      "instruction": "Go to website https://dopomoha.ro/en/health-promotion-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

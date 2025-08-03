@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 91,
+      "content_block_id": 32,
+      "question": "What financial assistance is available for Ukrainians in Romania?"
+    },
+    {
+      "question_id": 92,
+      "content_block_id": 32,
+      "question": "How does one apply for this support?"
+    },
+    {
+      "question_id": 93,
+      "content_block_id": 32,
+      "question": "When did the new support program start?"
+    },
+    {
+      "question_id": 94,
+      "content_block_id": 32,
+      "question": "How long can people receive accommodation payments?"
+    }
+  ]
+}

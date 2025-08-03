@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 123,
+      "content_block_id": 36,
+      "question": "What healthcare rights do people fleeing the war in Ukraine have in Romania?"
+    },
+    {
+      "question_id": 124,
+      "content_block_id": 36,
+      "question": "How do people from Ukraine register for health services in Romania?"
+    },
+    {
+      "question_id": 125,
+      "content_block_id": 36,
+      "question": "What types of medical services can a family doctor provide?"
+    },
+    {
+      "question_id": 126,
+      "content_block_id": 36,
+      "question": "When are preventive health services offered to different age groups?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 272,
+      "content_block_id": 6,
+      "question": "What kind of support is offered to Ukrainians arriving in Romania?"
+    },
+    {
+      "question_id": 273,
+      "content_block_id": 6,
+      "question": "How can Ukrainians enter Romania and what documents are needed?"
+    },
+    {
+      "question_id": 274,
+      "content_block_id": 6,
+      "question": "What assistance is available for unaccompanied children?"
+    },
+    {
+      "question_id": 275,
+      "content_block_id": 6,
+      "question": "How can I exchange money or access banking services?"
+    },
+    {
+      "question_id": 276,
+      "content_block_id": 6,
+      "question": "Where can asylum seekers find help and accommodation?"
+    }
+  ]
+}

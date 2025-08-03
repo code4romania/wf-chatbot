@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 84,
+      "content_block_id": 9,
+      "question": "What kind of language support is provided?",
+      "answer": "The page provides a phrasebook with translations from Romanian to English, Ukrainian (Latin alphabet), and Ukrainian (Cyrillic alphabet) for various basic conversations and needs.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 85,
+      "content_block_id": 9,
+      "question": "How can someone find or offer help with resources?",
+      "answer": "Someone can request or provide resources such as food, products, clothing, tents, transportation, or volunteers by accessing the 'Sprijin de Urgență' section.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Sprijin de Urgență'.",
+      "read_instruction": "read the section under 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 86,
+      "content_block_id": 9,
+      "question": "What types of emergency or medical assistance information are included?",
+      "answer": "Medical assistance information includes phrases for needing a doctor, feeling sick, being pregnant, diabetic, or allergic, and mentions for hospital. Emergency services listed are Police, Ambulance, and Firefighters.",
+      "website": "https://dopomoha.ro/en/phrase-book",
+      "instruction": "Go to website https://dopomoha.ro/en/phrase-book and read the section under 'Medical help' and 'Places and directions'.",
+      "read_instruction": "read the section under 'Medical help' and 'Places and directions'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

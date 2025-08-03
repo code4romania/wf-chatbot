@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 71,
+      "content_block_id": 41,
+      "question": "What dental treatments are offered to refugees?",
+      "answer": "The basic dental medicine package includes consultation, treatment of simple caries, treatment of oral mucosa conditions, dental extractions, alveolar curettage and treatment of hemorrhage, and decapsulation. It also covers removable acrylic prosthesis on the arch, physiognomic or semi-physiognomic prosthetic elements, and devices used in the treatment of congenital malformations.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 72,
+      "content_block_id": 41,
+      "question": "How much of the cost for dental care is covered?",
+      "answer": "Dental services are covered 100% for individuals aged 0-18 years. For those over 18 years, coverage varies between 60% and 100%, depending on the service type. However, young people aged 18-26 who are students, apprentices, or not earning income from work receive 100% coverage. Individuals with special conditions (laws) also have 100% coverage for some services.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 73,
+      "content_block_id": 41,
+      "question": "What are the age requirements for different coverage levels?",
+      "answer": "Individuals aged 0-18 years receive 100% coverage. For those over 18 years, coverage varies. However, young people from 18 to 26 years old who are students, including high school graduates until the start of the academic year (max 3 months), apprentices, or students not earning income from work, are covered 100%.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 74,
+      "content_block_id": 41,
+      "question": "How can one locate a participating dentist?",
+      "answer": "A list of dentists working with the National Insurance House is available. One can view this list by following the provided link.",
+      "website": "https://dopomoha.ro/en/dentist",
+      "instruction": "Go to website https://dopomoha.ro/en/dentist and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

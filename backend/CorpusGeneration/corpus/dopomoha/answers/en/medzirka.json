@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 132,
+      "content_block_id": 52,
+      "question": "What kind of medical services are offered?",
+      "answer": "MedZirka offers cost-free medical services online and offline, including free consultations from a family doctor, therapist, or pediatrician. Specific services include medical prescriptions, referrals to specialists, sick leave, vaccination certificates, and referrals for laboratory testing.",
+      "website": "https://dopomoha.ro/en/medzirka",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 133,
+      "content_block_id": 52,
+      "question": "How can someone access these services?",
+      "answer": "To access the services, individuals need to submit a declaration. After submitting the declaration, they can benefit from free consultations and other listed medical services.",
+      "website": "https://dopomoha.ro/en/medzirka",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 134,
+      "content_block_id": 52,
+      "question": "What types of health issues can be addressed?",
+      "answer": "MedZirka can address a wide range of health issues, including flu, cold, SARS, respiratory diseases, circulatory system diseases, digestive system diseases, kidney diseases, blood disorders, endocrine system disorders, heart diseases, and joint diseases. They also cover chronic diseases of various etiologies.",
+      "website": "https://dopomoha.ro/en/medzirka",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the section under 'List of topics you can ask about'.",
+      "read_instruction": "read the section under 'List of topics you can ask about'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 135,
+      "content_block_id": 52,
+      "question": "How does one get in touch to start?",
+      "answer": "To find out more and get started, individuals can call 0 800 330 553 or write on Viber/Telegram by following the links provided on the website.",
+      "website": "https://dopomoha.ro/en/medzirka",
+      "instruction": "Go to website https://dopomoha.ro/en/medzirka and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

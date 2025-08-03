@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 41,
+      "content_block_id": 16,
+      "question": "What kinds of support can people find here?",
+      "answer": "People can find support for health, housing, jobs, education, legal help, transport, and language courses. Mental health services, support for drug users, emergency resources, and information on integration or a map of helping organizations are also available.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 42,
+      "content_block_id": 16,
+      "question": "How can individuals offer help or resources?",
+      "answer": "Individuals can offer support by helping with food, products, clothing, transportation, or by volunteering. They can also provide a space for temporary accommodation or offer resources like food, clothing, tents, or transportation through Sprijin de Urgență.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the sections under 'Offer support', 'Housing', and 'Sprijin de Urgență'.",
+      "read_instruction": "read the sections under 'Offer support', 'Housing', and 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 43,
+      "content_block_id": 16,
+      "question": "What assistance is available for common needs like housing, jobs, or education?",
+      "answer": "For housing, support is available to find temporary accommodation. For jobs, individuals can find out how and where to find suitable job opportunities. For education, there is information on rights to education, enrolling children in school, kindergarten, or extracurricular activities, and details about Ukrainian schools in Romania.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the sections under 'Housing', 'Jobs', and 'Education'.",
+      "read_instruction": "read the sections under 'Housing', 'Jobs', and 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 44,
+      "content_block_id": 16,
+      "question": "How can someone get help with legal or medical issues?",
+      "answer": "For legal issues, pro bono legal help is available for Ukrainian refugees in Romania and other countries. For medical issues, if specialized assistance is needed or if one suffers from a rare or chronic condition, information is provided on where to ask for help.",
+      "website": "https://dopomoha.ro/en/sprijin",
+      "instruction": "Go to website https://dopomoha.ro/en/sprijin and read the sections under 'Legal help' and 'Health'.",
+      "read_instruction": "read the sections under 'Legal help' and 'Health'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

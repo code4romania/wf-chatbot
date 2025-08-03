@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 127,
+      "content_block_id": 22,
+      "question": "What are the main ways to enter Romania for those seeking refuge?",
+      "answer": "Individuals seeking refuge can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. It is also possible to apply for asylum within Romania at a later point.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 128,
+      "content_block_id": 22,
+      "question": "Who qualifies for temporary protection in Romania?",
+      "answer": "Temporary protection applies to Ukrainian citizens who lived in Ukraine before February 24, 2022, non-Ukrainian nationals or stateless persons who received international or national protection before that date, and their family members. It also includes non-Ukrainian nationals or stateless persons with legal permanent residency in Ukraine who cannot safely return to their country of origin.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'Who can benefit from temporary protection?'.",
+      "read_instruction": "read the section under 'Who can benefit from temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 129,
+      "content_block_id": 22,
+      "question": "What assistance and rights are offered to people with temporary protection?",
+      "answer": "Beneficiaries of temporary protection have the right to a residency document, information on their status, and the ability to work, perform freelance activities, or engage in educational training. They can also receive financial support if needed, free primary and emergency medical care, adequate medical care for special needs, and access to the national education system for those under 18. Additional assistance includes social services like food, clothing, and hygiene products in accommodation centers.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 130,
+      "content_block_id": 22,
+      "question": "How do individuals register their living arrangements in Romania?",
+      "answer": "Individuals hosting foreigners are legally obligated to inform the local Police within 3 days, or they can register through the General Inspectorate for Immigration portal. If staying in a hotel, the administration will handle the registration with the local Police. Beneficiaries must register their residence, and the details will be noted on their residence permit, either proven by documents or declared.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What are the conditions for living in Romania?' and 'Residence Permit'.",
+      "read_instruction": "read the section under 'What are the conditions for living in Romania?' and 'Residence Permit'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 131,
+      "content_block_id": 22,
+      "question": "When does temporary protection status end?",
+      "answer": "The EU Council decided to extend temporary protection for people fleeing Russia's war of aggression against Ukraine from March 4, 2024, to March 4, 2025.",
+      "website": "https://dopomoha.ro/en/temporary-protection",
+      "instruction": "Go to website https://dopomoha.ro/en/temporary-protection and read the section under 'What is the validity period of temporary protection?'.",
+      "read_instruction": "read the section under 'What is the validity period of temporary protection?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

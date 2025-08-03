@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 37,
+      "content_block_id": 29,
+      "question": "How can personal hygiene be maintained during difficult times?"
+    },
+    {
+      "question_id": 38,
+      "content_block_id": 29,
+      "question": "What are the essential daily water needs for an individual in a crisis situation?"
+    },
+    {
+      "question_id": 39,
+      "content_block_id": 29,
+      "question": "How can one ensure cleanliness of eating utensils?"
+    },
+    {
+      "question_id": 40,
+      "content_block_id": 29,
+      "question": "How can diapers be improvised or reused when supplies are scarce?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 218,
+      "content_block_id": 54,
+      "question": "What types of free medical care can refugees receive?",
+      "answer": "Refugees can receive general medical assistance, free medical consultations from a family doctor, therapist, or pediatrician (online and offline), and access to some medical services at the Health Promotion Center.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 219,
+      "content_block_id": 54,
+      "question": "How can individuals get free medical assistance?",
+      "answer": "Individuals can receive free medical assistance from IOM Romania representatives, by filling in a declaration for MedZirka consultations, or by visiting the Red Cross Health Promotion Center in Bucharest.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 220,
+      "content_block_id": 54,
+      "question": "Who provides free healthcare for people displaced by war?",
+      "answer": "Free healthcare for people displaced by war is provided by the International Organization for Migration in Romania (IOM Romania), the Ukrainian network of family medicine clinics MedZirka, and Red Cross Romania (supported by the French Red Cross).",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 221,
+      "content_block_id": 54,
+      "question": "Where are these free medical services offered?",
+      "answer": "Free medical services are offered by IOM Romania representatives, online and offline by MedZirka, and at the Health Promotion Center opened by the Red Cross in Bucharest.",
+      "website": "https://dopomoha.ro/en/free-medical-care",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 285,
+      "content_block_id": 19,
+      "question": "What kind of support is available for people fleeing Ukraine in Romania?",
+      "answer": "The platform provides information and support related to legal status, simplified law, housing, call center services, education, health, transport, jobs, staying safe, PTSD help, and general support.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 286,
+      "content_block_id": 19,
+      "question": "How can individuals who fled Ukraine enter Romania?",
+      "answer": "Anybody fleeing Ukraine can enter Romania through any of the official border crossings.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 287,
+      "content_block_id": 19,
+      "question": "What information does this platform provide for those seeking protection in Romania?",
+      "answer": "This platform provides relevant information about seeking protection in Romania, including legal status, simplified law, support, housing, call center details, education, health, transport, jobs, safety tips, and PTSD help.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 288,
+      "content_block_id": 19,
+      "question": "What organizations are involved in helping Ukrainian civilians in Romania?",
+      "answer": "The platform was created by Code for Romania in partnership with the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration, and the Romanian National Council for Refugees.",
+      "website": "https://dopomoha.ro/en/main-page",
+      "instruction": "Go to website https://dopomoha.ro/en/main-page and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

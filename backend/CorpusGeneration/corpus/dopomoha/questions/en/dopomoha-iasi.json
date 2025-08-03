@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 79,
+      "content_block_id": 61,
+      "question": "What kind of assistance is available for people arriving in Iași?"
+    },
+    {
+      "question_id": 80,
+      "content_block_id": 61,
+      "question": "How can someone find medical services or psychological help in Iași?"
+    },
+    {
+      "question_id": 81,
+      "content_block_id": 61,
+      "question": "What educational opportunities are offered for adults and children in Iași?"
+    },
+    {
+      "question_id": 82,
+      "content_block_id": 61,
+      "question": "How can newcomers access accommodation or other social support programs?"
+    },
+    {
+      "question_id": 83,
+      "content_block_id": 61,
+      "question": "What are the important contact numbers for emergencies or immigration services?"
+    }
+  ]
+}

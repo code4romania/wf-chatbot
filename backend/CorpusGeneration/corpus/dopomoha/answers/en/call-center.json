@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 5,
+      "content_block_id": 15,
+      "question": "What types of assistance do these help lines provide?",
+      "answer": "The help lines provide various types of assistance, including information about rights and services for refugees, support against human trafficking, and help for domestic violence and sexual abuse. They also offer medical support like HIV treatment, guidance for rare diseases, counseling, and information on child protection, as well as assistance with accommodation requests.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 6,
+      "content_block_id": 15,
+      "question": "How can people find help in different countries or cities?",
+      "answer": "People can find help in specific cities within Romania, such as Sibiu and Timișoara, by contacting their respective city hall call centers. For other countries, dedicated help lines are provided for the Republic of Moldova, Poland, Slovakia, and the Czech Republic, offering assistance for refugees and Ukrainian speakers.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the section under 'Help-lines from cities throughout Romania' and 'Help-lines from other countries'.",
+      "read_instruction": "read the section under 'Help-lines from cities throughout Romania' and 'Help-lines from other countries'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 7,
+      "content_block_id": 15,
+      "question": "When are the various help lines typically available?",
+      "answer": "The help-line of the Romanian Government is available Monday-Friday between 8:00 a.m. and 4:00 p.m. The Migration and Asylum Office in the Republic of Moldova operates 24/7. The Save the Children guidance line for child protection is available Monday to Friday from 9:00 to 17:00.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 8,
+      "content_block_id": 15,
+      "question": "What organizations offer support through these services?",
+      "answer": "Organizations offering support include CNRR, UNHCR, IOM Romania, the Romanian Government, and the Romanian Red Cross. Other providers are the National Line against Trafficking in Persons, the Romanian Border Police, the National Agency for Equal Opportunities for Women and Men, and Save the Children. Medical support is provided by Sens Pozitiv and the National Alliance for Rare Diseases Romania, while accommodation support comes from the General Inspectorate for Immigration.",
+      "website": "https://dopomoha.ro/en/call-center",
+      "instruction": "Go to website https://dopomoha.ro/en/call-center and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

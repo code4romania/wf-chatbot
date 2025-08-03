@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 50,
+      "content_block_id": 33,
+      "question": "What medical services are provided to refugees?",
+      "answer": "Free consultations are provided by a family doctor, psychologist, and gynecologist to refugees from Ukraine and other countries.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 51,
+      "content_block_id": 33,
+      "question": "Where are these medical services offered?",
+      "answer": "These medical services are offered at RomExpo, located at Meresti Boulevard 65-67, Bucharest 011465. This is where the center of assistance for refugees from Ukraine is currently situated.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 52,
+      "content_block_id": 33,
+      "question": "How can someone schedule an appointment?",
+      "answer": "To get an appointment with a doctor, you must first make an appointment with the IOM representatives. Their office is located within RomExpo.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 53,
+      "content_block_id": 33,
+      "question": "When are the services available?",
+      "answer": "The services are available Monday through Friday, from 9:00 AM to 5:00 PM.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 54,
+      "content_block_id": 33,
+      "question": "What language assistance is provided?",
+      "answer": "All doctors are English speakers. Additionally, free assistance from a translator can be requested.",
+      "website": "https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/free-medical-care-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

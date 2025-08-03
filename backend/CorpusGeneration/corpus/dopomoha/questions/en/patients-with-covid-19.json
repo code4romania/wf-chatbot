@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 245,
+      "content_block_id": 47,
+      "question": "What medical services are covered for people with COVID-19?"
+    },
+    {
+      "question_id": 246,
+      "content_block_id": 47,
+      "question": "How are long-term symptoms of COVID-19 addressed?"
+    },
+    {
+      "question_id": 247,
+      "content_block_id": 47,
+      "question": "How can patients get devices for breathing support after COVID-19?"
+    },
+    {
+      "question_id": 248,
+      "content_block_id": 47,
+      "question": "What kind of initial medical consultations are available for COVID-19 symptoms?"
+    },
+    {
+      "question_id": 249,
+      "content_block_id": 47,
+      "question": "Where can someone get a COVID-19 vaccine?"
+    }
+  ]
+}

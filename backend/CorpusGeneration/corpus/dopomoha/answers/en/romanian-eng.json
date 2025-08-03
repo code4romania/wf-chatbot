@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 226,
+      "content_block_id": 35,
+      "question": "What language courses are offered to Ukrainian refugees?",
+      "answer": "Ukrainian refugees can access Romanian language courses from IOM and JRS Romania. Centrul de Tineret FNT also offers both Romanian and English language courses.",
+      "website": "https://dopomoha.ro/en/romanian-eng",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 227,
+      "content_block_id": 35,
+      "question": "How can Ukrainian refugees enroll in available programs?",
+      "answer": "Enrollment methods vary by organization. For IOM, register at their Bucharest offices. For Centrul de Tineret FNT, sign up on their Facebook page or by phone. JRS Romania's schedule and enrollment details can be found in their Facebook group or via provided contacts. To enroll in the Ukrainian Educational Center's programs, contact Olga Gireada by phone.",
+      "website": "https://dopomoha.ro/en/romanian-eng",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 228,
+      "content_block_id": 35,
+      "question": "What age groups are eligible for these activities?",
+      "answer": "Activities are generally available for children and adults. Specifically, IOM offers courses for adults, Centrul de Tineret FNT courses are for individuals aged 14-35, and the Ukrainian Educational Center provides activities for children.",
+      "website": "https://dopomoha.ro/en/romanian-eng",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 229,
+      "content_block_id": 35,
+      "question": "When do the courses and activities usually take place?",
+      "answer": "IOM courses are open Monday to Friday, from 9:00 to 17:00. JRS Romania's classes run from Monday to Friday. The Ukrainian Educational Center operates from 08:00 to 13:00. Centrul de Tineret FNT offers a weekly program, but specific daily hours are not listed.",
+      "website": "https://dopomoha.ro/en/romanian-eng",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 230,
+      "content_block_id": 35,
+      "question": "What educational materials are available for learning Romanian?",
+      "answer": "Educational materials for learning Romanian include a Romanian Phrase Book, a Romanian video language course from TVR1 on YouTube, and the manual \"Romanian Language for Ukrainians\" from UNHCR Romania. Additionally, Terre des hommes created Romanian Language handbooks for Ukrainian teenagers and children.",
+      "website": "https://dopomoha.ro/en/romanian-eng",
+      "instruction": "Go to website https://dopomoha.ro/en/romanian-eng and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

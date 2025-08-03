@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 71,
+      "content_block_id": 41,
+      "question": "What dental treatments are offered to refugees?"
+    },
+    {
+      "question_id": 72,
+      "content_block_id": 41,
+      "question": "How much of the cost for dental care is covered?"
+    },
+    {
+      "question_id": 73,
+      "content_block_id": 41,
+      "question": "What are the age requirements for different coverage levels?"
+    },
+    {
+      "question_id": 74,
+      "content_block_id": 41,
+      "question": "How can one locate a participating dentist?"
+    }
+  ]
+}

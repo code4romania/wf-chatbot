@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 148,
+      "content_block_id": 59,
+      "question": "What kind of assistance is available for newcomers in Suceava?"
+    },
+    {
+      "question_id": 149,
+      "content_block_id": 59,
+      "question": "How can people access medical and psychological support?"
+    },
+    {
+      "question_id": 150,
+      "content_block_id": 59,
+      "question": "What educational opportunities are offered in Suceava?"
+    },
+    {
+      "question_id": 151,
+      "content_block_id": 59,
+      "question": "How can one find general support and material aid?"
+    },
+    {
+      "question_id": 152,
+      "content_block_id": 59,
+      "question": "What transportation services are available in Suceava?"
+    }
+  ]
+}

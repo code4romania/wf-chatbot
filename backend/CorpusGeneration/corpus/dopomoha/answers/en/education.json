@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 113,
+      "content_block_id": 17,
+      "question": "How can Ukrainian children enroll in schools or kindergartens in Romania?",
+      "answer": "To enroll a child in school, contact the County Schools Inspectorates, then fill in and submit the application with the audiences statute, either physically or via email. The application will be analyzed within one day, and you will be contacted by a commission to decide on your child's assignment. For Ukrainian children wanting to learn Romanian, the Inspectorates will create necessary conditions and assure appropriate human resources.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'I want to enroll my child in school'.",
+      "read_instruction": "read the section under 'I want to enroll my child in school'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 114,
+      "content_block_id": 17,
+      "question": "What is the process for continuing university studies in Romania for Ukrainian students?",
+      "answer": "To continue university studies in Romania, students should go directly to the university they wish to attend. They can enroll based on a statement on their own responsibility regarding previous studies, even without documents, though each university has its own evaluation procedure. Before completing studies, diplomas proving access to the study cycle must be presented.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Continuing your studies'.",
+      "read_instruction": "read the section under 'Continuing your studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 115,
+      "content_block_id": 17,
+      "question": "How are academic diplomas and studies recognized or equated in Romania?",
+      "answer": "Academic diplomas and studies are recognized or equated by the National Center for Diploma Recognition and Equivalence (CNRED) under the Ministry of Education. To obtain a recognition certificate, you must submit a file containing documents like your diploma, school situation, ID, and potentially an evaluation fee. The file can be submitted online, physically, or by mail, and CNRED will evaluate it within a maximum of 30 working days.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the sections under 'Equivalence of studies' and 'I have completed my studies'.",
+      "read_instruction": "read the sections under 'Equivalence of studies' and 'I have completed my studies'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 116,
+      "content_block_id": 17,
+      "question": "What support services are available for Ukrainian minors in Romania?",
+      "answer": "Ukrainian minors under temporary protection in Romania are eligible for specific support services. This includes free accommodation in school dormitories, a daily food allowance, and additional financial support for school supplies, bedding, clothing, and footwear.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Accommodation and Allowances for Ukrainian Minors'.",
+      "read_instruction": "read the section under 'Accommodation and Allowances for Ukrainian Minors'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 117,
+      "content_block_id": 17,
+      "question": "What specific educational programs or schools are available for Ukrainian children in Romania?",
+      "answer": "Useful information is available regarding Ukrainian online kindergartens or part-time kindergartens in Romania, as well as Ukrainian schools and classes in different cities. Options for continuing education remotely, various learning platforms, and free education in private schools in Romania are also mentioned.",
+      "website": "https://dopomoha.ro/en/education",
+      "instruction": "Go to website https://dopomoha.ro/en/education and read the section under 'Ukrainian schools and kindergartens in Romania'.",
+      "read_instruction": "read the section under 'Ukrainian schools and kindergartens in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

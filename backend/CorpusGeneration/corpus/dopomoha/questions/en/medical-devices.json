@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 22,
+      "content_block_id": 46,
+      "question": "What are medical devices used for in patient care?"
+    },
+    {
+      "question_id": 23,
+      "content_block_id": 46,
+      "question": "How does a patient obtain medical devices?"
+    },
+    {
+      "question_id": 24,
+      "content_block_id": 46,
+      "question": "What types of medical devices are generally provided?"
+    },
+    {
+      "question_id": 25,
+      "content_block_id": 46,
+      "question": "What financial contributions might a patient need to make for medical devices?"
+    }
+  ]
+}

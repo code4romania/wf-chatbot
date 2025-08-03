@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 165,
+      "content_block_id": 21,
+      "question": "What are the procedures for entering Romania?"
+    },
+    {
+      "question_id": 166,
+      "content_block_id": 21,
+      "question": "How can individuals get support and assistance while in Romania?"
+    },
+    {
+      "question_id": 167,
+      "content_block_id": 21,
+      "question": "What types of legal protection are offered in Romania?"
+    },
+    {
+      "question_id": 168,
+      "content_block_id": 21,
+      "question": "When does one need to register with authorities in Romania?"
+    }
+  ]
+}

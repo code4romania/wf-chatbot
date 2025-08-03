@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 269,
+      "content_block_id": 13,
+      "question": "What kind of organizations are listed here?"
+    },
+    {
+      "question_id": 270,
+      "content_block_id": 13,
+      "question": "What regions of the country do these listings cover?"
+    },
+    {
+      "question_id": 271,
+      "content_block_id": 13,
+      "question": "How can people get in touch with these offices?"
+    }
+  ]
+}

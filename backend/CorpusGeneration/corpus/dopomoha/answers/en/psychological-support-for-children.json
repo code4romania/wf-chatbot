@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 265,
+      "content_block_id": 27,
+      "question": "What are the main ways to provide psychological support to children during stressful events?",
+      "answer": "The main ways to support a child during stressful events are to hug them, explain the situation, and distract them. It is important to remember that calm parents lead to calm children.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 266,
+      "content_block_id": 27,
+      "question": "How can parents best take care of their own well-being while supporting their children?",
+      "answer": "Parents can best take care of their own well-being by prioritizing sleep, food, and communication, as well as their physical and mental health. They should try to eat and sleep, ask for help when needed, and talk about their emotions and experiences with important people.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'Tips for parents'.",
+      "read_instruction": "read the section under 'Tips for parents'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 267,
+      "content_block_id": 27,
+      "question": "What specific actions can parents take to help children feel more protected during an emergency?",
+      "answer": "Parents can help children feel more protected by surrounding them with love and care, especially through tactile contact, and by maintaining the daily routine as much as possible. Additionally, parents can make an action plan with the child, observe and respond to their emotional needs, validate their feelings, and use physical touch like hugs and calming exercises.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 268,
+      "content_block_id": 27,
+      "question": "How does maintaining a daily routine help a child feel secure in uncertain times?",
+      "answer": "Maintaining a daily routine helps a child feel secure in uncertain times by recreating the sequence of the day. This provides the child with a sense of control over their own life, which is crucial amidst instability.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-children",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-children and read the section under 'How can parents support a child?'.",
+      "read_instruction": "read the section under 'How can parents support a child?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

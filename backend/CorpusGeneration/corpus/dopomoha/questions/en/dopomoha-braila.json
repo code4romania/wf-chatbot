@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 199,
+      "content_block_id": 62,
+      "question": "How can new residents find general support in Brăila?"
+    },
+    {
+      "question_id": 200,
+      "content_block_id": 62,
+      "question": "What essential services are covered for daily life in the city?"
+    },
+    {
+      "question_id": 201,
+      "content_block_id": 62,
+      "question": "How can individuals access specific support programs or assistance?"
+    },
+    {
+      "question_id": 202,
+      "content_block_id": 62,
+      "question": "What are the key contact numbers for emergencies or official help?"
+    }
+  ]
+}

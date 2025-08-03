@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 165,
+      "content_block_id": 21,
+      "question": "What are the procedures for entering Romania?",
+      "answer": "Ukrainian citizens can enter Romania by presenting a biometric or simple passport. Children are accepted, and no vaccination certificate or PCR test for COVID-19 is required, nor is quarantine for land arrivals. Third country nationals who resided in Ukraine can enter for transit with a valid passport to obtain a visa on arrival. Pets require microchips, rabies vaccination, and an antibody test.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the section under 'Who and how can enter Romania?'.",
+      "read_instruction": "read the section under 'Who and how can enter Romania?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 166,
+      "content_block_id": 21,
+      "question": "How can individuals get support and assistance while in Romania?",
+      "answer": "Individuals can get support for accommodation, food, transport, health, and schooling. Free accommodation can be requested via unacoperis.ro/en, and financial support for accommodation may be available. Specialized help is offered by organizations like ACCEPT for LGBTQIA+ individuals, and a platform for children with cancer. Mental health counseling and drug addiction services are also available.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 167,
+      "content_block_id": 21,
+      "question": "What types of legal protection are offered in Romania?",
+      "answer": "Romania offers temporary protection, which grants a residency permit and access to social and economic rights. Individuals can also apply for asylum, potentially leading to refugee status based on fear of persecution, or subsidiary protection if facing serious risks upon return to their country of origin. Both provide various rights similar to Romanian citizens.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the sections under 'Temporary protection' and 'Claiming asylum'.",
+      "read_instruction": "read the sections under 'Temporary protection' and 'Claiming asylum'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 168,
+      "content_block_id": 21,
+      "question": "When does one need to register with authorities in Romania?",
+      "answer": "Ukrainian citizens may need to register with authorities, UNHCR, or local organizations for assistance. Third Country Nationals permanently residing in Ukraine must register upon arrival to request a temporary protection residence permit. Additionally, if you are hosted, the host must inform local police within three days. Asylum seekers must register at a Regional Center for Procedures and Accommodation.",
+      "website": "https://dopomoha.ro/en/information",
+      "instruction": "Go to website https://dopomoha.ro/en/information and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

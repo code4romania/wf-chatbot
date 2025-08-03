@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 95,
+      "content_block_id": 60,
+      "question": "What types of assistance are available for new arrivals in Cluj-Napoca?"
+    },
+    {
+      "question_id": 96,
+      "content_block_id": 60,
+      "question": "How can someone find medical and psychological support in the city?"
+    },
+    {
+      "question_id": 97,
+      "content_block_id": 60,
+      "question": "What organizations offer legal or social counseling services?"
+    },
+    {
+      "question_id": 98,
+      "content_block_id": 60,
+      "question": "How can new residents use public transportation in Cluj?"
+    }
+  ]
+}

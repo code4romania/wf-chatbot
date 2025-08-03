@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 123,
+      "content_block_id": 36,
+      "question": "What healthcare rights do people fleeing the war in Ukraine have in Romania?",
+      "answer": "People fleeing the war in Ukraine benefit from the basic service package provided by the social health insurance system, including medicines and medical devices, similar to Romanian insured persons. They are exempt from paying the social health insurance contribution, the personal contribution for outpatient medicines, and co-payment. For specialized ambulatory medical assistance in clinical specialties, a referral ticket is not required.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 124,
+      "content_block_id": 36,
+      "question": "How do people from Ukraine register for health services in Romania?",
+      "answer": "People from Ukraine requesting medical services for the first time are registered by healthcare providers in an IT application from the National Health Insurance House. This process assigns them an identification number in the social health insurance system. The displayed data, including the identification number, are then printed and given to the patient, who can use this document at any medical unit in Romania.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "read_instruction": "read the section under 'Registration in the social health insurance system for people coming from the armed conflict area in Ukraine'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 125,
+      "content_block_id": 36,
+      "question": "What types of medical services can a family doctor provide?",
+      "answer": "A family doctor provides curative, preventive, and prophylactic medical services, including home medical services and medication administration. They can also offer diagnostic and therapeutic services such as spirometry, ECG, various treatments (intramuscular, intravenous), minor surgery for skin lesions, and foreign body extractions. Additionally, family doctors can issue medical documents like referral tickets, prescriptions, and medical leave certificates.",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Family doctor'.",
+      "read_instruction": "read the section under 'Family doctor'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 126,
+      "content_block_id": 36,
+      "question": "When are preventive health services offered to different age groups?",
+      "answer": "Preventive services are offered to children aged 0-3 years at maternity leave and specific intervals up to 36 months, and once a year for those aged 4-18 years. For adults, individuals aged 18-39 years receive services once every 3 years (or annually if high-risk), while those 40+ years benefit from an annual prevention package (or once every 3 years for uninsured persons).",
+      "website": "https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine",
+      "instruction": "Go to website https://dopomoha.ro/en/family-doctor-for-refugees-from-ukraine and read the section under 'Preventive Services'.",
+      "read_instruction": "read the section under 'Preventive Services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

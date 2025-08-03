@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 108,
+      "content_block_id": 23,
+      "question": "What are the main ways to enter and stay in Romania?",
+      "answer": "You can enter Romania with temporary protection, with the right of short-stay, or as an asylum seeker. Ukrainian nationals with a valid passport can enter and stay for up to 90 days. You can also apply for asylum within Romania at a later point.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 109,
+      "content_block_id": 23,
+      "question": "What kind of support services are offered to people?",
+      "answer": "Support services include food, clothing, personal hygiene products, primary and emergency health care, and free medical care for acute or chronic life-threatening diseases. Foreign nationals from the conflict zone also benefit from medical services, supplies, and medicines like insured Romanian citizens. Resources can also be requested via Sprijin de Urgență.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'Social services', 'Medical assistance', and 'Sprijin de Urgență'.",
+      "read_instruction": "read the sections under 'Social services', 'Medical assistance', and 'Sprijin de Urgență'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 110,
+      "content_block_id": 23,
+      "question": "How can someone get a job in Romania?",
+      "answer": "You have the right to work in Romania, even without temporary protection, by applying for a work permit at the General Inspectorate for Immigration. You may not need a work permit or visa if you provide a statement about your training/experience, unless you work in regulated liberal professions. For employment incentives, you can register with county employment agencies or the Bucharest municipality.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Work'.",
+      "read_instruction": "read the section under 'Work'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 111,
+      "content_block_id": 23,
+      "question": "How can people find a place to live?",
+      "answer": "There is currently no financial support for renting a home, but hosts of people from the conflict zone can be reimbursed for accommodation and food expenses. You can find support in finding temporary accommodation or offer a space through Un Acoperiș.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the sections under 'Accommodation' and 'Un Acoperiș'.",
+      "read_instruction": "read the sections under 'Accommodation' and 'Un Acoperiș'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 112,
+      "content_block_id": 23,
+      "question": "What are the options for children to go to school?",
+      "answer": "Children and young refugees from Ukraine can enroll in the Romanian education system if they have legal residence in Romania, specifically benefiting from temporary protection or asylum.",
+      "website": "https://dopomoha.ro/en/short-stay",
+      "instruction": "Go to website https://dopomoha.ro/en/short-stay and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 250,
+      "content_block_id": 30,
+      "question": "What measures can parents take to ensure their child's security?",
+      "answer": "Parents can prepare a child's 'safety backpack' with essential items, teach them safety rules for when they are lost, and establish a meeting plan. Additionally, parents should create a safe living environment by securing the home and supervising interactions.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 251,
+      "content_block_id": 30,
+      "question": "What information should a child know in case they get lost?",
+      "answer": "A child should know their name, the names and phone numbers of close relatives, and their home address. They should also be aware of the emergency line numbers 112 and 119, and a predetermined meeting place if they get lost.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "read_instruction": "read the section under 'Safety rules that a child should know if he/she is lost'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 252,
+      "content_block_id": 30,
+      "question": "How can parents create a safe environment for their child in a living space?",
+      "answer": "Parents can create a safe environment by keeping doors and windows closed, storing dangerous items out of reach, and securing electrical appliances and outlets. They should also make stairs inaccessible, use protective tape on glass doors, secure heavy furniture, and apply soft pads on sharp corners.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'How to create a safe environment for the child'.",
+      "read_instruction": "read the section under 'How to create a safe environment for the child'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 253,
+      "content_block_id": 30,
+      "question": "What items are recommended for a child's emergency backpack?",
+      "answer": "A child's emergency backpack should include a photo with contact information, two bottles of water, non-perishable food like chocolate and dried fruits, necessary medications, and hygiene items. It should also contain a flashlight, favorite toys for comfort, a set of clothes, and optionally a phone and some money.",
+      "website": "https://dopomoha.ro/en/childrens-security",
+      "instruction": "Go to website https://dopomoha.ro/en/childrens-security and read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "read_instruction": "read the section under 'Assemble a backpack for your child with a minimal set of things'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

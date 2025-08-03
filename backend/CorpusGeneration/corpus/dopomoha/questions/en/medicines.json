@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 118,
+      "content_block_id": 45,
+      "question": "What types of medicines are covered by health insurance?"
+    },
+    {
+      "question_id": 119,
+      "content_block_id": 45,
+      "question": "How does a patient obtain compensated medicines?"
+    },
+    {
+      "question_id": 120,
+      "content_block_id": 45,
+      "question": "How long can a medical prescription remain valid?"
+    },
+    {
+      "question_id": 121,
+      "content_block_id": 45,
+      "question": "What factors determine the level of financial coverage for a medicine?"
+    },
+    {
+      "question_id": 122,
+      "content_block_id": 45,
+      "question": "When might special rules apply for getting compensated medicines?"
+    }
+  ]
+}

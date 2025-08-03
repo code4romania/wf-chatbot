@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 207,
+      "content_block_id": 43,
+      "question": "What types of facilities provide medical recovery services?"
+    },
+    {
+      "question_id": 208,
+      "content_block_id": 43,
+      "question": "How long can medical recovery treatments last?"
+    },
+    {
+      "question_id": 209,
+      "content_block_id": 43,
+      "question": "What are the costs for medical recovery services?"
+    },
+    {
+      "question_id": 210,
+      "content_block_id": 43,
+      "question": "How does one get a referral for medical recovery?"
+    }
+  ]
+}

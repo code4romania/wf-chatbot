@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 22,
+      "content_block_id": 46,
+      "question": "What are medical devices used for in patient care?",
+      "answer": "Medical devices are given to patients for a fixed or indefinite period, based on a medical prescription. They are intended for the recovery of organic or functional deficiencies on an outpatient basis.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 23,
+      "content_block_id": 46,
+      "question": "How does a patient obtain medical devices?",
+      "answer": "A patient or their representative submits an application with required documents to the health insurance house. Upon acceptance, an approval decision is issued, which is then used along with the medical prescription to contact a contracted provider to obtain the device.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the section under 'The procedure for obtaining the devices'.",
+      "read_instruction": "read the section under 'The procedure for obtaining the devices'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 24,
+      "content_block_id": 46,
+      "question": "What types of medical devices are generally provided?",
+      "answer": "The basic package includes ENT prosthetic devices, ostomy prosthetic devices, urinary retention and/or incontinence devices, limb prostheses, spine or limb orthoses, footwear orthopedics, devices for visual impairment, equipment for oxygen therapy and non-invasive ventilation, devices for aerosol therapy, walking devices, and external breast prostheses.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 25,
+      "content_block_id": 46,
+      "question": "What financial contributions might a patient need to make for medical devices?",
+      "answer": "For certain medical devices with prices higher than those settled by CNAS, the insured person may have to cover an additional amount of money. However, beneficiaries from the armed conflict in Ukraine under Emergency Ordinance no.15/2022 are not requested any personal contribution.",
+      "website": "https://dopomoha.ro/en/medical-devices",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-devices and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

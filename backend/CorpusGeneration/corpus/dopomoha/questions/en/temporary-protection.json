@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 127,
+      "content_block_id": 22,
+      "question": "What are the main ways to enter Romania for those seeking refuge?"
+    },
+    {
+      "question_id": 128,
+      "content_block_id": 22,
+      "question": "Who qualifies for temporary protection in Romania?"
+    },
+    {
+      "question_id": 129,
+      "content_block_id": 22,
+      "question": "What assistance and rights are offered to people with temporary protection?"
+    },
+    {
+      "question_id": 130,
+      "content_block_id": 22,
+      "question": "How do individuals register their living arrangements in Romania?"
+    },
+    {
+      "question_id": 131,
+      "content_block_id": 22,
+      "question": "When does temporary protection status end?"
+    }
+  ]
+}

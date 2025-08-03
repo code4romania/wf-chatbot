@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 183,
+      "content_block_id": 26,
+      "question": "What infectious diseases can vaccination help prevent?",
+      "answer": "Vaccination can help prevent infectious diseases such as measles, rubella, polio, diphtheria, haemophilus influenza tip b (Hib), tuberculosis, pertussis, tetanus, hepatitis B, mumps, rotavirus, pneumococcal infection, flu, meningococcal infection, and COVID-19.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 184,
+      "content_block_id": 26,
+      "question": "How can someone ensure their child is vaccinated, especially if doses were missed?",
+      "answer": "If a child has missed scheduled vaccines or does not have them, parents should make up for the schedule as soon as possible. They can contact their nearest County Department for Public Health or healthcare provider for free vaccinations and schedule the next vaccines with their doctor, ensuring to follow the intervals of doses for maximum effectiveness.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "read_instruction": "read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 185,
+      "content_block_id": 26,
+      "question": "When should babies typically receive their initial vaccinations?",
+      "answer": "Newborns should ideally be vaccinated against hepatitis B and tuberculosis (BCG) immediately at birth if vaccines are available, or as soon as possible thereafter. Hepatitis B vaccination can start when the child weighs 2 kilograms or is 1 month old. From two months of age, children should receive vaccines against diphtheria, tetanus, pertussis, polio, fungal infections, pneumococcus, rotavirus, and meningococcus.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 186,
+      "content_block_id": 26,
+      "question": "What should parents know about vaccination if their child has a chronic illness?",
+      "answer": "If a child has a chronic illness such as asthma or diabetes, this is not a contraindication to vaccination. On the contrary, your child has a higher risk of severe infections that can be protected against vaccination.",
+      "website": "https://dopomoha.ro/en/vaccination",
+      "instruction": "Go to website https://dopomoha.ro/en/vaccination and read the section under 'Important to remember!'.",
+      "read_instruction": "read the section under 'Important to remember!'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

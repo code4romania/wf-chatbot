@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 103,
+      "content_block_id": 39,
+      "question": "What kinds of medical services are typically included when seeing a specialist?"
+    },
+    {
+      "question_id": 104,
+      "content_block_id": 39,
+      "question": "How can someone access a specialist without a referral from a family doctor?"
+    },
+    {
+      "question_id": 105,
+      "content_block_id": 39,
+      "question": "What other types of health services can be recommended by a specialist?"
+    },
+    {
+      "question_id": 106,
+      "content_block_id": 39,
+      "question": "When are remote consultations or therapies available?"
+    },
+    {
+      "question_id": 107,
+      "content_block_id": 39,
+      "question": "What can a specialist doctor decide or recommend regarding a patient's care?"
+    }
+  ]
+}

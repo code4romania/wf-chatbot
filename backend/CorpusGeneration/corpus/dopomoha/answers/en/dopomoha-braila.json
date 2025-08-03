@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 199,
+      "content_block_id": 62,
+      "question": "How can new residents find general support in Brăila?",
+      "answer": "New residents in Brăila can find general support and information on how to manage in a new city. They can explore the map for service providers near them under \"Organisations offering their support\".",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 200,
+      "content_block_id": 62,
+      "question": "What essential services are covered for daily life in the city?",
+      "answer": "Essential services covered for daily life in Brăila include public transport, medical services, education, housing information, and job support. There is also a support program available for accommodation, meals, and integration.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 201,
+      "content_block_id": 62,
+      "question": "How can individuals access specific support programs or assistance?",
+      "answer": "Individuals can find more details about the support program for accommodation, meals, and integration. For reproductive health services, navigating the health system, or support for victims of domestic violence, they can ask for help at the Women's Center. Free, anonymous, and confidential psycho-medical-social HIV services are available through specialist doctors from Regional HIV Centers and Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 202,
+      "content_block_id": 62,
+      "question": "What are the key contact numbers for emergencies or official help?",
+      "answer": "For emergencies, the call number is 112. The Brăila County Immigration Office can be reached at 0239 606 100 or br.igi@mai.gov.ro. The National Anti-Traffic Hotline Romania numbers are 0800 800 678 and 021 313 3100.",
+      "website": "https://dopomoha.ro/en/dopomoha-braila",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-braila and read the section under 'Important contacts'.",
+      "read_instruction": "read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

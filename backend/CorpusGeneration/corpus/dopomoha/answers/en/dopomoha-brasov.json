@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 63,
+      "content_block_id": 55,
+      "question": "What support is offered to people arriving in Brașov?",
+      "answer": "People arriving in Brașov can find information, food, transport to accommodation, counseling, and assistance at the CATTIA Community Center. The Integration Center for Migrants Brașov also provides information on managing in a new city and identifying helpful contacts.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 64,
+      "content_block_id": 55,
+      "question": "How can someone access medical care in Brașov?",
+      "answer": "Individuals needing medical services can contact Brașov Emergency Clinical Hospital or Brașov Children's Emergency Clinical Hospital for their children. A list of primary healthcare providers contracted with CASJ Brașov offers services to uninsured people. Specific services like dialysis, mobility aids, reproductive health, and HIV services are also available.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Medical services'.",
+      "read_instruction": "read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 65,
+      "content_block_id": 55,
+      "question": "What options exist for psychological support in Brașov?",
+      "answer": "Psychological support in Brașov is offered by several organizations, including Swiss Solidarity, Terre des hommes Foundation, World Vision Romania, the International Organization for Migration (IOM), Plan International Organization, Red Cross Romania, and the AMURTEL team. These services include individual consultations, psychosocial support activities, mental health awareness, and support in various languages like Russian, Ukrainian, Romanian, and English.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Psychological support'.",
+      "read_instruction": "read the section under 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 66,
+      "content_block_id": 55,
+      "question": "How can children or adults access educational programs in Brașov?",
+      "answer": "Children and adults can access educational programs in Brașov through several avenues. Ukrainian preschoolers and pupils can enroll by submitting applications to the Brașov County School Inspectorate or online. Educational events for children and adults are also offered at the CATTIA center with Worldvision's support, requiring a form submission. Additionally, public libraries organize programs for children and provide Romanian language courses for Ukrainians.",
+      "website": "https://dopomoha.ro/en/dopomoha-brasov",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-brasov and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 231,
+      "content_block_id": 3,
+      "question": "What kind of support is offered to people displaced by conflict?",
+      "answer": "Dopomoha offers web support and information for migrants fleeing the war in Ukraine. This includes details on entry requirements, asylum procedures, their rights and obligations as asylum seekers, and useful resources for their stay in Romania.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 232,
+      "content_block_id": 3,
+      "question": "How can someone get information about entering Romania and navigating a new country?",
+      "answer": "Individuals can get information about safely entering Romania and navigating a new country through Dopomoha, a web support and information platform. It can be accessed through a browser from any device.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 233,
+      "content_block_id": 3,
+      "question": "What languages is this information available in?",
+      "answer": "The information on Dopomoha is available in Romanian, Ukrainian, English, and Russian.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 234,
+      "content_block_id": 3,
+      "question": "How often is the information updated?",
+      "answer": "The Dopomoha platform will be updated regularly with verified information from official sources.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 235,
+      "content_block_id": 3,
+      "question": "What organizations are involved in providing this support?",
+      "answer": "Dopomoha is a project created by Code for Romania in partnership with the Department for Emergency Situations (DSU), The UN Refugee Agency, International Organization for Migration (OIM), and the National Romanian Council for Refugees (CNRR). The Code for Romania War Task Force is supported by ING Bank.",
+      "website": "https://dopomoha.ro/en/about",
+      "instruction": "Go to website https://dopomoha.ro/en/about and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

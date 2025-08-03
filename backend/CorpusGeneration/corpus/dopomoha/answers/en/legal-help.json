@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 203,
+      "content_block_id": 28,
+      "question": "What kind of legal help is offered?",
+      "answer": "Pro bono legal help is offered for Ukrainian refugees, including assistance with obtaining refugee status, resolving civil or administrative legal issues, and providing general legal counseling and support. This help is available in Romania and other countries.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 204,
+      "content_block_id": 28,
+      "question": "How can someone get legal assistance?",
+      "answer": "Individuals can seek legal assistance by using UA.SUPPORT to be matched with lawyers, by asking for help directly from ACTEDO, or by scanning a QR code for a list of UNHCR lawyers' phone numbers. They can also contact CNRR directly via their hotline, WhatsApp, Telegram, or Viber.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 205,
+      "content_block_id": 28,
+      "question": "What organizations provide legal support?",
+      "answer": "Organizations providing legal support include ACTEDO and CNRR, which offers services in collaboration with UNHCR. Additionally, the National Association of the Romanian Bars organizes a campaign for assistance, and UA.SUPPORT facilitates matching refugees with lawyers.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 206,
+      "content_block_id": 28,
+      "question": "How can lawyers volunteer their help?",
+      "answer": "Lawyers willing to offer support to Ukrainian refugees can volunteer their help through UA.SUPPORT. This platform will match them with refugees seeking legal assistance.",
+      "website": "https://dopomoha.ro/en/legal-help",
+      "instruction": "Go to website https://dopomoha.ro/en/legal-help and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

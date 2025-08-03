@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 103,
+      "content_block_id": 39,
+      "question": "What kinds of medical services are typically included when seeing a specialist?",
+      "answer": "When seeing a specialist, the basic package of services typically includes medical services for emergency situations, curative medical services for acute conditions, consultations for chronic diseases, and detection of diseases with endemic-epidemic potential. It also covers consultations for family planning, palliative care, diagnostic and therapeutic services, pregnancy surveillance, and medical services for diagnostic purposes, including day hospitalization.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Specialist consultation Where specialist is provided and the basic package of services'.",
+      "read_instruction": "read the section under 'Specialist consultation Where specialist is provided and the basic package of services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 104,
+      "content_block_id": 39,
+      "question": "How can someone access a specialist without a referral from a family doctor?",
+      "answer": "People coming from the war zones of Ukraine can access specialized medical services without a referral ticket or a prescription from a family doctor. Additionally, consultations for chronic conditions or diseases with endemic-epidemic potential requiring isolation can be offered remotely without a mandatory referral ticket from a family doctor or other specialist.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'Consultations without prescription'.",
+      "read_instruction": "read the section under 'Consultations without prescription'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 105,
+      "content_block_id": 39,
+      "question": "What other types of health services can be recommended by a specialist?",
+      "answer": "Specialist doctors, such as neurologists or cardiologists, can recommend services offered by a psychologist or a physiotherapist, provided the outpatient clinic has qualified staff or a contract with such providers. Patients with conditions or aggravations after COVID-19 can also be recommended physical therapy, psychological counseling, and psychotherapy by cardiology and pneumology specialists.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "read_instruction": "read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 106,
+      "content_block_id": 39,
+      "question": "When are remote consultations or therapies available?",
+      "answer": "Remote consultations are available for chronic conditions and diseases with potential endemo-epidemic that require isolation, using any means of communication. Psychiatric therapies, services provided by a psychologist (including psychological counseling and psychotherapy), and services provided by a speech therapist can also be offered remotely through any means of communication.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 107,
+      "content_block_id": 39,
+      "question": "What can a specialist doctor decide or recommend regarding a patient's care?",
+      "answer": "After consultations, a specialist doctor can decide on therapeutic conduct, prescribe medical and hygienic-dietetic treatment, and recommend medical/palliative care at home or medical devices. They can also perform clinical and paraclinical assessments, prescribe treatment, monitor chronic conditions, release referral tickets for other specialties or hospitalization, and issue medical leave certificates.",
+      "website": "https://dopomoha.ro/en/specialist-doctor",
+      "instruction": "Go to website https://dopomoha.ro/en/specialist-doctor and read the section under 'What other services can be provided'.",
+      "read_instruction": "read the section under 'What other services can be provided'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

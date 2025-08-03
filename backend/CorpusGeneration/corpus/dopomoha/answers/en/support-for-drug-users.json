@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 55,
+      "content_block_id": 24,
+      "question": "What types of services are offered to people struggling with drug use?",
+      "answer": "Services offered include medical evaluation, counseling, and treatment (including substitution treatment); psychological assessment, individual and group counseling; and social services like counseling and guidance. Additionally, specific services such as counseling for juvenile users, substitute treatment, general medical, psychological and social assistance, and disintoxication services for both minors and adults are available. Overdose treatment and assistance are also provided.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 56,
+      "content_block_id": 24,
+      "question": "How can someone contact organizations that provide assistance for drug problems?",
+      "answer": "Individuals can contact the National Anti-Drug Agency via several phone numbers, including 0 800 87 00 70 or 021 318 44 00. Various specific centers in Bucharest, such as those from the National Anti-Drug Agency, \"St. Stelian\", \"Alexandru Obregia\" Hospital, ARAS, Color Mind Clinic, and ANIT Romania, also provide direct phone numbers and addresses for contact. For overdose treatment and assistance, the emergency phone number is 112.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 57,
+      "content_block_id": 24,
+      "question": "How can someone find places that offer drug addiction support across the country?",
+      "answer": "The National Anti-Drug Agency has centers in all counties of Romania. To find the contact details of a specific center, individuals can access the map available at http://ana.gov.ro/despre-institutie/reteaua-nationala/.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the section under 'What services can help you if I you are a drug user and how you can access them:'.",
+      "read_instruction": "read the section under 'What services can help you if I you are a drug user and how you can access them:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 58,
+      "content_block_id": 24,
+      "question": "What is the cost of receiving help for drug addiction?",
+      "answer": "Many services for drug addiction are free of charge, particularly those offered by the National Anti-Drug Agency, the \"St. Stelian\" center, and the Clinical Hospital of Psychiatry Prof.dr. Alexandru Obregia. However, some providers like ARAS Health Center, Color Mind Psychiatry and Psychotherapy Clinic, and ANIT Romania offer paid services, with ARAS ARENA Center providing both free and paid options.",
+      "website": "https://dopomoha.ro/en/support-for-drug-users",
+      "instruction": "Go to website https://dopomoha.ro/en/support-for-drug-users and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

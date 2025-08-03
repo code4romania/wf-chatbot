@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 226,
+      "content_block_id": 35,
+      "question": "What language courses are offered to Ukrainian refugees?"
+    },
+    {
+      "question_id": 227,
+      "content_block_id": 35,
+      "question": "How can Ukrainian refugees enroll in available programs?"
+    },
+    {
+      "question_id": 228,
+      "content_block_id": 35,
+      "question": "What age groups are eligible for these activities?"
+    },
+    {
+      "question_id": 229,
+      "content_block_id": 35,
+      "question": "When do the courses and activities usually take place?"
+    },
+    {
+      "question_id": 230,
+      "content_block_id": 35,
+      "question": "What educational materials are available for learning Romanian?"
+    }
+  ]
+}

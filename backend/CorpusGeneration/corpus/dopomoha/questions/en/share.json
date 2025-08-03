@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 30,
+      "content_block_id": 10,
+      "question": "What types of assistance can people receive or provide?"
+    },
+    {
+      "question_id": 31,
+      "content_block_id": 10,
+      "question": "How can someone find or offer temporary housing?"
+    },
+    {
+      "question_id": 32,
+      "content_block_id": 10,
+      "question": "How can individuals help share information about these services?"
+    }
+  ]
+}

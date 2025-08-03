@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 1,
+      "content_block_id": 40,
+      "question": "What hospital services are covered by insurance?",
+      "answer": "Hospital services covered by insurance in public hospitals include consultations, investigations, diagnosis, medical and/or surgical treatment, nursing, recovery, medicines, sanitary materials, medical devices, accommodation, and meals. This also extends to laboratory and imaging investigations, and standard hotel services for companions of sick children up to 3 years old or people with severe disabilities. Specific services like chemotherapy, dialysis, and radiotherapy are also covered under certain conditions.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital' and 'Conditions for providing hospitalization services in public health facilities'.",
+      "read_instruction": "read the section under 'Assistance in the hospital' and 'Conditions for providing hospitalization services in public health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 2,
+      "content_block_id": 40,
+      "question": "How can I get hospital services?",
+      "answer": "Inpatient medical services are generally granted based on a referral ticket issued by a family medicine doctor or an outpatient specialist, according to the schedule. However, a referral note is not required for medical emergencies.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Assistance in the hospital'.",
+      "read_instruction": "read the section under 'Assistance in the hospital'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 3,
+      "content_block_id": 40,
+      "question": "What are the differences between public and private hospitals regarding insurance coverage?",
+      "answer": "In public hospitals with health insurance contracts, insured patients receive free medical services, and the hospital cannot collect additional payments. In contrast, private hospitals with contracts can charge a personal contribution, which is the difference between the health insurance company's settled rate and the hospital's charged rate. If a hospital, public or private, does not have a contract, the patient bears the full cost without reimbursement from the health insurance company.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "read_instruction": "read the sections under 'Conditions for providing hospitalization services in public health facilities' and 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 4,
+      "content_block_id": 40,
+      "question": "How are costs handled for hospital stays?",
+      "answer": "For insured patients in public hospitals with health insurance contracts, all expenses for their stay are covered, and the hospital cannot collect further payments. If a patient pays for services that should have been free in a public hospital, they can request reimbursement. In private hospitals with contracts, patients may pay a personal contribution, which is the difference between the insurer's settled rate and the hospital's rate. If a hospital lacks a contract, the patient bears all costs.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the sections under 'Conditions for providing hospitalization services in public health facilities', 'Conditions for providing hospitalization services in private health facilities', and 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "read_instruction": "read the sections under 'Conditions for providing hospitalization services in public health facilities', 'Conditions for providing hospitalization services in private health facilities', and 'What happens in the situation where a patient, even though he is hospitalized, has to pay for medicines out of his own money?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 5,
+      "content_block_id": 40,
+      "question": "When can I expect to receive a cost estimate for hospital services?",
+      "answer": "For hospitalization services in private health facilities that are under contract with health insurance companies, patients can expect to receive an estimate of the costs of requested medical services before hospitalization. This estimate is valid for five working days.",
+      "website": "https://dopomoha.ro/en/assistance-in-the-hospital",
+      "instruction": "Go to website https://dopomoha.ro/en/assistance-in-the-hospital and read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "read_instruction": "read the section under 'Conditions for providing hospitalization services in private health facilities'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

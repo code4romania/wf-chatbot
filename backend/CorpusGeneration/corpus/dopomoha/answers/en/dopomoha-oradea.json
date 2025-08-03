@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 195,
+      "content_block_id": 63,
+      "question": "What kind of general support is offered to people new to the city?",
+      "answer": "General support for newcomers includes information on managing in Oradea, important contacts like the Bihor County Immigration Service and the Call center Bihor pentru Ucraina. There is also a support program for accommodation, meals, and integration, along with information on legal status, housing, safety, and jobs.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 196,
+      "content_block_id": 63,
+      "question": "How can someone access medical care and psychological help?",
+      "answer": "For medical care, individuals can go to the County Emergency Clinical Hospital Bihor or find a list of family doctors. Psychological support is provided by the International Organization for Migration (IOM) and Plan International Organization, with contacts available for both. Dorcas Aid Romania/Moldova also offers psychological support for Ukrainian refugees.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the sections under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the sections under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 197,
+      "content_block_id": 63,
+      "question": "What are the options for children's education?",
+      "answer": "Information is available on how to enroll children in primary education, including required documents and details about the education system in Romania. Additionally, The Oradea Caritas Eparhial Association organizes educational programs for primary and secondary school students.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 198,
+      "content_block_id": 63,
+      "question": "How can people find out about public transportation?",
+      "answer": "Information on public transport in Oradea, including how and where to buy tickets, is available on the website.",
+      "website": "https://dopomoha.ro/en/dopomoha-oradea",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-oradea and read the section under 'Public transport in Oradea'.",
+      "read_instruction": "read the section under 'Public transport in Oradea'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "questions_path": "dopomoha_questions_pro",
+  "answers_path": "dopomoha_questions_pro_answers",
+  "base_path": "data_whole_page",
+  "concat_qa": true
+}

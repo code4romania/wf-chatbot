@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 13,
+      "content_block_id": 18,
+      "question": "What kind of financial help is offered?",
+      "answer": "UNHCR provides cash assistance for four months to meet expenses of eligible displaced Ukrainians and third-country nationals. Additionally, one-time cash assistance of 720 lei per person is offered to cover winter period expenses.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Information about UNHCR’s Cash Programme in Romania'.",
+      "read_instruction": "read the section under 'Information about UNHCR’s Cash Programme in Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 14,
+      "content_block_id": 18,
+      "question": "Who can receive this financial assistance?",
+      "answer": "Eligible individuals are those displaced from Ukraine who are registered with temporary protection status in Romania for at least 30 days, have lived in Romania for at least 30 days, and are not receiving similar assistance from other sources. Additionally, their family must meet at least one specific vulnerability criterion, such as having a family member with a disability, being single parents, or having four or more family members.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "read_instruction": "read the section under 'Who is eligible for UNHCR cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 15,
+      "content_block_id": 18,
+      "question": "How do I apply for the program?",
+      "answer": "Currently, there is no financial assistance program available for registration. When available, eligible refugees can fill out a form, and after review, an appointment for an interview will be scheduled via text message within a maximum of 15 days.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 16,
+      "content_block_id": 18,
+      "question": "How much money is provided?",
+      "answer": "UNHCR provides one-time cash assistance of 720 lei per person. This amount is intended to cover expenses related to the winter period.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'How much money is provided as cash assistance?'.",
+      "read_instruction": "read the section under 'How much money is provided as cash assistance?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 17,
+      "content_block_id": 18,
+      "question": "When and where can I enroll?",
+      "answer": "Enrollment points are located in Bucharest, Brasov, Galati, Iasi, and Suceava. These centers are open Monday to Friday, from 9:00 am to 5:00 pm, and are closed on weekends. However, you will only be interviewed for the program if you have been invited to an appointment at one of these centers.",
+      "website": "https://dopomoha.ro/en/financial-support-from-unhcr",
+      "instruction": "Go to website https://dopomoha.ro/en/financial-support-from-unhcr and read the section under 'Where are UNHCR’s Cash Enrolment Points? When are they open?'.",
+      "read_instruction": "read the section under 'Where are UNHCR’s Cash Enrolment Points? When are they open?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

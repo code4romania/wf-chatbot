@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 33,
+      "content_block_id": 49,
+      "question": "What is the purpose of national curative health programs?",
+      "answer": "The purpose of national curative health programs (PNSC) is to ensure specific treatment for diseases that have a major impact on public health. These programs are run by the National Health Insurance House.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 34,
+      "content_block_id": 49,
+      "question": "What benefits or services are provided to patients through these programs?",
+      "answer": "Through the PNSC, patients can receive medicine, sanitary materials, medical devices, specific services like radiotherapy and dialysis, and specific investigations such as glycosylated hemoglobin dosage and PET-CT. For chronic renal failure patients, non-medicalized transport for hemodialysis and monthly transport of peritoneal dialysis supplies are also provided.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 35,
+      "content_block_id": 49,
+      "question": "How does one qualify or get enrolled in these health programs?",
+      "answer": "A specialist doctor can decide to enroll a patient in a PNSC based on their condition, health state, and eligibility criteria. To benefit from treatment, patients must contact a specialist doctor working in a health unit that operates the specific program.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'Enrollment of patients in a national curative health program'.",
+      "read_instruction": "read the section under 'Enrollment of patients in a national curative health program'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 36,
+      "content_block_id": 49,
+      "question": "What types of medical conditions are covered by these programs?",
+      "answer": "These programs cover conditions such as cardiovascular diseases, oncology, deafness requiring implantable auditory prostheses, diabetes, neurological diseases, hemophilia and thalassemia, rare diseases, mental health issues, endocrine diseases, orthopedics, organ transplantation, chronic renal failure, liver failure, and conditions requiring advanced PET-CT diagnosis and treatment.",
+      "website": "https://dopomoha.ro/en/national-curative-health-programs",
+      "instruction": "Go to website https://dopomoha.ro/en/national-curative-health-programs and read the section under 'The national curative health programs run by CNAS are:'.",
+      "read_instruction": "read the section under 'The national curative health programs run by CNAS are:'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

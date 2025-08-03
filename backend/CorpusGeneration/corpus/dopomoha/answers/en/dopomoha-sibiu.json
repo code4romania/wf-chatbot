@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 153,
+      "content_block_id": 66,
+      "question": "What resources are available for people new to Sibiu?",
+      "answer": "For people new to Sibiu, resources include important contacts like the Immigration Office, information on accommodation, meals, and integration support programs, and details on public transport and medical services. Additionally, psychological support, education guidance, and various organizations offering help with food, hygiene, therapies, language courses, and legal or housing information are available.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 154,
+      "content_block_id": 66,
+      "question": "How can one find public transport and medical services in Sibiu?",
+      "answer": "Information on how and where to buy tickets for public transport in Sibiu can be found under the 'Public transport in Sibiu' section. For medical services, individuals can go to the County Emergency Clinical Hospital Sibiu.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Public transport in Sibiu' and 'Medical services'.",
+      "read_instruction": "read the sections under 'Public transport in Sibiu' and 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 155,
+      "content_block_id": 66,
+      "question": "What organizations offer social and psychological support?",
+      "answer": "A.L.E.G. Association offers free psychosocial support to Ukrainian refugee women. The International Rescue Committee provides psychological assistance to various groups including Ukrainian refugees and survivors of gender-based violence. Sus Inima offers support like food, hygiene products, therapies, and language courses, while the Women's Center assists with reproductive health and domestic violence services. Sens Pozitiv provides psycho-medical-social HIV services.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the sections under 'Psychological support' and 'Organisations offering their support'.",
+      "read_instruction": "read the sections under 'Psychological support' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 156,
+      "content_block_id": 66,
+      "question": "How can children access education in the city?",
+      "answer": "To enroll a child in primary education, one can find information on the required documents under the 'Education' section. Additionally, Sus Inima offers a day center and educational infrastructure specifically for Ukrainian children.",
+      "website": "https://dopomoha.ro/en/dopomoha-sibiu",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-sibiu and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

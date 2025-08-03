@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 261,
+      "content_block_id": 57,
+      "question": "What general support is available for newcomers in Constanța?",
+      "answer": "Newcomers in Constanța can find information on how to manage in the city, including important contacts like the Immigration Service and emergency numbers. General support programs are available for accommodation, meals, and integration. Various organizations such as CNRR, AIDRom, ROUA Center, and the Constanta Regional Integration Center offer social and legal advice, social assistance (vouchers), psychosocial support, and help with integration.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 262,
+      "content_block_id": 57,
+      "question": "How can someone access medical services in Constanța?",
+      "answer": "For general medical services, individuals can go to the Constanța Emergency County Clinical Hospital Sf Apostol Andrei. For children's medical needs, the Pediatric Clinical Department of the same hospital is available. A list of family doctors from Constanța county is also provided, and specialized psycho-medical-social HIV services are offered through Sens Pozitiv.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Medical services'.",
+      "read_instruction": "read the section under 'Medical services'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 263,
+      "content_block_id": 57,
+      "question": "What assistance is provided for finding housing and employment?",
+      "answer": "Support is available through a program for accommodation, meals, and integration in Constanța. AIDRom offers support in accessing the labor market. The ROUA Center provides economic assistance, while the Novapolis Association can help with accommodation and transport.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'The support program for accommodation, meals and integration in Constanța' and 'Organisations offering their support'.",
+      "read_instruction": "read the section under 'The support program for accommodation, meals and integration in Constanța' and 'Organisations offering their support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 264,
+      "content_block_id": 57,
+      "question": "How can children enroll in schools in Constanța?",
+      "answer": "The Constanța County School Inspectorate provides information regarding the enrollment of Ukrainian students in Romanian pre-university education units. They also offer details on studying the Romanian language and civilization. Specific documents and further information can be found through the provided links on the page.",
+      "website": "https://dopomoha.ro/en/dopomoha-constanta",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-constanta and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

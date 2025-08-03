@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 55,
+      "content_block_id": 24,
+      "question": "What types of services are offered to people struggling with drug use?"
+    },
+    {
+      "question_id": 56,
+      "content_block_id": 24,
+      "question": "How can someone contact organizations that provide assistance for drug problems?"
+    },
+    {
+      "question_id": 57,
+      "content_block_id": 24,
+      "question": "How can someone find places that offer drug addiction support across the country?"
+    },
+    {
+      "question_id": 58,
+      "content_block_id": 24,
+      "question": "What is the cost of receiving help for drug addiction?"
+    }
+  ]
+}

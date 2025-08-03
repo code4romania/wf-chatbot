@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 207,
+      "content_block_id": 43,
+      "question": "What types of facilities provide medical recovery services?",
+      "answer": "Inpatient medical recovery services are provided in sanatoriums, sanatorium wards, and spa sanatorium units within hospitals. Services are also available in sanatoriums other than spas and preventive sanatoriums.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 208,
+      "content_block_id": 43,
+      "question": "How long can medical recovery treatments last?",
+      "answer": "For spa sanatoriums, services can last a maximum of 14-21 days/year, divisible into two fractions, with periods less than 14 days also provided. Services beyond 21 days are fully patient-covered. In sanatoriums other than spas and preventive sanatoriums, the period is established by specialist doctors and is not limited to a certain number of days.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 209,
+      "content_block_id": 43,
+      "question": "What are the costs for medical recovery services?",
+      "answer": "For spa sanatoriums/spa sanatorium units in hospitals, patients pay a personal contribution. Medical services provided beyond a 21-day hospitalization period are fully covered by the patients. Beneficiaries of Emergency Ordinance no.15/2022 are exempt from personal contribution.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "read_instruction": "read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 210,
+      "content_block_id": 43,
+      "question": "How does one get a referral for medical recovery?",
+      "answer": "Services are provided based on referral notes for physical medicine and rehabilitation treatment in spas sanatoriums. These notes are issued by family medicine doctors or specialists in ambulatory and hospital settings who have contractual relations with health insurance companies. The criteria for issuing referrals consider the patient's specific pathology and associated conditions.",
+      "website": "https://dopomoha.ro/en/medical-recovery-in-hospitals",
+      "instruction": "Go to website https://dopomoha.ro/en/medical-recovery-in-hospitals and read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "read_instruction": "read the section under 'Medical recovery in hospitals, sanatoriums'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

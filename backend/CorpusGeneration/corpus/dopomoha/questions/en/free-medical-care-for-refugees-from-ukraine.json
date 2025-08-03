@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_id": 50,
+      "content_block_id": 33,
+      "question": "What medical services are provided to refugees?"
+    },
+    {
+      "question_id": 51,
+      "content_block_id": 33,
+      "question": "Where are these medical services offered?"
+    },
+    {
+      "question_id": 52,
+      "content_block_id": 33,
+      "question": "How can someone schedule an appointment?"
+    },
+    {
+      "question_id": 53,
+      "content_block_id": 33,
+      "question": "When are the services available?"
+    },
+    {
+      "question_id": 54,
+      "content_block_id": 33,
+      "question": "What language assistance is provided?"
+    }
+  ]
+}

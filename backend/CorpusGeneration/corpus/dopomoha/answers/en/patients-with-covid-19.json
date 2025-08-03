@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 245,
+      "content_block_id": 47,
+      "question": "What medical services are covered for people with COVID-19?",
+      "answer": "All medical services and medicines necessary for the treatment of COVID-19 are covered by the FNUASS for diagnosed persons in Romania. Additionally, medical services are provided in evaluation centers for those with mild to moderate symptoms and at least 2 risk factors, without needing a referral note.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 246,
+      "content_block_id": 47,
+      "question": "How are long-term symptoms of COVID-19 addressed?",
+      "answer": "Long-term symptoms of COVID-19 are addressed through the \"Post-Covid-19 Syndrome Evaluation\" service available during day hospitalization. Patients with post-COVID-19 conditions can also benefit from physical therapy, psychological counseling, and psychotherapy, upon recommendation from cardiologists and pneumologists, which are covered by the health insurance system if provided by contracted clinics.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 247,
+      "content_block_id": 47,
+      "question": "How can patients get devices for breathing support after COVID-19?",
+      "answer": "Patients with moderate or severe respiratory insufficiency after COVID-19 can benefit from an oxygen concentrator. Patients with certain conditions may also receive noninvasive ventilation. Details on how to obtain these devices are presented in the \"Medical devices chapter\".",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Medical devices chapter'.",
+      "read_instruction": "read the section under 'Medical devices chapter'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 248,
+      "content_block_id": 47,
+      "question": "What kind of initial medical consultations are available for COVID-19 symptoms?",
+      "answer": "Individuals in Romania showing symptoms of COVID-19 can benefit from remote consultations provided by a family doctor or a specialist doctor.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 249,
+      "content_block_id": 47,
+      "question": "Where can someone get a COVID-19 vaccine?",
+      "answer": "In Bucharest, COVID-19 vaccinations can be obtained at family medicine offices. A downloadable list of these offices in Bucharest is available on the website.",
+      "website": "https://dopomoha.ro/en/patients-with-covid-19",
+      "instruction": "Go to website https://dopomoha.ro/en/patients-with-covid-19 and read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "read_instruction": "read the section under 'Addresses where you can get covid vaccination in Bucharest'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 144,
+      "content_block_id": 68,
+      "question": "How can someone recognize the signs of exploitation?",
+      "answer": "Signs of exploitation include being offered an unrealistically high salary, being forced to perform work or sex without consent, having identification or communication devices withheld, or being subjected to strict rules like limited sleep, food, or medical care. Other indicators are restricted movement, being asked to repay 'debts' for services, or not being paid as promised.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "read_instruction": "read the section under 'Signs which may indicate you are or could be exploited by a person claiming to help you.'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 145,
+      "content_block_id": 68,
+      "question": "What steps can people take to protect themselves from becoming victims?",
+      "answer": "To limit vulnerability to trafficking, individuals should know their rights and where to access services and support. It is important to maintain possession of documents, stay in touch with trusted people, and gather enough information about travel plans, routes, addresses, and employers, sharing this with others. Developing a secret 'safeword' with trusted persons is also advised.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "read_instruction": "read the section under 'What can you do to limit your vulnerability to trafficking?'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 146,
+      "content_block_id": 68,
+      "question": "What kinds of help and resources are available for those in need?",
+      "answer": "Help and resources include the Romanian National Anti-trafficking Helpline (0 800 800 678 / +4021.313.31.00), the National Emergency Number (112), and the national anti-trafficking hotline for migrants (527 from Ukraine). People can also seek help by going to public places, or accessing services for resources like food, clothing, and transportation via 'Sprijin de Urgență' and temporary accommodation via 'Un Acoperiș'.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 147,
+      "content_block_id": 68,
+      "question": "How can parents ensure their children's safety during a crisis?",
+      "answer": "Parents can prepare their children by packing a 'safety backpack' and discussing important points to minimize stress. The eLiberare Association, with UNICEF, also created a story-based conversation guide to help parents talk to children of all ages about basic safeguards against human trafficking and online exploitation vulnerabilities.",
+      "website": "https://dopomoha.ro/en/human-trafficking",
+      "instruction": "Go to website https://dopomoha.ro/en/human-trafficking and read the section under 'Children’s security'.",
+      "read_instruction": "read the section under 'Children’s security'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

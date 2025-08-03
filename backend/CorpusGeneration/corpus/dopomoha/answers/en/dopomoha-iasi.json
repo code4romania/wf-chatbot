@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 79,
+      "content_block_id": 61,
+      "question": "What kind of assistance is available for people arriving in Iași?",
+      "answer": "Assistance available in Iași includes information on managing in the city, important contacts like immigration and emergency services, and a support program for accommodation, meals, and integration. Additionally, access to medical and psychological support, educational opportunities for both children and adults, and various social support programs from multiple organizations are offered.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 80,
+      "content_block_id": 61,
+      "question": "How can someone find medical services or psychological help in Iași?",
+      "answer": "For urgent medical services, one can contact the County Emergency Clinical Hospital ,,Sf. Spiridon\" Iași, or for children, the Emergency Clinical Hospital for Children ,,Sf. Maria\" Iași. Psychological support is provided by organizations such as the International Organization for Migration (IOM), Project HOPE, Asociatia ParentIS, World Vision Romania, Save the Children, and Red Cross Romania, with their respective contact details available.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Medical services' and 'Psychological support'.",
+      "read_instruction": "read the section under 'Medical services' and 'Psychological support'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 81,
+      "content_block_id": 61,
+      "question": "What educational opportunities are offered for adults and children in Iași?",
+      "answer": "For children and adolescents, a multi-service center organizes kindergarten, school preparation, Ukrainian language school, and integration programs. For adults, several organizations like Inspectoratul Școlar Județean Iași, Centrul de Asistență Umanitară și Socială pentru Refugiați CTR Nicolina, Crucea Roșie, and Caritas offer free Romanian language courses, some with options for online or in-person attendance and language certificates.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Education'.",
+      "read_instruction": "read the section under 'Education'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 82,
+      "content_block_id": 61,
+      "question": "How can newcomers access accommodation or other social support programs?",
+      "answer": "Newcomers can access a support program for accommodation, meals, and integration through the Directorate of Social Assistance Iași. Accommodation is also offered by the CTR Nicolina Refugee Center and Justiție pentru minori. Various social support programs, including legal advice, medical assistance, psychological counseling, and socio-cultural activities, are provided by organizations such as CNRR, ICAR Foundation, Save the Children, Alternative Sociale, AIDRom, and Justiție pentru minori.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 83,
+      "content_block_id": 61,
+      "question": "What are the important contact numbers for emergencies or immigration services?",
+      "answer": "The Iași County Immigration Service can be contacted at 0232 302 315 or 0232 302 322, or via email at is.igi@mai.gov.ro. For emergencies, the call number is 112. The National Anti-Traffic Hotline Romania can be reached at 0800 800 678 or 021 313 3100.",
+      "website": "https://dopomoha.ro/en/dopomoha-iasi",
+      "instruction": "Go to website https://dopomoha.ro/en/dopomoha-iasi and read the section under 'Important contacts'.",
+      "read_instruction": "read the section under 'Important contacts'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "answers": [
+    {
+      "answer_id": 1,
+      "question_id": 236,
+      "content_block_id": 67,
+      "question": "What types of mental health services are provided?",
+      "answer": "Services include specialized psychological and psychiatric support, mental health consultations, and workshops focusing on trauma and well-being. Organizations also offer psychosocial support activities (community-based and targeted), mental health awareness events, psychological first aid (PFA), and capacity building for humanitarian workers. Addiction treatment, adult psychiatry, and pediatric psychiatry are also available.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 2,
+      "question_id": 237,
+      "content_block_id": 67,
+      "question": "What groups of people are eligible for psychological assistance?",
+      "answer": "Eligible groups include Ukrainian adults and refugees (including children), third-country nationals, and the local population of Romania. Support is also available for pregnant/nursing women, LGBTIQ+ individuals, the Roma community, unaccompanied children, survivors of gender-based violence, people with serious mental illnesses or disabilities, and staff of refugee centers. Services generally target those in need or difficulty.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 3,
+      "question_id": 238,
+      "content_block_id": 67,
+      "question": "How can individuals get in touch with support organizations?",
+      "answer": "Individuals can contact support organizations primarily through the provided email addresses or phone numbers listed for specific contact persons or departments. For example, to sign up for ALIAT Association workshops, one can contact inside@aliatong.ro. Some organizations also suggest following their social media pages for more program details.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 4,
+      "question_id": 239,
+      "content_block_id": 67,
+      "question": "What languages are used for mental health consultations?",
+      "answer": "Mental health consultations are offered in a variety of languages, including Ukrainian, Russian, Romanian, and English. Project HOPE also provides consultations in Polish. Some organizations specifically note consultations in Ukrainian or Romanian, or Romanian and English.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the page carefully.",
+      "read_instruction": "read the page carefully.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    },
+    {
+      "answer_id": 5,
+      "question_id": 240,
+      "content_block_id": 67,
+      "question": "What areas in Romania provide mental health support?",
+      "answer": "Mental health support is provided in Bucharest, with specific clinics like Aliat Clinic, Sante Clinic, and CATTIA Community Center mentioned. Additionally, psychological assistance is available in different cities across Romania. Users can find information for other cities by selecting the desired city from the 'Other cities' item in the main menu.",
+      "website": "https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees",
+      "instruction": "Go to website https://dopomoha.ro/en/psychological-support-for-ukrainian-refugees and read the sections under 'Psychological support in Bucharest' and 'Psychological support in other cities of Romania'.",
+      "read_instruction": "read the sections under 'Psychological support in Bucharest' and 'Psychological support in other cities of Romania'.",
+      "cSubject": "",
+      "dLanguage": "English",
+      "eVerified Translation": "No",
+      "fStatus": "Scraped"
+    }
+  ]
+}

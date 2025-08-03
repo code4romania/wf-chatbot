@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question_id": 211,
+      "content_block_id": 20,
+      "question": "What types of medical services are available for people from Ukraine in Romania?"
+    },
+    {
+      "question_id": 212,
+      "content_block_id": 20,
+      "question": "How can individuals access specialized health support in Romania?"
+    },
+    {
+      "question_id": 213,
+      "content_block_id": 20,
+      "question": "What specific health information and care is provided for children?"
+    }
+  ]
+}

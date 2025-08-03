@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 265,
+      "content_block_id": 27,
+      "question": "What are the main ways to provide psychological support to children during stressful events?"
+    },
+    {
+      "question_id": 266,
+      "content_block_id": 27,
+      "question": "How can parents best take care of their own well-being while supporting their children?"
+    },
+    {
+      "question_id": 267,
+      "content_block_id": 27,
+      "question": "What specific actions can parents take to help children feel more protected during an emergency?"
+    },
+    {
+      "question_id": 268,
+      "content_block_id": 27,
+      "question": "How does maintaining a daily routine help a child feel secure in uncertain times?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 75,
+      "content_block_id": 64,
+      "question": "What is the purpose of the website?"
+    },
+    {
+      "question_id": 76,
+      "content_block_id": 64,
+      "question": "How is personal user information handled?"
+    },
+    {
+      "question_id": 77,
+      "content_block_id": 64,
+      "question": "What rights do people have regarding their data?"
+    },
+    {
+      "question_id": 78,
+      "content_block_id": 64,
+      "question": "How can someone contact the organization?"
+    }
+  ]
+}

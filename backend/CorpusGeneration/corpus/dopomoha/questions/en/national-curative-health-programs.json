@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_id": 33,
+      "content_block_id": 49,
+      "question": "What is the purpose of national curative health programs?"
+    },
+    {
+      "question_id": 34,
+      "content_block_id": 49,
+      "question": "What benefits or services are provided to patients through these programs?"
+    },
+    {
+      "question_id": 35,
+      "content_block_id": 49,
+      "question": "How does one qualify or get enrolled in these health programs?"
+    },
+    {
+      "question_id": 36,
+      "content_block_id": 49,
+      "question": "What types of medical conditions are covered by these programs?"
+    }
+  ]
+}
