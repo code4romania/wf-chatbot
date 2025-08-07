@@ -162,6 +162,8 @@ class PromptMatcher:
         self.full_df['embed_txt'] = embed_texts
 
         logger.info(f"Encoding entire corpus of {len(self.full_df)} passages…")
+        logger.info(f"About to encode {len(embed_texts)} passages…")
+
         embeddings = self.model.encode(
             self.full_df["embed_txt"].tolist(),
             batch_size=32,
